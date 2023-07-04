@@ -1,0 +1,120 @@
+{
+  "id": "344",
+  "nom": "La Première",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "Télévision",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "National",
+  "commentaire": "Gratuit",
+  "ACPMdiffusion": "",
+  "graphPosition": "leaf",
+  "slug": "la-premiere-344",
+  "incomingRelations": [
+    {
+      "id": "128",
+      "origine": "République française",
+      "valeur": 100,
+      "cible": "France Télévision",
+      "cibleId": "134",
+      "cibleSlug": "france-television-134",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "republique-francaise-128",
+      "indirecte": true,
+      "idsPair": "128-134"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "134",
+      "origine": "France Télévision",
+      "valeur": 100,
+      "cible": "La Première",
+      "cibleId": "344",
+      "cibleSlug": "la-premiere-344",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "france-television-134"
+    },
+    {
+      "id": "128",
+      "origine": "République française",
+      "valeur": 100,
+      "cible": "France Télévision",
+      "cibleId": "134",
+      "cibleSlug": "france-television-134",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "republique-francaise-128"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "134",
+      "nom": "France Télévision",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "france-television-134",
+      "wikidata": {
+        "id": "Q1124861",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/France_T%C3%A9l%C3%A9visions",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "France.tv_-_logo_2022.svg",
+          "filenameEleventy": "france-television-134.svg"
+        }
+      }
+    },
+    {
+      "id": "344",
+      "nom": "La Première",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "Télévision",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "National",
+      "commentaire": "Gratuit",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "la-premiere-344"
+    },
+    {
+      "id": "128",
+      "nom": "République française",
+      "typeLibelle": "État",
+      "typeCode": "4",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "republique-francaise-128",
+      "wikidata": {
+        "id": "Q142",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/France",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Paris_from_the_Arc_de_Triomphe,_17_October_2019.jpg",
+          "filenameEleventy": "republique-francaise-128.jpg"
+        }
+      }
+    }
+  ]
+}

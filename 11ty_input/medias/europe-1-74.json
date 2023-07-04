@@ -1,0 +1,409 @@
+{
+  "id": "74",
+  "nom": "Europe 1",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "Radio",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "National",
+  "commentaire": "",
+  "ACPMdiffusion": "",
+  "graphPosition": "leaf",
+  "slug": "europe-1-74",
+  "wikidata": {
+    "id": "Q314407",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Europe_1",
+    "image": {
+      "typeImage": "image",
+      "filenameOriginal": "Europe_1_logo_(2010).svg",
+      "filenameEleventy": "europe-1-74.svg"
+    }
+  },
+  "incomingRelations": [
+    {
+      "id": "67",
+      "origine": "Arnaud Lagardère",
+      "valeur": 7,
+      "cible": "Lagardère SA",
+      "cibleId": "69",
+      "cibleSlug": "lagardere-sa-69",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "arnaud-lagardere-67",
+      "indirecte": true,
+      "idsPair": "67-69"
+    },
+    {
+      "id": "68",
+      "origine": "Qatar Investment Authority",
+      "valeur": 12,
+      "cible": "Lagardère SA",
+      "cibleId": "69",
+      "cibleSlug": "lagardere-sa-69",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "qatar-investment-authority-68",
+      "indirecte": true,
+      "idsPair": "68-69"
+    },
+    {
+      "id": "77",
+      "origine": "Vincent Bolloré",
+      "valeur": 2.286144,
+      "cible": "Financière de l’Odet",
+      "cibleId": "78",
+      "cibleSlug": "financiere-de-l-odet-78",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "vincent-bollore-77",
+      "indirecte": true,
+      "idsPair": "77-78"
+    },
+    {
+      "id": "330",
+      "origine": "Amber Capital",
+      "valeur": 20,
+      "cible": "Lagardère SA",
+      "cibleId": "69",
+      "cibleSlug": "lagardere-sa-69",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "amber-capital-330",
+      "indirecte": true,
+      "idsPair": "330-69"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "70",
+      "origine": "Lagardère News",
+      "valeur": 100,
+      "cible": "Europe 1",
+      "source": "lagardere.com",
+      "datePublication": "31/12/2015",
+      "dateConsultation": "14/05/2016",
+      "cibleId": "74",
+      "cibleSlug": "europe-1-74",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "lagardere-news-70"
+    },
+    {
+      "id": "69",
+      "origine": "Lagardère SA",
+      "valeur": 100,
+      "cible": "Lagardère News",
+      "cibleId": "70",
+      "cibleSlug": "lagardere-news-70",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "lagardere-sa-69"
+    },
+    {
+      "id": "67",
+      "origine": "Arnaud Lagardère",
+      "valeur": 7,
+      "cible": "Lagardère SA",
+      "cibleId": "69",
+      "cibleSlug": "lagardere-sa-69",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "arnaud-lagardere-67"
+    },
+    {
+      "id": "68",
+      "origine": "Qatar Investment Authority",
+      "valeur": 12,
+      "cible": "Lagardère SA",
+      "cibleId": "69",
+      "cibleSlug": "lagardere-sa-69",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "qatar-investment-authority-68"
+    },
+    {
+      "id": "81",
+      "origine": "Vivendi",
+      "valeur": 27,
+      "cible": "Lagardère SA",
+      "cibleId": "69",
+      "cibleSlug": "lagardere-sa-69",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "vivendi-81"
+    },
+    {
+      "id": "79",
+      "origine": "Bolloré",
+      "valeur": 27,
+      "cible": "Vivendi",
+      "source": "bollore.com, vivendi.com, ozap.com",
+      "datePublication": "31/12/2015, 21/04/2017, 31/12/2015",
+      "dateConsultation": "28/06/2016 , 10/10/2016",
+      "cibleId": "81",
+      "cibleSlug": "vivendi-81",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "bollore-79"
+    },
+    {
+      "id": "78",
+      "origine": "Financière de l’Odet",
+      "valeur": 64,
+      "cible": "Bolloré",
+      "cibleId": "79",
+      "cibleSlug": "bollore-79",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "financiere-de-l-odet-78"
+    },
+    {
+      "id": "77",
+      "origine": "Vincent Bolloré",
+      "valeur": 49,
+      "cible": "Financière de l’Odet",
+      "cibleId": "78",
+      "cibleSlug": "financiere-de-l-odet-78",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "vincent-bollore-77"
+    },
+    {
+      "id": "330",
+      "origine": "Amber Capital",
+      "valeur": 20,
+      "cible": "Lagardère SA",
+      "cibleId": "69",
+      "cibleSlug": "lagardere-sa-69",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "amber-capital-330"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "70",
+      "nom": "Lagardère News",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "lagardere-news-70",
+      "wikidata": {
+        "id": "Q3216152",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Lagard%C3%A8re_News"
+      }
+    },
+    {
+      "id": "74",
+      "nom": "Europe 1",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "Radio",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "National",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "europe-1-74",
+      "wikidata": {
+        "id": "Q314407",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Europe_1",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Europe_1_logo_(2010).svg",
+          "filenameEleventy": "europe-1-74.svg"
+        }
+      }
+    },
+    {
+      "id": "69",
+      "nom": "Lagardère SA",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "lagardere-sa-69",
+      "wikidata": {
+        "id": "Q1490400",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Lagard%C3%A8re_(entreprise)",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Lagardère.svg",
+          "filenameEleventy": "lagardere-sa-69.svg"
+        }
+      }
+    },
+    {
+      "id": "67",
+      "nom": "Arnaud Lagardère",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "317",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "arnaud-lagardere-67",
+      "wikidata": {
+        "id": "Q691440",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Arnaud_Lagard%C3%A8re",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "20190713_arnaud_lagardere.jpg",
+          "filenameEleventy": "arnaud-lagardere-67.jpg"
+        }
+      }
+    },
+    {
+      "id": "68",
+      "nom": "Qatar Investment Authority",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "qatar-investment-authority-68",
+      "wikidata": {
+        "id": "Q1571175",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Qatar_Investment_Authority",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "QTel_tower_in_West_Bay.jpg",
+          "filenameEleventy": "qatar-investment-authority-68.jpg"
+        }
+      }
+    },
+    {
+      "id": "81",
+      "nom": "Vivendi",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "vivendi-81",
+      "wikidata": {
+        "id": "Q1127887",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Vivendi",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Logo_vivendi.svg",
+          "filenameEleventy": "vivendi-81.svg"
+        }
+      }
+    },
+    {
+      "id": "79",
+      "nom": "Bolloré",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "bollore-79",
+      "wikidata": {
+        "id": "Q444172",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Bollor%C3%A9",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Bolloré_Logo_2021.svg",
+          "filenameEleventy": "bollore-79.svg"
+        }
+      }
+    },
+    {
+      "id": "78",
+      "nom": "Financière de l’Odet",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "financiere-de-l-odet-78",
+      "wikidata": {
+        "id": "Q3072532",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Financi%C3%A8re_de_l%27Odet"
+      }
+    },
+    {
+      "id": "77",
+      "nom": "Vincent Bolloré",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "13",
+      "milliardaireForbes": "316",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "vincent-bollore-77",
+      "wikidata": {
+        "id": "Q721491",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Vincent_Bollor%C3%A9",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Festival_automobile_international_2014_-_Photocall_-_103.jpg",
+          "filenameEleventy": "vincent-bollore-77.jpg"
+        }
+      }
+    },
+    {
+      "id": "330",
+      "nom": "Amber Capital",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "amber-capital-330"
+    }
+  ]
+}

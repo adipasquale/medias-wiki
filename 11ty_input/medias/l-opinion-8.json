@@ -1,0 +1,360 @@
+{
+  "id": "8",
+  "nom": "L’Opinion",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "GPE",
+  "mediaPeriodicite": "Quotidien",
+  "mediaEchelle": "",
+  "commentaire": "",
+  "ACPMdiffusion": "",
+  "graphPosition": "leaf",
+  "slug": "l-opinion-8",
+  "wikidata": {
+    "id": "Q14940658",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/L%27Opinion_(quotidien_fran%C3%A7ais)"
+  },
+  "incomingRelations": [
+    {
+      "id": "1",
+      "origine": "Claude Perdriel",
+      "valeur": 100,
+      "cible": "Groupe L’Opinion",
+      "source": "challenges.fr",
+      "datePublication": "22/08/2014",
+      "dateConsultation": "06/11/2019",
+      "cibleId": "325",
+      "cibleSlug": "groupe-l-opinion-325",
+      "typeRelation": "participe",
+      "valeurMinimum": false,
+      "origineSlug": "claude-perdriel-1",
+      "indirecte": true,
+      "idsPair": "1-325"
+    },
+    {
+      "id": "42",
+      "origine": "Bernard Arnault",
+      "valeur": 46,
+      "cible": "LVMH",
+      "cibleId": "43",
+      "cibleSlug": "lvmh-43",
+      "typeRelation": "participe",
+      "valeurMinimum": false,
+      "origineSlug": "bernard-arnault-42",
+      "indirecte": true,
+      "idsPair": "42-43"
+    },
+    {
+      "id": "54",
+      "origine": "Famille Bettencourt",
+      "valeur": 100,
+      "cible": "Groupe L’Opinion",
+      "source": "challenges.fr",
+      "datePublication": "22/08/2014",
+      "dateConsultation": "06/11/2019",
+      "cibleId": "325",
+      "cibleSlug": "groupe-l-opinion-325",
+      "typeRelation": "participe",
+      "valeurMinimum": false,
+      "origineSlug": "famille-bettencourt-54",
+      "indirecte": true,
+      "idsPair": "54-325"
+    },
+    {
+      "id": "55",
+      "origine": "Nicolas Beytout",
+      "valeur": 100,
+      "cible": "Groupe L’Opinion",
+      "source": "challenges.fr",
+      "datePublication": "22/08/2014",
+      "dateConsultation": "06/11/2019",
+      "cibleId": "325",
+      "cibleSlug": "groupe-l-opinion-325",
+      "typeRelation": "participe",
+      "valeurMinimum": false,
+      "origineSlug": "nicolas-beytout-55",
+      "indirecte": true,
+      "idsPair": "55-325"
+    },
+    {
+      "id": "326",
+      "origine": "Ken Fisher",
+      "valeur": 100,
+      "cible": "Groupe L’Opinion",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "06/11/2019",
+      "cibleId": "325",
+      "cibleSlug": "groupe-l-opinion-325",
+      "typeRelation": "participe",
+      "valeurMinimum": false,
+      "origineSlug": "ken-fisher-326",
+      "indirecte": true,
+      "idsPair": "326-325"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "325",
+      "origine": "Groupe L’Opinion",
+      "valeur": 100,
+      "cible": "L’Opinion",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "06/11/2019",
+      "cibleId": "8",
+      "cibleSlug": "l-opinion-8",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-l-opinion-325"
+    },
+    {
+      "id": "1",
+      "origine": "Claude Perdriel",
+      "valeur": 100,
+      "cible": "Groupe L’Opinion",
+      "source": "challenges.fr",
+      "datePublication": "22/08/2014",
+      "dateConsultation": "06/11/2019",
+      "cibleId": "325",
+      "cibleSlug": "groupe-l-opinion-325",
+      "typeRelation": "participe",
+      "valeurMinimum": false,
+      "origineSlug": "claude-perdriel-1"
+    },
+    {
+      "id": "43",
+      "origine": "LVMH",
+      "valeur": 100,
+      "cible": "Groupe L’Opinion",
+      "source": "challenges.fr",
+      "datePublication": "22/08/2014",
+      "dateConsultation": "06/11/2019",
+      "cibleId": "325",
+      "cibleSlug": "groupe-l-opinion-325",
+      "typeRelation": "participe",
+      "valeurMinimum": false,
+      "origineSlug": "lvmh-43"
+    },
+    {
+      "id": "42",
+      "origine": "Bernard Arnault",
+      "valeur": 46,
+      "cible": "LVMH",
+      "cibleId": "43",
+      "cibleSlug": "lvmh-43",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "bernard-arnault-42"
+    },
+    {
+      "id": "54",
+      "origine": "Famille Bettencourt",
+      "valeur": 100,
+      "cible": "Groupe L’Opinion",
+      "source": "challenges.fr",
+      "datePublication": "22/08/2014",
+      "dateConsultation": "06/11/2019",
+      "cibleId": "325",
+      "cibleSlug": "groupe-l-opinion-325",
+      "typeRelation": "participe",
+      "valeurMinimum": false,
+      "origineSlug": "famille-bettencourt-54"
+    },
+    {
+      "id": "55",
+      "origine": "Nicolas Beytout",
+      "valeur": 100,
+      "cible": "Groupe L’Opinion",
+      "source": "challenges.fr",
+      "datePublication": "22/08/2014",
+      "dateConsultation": "06/11/2019",
+      "cibleId": "325",
+      "cibleSlug": "groupe-l-opinion-325",
+      "typeRelation": "participe",
+      "valeurMinimum": false,
+      "origineSlug": "nicolas-beytout-55"
+    },
+    {
+      "id": "326",
+      "origine": "Ken Fisher",
+      "valeur": 100,
+      "cible": "Groupe L’Opinion",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "06/11/2019",
+      "cibleId": "325",
+      "cibleSlug": "groupe-l-opinion-325",
+      "typeRelation": "participe",
+      "valeurMinimum": false,
+      "origineSlug": "ken-fisher-326"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "325",
+      "nom": "Groupe L’Opinion",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-l-opinion-325"
+    },
+    {
+      "id": "8",
+      "nom": "L’Opinion",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Quotidien",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "l-opinion-8",
+      "wikidata": {
+        "id": "Q14940658",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/L%27Opinion_(quotidien_fran%C3%A7ais)"
+      }
+    },
+    {
+      "id": "1",
+      "nom": "Claude Perdriel",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "343",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "claude-perdriel-1",
+      "wikidata": {
+        "id": "Q2977933",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Claude_Perdriel"
+      }
+    },
+    {
+      "id": "43",
+      "nom": "LVMH",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "lvmh-43",
+      "wikidata": {
+        "id": "Q504998",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/LVMH_-_Mo%C3%ABt_Hennessy_Louis_Vuitton",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "LVMH-black.png",
+          "filenameEleventy": "lvmh-43.png"
+        }
+      }
+    },
+    {
+      "id": "42",
+      "nom": "Bernard Arnault",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "1",
+      "milliardaireForbes": "3",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "bernard-arnault-42",
+      "wikidata": {
+        "id": "Q32055",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Bernard_Arnault",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Bernard_Arnault_(3)_-_2017_(cropped).jpg",
+          "filenameEleventy": "bernard-arnault-42.jpg"
+        }
+      }
+    },
+    {
+      "id": "54",
+      "nom": "Famille Bettencourt",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "4",
+      "milliardaireForbes": "14",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "famille-bettencourt-54",
+      "wikidata": {
+        "id": "Q30727360",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Famille_Bettencourt_Meyers"
+      }
+    },
+    {
+      "id": "55",
+      "nom": "Nicolas Beytout",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "nicolas-beytout-55",
+      "wikidata": {
+        "id": "Q3340099",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Nicolas_Beytout",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Nicolas_Beytout.jpg",
+          "filenameEleventy": "nicolas-beytout-55.jpg"
+        }
+      }
+    },
+    {
+      "id": "326",
+      "nom": "Ken Fisher",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "381",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "ken-fisher-326",
+      "wikidata": {
+        "id": "Q6390103"
+      }
+    }
+  ]
+}

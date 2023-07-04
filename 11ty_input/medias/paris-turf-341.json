@@ -1,0 +1,231 @@
+{
+  "id": "341",
+  "nom": "Paris-Turf",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "GPE",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "National",
+  "commentaire": "Payant",
+  "ACPMdiffusion": "",
+  "graphPosition": "leaf",
+  "slug": "paris-turf-341",
+  "incomingRelations": [
+    {
+      "id": "56",
+      "origine": "Patrick Drahi",
+      "valeur": 47.58,
+      "cible": "Altice",
+      "cibleId": "57",
+      "cibleSlug": "altice-57",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "patrick-drahi-56",
+      "indirecte": true,
+      "idsPair": "56-57"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "327",
+      "origine": "RMC Story",
+      "valeur": 100,
+      "cible": "Paris-Turf",
+      "cibleId": "341",
+      "cibleSlug": "paris-turf-341",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "rmc-story-327"
+    },
+    {
+      "id": "61",
+      "origine": "Altice Média",
+      "valeur": 100,
+      "cible": "RMC Story",
+      "source": "https://fr.wikipedia.org/wiki/RMC_Story",
+      "datePublication": "",
+      "dateConsultation": "13/11/2019",
+      "cibleId": "327",
+      "cibleSlug": "rmc-story-327",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-media-61"
+    },
+    {
+      "id": "58",
+      "origine": "Altice France",
+      "valeur": 100,
+      "cible": "Altice Média",
+      "source": "freenews.fr",
+      "datePublication": "23/04/2018",
+      "dateConsultation": "22/07/2018",
+      "cibleId": "61",
+      "cibleSlug": "altice-media-61",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-france-58"
+    },
+    {
+      "id": "57",
+      "origine": "Altice",
+      "valeur": 78,
+      "cible": "Altice France",
+      "cibleId": "58",
+      "cibleSlug": "altice-france-58",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-57"
+    },
+    {
+      "id": "56",
+      "origine": "Patrick Drahi",
+      "valeur": 61,
+      "cible": "Altice",
+      "cibleId": "57",
+      "cibleSlug": "altice-57",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "patrick-drahi-56"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "327",
+      "nom": "RMC Story",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "Télévision",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "Gratuit",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "rmc-story-327",
+      "wikidata": {
+        "id": "Q3346328",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/RMC_Story",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "RMC_Story_logo_2018.svg",
+          "filenameEleventy": "rmc-story-327.svg"
+        }
+      }
+    },
+    {
+      "id": "341",
+      "nom": "Paris-Turf",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "National",
+      "commentaire": "Payant",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "paris-turf-341"
+    },
+    {
+      "id": "61",
+      "nom": "Altice Média",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "altice-media-61",
+      "wikidata": {
+        "id": "Q3339193",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Altice_M%C3%A9dia",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Altice_Logo.jpg",
+          "filenameEleventy": "altice-media-61.jpg"
+        }
+      }
+    },
+    {
+      "id": "58",
+      "nom": "Altice France",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "altice-france-58",
+      "wikidata": {
+        "id": "Q218765",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/SFR",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "SFR-2022-logo.svg",
+          "filenameEleventy": "altice-france-58.svg"
+        }
+      }
+    },
+    {
+      "id": "57",
+      "nom": "Altice",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "altice-57",
+      "wikidata": {
+        "id": "Q15944611",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Altice_Europe",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Altice_Logo.jpg",
+          "filenameEleventy": "altice-57.jpg"
+        }
+      }
+    },
+    {
+      "id": "56",
+      "nom": "Patrick Drahi",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "11",
+      "milliardaireForbes": "375",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "patrick-drahi-56",
+      "wikidata": {
+        "id": "Q15714038",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Patrick_Drahi",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Patrick_Drahi_2.jpg",
+          "filenameEleventy": "patrick-drahi-56.jpg"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+---
+title: Propriétaires des médias
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/simple.min.css">
+    <link rel="stylesheet" href="/css/index.css">
+    {# <link rel="stylesheet" href="/css/autocomplete.css"> #}
+    <title>{{ title }}</title>
+  </head>
+  <body>
+    <header>
+      <h1>Qui possède les médias français ?</h1>
+      <nav>
+        <a href="/">Liste des médias et propriétaires</a>
+        <a href="/a_propos">À propos</a>
+      </nav>
+    </header>
+    <main>
+      {{ content | safe }}
+    </main>
+    <footer>
+      Plan du site:
+      <a href="/#medias">Liste des médias</a> ·
+      <a href="/#proprietaires">Liste des propriétaires</a> ·
+      <a href="/a_propos">À propos</a>
+      <br><br>
+
+      Source des données : Le Monde Diplomatique & Wikidata
+      <br>
+      Dernière mise à jour en juillet 2023
+      <br><br>
+
+      <a href="https://github.com/adipasquale/medias_proprietaires" target="_blank">
+        Code Source sur GitHub ↗︎
+      </a>
+      ·
+      <a href="mailto:adrien@dipasquale.fr">Contact ✉️</a>
+
+      <br><br>
+      Construit avec <a href="https://www.11ty.dev/" target="_blank">Eleventy ↗︎</a>,
+      <a href="https://simplecss.org/" target="_blank">Simple CSS ↗︎</a>
+      et <a href="https://mermaid.js.org/" target="_blank">MermaidJS  ↗︎</a>,
+      hébergé sur <a href="https://www.netlify.com/" target="_blank">Netlify ↗︎</a>
+    </footer>
+
+    <script src="/js/mermaid.min.js"></script>
+    <script>
+      mermaid.initialize({
+        theme: "base"
+      })
+    </script>
+  </body>
+</html>

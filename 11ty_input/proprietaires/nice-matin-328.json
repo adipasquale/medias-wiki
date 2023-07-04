@@ -1,0 +1,155 @@
+{
+  "id": "328",
+  "nom": "Nice-Matin",
+  "typeLibelle": "Personne morale",
+  "typeCode": "2",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "",
+  "commentaire": "",
+  "ACPMdiffusion": "",
+  "graphPosition": "root",
+  "slug": "nice-matin-328",
+  "incomingRelations": [],
+  "outgoingRelations": [
+    {
+      "id": "328",
+      "origine": "Nice-Matin",
+      "valeur": 100,
+      "cible": "Nice-Matin",
+      "cibleId": "281",
+      "cibleSlug": "nice-matin-281",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "nice-matin-328",
+      "idsPair": "328-281"
+    },
+    {
+      "id": "328",
+      "origine": "Nice-Matin",
+      "valeur": 100,
+      "cible": "Var-Matin",
+      "cibleId": "332",
+      "cibleSlug": "var-matin-332",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "nice-matin-328",
+      "idsPair": "328-332"
+    },
+    {
+      "id": "328",
+      "origine": "Nice-Matin",
+      "valeur": 100,
+      "cible": "Monaco-Matin",
+      "cibleId": "333",
+      "cibleSlug": "monaco-matin-333",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "nice-matin-328",
+      "idsPair": "328-333"
+    }
+  ],
+  "allRelations": [
+    {
+      "id": "328",
+      "origine": "Nice-Matin",
+      "valeur": 100,
+      "cible": "Nice-Matin",
+      "cibleId": "281",
+      "cibleSlug": "nice-matin-281",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "nice-matin-328"
+    },
+    {
+      "id": "328",
+      "origine": "Nice-Matin",
+      "valeur": 100,
+      "cible": "Var-Matin",
+      "cibleId": "332",
+      "cibleSlug": "var-matin-332",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "nice-matin-328"
+    },
+    {
+      "id": "328",
+      "origine": "Nice-Matin",
+      "valeur": 100,
+      "cible": "Monaco-Matin",
+      "cibleId": "333",
+      "cibleSlug": "monaco-matin-333",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "nice-matin-328"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "328",
+      "nom": "Nice-Matin",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "nice-matin-328"
+    },
+    {
+      "id": "281",
+      "nom": "Nice-Matin",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Quotidien",
+      "mediaEchelle": "Régional",
+      "commentaire": "",
+      "ACPMdiffusion": "59770",
+      "graphPosition": "leaf",
+      "slug": "nice-matin-281",
+      "wikidata": {
+        "id": "Q203853",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Nice-Matin"
+      }
+    },
+    {
+      "id": "332",
+      "nom": "Var-Matin",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Quotidien",
+      "mediaEchelle": "Régional",
+      "commentaire": "",
+      "ACPMdiffusion": "42070",
+      "graphPosition": "leaf",
+      "slug": "var-matin-332"
+    },
+    {
+      "id": "333",
+      "nom": "Monaco-Matin",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Quotidien",
+      "mediaEchelle": "Régional",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "monaco-matin-333"
+    }
+  ]
+}

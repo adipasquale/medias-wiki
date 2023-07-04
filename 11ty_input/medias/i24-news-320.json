@@ -1,0 +1,141 @@
+{
+  "id": "320",
+  "nom": "i24 News",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "Télévision",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "",
+  "commentaire": "",
+  "ACPMdiffusion": "",
+  "graphPosition": "leaf",
+  "slug": "i24-news-320",
+  "wikidata": {
+    "id": "Q13612085",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/I24NEWS",
+    "image": {
+      "typeImage": "logo",
+      "filenameOriginal": "LOGO_i24NEWS.png",
+      "filenameEleventy": "i24-news-320.png"
+    }
+  },
+  "incomingRelations": [
+    {
+      "id": "56",
+      "origine": "Patrick Drahi",
+      "valeur": 61,
+      "cible": "Altice",
+      "cibleId": "57",
+      "cibleSlug": "altice-57",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "patrick-drahi-56",
+      "indirecte": true,
+      "idsPair": "56-57"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "57",
+      "origine": "Altice",
+      "valeur": 100,
+      "cible": "i24 News",
+      "source": "societe.com",
+      "datePublication": "13/07/2018",
+      "dateConsultation": "08/12/2018",
+      "cibleId": "320",
+      "cibleSlug": "i24-news-320",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-57"
+    },
+    {
+      "id": "56",
+      "origine": "Patrick Drahi",
+      "valeur": 61,
+      "cible": "Altice",
+      "cibleId": "57",
+      "cibleSlug": "altice-57",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "patrick-drahi-56"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "57",
+      "nom": "Altice",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "altice-57",
+      "wikidata": {
+        "id": "Q15944611",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Altice_Europe",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Altice_Logo.jpg",
+          "filenameEleventy": "altice-57.jpg"
+        }
+      }
+    },
+    {
+      "id": "320",
+      "nom": "i24 News",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "Télévision",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "i24-news-320",
+      "wikidata": {
+        "id": "Q13612085",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/I24NEWS",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "LOGO_i24NEWS.png",
+          "filenameEleventy": "i24-news-320.png"
+        }
+      }
+    },
+    {
+      "id": "56",
+      "nom": "Patrick Drahi",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "11",
+      "milliardaireForbes": "375",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "patrick-drahi-56",
+      "wikidata": {
+        "id": "Q15714038",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Patrick_Drahi",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Patrick_Drahi_2.jpg",
+          "filenameEleventy": "patrick-drahi-56.jpg"
+        }
+      }
+    }
+  ]
+}

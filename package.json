@@ -1,0 +1,29 @@
+{
+  "name": "medias_proprietaires",
+  "version": "1.0.0",
+  "description": "Qui possède les médias français ?",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adipasquale/medias_proprietaires.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adipasquale/medias_proprietaires/issues"
+  },
+  "scripts": {
+    "dev": "rm -rf 11ty_output && npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "homepage": "https://github.com/adipasquale/medias_proprietaires#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@mermaid-js/mermaid-cli": "^10.2.2",
+    "crypto-js": "^4.1.1",
+    "csv": "^6.3.1",
+    "fuse.js": "^6.6.2",
+    "mermaid": "^10.2.4"
+  }
+}

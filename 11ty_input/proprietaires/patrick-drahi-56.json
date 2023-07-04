@@ -1,0 +1,733 @@
+{
+  "id": "56",
+  "nom": "Patrick Drahi",
+  "typeLibelle": "Personne physique",
+  "typeCode": "1",
+  "rangChallenges": "11",
+  "milliardaireForbes": "375",
+  "mediaType": "",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "",
+  "commentaire": "",
+  "ACPMdiffusion": "",
+  "graphPosition": "root",
+  "slug": "patrick-drahi-56",
+  "wikidata": {
+    "id": "Q15714038",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Patrick_Drahi",
+    "image": {
+      "typeImage": "image",
+      "filenameOriginal": "Patrick_Drahi_2.jpg",
+      "filenameEleventy": "patrick-drahi-56.jpg"
+    }
+  },
+  "incomingRelations": [],
+  "outgoingRelations": [
+    {
+      "id": "58",
+      "origine": "Altice France",
+      "valeur": 23.3142,
+      "cible": "L’Express",
+      "source": "linformaticien.com",
+      "datePublication": "25/11/2015",
+      "dateConsultation": "28/06/2016",
+      "cibleId": "59",
+      "cibleSlug": "l-express-59",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-france-58",
+      "indirecte": true,
+      "idsPair": "58-59"
+    },
+    {
+      "id": "58",
+      "origine": "Altice France",
+      "valeur": 47.58,
+      "cible": "Libération",
+      "source": "linformaticien.com",
+      "datePublication": "25/11/2015",
+      "dateConsultation": "28/06/2016",
+      "cibleId": "60",
+      "cibleSlug": "liberation-60",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-france-58",
+      "indirecte": true,
+      "idsPair": "58-60"
+    },
+    {
+      "id": "61",
+      "origine": "Altice Média",
+      "valeur": 47.58,
+      "cible": "BFM Business",
+      "source": "investir.lesechos.fr",
+      "datePublication": "02/02/2016",
+      "dateConsultation": "14/05/2016",
+      "cibleId": "65",
+      "cibleSlug": "bfm-business-65",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-media-61",
+      "indirecte": true,
+      "idsPair": "61-65"
+    },
+    {
+      "id": "61",
+      "origine": "Altice Média",
+      "valeur": 47.58,
+      "cible": "BFM TV",
+      "source": "investir.lesechos.fr",
+      "datePublication": "02/02/2016",
+      "dateConsultation": "14/05/2016",
+      "cibleId": "62",
+      "cibleSlug": "bfm-tv-62",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-media-61",
+      "indirecte": true,
+      "idsPair": "61-62"
+    },
+    {
+      "id": "327",
+      "origine": "RMC Story",
+      "valeur": 47.58,
+      "cible": "Nice-Matin",
+      "cibleId": "281",
+      "cibleSlug": "nice-matin-281",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "rmc-story-327",
+      "indirecte": true,
+      "idsPair": "327-281"
+    },
+    {
+      "id": "327",
+      "origine": "RMC Story",
+      "valeur": 47.58,
+      "cible": "Paris-Turf",
+      "cibleId": "341",
+      "cibleSlug": "paris-turf-341",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "rmc-story-327",
+      "indirecte": true,
+      "idsPair": "327-341"
+    },
+    {
+      "id": "61",
+      "origine": "Altice Média",
+      "valeur": 47.58,
+      "cible": "RMC",
+      "source": "investir.lesechos.fr",
+      "datePublication": "02/02/2016",
+      "dateConsultation": "14/05/2016",
+      "cibleId": "64",
+      "cibleSlug": "rmc-64",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-media-61",
+      "indirecte": true,
+      "idsPair": "61-64"
+    },
+    {
+      "id": "61",
+      "origine": "Altice Média",
+      "valeur": 47.58,
+      "cible": "RMC Découverte",
+      "source": "investir.lesechos.fr",
+      "datePublication": "02/02/2016",
+      "dateConsultation": "14/05/2016",
+      "cibleId": "63",
+      "cibleSlug": "rmc-decouverte-63",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-media-61",
+      "indirecte": true,
+      "idsPair": "61-63"
+    },
+    {
+      "id": "57",
+      "origine": "Altice",
+      "valeur": 61,
+      "cible": "i24 News",
+      "source": "societe.com",
+      "datePublication": "13/07/2018",
+      "dateConsultation": "08/12/2018",
+      "cibleId": "320",
+      "cibleSlug": "i24-news-320",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-57",
+      "indirecte": true,
+      "idsPair": "57-320"
+    },
+    {
+      "id": "329",
+      "origine": "Fonds de Dotation pour une Presse Indépendante",
+      "valeur": 122,
+      "cible": "Libération",
+      "cibleId": "60",
+      "cibleSlug": "liberation-60",
+      "typeRelation": "contrôle",
+      "valeurMinimum": false,
+      "origineSlug": "fonds-de-dotation-pour-une-presse-independante-329",
+      "indirecte": true,
+      "idsPair": "329-60"
+    }
+  ],
+  "allRelations": [
+    {
+      "id": "56",
+      "origine": "Patrick Drahi",
+      "valeur": 61,
+      "cible": "Altice",
+      "cibleId": "57",
+      "cibleSlug": "altice-57",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "patrick-drahi-56"
+    },
+    {
+      "id": "57",
+      "origine": "Altice",
+      "valeur": 78,
+      "cible": "Altice France",
+      "cibleId": "58",
+      "cibleSlug": "altice-france-58",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-57"
+    },
+    {
+      "id": "58",
+      "origine": "Altice France",
+      "valeur": 49,
+      "cible": "L’Express",
+      "source": "linformaticien.com",
+      "datePublication": "25/11/2015",
+      "dateConsultation": "28/06/2016",
+      "cibleId": "59",
+      "cibleSlug": "l-express-59",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-france-58"
+    },
+    {
+      "id": "58",
+      "origine": "Altice France",
+      "valeur": 100,
+      "cible": "Libération",
+      "source": "linformaticien.com",
+      "datePublication": "25/11/2015",
+      "dateConsultation": "28/06/2016",
+      "cibleId": "60",
+      "cibleSlug": "liberation-60",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-france-58"
+    },
+    {
+      "id": "58",
+      "origine": "Altice France",
+      "valeur": 100,
+      "cible": "Altice Média",
+      "source": "freenews.fr",
+      "datePublication": "23/04/2018",
+      "dateConsultation": "22/07/2018",
+      "cibleId": "61",
+      "cibleSlug": "altice-media-61",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-france-58"
+    },
+    {
+      "id": "61",
+      "origine": "Altice Média",
+      "valeur": 100,
+      "cible": "BFM Business",
+      "source": "investir.lesechos.fr",
+      "datePublication": "02/02/2016",
+      "dateConsultation": "14/05/2016",
+      "cibleId": "65",
+      "cibleSlug": "bfm-business-65",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-media-61"
+    },
+    {
+      "id": "61",
+      "origine": "Altice Média",
+      "valeur": 100,
+      "cible": "BFM TV",
+      "source": "investir.lesechos.fr",
+      "datePublication": "02/02/2016",
+      "dateConsultation": "14/05/2016",
+      "cibleId": "62",
+      "cibleSlug": "bfm-tv-62",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-media-61"
+    },
+    {
+      "id": "61",
+      "origine": "Altice Média",
+      "valeur": 100,
+      "cible": "RMC Story",
+      "source": "https://fr.wikipedia.org/wiki/RMC_Story",
+      "datePublication": "",
+      "dateConsultation": "13/11/2019",
+      "cibleId": "327",
+      "cibleSlug": "rmc-story-327",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-media-61"
+    },
+    {
+      "id": "327",
+      "origine": "RMC Story",
+      "valeur": 100,
+      "cible": "Nice-Matin",
+      "cibleId": "281",
+      "cibleSlug": "nice-matin-281",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "rmc-story-327"
+    },
+    {
+      "id": "327",
+      "origine": "RMC Story",
+      "valeur": 100,
+      "cible": "Paris-Turf",
+      "cibleId": "341",
+      "cibleSlug": "paris-turf-341",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "rmc-story-327"
+    },
+    {
+      "id": "61",
+      "origine": "Altice Média",
+      "valeur": 100,
+      "cible": "RMC",
+      "source": "investir.lesechos.fr",
+      "datePublication": "02/02/2016",
+      "dateConsultation": "14/05/2016",
+      "cibleId": "64",
+      "cibleSlug": "rmc-64",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-media-61"
+    },
+    {
+      "id": "61",
+      "origine": "Altice Média",
+      "valeur": 100,
+      "cible": "RMC Découverte",
+      "source": "investir.lesechos.fr",
+      "datePublication": "02/02/2016",
+      "dateConsultation": "14/05/2016",
+      "cibleId": "63",
+      "cibleSlug": "rmc-decouverte-63",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-media-61"
+    },
+    {
+      "id": "57",
+      "origine": "Altice",
+      "valeur": 100,
+      "cible": "i24 News",
+      "source": "societe.com",
+      "datePublication": "13/07/2018",
+      "dateConsultation": "08/12/2018",
+      "cibleId": "320",
+      "cibleSlug": "i24-news-320",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "altice-57"
+    },
+    {
+      "id": "57",
+      "origine": "Altice",
+      "valeur": 100,
+      "cible": "Fonds de Dotation pour une Presse Indépendante",
+      "cibleId": "329",
+      "cibleSlug": "fonds-de-dotation-pour-une-presse-independante-329",
+      "typeRelation": "contrôle",
+      "valeurMinimum": false,
+      "origineSlug": "altice-57"
+    },
+    {
+      "id": "329",
+      "origine": "Fonds de Dotation pour une Presse Indépendante",
+      "valeur": 100,
+      "cible": "Libération",
+      "cibleId": "60",
+      "cibleSlug": "liberation-60",
+      "typeRelation": "contrôle",
+      "valeurMinimum": false,
+      "origineSlug": "fonds-de-dotation-pour-une-presse-independante-329"
+    },
+    {
+      "id": "57",
+      "origine": "Altice",
+      "valeur": 100,
+      "cible": "Fonds de Dotation pour une Presse Indépendante",
+      "cibleId": "329",
+      "cibleSlug": "fonds-de-dotation-pour-une-presse-independante-329",
+      "typeRelation": "contrôle",
+      "valeurMinimum": false,
+      "origineSlug": "altice-57"
+    },
+    {
+      "id": "329",
+      "origine": "Fonds de Dotation pour une Presse Indépendante",
+      "valeur": 100,
+      "cible": "Libération",
+      "cibleId": "60",
+      "cibleSlug": "liberation-60",
+      "typeRelation": "contrôle",
+      "valeurMinimum": false,
+      "origineSlug": "fonds-de-dotation-pour-une-presse-independante-329"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "56",
+      "nom": "Patrick Drahi",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "11",
+      "milliardaireForbes": "375",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "patrick-drahi-56",
+      "wikidata": {
+        "id": "Q15714038",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Patrick_Drahi",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Patrick_Drahi_2.jpg",
+          "filenameEleventy": "patrick-drahi-56.jpg"
+        }
+      }
+    },
+    {
+      "id": "57",
+      "nom": "Altice",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "altice-57",
+      "wikidata": {
+        "id": "Q15944611",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Altice_Europe",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Altice_Logo.jpg",
+          "filenameEleventy": "altice-57.jpg"
+        }
+      }
+    },
+    {
+      "id": "58",
+      "nom": "Altice France",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "altice-france-58",
+      "wikidata": {
+        "id": "Q218765",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/SFR",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "SFR-2022-logo.svg",
+          "filenameEleventy": "altice-france-58.svg"
+        }
+      }
+    },
+    {
+      "id": "59",
+      "nom": "L’Express",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Hebdomadaire",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "170673",
+      "graphPosition": "leaf",
+      "slug": "l-express-59",
+      "wikidata": {
+        "id": "Q770596",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/L%27Express",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Photograph_of_\"L'Express\"_Magazine_Cover_-_NARA_-_187022.tif",
+          "filenameEleventy": "l-express-59.tif"
+        }
+      }
+    },
+    {
+      "id": "60",
+      "nom": "Libération",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Quotidien",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "liberation-60",
+      "wikidata": {
+        "id": "Q13717",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Lib%C3%A9ration_(journal)",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Libération.svg",
+          "filenameEleventy": "liberation-60.svg"
+        }
+      }
+    },
+    {
+      "id": "61",
+      "nom": "Altice Média",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "altice-media-61",
+      "wikidata": {
+        "id": "Q3339193",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Altice_M%C3%A9dia",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Altice_Logo.jpg",
+          "filenameEleventy": "altice-media-61.jpg"
+        }
+      }
+    },
+    {
+      "id": "65",
+      "nom": "BFM Business",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "Radio",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "National",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "bfm-business-65",
+      "wikidata": {
+        "id": "Q2877016",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/BFM_Business",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Logo_BFM_Business_2020.svg",
+          "filenameEleventy": "bfm-business-65.svg"
+        }
+      }
+    },
+    {
+      "id": "62",
+      "nom": "BFM TV",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "Télévision",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "Gratuit",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "bfm-tv-62",
+      "wikidata": {
+        "id": "Q517444",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/BFM_TV",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Logo_BFMTV_2019.svg",
+          "filenameEleventy": "bfm-tv-62.svg"
+        }
+      }
+    },
+    {
+      "id": "327",
+      "nom": "RMC Story",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "Télévision",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "Gratuit",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "rmc-story-327",
+      "wikidata": {
+        "id": "Q3346328",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/RMC_Story",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "RMC_Story_logo_2018.svg",
+          "filenameEleventy": "rmc-story-327.svg"
+        }
+      }
+    },
+    {
+      "id": "281",
+      "nom": "Nice-Matin",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Quotidien",
+      "mediaEchelle": "Régional",
+      "commentaire": "",
+      "ACPMdiffusion": "59770",
+      "graphPosition": "leaf",
+      "slug": "nice-matin-281",
+      "wikidata": {
+        "id": "Q203853",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Nice-Matin"
+      }
+    },
+    {
+      "id": "341",
+      "nom": "Paris-Turf",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "National",
+      "commentaire": "Payant",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "paris-turf-341"
+    },
+    {
+      "id": "64",
+      "nom": "RMC",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "Radio",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "National",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "rmc-64",
+      "wikidata": {
+        "id": "Q686375",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/RMC",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Logo_RMC_2002.svg",
+          "filenameEleventy": "rmc-64.svg"
+        }
+      }
+    },
+    {
+      "id": "63",
+      "nom": "RMC Découverte",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "Télévision",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "Gratuit",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "rmc-decouverte-63",
+      "wikidata": {
+        "id": "Q3415244",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/RMC_D%C3%A9couverte",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Logo_RMC_Découverte_2017.svg",
+          "filenameEleventy": "rmc-decouverte-63.svg"
+        }
+      }
+    },
+    {
+      "id": "320",
+      "nom": "i24 News",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "Télévision",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "i24-news-320",
+      "wikidata": {
+        "id": "Q13612085",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/I24NEWS",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "LOGO_i24NEWS.png",
+          "filenameEleventy": "i24-news-320.png"
+        }
+      }
+    },
+    {
+      "id": "329",
+      "nom": "Fonds de Dotation pour une Presse Indépendante",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "fonds-de-dotation-pour-une-presse-independante-329"
+    }
+  ]
+}

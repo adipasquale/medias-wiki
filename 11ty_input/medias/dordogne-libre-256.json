@@ -1,0 +1,127 @@
+{
+  "id": "256",
+  "nom": "Dordogne Libre",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "GPE",
+  "mediaPeriodicite": "Quotidien",
+  "mediaEchelle": "Régional",
+  "commentaire": "",
+  "ACPMdiffusion": "5266",
+  "graphPosition": "leaf",
+  "slug": "dordogne-libre-256",
+  "wikidata": {
+    "id": "Q16629779",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Dordogne_libre",
+    "image": {
+      "typeImage": "image",
+      "filenameOriginal": "Dordogne_libre_-_Premier_numéro_07-09-1944.jpg",
+      "filenameEleventy": "dordogne-libre-256.jpg"
+    }
+  },
+  "incomingRelations": [
+    {
+      "id": "252",
+      "origine": "Famille Lemoine",
+      "valeur": 80,
+      "cible": "Groupe Sud Ouest",
+      "cibleId": "253",
+      "cibleSlug": "groupe-sud-ouest-253",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "famille-lemoine-252",
+      "indirecte": true,
+      "idsPair": "252-253"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "253",
+      "origine": "Groupe Sud Ouest",
+      "valeur": 100,
+      "cible": "Dordogne Libre",
+      "source": "groupesudouest.com, lefigaro.fr",
+      "datePublication": "non daté, 26/02/2013",
+      "dateConsultation": "05/05/2016",
+      "cibleId": "256",
+      "cibleSlug": "dordogne-libre-256",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-sud-ouest-253"
+    },
+    {
+      "id": "252",
+      "origine": "Famille Lemoine",
+      "valeur": 80,
+      "cible": "Groupe Sud Ouest",
+      "cibleId": "253",
+      "cibleSlug": "groupe-sud-ouest-253",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "famille-lemoine-252"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "253",
+      "nom": "Groupe Sud Ouest",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-sud-ouest-253",
+      "wikidata": {
+        "id": "Q3117568",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Groupe_Sud_Ouest"
+      }
+    },
+    {
+      "id": "256",
+      "nom": "Dordogne Libre",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Quotidien",
+      "mediaEchelle": "Régional",
+      "commentaire": "",
+      "ACPMdiffusion": "5266",
+      "graphPosition": "leaf",
+      "slug": "dordogne-libre-256",
+      "wikidata": {
+        "id": "Q16629779",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Dordogne_libre",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Dordogne_libre_-_Premier_numéro_07-09-1944.jpg",
+          "filenameEleventy": "dordogne-libre-256.jpg"
+        }
+      }
+    },
+    {
+      "id": "252",
+      "nom": "Famille Lemoine",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "famille-lemoine-252"
+    }
+  ]
+}

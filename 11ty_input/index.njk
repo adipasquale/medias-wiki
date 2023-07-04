@@ -1,0 +1,47 @@
+---
+layout: default_layout
+bodyClass: large
+---
+
+<form>
+  <label for="autocomplete">Recherche</label>
+  <input id="autocomplete" />
+  <button id="clear-autocomplete" disabled="disabled">Effacer</button>
+</form>
+
+<div class="filterable-section">
+  <h2 id="medias">Liste des médias</h2>
+  <ul class="large-list">
+    {% for media in collections.media %}
+      <li class="filterable" data-entity-nom="{{ media.data.nom }}">
+        <a href="/medias/{{ media.data.slug }}/">
+          {{ media.data.nom }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="filterable-section">
+  <h2 id="proprietaires">Liste des propriétaires</h2>
+  <ul class="large-list">
+    {% for proprietaire in collections.proprietaire %}
+      <li class="filterable" data-entity-nom="{{ proprietaire.data.nom }}">
+        {% if proprietaire.data.nom %}
+          <a href="/proprietaires/{{ proprietaire.data.slug }}/">
+            {{ proprietaire.data.nom }}
+          </a>
+        {% else %}
+          {{ proprietaire.fileSlug }}
+        {% endif %}
+
+        {% if proprietaire.data.typeLibelle != "Personne physique" %}
+          🏢
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<script src="js/fuse.min.js"></script>
+<script src="/js/search.js"></script>

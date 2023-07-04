@@ -1,0 +1,14 @@
+{% if wikidata %}
+  <div class="wikidata-links">
+    {% if wikidata.wikipediaUrl %}
+      <a href="{{ wikidata.wikipediaUrl }}" target="_blank">
+        {{ nom }} sur Wikipedia ↗︎
+      </a>
+    {% endif %}
+
+    <br>
+    <a href="https://www.wikidata.org/wiki/{{ wikidata.id }}" target="_blank">
+      {{ nom }} sur Wikidata ↗︎
+    </a>
+  </div>
+{% endif %}

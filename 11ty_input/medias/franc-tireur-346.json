@@ -1,0 +1,75 @@
+{
+  "id": "346",
+  "nom": "Franc-Tireur",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "GPE",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "National",
+  "commentaire": "Payant",
+  "ACPMdiffusion": "",
+  "graphPosition": "leaf",
+  "slug": "franc-tireur-346",
+  "incomingRelations": [
+    {
+      "id": "343",
+      "origine": "Télé 7 Jours",
+      "valeur": 100,
+      "cible": "Franc-Tireur",
+      "cibleId": "346",
+      "cibleSlug": "franc-tireur-346",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "tele-7-jours-343",
+      "idsPair": "343-346"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "343",
+      "origine": "Télé 7 Jours",
+      "valeur": 100,
+      "cible": "Franc-Tireur",
+      "cibleId": "346",
+      "cibleSlug": "franc-tireur-346",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "tele-7-jours-343"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "343",
+      "nom": "Télé 7 Jours",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Hebdomadaire",
+      "mediaEchelle": "National",
+      "commentaire": "Payant",
+      "ACPMdiffusion": "908618",
+      "graphPosition": "root",
+      "slug": "tele-7-jours-343"
+    },
+    {
+      "id": "346",
+      "nom": "Franc-Tireur",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "National",
+      "commentaire": "Payant",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "franc-tireur-346"
+    }
+  ]
+}

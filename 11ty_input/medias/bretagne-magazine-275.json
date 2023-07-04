@@ -1,0 +1,117 @@
+{
+  "id": "275",
+  "nom": "Bretagne magazine",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "GPE",
+  "mediaPeriodicite": "Hebdomadaire",
+  "mediaEchelle": "Régional",
+  "commentaire": "",
+  "ACPMdiffusion": "",
+  "graphPosition": "leaf",
+  "slug": "bretagne-magazine-275",
+  "wikidata": {
+    "id": "Q2924549",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Bretagne_Magazine_(1998)"
+  },
+  "incomingRelations": [
+    {
+      "id": "266",
+      "origine": "Édouard Coudurier",
+      "valeur": 50,
+      "cible": "Groupe Télégramme",
+      "cibleId": "267",
+      "cibleSlug": "groupe-telegramme-267",
+      "typeRelation": "contrôle",
+      "valeurMinimum": false,
+      "origineSlug": "edouard-coudurier-266",
+      "indirecte": true,
+      "idsPair": "266-267"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "267",
+      "origine": "Groupe Télégramme",
+      "valeur": 50,
+      "cible": "Bretagne magazine",
+      "source": "groupe-telegramme.com",
+      "datePublication": "",
+      "dateConsultation": "05/05/2016",
+      "cibleId": "275",
+      "cibleSlug": "bretagne-magazine-275",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-telegramme-267"
+    },
+    {
+      "id": "266",
+      "origine": "Édouard Coudurier",
+      "valeur": 100,
+      "cible": "Groupe Télégramme",
+      "cibleId": "267",
+      "cibleSlug": "groupe-telegramme-267",
+      "typeRelation": "contrôle",
+      "valeurMinimum": false,
+      "origineSlug": "edouard-coudurier-266"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "267",
+      "nom": "Groupe Télégramme",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-telegramme-267",
+      "wikidata": {
+        "id": "Q3117586",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Groupe_T%C3%A9l%C3%A9gramme"
+      }
+    },
+    {
+      "id": "275",
+      "nom": "Bretagne magazine",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Hebdomadaire",
+      "mediaEchelle": "Régional",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "bretagne-magazine-275",
+      "wikidata": {
+        "id": "Q2924549",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Bretagne_Magazine_(1998)"
+      }
+    },
+    {
+      "id": "266",
+      "nom": "Édouard Coudurier",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "edouard-coudurier-266"
+    }
+  ]
+}

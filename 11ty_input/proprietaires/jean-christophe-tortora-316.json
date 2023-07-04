@@ -1,0 +1,123 @@
+{
+  "id": "316",
+  "nom": "Jean Christophe Tortora",
+  "typeLibelle": "Personne physique",
+  "typeCode": "1",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "",
+  "commentaire": "",
+  "ACPMdiffusion": "",
+  "graphPosition": "root",
+  "slug": "jean-christophe-tortora-316",
+  "wikidata": {
+    "id": "Q33177408"
+  },
+  "incomingRelations": [],
+  "outgoingRelations": [
+    {
+      "id": "318",
+      "origine": "Hima Groupe",
+      "valeur": 17,
+      "cible": "La Tribune",
+      "source": "lefigaro.fr",
+      "datePublication": "15/12/2016",
+      "dateConsultation": "04/03/2017",
+      "cibleId": "319",
+      "cibleSlug": "la-tribune-319",
+      "typeRelation": "contrôle",
+      "valeurMinimum": false,
+      "origineSlug": "hima-groupe-318",
+      "indirecte": true,
+      "idsPair": "318-319"
+    }
+  ],
+  "allRelations": [
+    {
+      "id": "316",
+      "origine": "Jean Christophe Tortora",
+      "valeur": 17,
+      "cible": "Hima Groupe",
+      "cibleId": "318",
+      "cibleSlug": "hima-groupe-318",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "jean-christophe-tortora-316"
+    },
+    {
+      "id": "318",
+      "origine": "Hima Groupe",
+      "valeur": 100,
+      "cible": "La Tribune",
+      "source": "lefigaro.fr",
+      "datePublication": "15/12/2016",
+      "dateConsultation": "04/03/2017",
+      "cibleId": "319",
+      "cibleSlug": "la-tribune-319",
+      "typeRelation": "contrôle",
+      "valeurMinimum": false,
+      "origineSlug": "hima-groupe-318"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "316",
+      "nom": "Jean Christophe Tortora",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "jean-christophe-tortora-316",
+      "wikidata": {
+        "id": "Q33177408"
+      }
+    },
+    {
+      "id": "318",
+      "nom": "Hima Groupe",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "hima-groupe-318"
+    },
+    {
+      "id": "319",
+      "nom": "La Tribune",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "Site",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "la-tribune-319",
+      "wikidata": {
+        "id": "Q1799197",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/La_Tribune_(France,_1985)",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Logo-la-tribune.jpg",
+          "filenameEleventy": "la-tribune-319.jpg"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": "100",
+  "nom": "Le Point",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "GPE",
+  "mediaPeriodicite": "Hebdomadaire",
+  "mediaEchelle": "",
+  "commentaire": "",
+  "ACPMdiffusion": "272665",
+  "graphPosition": "leaf",
+  "slug": "le-point-100",
+  "wikidata": {
+    "id": "Q1810082",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Point"
+  },
+  "incomingRelations": [
+    {
+      "id": "95",
+      "origine": "François Pinault",
+      "valeur": 57,
+      "cible": "Artémis",
+      "cibleId": "96",
+      "cibleSlug": "artemis-96",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "francois-pinault-95",
+      "indirecte": true,
+      "idsPair": "95-96"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "97",
+      "origine": "Groupe Sebdo-Le Point",
+      "valeur": 100,
+      "cible": "Le Point",
+      "source": "groupeartemis.com, agefi.fr",
+      "datePublication": "",
+      "dateConsultation": "28/06/2016",
+      "cibleId": "100",
+      "cibleSlug": "le-point-100",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-sebdo-le-point-97"
+    },
+    {
+      "id": "96",
+      "origine": "Artémis",
+      "valeur": 100,
+      "cible": "Groupe Sebdo-Le Point",
+      "cibleId": "97",
+      "cibleSlug": "groupe-sebdo-le-point-97",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "artemis-96"
+    },
+    {
+      "id": "95",
+      "origine": "François Pinault",
+      "valeur": 57,
+      "cible": "Artémis",
+      "cibleId": "96",
+      "cibleSlug": "artemis-96",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "francois-pinault-95"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "97",
+      "nom": "Groupe Sebdo-Le Point",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-sebdo-le-point-97"
+    },
+    {
+      "id": "100",
+      "nom": "Le Point",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Hebdomadaire",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "272665",
+      "graphPosition": "leaf",
+      "slug": "le-point-100",
+      "wikidata": {
+        "id": "Q1810082",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Point"
+      }
+    },
+    {
+      "id": "96",
+      "nom": "Artémis",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "artemis-96",
+      "wikidata": {
+        "id": "Q2866000",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Art%C3%A9mis_(groupe)",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Logo_Groupe_Artémis.png",
+          "filenameEleventy": "artemis-96.png"
+        }
+      }
+    },
+    {
+      "id": "95",
+      "nom": "François Pinault",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "7",
+      "milliardaireForbes": "32",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "francois-pinault-95",
+      "wikidata": {
+        "id": "Q1451167",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Pinault",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "François_Pinault_Stade_rennais_-_Le_Havre_AC_20150708_44.jpg",
+          "filenameEleventy": "francois-pinault-95.jpg"
+        }
+      }
+    }
+  ]
+}

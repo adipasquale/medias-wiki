@@ -1,0 +1,136 @@
+{
+  "id": "31",
+  "nom": "Les Inrockuptibles",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "GPE",
+  "mediaPeriodicite": "Hebdomadaire",
+  "mediaEchelle": "",
+  "commentaire": "",
+  "ACPMdiffusion": "31052",
+  "graphPosition": "leaf",
+  "slug": "les-inrockuptibles-31",
+  "wikidata": {
+    "id": "Q2758142",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Les_Inrockuptibles",
+    "image": {
+      "typeImage": "logo",
+      "filenameOriginal": "INROCKUPTIBLES_LOGO_GRAND.png",
+      "filenameEleventy": "les-inrockuptibles-31.png"
+    }
+  },
+  "incomingRelations": [
+    {
+      "id": "11",
+      "origine": "Matthieu Pigasse",
+      "valeur": 78,
+      "cible": "Combat Solutions",
+      "cibleId": "12",
+      "cibleSlug": "combat-solutions-12",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "matthieu-pigasse-11",
+      "indirecte": true,
+      "idsPair": "11-12"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "12",
+      "origine": "Combat Solutions",
+      "valeur": 100,
+      "cible": "Les Inrockuptibles",
+      "source": "lesechos.fr",
+      "datePublication": "22/05/2015",
+      "dateConsultation": "14/05/2016",
+      "cibleId": "31",
+      "cibleSlug": "les-inrockuptibles-31",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "combat-solutions-12"
+    },
+    {
+      "id": "11",
+      "origine": "Matthieu Pigasse",
+      "valeur": 78,
+      "cible": "Combat Solutions",
+      "cibleId": "12",
+      "cibleSlug": "combat-solutions-12",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "matthieu-pigasse-11"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "12",
+      "nom": "Combat Solutions",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "combat-solutions-12",
+      "wikidata": {
+        "id": "Q24929235",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Les_Nouvelles_%C3%89ditions_ind%C3%A9pendantes"
+      }
+    },
+    {
+      "id": "31",
+      "nom": "Les Inrockuptibles",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Hebdomadaire",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "31052",
+      "graphPosition": "leaf",
+      "slug": "les-inrockuptibles-31",
+      "wikidata": {
+        "id": "Q2758142",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Les_Inrockuptibles",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "INROCKUPTIBLES_LOGO_GRAND.png",
+          "filenameEleventy": "les-inrockuptibles-31.png"
+        }
+      }
+    },
+    {
+      "id": "11",
+      "nom": "Matthieu Pigasse",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "matthieu-pigasse-11",
+      "wikidata": {
+        "id": "Q3299928",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Matthieu_Pigasse",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Matthieu_Pigasse.jpg",
+          "filenameEleventy": "matthieu-pigasse-11.jpg"
+        }
+      }
+    }
+  ]
+}

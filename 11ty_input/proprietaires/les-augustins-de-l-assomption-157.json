@@ -1,0 +1,206 @@
+{
+  "id": "157",
+  "nom": "Les Augustins de l’Assomption",
+  "typeLibelle": "Personne morale",
+  "typeCode": "2",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "",
+  "commentaire": "",
+  "ACPMdiffusion": "",
+  "graphPosition": "root",
+  "slug": "les-augustins-de-l-assomption-157",
+  "incomingRelations": [],
+  "outgoingRelations": [
+    {
+      "id": "158",
+      "origine": "Bayard",
+      "valeur": 100,
+      "cible": "La Croix",
+      "cibleId": "159",
+      "cibleSlug": "la-croix-159",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "bayard-158",
+      "indirecte": true,
+      "idsPair": "158-159"
+    },
+    {
+      "id": "158",
+      "origine": "Bayard",
+      "valeur": 100,
+      "cible": "Notre temps",
+      "cibleId": "161",
+      "cibleSlug": "notre-temps-161",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "bayard-158",
+      "indirecte": true,
+      "idsPair": "158-161"
+    },
+    {
+      "id": "158",
+      "origine": "Bayard",
+      "valeur": 100,
+      "cible": "Pèlerin",
+      "cibleId": "160",
+      "cibleSlug": "pelerin-160",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "bayard-158",
+      "indirecte": true,
+      "idsPair": "158-160"
+    }
+  ],
+  "allRelations": [
+    {
+      "id": "157",
+      "origine": "Les Augustins de l’Assomption",
+      "valeur": 100,
+      "cible": "Bayard",
+      "cibleId": "158",
+      "cibleSlug": "bayard-158",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "les-augustins-de-l-assomption-157"
+    },
+    {
+      "id": "158",
+      "origine": "Bayard",
+      "valeur": 100,
+      "cible": "La Croix",
+      "cibleId": "159",
+      "cibleSlug": "la-croix-159",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "bayard-158"
+    },
+    {
+      "id": "158",
+      "origine": "Bayard",
+      "valeur": 100,
+      "cible": "Notre temps",
+      "cibleId": "161",
+      "cibleSlug": "notre-temps-161",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "bayard-158"
+    },
+    {
+      "id": "158",
+      "origine": "Bayard",
+      "valeur": 100,
+      "cible": "Pèlerin",
+      "cibleId": "160",
+      "cibleSlug": "pelerin-160",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "bayard-158"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "157",
+      "nom": "Les Augustins de l’Assomption",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "les-augustins-de-l-assomption-157"
+    },
+    {
+      "id": "158",
+      "nom": "Bayard",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "bayard-158",
+      "wikidata": {
+        "id": "Q929887",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Groupe_Bayard"
+      }
+    },
+    {
+      "id": "159",
+      "nom": "La Croix",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Quotidien",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "85014",
+      "graphPosition": "leaf",
+      "slug": "la-croix-159",
+      "wikidata": {
+        "id": "Q1230298",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/La_Croix",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "La_Croix.svg",
+          "filenameEleventy": "la-croix-159.svg"
+        }
+      }
+    },
+    {
+      "id": "161",
+      "nom": "Notre temps",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Mensuel",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "675128",
+      "graphPosition": "leaf",
+      "slug": "notre-temps-161",
+      "wikidata": {
+        "id": "Q3344777",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Notre_temps_(magazine)"
+      }
+    },
+    {
+      "id": "160",
+      "nom": "Pèlerin",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Hebdomadaire",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "111938",
+      "graphPosition": "leaf",
+      "slug": "pelerin-160",
+      "wikidata": {
+        "id": "Q3226097",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_P%C3%A8lerin_(magazine)",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Pelerin_Jeanne_d'Arc.jpg",
+          "filenameEleventy": "pelerin-160.jpg"
+        }
+      }
+    }
+  ]
+}

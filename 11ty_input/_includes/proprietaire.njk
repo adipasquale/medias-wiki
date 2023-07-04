@@ -1,0 +1,51 @@
+---
+layout: default_layout
+---
+
+<script>
+  console.log("wikidataId")
+  console.log({{ wikidataId }})
+</script>
+
+<small>
+  <a href="/">Accueil</a>
+  &raquo;
+  <a href="/#proprietaires">Liste des propriétaires</a>
+  &raquo;
+  {{ nom }}
+</small>
+
+<div class="title-with-image">
+  <h1>{{ nom }}</h1>
+
+  {% if wikidata.image %}
+    <img
+      src="/img/wikidata/{{ wikidata.image.filenameEleventy }}"
+      alt="Image de {{ nom }}"
+      class="small-image">
+  {% endif %}
+</div>
+
+{% include "data_warning.njk" %}
+
+<ul>
+  {% for relation in outgoingRelations %}
+    <li>
+      {% if relation.typeRelation == "possède" %}
+        possède à {{ relation | displayRelationValeur }}
+      {% elif relation.typeRelation == "contrôle" %}
+        contrôle à {{ relation | displayRelationValeur }}
+      {% elif relation.typeRelation == "participe" %}
+        participe à hauteur de {{ relation | displayRelationValeur }} à
+      {% endif %}
+
+      <a href="/medias/{{ relation.cible | slugify }}-{{ relation.cibleId }}/">
+        {{ relation.cible }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+{% include "relations_graph.njk" %}
+
+{% include "wikidata.njk" %}

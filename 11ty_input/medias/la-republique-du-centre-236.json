@@ -1,0 +1,230 @@
+{
+  "id": "236",
+  "nom": "La République du Centre",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "GPE",
+  "mediaPeriodicite": "Quotidien",
+  "mediaEchelle": "Régional",
+  "commentaire": "",
+  "ACPMdiffusion": "24726",
+  "graphPosition": "leaf",
+  "slug": "la-republique-du-centre-236",
+  "wikidata": {
+    "id": "Q3212596",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/La_R%C3%A9publique_du_Centre",
+    "image": {
+      "typeImage": "logo",
+      "filenameOriginal": "La_République_du_Centre_Logo.gif",
+      "filenameEleventy": "la-republique-du-centre-236.gif"
+    }
+  },
+  "incomingRelations": [
+    {
+      "id": "220",
+      "origine": "Fondation Varenne",
+      "valeur": 37.4,
+      "cible": "Groupe La Montagne",
+      "cibleId": "222",
+      "cibleSlug": "groupe-la-montagne-222",
+      "typeRelation": "possède",
+      "valeurMinimum": true,
+      "origineSlug": "fondation-varenne-220",
+      "indirecte": true,
+      "idsPair": "220-222"
+    },
+    {
+      "id": "221",
+      "origine": "Famille Saint-Cricq",
+      "valeur": 4.5,
+      "cible": "Groupe NRCO",
+      "cibleId": "237",
+      "cibleSlug": "groupe-nrco-237",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "famille-saint-cricq-221",
+      "indirecte": true,
+      "idsPair": "221-237"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "222",
+      "origine": "Groupe La Montagne",
+      "valeur": 70,
+      "cible": "La République du Centre",
+      "source": "docpresse.esj-lille.fr",
+      "datePublication": "22/03/2012",
+      "dateConsultation": "30/06/2016",
+      "cibleId": "236",
+      "cibleSlug": "la-republique-du-centre-236",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-la-montagne-222"
+    },
+    {
+      "id": "220",
+      "origine": "Fondation Varenne",
+      "valeur": 50,
+      "cible": "Groupe La Montagne",
+      "cibleId": "222",
+      "cibleSlug": "groupe-la-montagne-222",
+      "typeRelation": "possède",
+      "valeurMinimum": true,
+      "origineSlug": "fondation-varenne-220"
+    },
+    {
+      "id": "237",
+      "origine": "Groupe NRCO",
+      "valeur": 30,
+      "cible": "La République du Centre",
+      "source": "docpresse.esj-lille.fr",
+      "datePublication": "22/03/2012",
+      "dateConsultation": "30/06/2016",
+      "cibleId": "236",
+      "cibleSlug": "la-republique-du-centre-236",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-nrco-237"
+    },
+    {
+      "id": "221",
+      "origine": "Famille Saint-Cricq",
+      "valeur": 15,
+      "cible": "Groupe NRCO",
+      "cibleId": "237",
+      "cibleSlug": "groupe-nrco-237",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "famille-saint-cricq-221"
+    },
+    {
+      "id": "222",
+      "origine": "Groupe La Montagne",
+      "valeur": 16,
+      "cible": "Groupe NRCO",
+      "cibleId": "237",
+      "cibleSlug": "groupe-nrco-237",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-la-montagne-222"
+    },
+    {
+      "id": "220",
+      "origine": "Fondation Varenne",
+      "valeur": 50,
+      "cible": "Groupe La Montagne",
+      "cibleId": "222",
+      "cibleSlug": "groupe-la-montagne-222",
+      "typeRelation": "possède",
+      "valeurMinimum": true,
+      "origineSlug": "fondation-varenne-220"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "222",
+      "nom": "Groupe La Montagne",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-la-montagne-222",
+      "wikidata": {
+        "id": "Q2944761",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Groupe_Centre_France",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Logo_CentreFrance_Off.jpg",
+          "filenameEleventy": "groupe-la-montagne-222.jpg"
+        }
+      }
+    },
+    {
+      "id": "236",
+      "nom": "La République du Centre",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Quotidien",
+      "mediaEchelle": "Régional",
+      "commentaire": "",
+      "ACPMdiffusion": "24726",
+      "graphPosition": "leaf",
+      "slug": "la-republique-du-centre-236",
+      "wikidata": {
+        "id": "Q3212596",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/La_R%C3%A9publique_du_Centre",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "La_République_du_Centre_Logo.gif",
+          "filenameEleventy": "la-republique-du-centre-236.gif"
+        }
+      }
+    },
+    {
+      "id": "220",
+      "nom": "Fondation Varenne",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "fondation-varenne-220",
+      "wikidata": {
+        "id": "Q60850619",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Fondation_Varenne"
+      }
+    },
+    {
+      "id": "237",
+      "nom": "Groupe NRCO",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-nrco-237",
+      "wikidata": {
+        "id": "Q3345182",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Nouvelle_R%C3%A9publique_du_Centre-Ouest_(groupe)"
+      }
+    },
+    {
+      "id": "221",
+      "nom": "Famille Saint-Cricq",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "famille-saint-cricq-221"
+    }
+  ]
+}

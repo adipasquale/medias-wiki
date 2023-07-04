@@ -1,0 +1,202 @@
+{
+  "id": "286",
+  "nom": "Paris-Normandie",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "GPE",
+  "mediaPeriodicite": "Quotidien",
+  "mediaEchelle": "Régional",
+  "commentaire": "",
+  "ACPMdiffusion": "36994",
+  "graphPosition": "leaf",
+  "slug": "paris-normandie-286",
+  "wikidata": {
+    "id": "Q3365285",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Paris-Normandie",
+    "image": {
+      "typeImage": "logo",
+      "filenameOriginal": "LogoPN.fr.jpg",
+      "filenameEleventy": "paris-normandie-286.jpg"
+    }
+  },
+  "incomingRelations": [
+    {
+      "id": "172",
+      "origine": "Crédit Agricole Nord de France",
+      "valeur": 25,
+      "cible": "Groupe Rossel La Voix",
+      "cibleId": "184",
+      "cibleSlug": "groupe-rossel-la-voix-184",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "credit-agricole-nord-de-france-172",
+      "indirecte": true,
+      "idsPair": "172-184"
+    },
+    {
+      "id": "171",
+      "origine": "Famille Hurbain",
+      "valeur": 73,
+      "cible": "Groupe Rossel",
+      "cibleId": "183",
+      "cibleSlug": "groupe-rossel-183",
+      "typeRelation": "contrôle",
+      "valeurMinimum": false,
+      "origineSlug": "famille-hurbain-171",
+      "indirecte": true,
+      "idsPair": "171-183"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "184",
+      "origine": "Groupe Rossel La Voix",
+      "valeur": 100,
+      "cible": "Paris-Normandie",
+      "cibleId": "286",
+      "cibleSlug": "paris-normandie-286",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-rossel-la-voix-184"
+    },
+    {
+      "id": "172",
+      "origine": "Crédit Agricole Nord de France",
+      "valeur": 25,
+      "cible": "Groupe Rossel La Voix",
+      "cibleId": "184",
+      "cibleSlug": "groupe-rossel-la-voix-184",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "credit-agricole-nord-de-france-172"
+    },
+    {
+      "id": "183",
+      "origine": "Groupe Rossel",
+      "valeur": 73,
+      "cible": "Groupe Rossel La Voix",
+      "cibleId": "184",
+      "cibleSlug": "groupe-rossel-la-voix-184",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-rossel-183"
+    },
+    {
+      "id": "171",
+      "origine": "Famille Hurbain",
+      "valeur": 100,
+      "cible": "Groupe Rossel",
+      "cibleId": "183",
+      "cibleSlug": "groupe-rossel-183",
+      "typeRelation": "contrôle",
+      "valeurMinimum": false,
+      "origineSlug": "famille-hurbain-171"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "184",
+      "nom": "Groupe Rossel La Voix",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-rossel-la-voix-184",
+      "wikidata": {
+        "id": "Q3117466",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Groupe_Rossel_La_Voix"
+      }
+    },
+    {
+      "id": "286",
+      "nom": "Paris-Normandie",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Quotidien",
+      "mediaEchelle": "Régional",
+      "commentaire": "",
+      "ACPMdiffusion": "36994",
+      "graphPosition": "leaf",
+      "slug": "paris-normandie-286",
+      "wikidata": {
+        "id": "Q3365285",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Paris-Normandie",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "LogoPN.fr.jpg",
+          "filenameEleventy": "paris-normandie-286.jpg"
+        }
+      }
+    },
+    {
+      "id": "172",
+      "nom": "Crédit Agricole Nord de France",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "credit-agricole-nord-de-france-172",
+      "wikidata": {
+        "id": "Q17176836",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Cr%C3%A9dit_agricole_de_Nord_de_France"
+      }
+    },
+    {
+      "id": "183",
+      "nom": "Groupe Rossel",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-rossel-183",
+      "wikidata": {
+        "id": "Q3117548",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Groupe_Rossel",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Groupe_Rossel_logo.svg",
+          "filenameEleventy": "groupe-rossel-183.svg"
+        }
+      }
+    },
+    {
+      "id": "171",
+      "nom": "Famille Hurbain",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "famille-hurbain-171"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "id": "113",
+  "nom": "6ter",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "Télévision",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "",
+  "commentaire": "Gratuit",
+  "ACPMdiffusion": "",
+  "graphPosition": "leaf",
+  "slug": "6ter-113",
+  "wikidata": {
+    "id": "Q2818183",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/6ter",
+    "image": {
+      "typeImage": "image",
+      "filenameOriginal": "6ter.png",
+      "filenameEleventy": "6ter-113.png"
+    }
+  },
+  "incomingRelations": [
+    {
+      "id": "102",
+      "origine": "Famille Mohn",
+      "valeur": 36,
+      "cible": "Bertelsmann",
+      "cibleId": "103",
+      "cibleSlug": "bertelsmann-103",
+      "typeRelation": "contrôle",
+      "valeurMinimum": false,
+      "origineSlug": "famille-mohn-102",
+      "indirecte": true,
+      "idsPair": "102-103"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "110",
+      "origine": "Groupe M6",
+      "valeur": 100,
+      "cible": "6ter",
+      "source": "zonebourse.com, AFP",
+      "datePublication": "04/09/2017",
+      "dateConsultation": "14/05/2016 , 14/11/2017",
+      "cibleId": "113",
+      "cibleSlug": "6ter-113",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-m6-110"
+    },
+    {
+      "id": "105",
+      "origine": "RTL Group",
+      "valeur": 48,
+      "cible": "Groupe M6",
+      "cibleId": "110",
+      "cibleSlug": "groupe-m6-110",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "rtl-group-105"
+    },
+    {
+      "id": "103",
+      "origine": "Bertelsmann",
+      "valeur": 75,
+      "cible": "RTL Group",
+      "cibleId": "105",
+      "cibleSlug": "rtl-group-105",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "bertelsmann-103"
+    },
+    {
+      "id": "102",
+      "origine": "Famille Mohn",
+      "valeur": 100,
+      "cible": "Bertelsmann",
+      "cibleId": "103",
+      "cibleSlug": "bertelsmann-103",
+      "typeRelation": "contrôle",
+      "valeurMinimum": false,
+      "origineSlug": "famille-mohn-102"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "110",
+      "nom": "Groupe M6",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-m6-110",
+      "wikidata": {
+        "id": "Q3117481",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Groupe_M6",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Groupe_M6_Logo.png",
+          "filenameEleventy": "groupe-m6-110.png"
+        }
+      }
+    },
+    {
+      "id": "113",
+      "nom": "6ter",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "Télévision",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "Gratuit",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "6ter-113",
+      "wikidata": {
+        "id": "Q2818183",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/6ter",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "6ter.png",
+          "filenameEleventy": "6ter-113.png"
+        }
+      }
+    },
+    {
+      "id": "105",
+      "nom": "RTL Group",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "rtl-group-105",
+      "wikidata": {
+        "id": "Q921159",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/RTL_Group",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "RTL_Group.svg",
+          "filenameEleventy": "rtl-group-105.svg"
+        }
+      }
+    },
+    {
+      "id": "103",
+      "nom": "Bertelsmann",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "bertelsmann-103",
+      "wikidata": {
+        "id": "Q156913",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Bertelsmann",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Bertelsmann_2011_logo.svg",
+          "filenameEleventy": "bertelsmann-103.svg"
+        }
+      }
+    },
+    {
+      "id": "102",
+      "nom": "Famille Mohn",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "famille-mohn-102",
+      "wikidata": {
+        "id": "Q28497831",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Famille_Mohn"
+      }
+    }
+  ]
+}

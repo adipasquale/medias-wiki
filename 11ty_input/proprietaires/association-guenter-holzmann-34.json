@@ -1,0 +1,132 @@
+{
+  "id": "34",
+  "nom": "Association Günter-Holzmann",
+  "typeLibelle": "Personne morale",
+  "typeCode": "2",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "",
+  "commentaire": "",
+  "ACPMdiffusion": "",
+  "graphPosition": "root",
+  "slug": "association-guenter-holzmann-34",
+  "wikidata": {
+    "id": "Q29640269"
+  },
+  "incomingRelations": [],
+  "outgoingRelations": [
+    {
+      "id": "34",
+      "origine": "Association Günter-Holzmann",
+      "valeur": 24,
+      "cible": "Le Monde diplomatique",
+      "cibleId": "24",
+      "cibleSlug": "le-monde-diplomatique-24",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "association-guenter-holzmann-34",
+      "idsPair": "34-24"
+    },
+    {
+      "id": "34",
+      "origine": "Association Günter-Holzmann",
+      "valeur": 24,
+      "cible": "Manière de voir",
+      "cibleId": "25",
+      "cibleSlug": "maniere-de-voir-25",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "association-guenter-holzmann-34",
+      "idsPair": "34-25"
+    }
+  ],
+  "allRelations": [
+    {
+      "id": "34",
+      "origine": "Association Günter-Holzmann",
+      "valeur": 24,
+      "cible": "Le Monde diplomatique",
+      "cibleId": "24",
+      "cibleSlug": "le-monde-diplomatique-24",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "association-guenter-holzmann-34"
+    },
+    {
+      "id": "34",
+      "origine": "Association Günter-Holzmann",
+      "valeur": 24,
+      "cible": "Manière de voir",
+      "cibleId": "25",
+      "cibleSlug": "maniere-de-voir-25",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "association-guenter-holzmann-34"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "34",
+      "nom": "Association Günter-Holzmann",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "association-guenter-holzmann-34",
+      "wikidata": {
+        "id": "Q29640269"
+      }
+    },
+    {
+      "id": "24",
+      "nom": "Le Monde diplomatique",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Mensuel",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "154719",
+      "graphPosition": "leaf",
+      "slug": "le-monde-diplomatique-24",
+      "wikidata": {
+        "id": "Q858121",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Monde_diplomatique",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Logo_Le_Monde_diplomatique.svg",
+          "filenameEleventy": "le-monde-diplomatique-24.svg"
+        }
+      }
+    },
+    {
+      "id": "25",
+      "nom": "Manière de voir",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Bimestriel",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "24740",
+      "graphPosition": "leaf",
+      "slug": "maniere-de-voir-25",
+      "wikidata": {
+        "id": "Q3285985",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mani%C3%A8re_de_voir"
+      }
+    }
+  ]
+}

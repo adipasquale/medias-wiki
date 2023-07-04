@@ -1,0 +1,136 @@
+{
+  "id": "215",
+  "nom": "Le Journal de Saône-et-Loire",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "GPE",
+  "mediaPeriodicite": "Quotidien",
+  "mediaEchelle": "Régional",
+  "commentaire": "",
+  "ACPMdiffusion": "44546",
+  "graphPosition": "leaf",
+  "slug": "le-journal-de-saone-et-loire-215",
+  "wikidata": {
+    "id": "Q3223737",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Journal_de_Sa%C3%B4ne-et-Loire",
+    "image": {
+      "typeImage": "logo",
+      "filenameOriginal": "Logo_Le_Journal_de_Saône-et-Loire_-_2022.svg",
+      "filenameEleventy": "le-journal-de-saone-et-loire-215.svg"
+    }
+  },
+  "incomingRelations": [
+    {
+      "id": "207",
+      "origine": "Crédit Mutuel",
+      "valeur": 100,
+      "cible": "Groupe EBRA",
+      "cibleId": "208",
+      "cibleSlug": "groupe-ebra-208",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "credit-mutuel-207",
+      "indirecte": true,
+      "idsPair": "207-208"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "208",
+      "origine": "Groupe EBRA",
+      "valeur": 100,
+      "cible": "Le Journal de Saône-et-Loire",
+      "source": "ebra.fr",
+      "datePublication": "2009",
+      "dateConsultation": "04/05/2016",
+      "cibleId": "215",
+      "cibleSlug": "le-journal-de-saone-et-loire-215",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-ebra-208"
+    },
+    {
+      "id": "207",
+      "origine": "Crédit Mutuel",
+      "valeur": 100,
+      "cible": "Groupe EBRA",
+      "cibleId": "208",
+      "cibleSlug": "groupe-ebra-208",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "credit-mutuel-207"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "208",
+      "nom": "Groupe EBRA",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-ebra-208",
+      "wikidata": {
+        "id": "Q3117389",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Groupe_EBRA"
+      }
+    },
+    {
+      "id": "215",
+      "nom": "Le Journal de Saône-et-Loire",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Quotidien",
+      "mediaEchelle": "Régional",
+      "commentaire": "",
+      "ACPMdiffusion": "44546",
+      "graphPosition": "leaf",
+      "slug": "le-journal-de-saone-et-loire-215",
+      "wikidata": {
+        "id": "Q3223737",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Journal_de_Sa%C3%B4ne-et-Loire",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Logo_Le_Journal_de_Saône-et-Loire_-_2022.svg",
+          "filenameEleventy": "le-journal-de-saone-et-loire-215.svg"
+        }
+      }
+    },
+    {
+      "id": "207",
+      "nom": "Crédit Mutuel",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "credit-mutuel-207",
+      "wikidata": {
+        "id": "Q642627",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Cr%C3%A9dit_mutuel",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Logo_Crédit_Mutuel.svg",
+          "filenameEleventy": "credit-mutuel-207.svg"
+        }
+      }
+    }
+  ]
+}

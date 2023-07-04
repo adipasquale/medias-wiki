@@ -1,0 +1,92 @@
+{
+  "id": "322",
+  "nom": "Le Nouveau Magazine littéraire",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "GPE",
+  "mediaPeriodicite": "Mensuel",
+  "mediaEchelle": "",
+  "commentaire": "",
+  "ACPMdiffusion": "",
+  "graphPosition": "leaf",
+  "slug": "le-nouveau-magazine-litteraire-322",
+  "wikidata": {
+    "id": "Q3224169",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Nouveau_Magazine_litt%C3%A9raire"
+  },
+  "incomingRelations": [
+    {
+      "id": "10",
+      "origine": "Xavier Niel",
+      "valeur": 100,
+      "cible": "Le Nouveau Magazine littéraire",
+      "cibleId": "322",
+      "cibleSlug": "le-nouveau-magazine-litteraire-322",
+      "typeRelation": "participe",
+      "valeurMinimum": false,
+      "origineSlug": "xavier-niel-10",
+      "idsPair": "10-322"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "10",
+      "origine": "Xavier Niel",
+      "valeur": 100,
+      "cible": "Le Nouveau Magazine littéraire",
+      "cibleId": "322",
+      "cibleSlug": "le-nouveau-magazine-litteraire-322",
+      "typeRelation": "participe",
+      "valeurMinimum": false,
+      "origineSlug": "xavier-niel-10"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "10",
+      "nom": "Xavier Niel",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "12",
+      "milliardaireForbes": "230",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "xavier-niel-10",
+      "wikidata": {
+        "id": "Q1450891",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Xavier_Niel",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Xavier_Niel,_FreeIliad.jpg",
+          "filenameEleventy": "xavier-niel-10.jpg"
+        }
+      }
+    },
+    {
+      "id": "322",
+      "nom": "Le Nouveau Magazine littéraire",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Mensuel",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "le-nouveau-magazine-litteraire-322",
+      "wikidata": {
+        "id": "Q3224169",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Nouveau_Magazine_litt%C3%A9raire"
+      }
+    }
+  ]
+}

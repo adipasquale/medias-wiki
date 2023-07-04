@@ -1,0 +1,92 @@
+{
+  "id": "132",
+  "nom": "Public Sénat",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "Télévision",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "",
+  "commentaire": "Gratuit",
+  "ACPMdiffusion": "",
+  "graphPosition": "leaf",
+  "slug": "public-senat-132",
+  "wikidata": {
+    "id": "Q3410428",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Public_S%C3%A9nat"
+  },
+  "incomingRelations": [
+    {
+      "id": "128",
+      "origine": "République française",
+      "valeur": 100,
+      "cible": "Public Sénat",
+      "cibleId": "132",
+      "cibleSlug": "public-senat-132",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "republique-francaise-128",
+      "idsPair": "128-132"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "128",
+      "origine": "République française",
+      "valeur": 100,
+      "cible": "Public Sénat",
+      "cibleId": "132",
+      "cibleSlug": "public-senat-132",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "republique-francaise-128"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "128",
+      "nom": "République française",
+      "typeLibelle": "État",
+      "typeCode": "4",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "republique-francaise-128",
+      "wikidata": {
+        "id": "Q142",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/France",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Paris_from_the_Arc_de_Triomphe,_17_October_2019.jpg",
+          "filenameEleventy": "republique-francaise-128.jpg"
+        }
+      }
+    },
+    {
+      "id": "132",
+      "nom": "Public Sénat",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "Télévision",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "Gratuit",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "public-senat-132",
+      "wikidata": {
+        "id": "Q3410428",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Public_S%C3%A9nat"
+      }
+    }
+  ]
+}

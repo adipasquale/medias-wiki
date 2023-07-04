@@ -1,0 +1,134 @@
+{
+  "id": "33",
+  "nom": "Les Amis du Monde diplomatique",
+  "typeLibelle": "Personne morale",
+  "typeCode": "2",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "",
+  "commentaire": "",
+  "ACPMdiffusion": "",
+  "graphPosition": "root",
+  "slug": "les-amis-du-monde-diplomatique-33",
+  "wikidata": {
+    "id": "Q2843543",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Amis_du_Monde_diplomatique"
+  },
+  "incomingRelations": [],
+  "outgoingRelations": [
+    {
+      "id": "33",
+      "origine": "Les Amis du Monde diplomatique",
+      "valeur": 24,
+      "cible": "Le Monde diplomatique",
+      "cibleId": "24",
+      "cibleSlug": "le-monde-diplomatique-24",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "les-amis-du-monde-diplomatique-33",
+      "idsPair": "33-24"
+    },
+    {
+      "id": "33",
+      "origine": "Les Amis du Monde diplomatique",
+      "valeur": 24,
+      "cible": "Manière de voir",
+      "cibleId": "25",
+      "cibleSlug": "maniere-de-voir-25",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "les-amis-du-monde-diplomatique-33",
+      "idsPair": "33-25"
+    }
+  ],
+  "allRelations": [
+    {
+      "id": "33",
+      "origine": "Les Amis du Monde diplomatique",
+      "valeur": 24,
+      "cible": "Le Monde diplomatique",
+      "cibleId": "24",
+      "cibleSlug": "le-monde-diplomatique-24",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "les-amis-du-monde-diplomatique-33"
+    },
+    {
+      "id": "33",
+      "origine": "Les Amis du Monde diplomatique",
+      "valeur": 24,
+      "cible": "Manière de voir",
+      "cibleId": "25",
+      "cibleSlug": "maniere-de-voir-25",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "les-amis-du-monde-diplomatique-33"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "33",
+      "nom": "Les Amis du Monde diplomatique",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "les-amis-du-monde-diplomatique-33",
+      "wikidata": {
+        "id": "Q2843543",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Amis_du_Monde_diplomatique"
+      }
+    },
+    {
+      "id": "24",
+      "nom": "Le Monde diplomatique",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Mensuel",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "154719",
+      "graphPosition": "leaf",
+      "slug": "le-monde-diplomatique-24",
+      "wikidata": {
+        "id": "Q858121",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Monde_diplomatique",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Logo_Le_Monde_diplomatique.svg",
+          "filenameEleventy": "le-monde-diplomatique-24.svg"
+        }
+      }
+    },
+    {
+      "id": "25",
+      "nom": "Manière de voir",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Bimestriel",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "24740",
+      "graphPosition": "leaf",
+      "slug": "maniere-de-voir-25",
+      "wikidata": {
+        "id": "Q3285985",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mani%C3%A8re_de_voir"
+      }
+    }
+  ]
+}

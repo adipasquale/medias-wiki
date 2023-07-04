@@ -1,0 +1,312 @@
+{
+  "id": "35",
+  "nom": "Famille Dassault",
+  "typeLibelle": "Personne physique",
+  "typeCode": "1",
+  "rangChallenges": "6",
+  "milliardaireForbes": "254",
+  "mediaType": "",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "",
+  "commentaire": "",
+  "ACPMdiffusion": "",
+  "graphPosition": "root",
+  "slug": "famille-dassault-35",
+  "incomingRelations": [],
+  "outgoingRelations": [
+    {
+      "id": "37",
+      "origine": "Groupe Figaro",
+      "valeur": 100,
+      "cible": "Figaro Magazine",
+      "source": "dassault.fr, offremedia.com",
+      "datePublication": "03/10/2017",
+      "dateConsultation": "14/05/2016 , 16/10/2017",
+      "cibleId": "39",
+      "cibleSlug": "figaro-magazine-39",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-figaro-37",
+      "indirecte": true,
+      "idsPair": "37-39"
+    },
+    {
+      "id": "37",
+      "origine": "Groupe Figaro",
+      "valeur": 100,
+      "cible": "La Lettre de l’Expansion",
+      "source": "dassault.fr, offremedia.com",
+      "datePublication": "03/10/2017",
+      "dateConsultation": "14/05/2016 , 16/10/2017",
+      "cibleId": "41",
+      "cibleSlug": "la-lettre-de-l-expansion-41",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-figaro-37",
+      "indirecte": true,
+      "idsPair": "37-41"
+    },
+    {
+      "id": "37",
+      "origine": "Groupe Figaro",
+      "valeur": 100,
+      "cible": "Le Figaro",
+      "source": "dassault.fr, offremedia.com",
+      "datePublication": "03/10/2017",
+      "dateConsultation": "14/05/2016 , 16/10/2017",
+      "cibleId": "38",
+      "cibleSlug": "le-figaro-38",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-figaro-37",
+      "indirecte": true,
+      "idsPair": "37-38"
+    },
+    {
+      "id": "37",
+      "origine": "Groupe Figaro",
+      "valeur": 100,
+      "cible": "Le Particulier",
+      "source": "dassault.fr, offremedia.com",
+      "datePublication": "03/10/2017",
+      "dateConsultation": "14/05/2016 , 16/10/2017",
+      "cibleId": "40",
+      "cibleSlug": "le-particulier-40",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-figaro-37",
+      "indirecte": true,
+      "idsPair": "37-40"
+    }
+  ],
+  "allRelations": [
+    {
+      "id": "35",
+      "origine": "Famille Dassault",
+      "valeur": 100,
+      "cible": "Groupe Dassault",
+      "cibleId": "36",
+      "cibleSlug": "groupe-dassault-36",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "famille-dassault-35"
+    },
+    {
+      "id": "36",
+      "origine": "Groupe Dassault",
+      "valeur": 100,
+      "cible": "Groupe Figaro",
+      "cibleId": "37",
+      "cibleSlug": "groupe-figaro-37",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-dassault-36"
+    },
+    {
+      "id": "37",
+      "origine": "Groupe Figaro",
+      "valeur": 100,
+      "cible": "Figaro Magazine",
+      "source": "dassault.fr, offremedia.com",
+      "datePublication": "03/10/2017",
+      "dateConsultation": "14/05/2016 , 16/10/2017",
+      "cibleId": "39",
+      "cibleSlug": "figaro-magazine-39",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-figaro-37"
+    },
+    {
+      "id": "37",
+      "origine": "Groupe Figaro",
+      "valeur": 100,
+      "cible": "La Lettre de l’Expansion",
+      "source": "dassault.fr, offremedia.com",
+      "datePublication": "03/10/2017",
+      "dateConsultation": "14/05/2016 , 16/10/2017",
+      "cibleId": "41",
+      "cibleSlug": "la-lettre-de-l-expansion-41",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-figaro-37"
+    },
+    {
+      "id": "37",
+      "origine": "Groupe Figaro",
+      "valeur": 100,
+      "cible": "Le Figaro",
+      "source": "dassault.fr, offremedia.com",
+      "datePublication": "03/10/2017",
+      "dateConsultation": "14/05/2016 , 16/10/2017",
+      "cibleId": "38",
+      "cibleSlug": "le-figaro-38",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-figaro-37"
+    },
+    {
+      "id": "37",
+      "origine": "Groupe Figaro",
+      "valeur": 100,
+      "cible": "Le Particulier",
+      "source": "dassault.fr, offremedia.com",
+      "datePublication": "03/10/2017",
+      "dateConsultation": "14/05/2016 , 16/10/2017",
+      "cibleId": "40",
+      "cibleSlug": "le-particulier-40",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-figaro-37"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "35",
+      "nom": "Famille Dassault",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "6",
+      "milliardaireForbes": "254",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "famille-dassault-35"
+    },
+    {
+      "id": "36",
+      "nom": "Groupe Dassault",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-dassault-36",
+      "wikidata": {
+        "id": "Q1434948",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Groupe_industriel_Marcel_Dassault",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Rafale_ag1.jpg",
+          "filenameEleventy": "groupe-dassault-36.jpg"
+        }
+      }
+    },
+    {
+      "id": "37",
+      "nom": "Groupe Figaro",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-figaro-37",
+      "wikidata": {
+        "id": "Q70442343",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Groupe_Figaro",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Le_Figaro,_boulevard_Haussmann.JPG",
+          "filenameEleventy": "groupe-figaro-37.JPG"
+        }
+      }
+    },
+    {
+      "id": "39",
+      "nom": "Figaro Magazine",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Hebdomadaire",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "370195",
+      "graphPosition": "leaf",
+      "slug": "figaro-magazine-39",
+      "wikidata": {
+        "id": "Q3222760",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Figaro_Magazine"
+      }
+    },
+    {
+      "id": "41",
+      "nom": "La Lettre de l’Expansion",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Mensuel",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "la-lettre-de-l-expansion-41",
+      "wikidata": {
+        "id": "Q3209997",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/La_Lettre_de_l%27Expansion",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "La_Lettre_de_l'Expansion_logo.svg",
+          "filenameEleventy": "la-lettre-de-l-expansion-41.svg"
+        }
+      }
+    },
+    {
+      "id": "38",
+      "nom": "Le Figaro",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Quotidien",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "le-figaro-38",
+      "wikidata": {
+        "id": "Q216047",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Figaro",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Le_Figaro.svg",
+          "filenameEleventy": "le-figaro-38.svg"
+        }
+      }
+    },
+    {
+      "id": "40",
+      "nom": "Le Particulier",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Mesuel",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "301334",
+      "graphPosition": "leaf",
+      "slug": "le-particulier-40",
+      "wikidata": {
+        "id": "Q3225267"
+      }
+    }
+  ]
+}

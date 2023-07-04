@@ -1,0 +1,210 @@
+{
+  "id": "127",
+  "nom": "TMC",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "Télévision",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "",
+  "commentaire": "Gratuit",
+  "ACPMdiffusion": "",
+  "graphPosition": "leaf",
+  "slug": "tmc-127",
+  "wikidata": {
+    "id": "Q971163",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/TMC_(cha%C3%AEne_de_t%C3%A9l%C3%A9vision)",
+    "image": {
+      "typeImage": "logo",
+      "filenameOriginal": "TMC_logo.jpg",
+      "filenameEleventy": "tmc-127.jpg"
+    }
+  },
+  "incomingRelations": [
+    {
+      "id": "92",
+      "origine": "Daniel Křetínský",
+      "valeur": 5,
+      "cible": "Groupe TF1",
+      "cibleId": "122",
+      "cibleSlug": "groupe-tf1-122",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "daniel-kretinsky-92",
+      "indirecte": true,
+      "idsPair": "92-122"
+    },
+    {
+      "id": "120",
+      "origine": "Martin et Olivier Bouygues",
+      "valeur": 8.8,
+      "cible": "Bouygues",
+      "cibleId": "121",
+      "cibleSlug": "bouygues-121",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "martin-et-olivier-bouygues-120",
+      "indirecte": true,
+      "idsPair": "120-121"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "122",
+      "origine": "Groupe TF1",
+      "valeur": 100,
+      "cible": "TMC",
+      "source": "bouygues.com",
+      "datePublication": "09/06/2016",
+      "dateConsultation": "28/06/2016",
+      "cibleId": "127",
+      "cibleSlug": "tmc-127",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-tf1-122"
+    },
+    {
+      "id": "92",
+      "origine": "Daniel Křetínský",
+      "valeur": 5,
+      "cible": "Groupe TF1",
+      "cibleId": "122",
+      "cibleSlug": "groupe-tf1-122",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "daniel-kretinsky-92"
+    },
+    {
+      "id": "121",
+      "origine": "Bouygues",
+      "valeur": 44,
+      "cible": "Groupe TF1",
+      "cibleId": "122",
+      "cibleSlug": "groupe-tf1-122",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "bouygues-121"
+    },
+    {
+      "id": "120",
+      "origine": "Martin et Olivier Bouygues",
+      "valeur": 20,
+      "cible": "Bouygues",
+      "cibleId": "121",
+      "cibleSlug": "bouygues-121",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "martin-et-olivier-bouygues-120"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "122",
+      "nom": "Groupe TF1",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-tf1-122",
+      "wikidata": {
+        "id": "Q2412906",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Groupe_TF1",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Groupe_TF1.png",
+          "filenameEleventy": "groupe-tf1-122.png"
+        }
+      }
+    },
+    {
+      "id": "127",
+      "nom": "TMC",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "Télévision",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "Gratuit",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "tmc-127",
+      "wikidata": {
+        "id": "Q971163",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/TMC_(cha%C3%AEne_de_t%C3%A9l%C3%A9vision)",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "TMC_logo.jpg",
+          "filenameEleventy": "tmc-127.jpg"
+        }
+      }
+    },
+    {
+      "id": "92",
+      "nom": "Daniel Křetínský",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "504",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "daniel-kretinsky-92",
+      "wikidata": {
+        "id": "Q11774225",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Daniel_K%C5%99et%C3%ADnsk%C3%BD"
+      }
+    },
+    {
+      "id": "121",
+      "nom": "Bouygues",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "bouygues-121",
+      "wikidata": {
+        "id": "Q895325",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Bouygues",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Bouygues_logo.svg",
+          "filenameEleventy": "bouygues-121.svg"
+        }
+      }
+    },
+    {
+      "id": "120",
+      "nom": "Martin et Olivier Bouygues",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "35",
+      "milliardaireForbes": "687",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "martin-et-olivier-bouygues-120"
+    }
+  ]
+}

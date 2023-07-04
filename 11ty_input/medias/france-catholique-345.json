@@ -1,0 +1,150 @@
+{
+  "id": "345",
+  "nom": "France Catholique",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "GPE",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "National",
+  "commentaire": "Payant",
+  "ACPMdiffusion": "",
+  "graphPosition": "leaf",
+  "slug": "france-catholique-345",
+  "incomingRelations": [
+    {
+      "id": "77",
+      "origine": "Vincent Bolloré",
+      "valeur": 31.36,
+      "cible": "Financière de l’Odet",
+      "cibleId": "78",
+      "cibleSlug": "financiere-de-l-odet-78",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "vincent-bollore-77",
+      "indirecte": true,
+      "idsPair": "77-78"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "79",
+      "origine": "Bolloré",
+      "valeur": 100,
+      "cible": "France Catholique",
+      "cibleId": "345",
+      "cibleSlug": "france-catholique-345",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "bollore-79"
+    },
+    {
+      "id": "78",
+      "origine": "Financière de l’Odet",
+      "valeur": 64,
+      "cible": "Bolloré",
+      "cibleId": "79",
+      "cibleSlug": "bollore-79",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "financiere-de-l-odet-78"
+    },
+    {
+      "id": "77",
+      "origine": "Vincent Bolloré",
+      "valeur": 49,
+      "cible": "Financière de l’Odet",
+      "cibleId": "78",
+      "cibleSlug": "financiere-de-l-odet-78",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "vincent-bollore-77"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "79",
+      "nom": "Bolloré",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "bollore-79",
+      "wikidata": {
+        "id": "Q444172",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Bollor%C3%A9",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Bolloré_Logo_2021.svg",
+          "filenameEleventy": "bollore-79.svg"
+        }
+      }
+    },
+    {
+      "id": "345",
+      "nom": "France Catholique",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "National",
+      "commentaire": "Payant",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "france-catholique-345"
+    },
+    {
+      "id": "78",
+      "nom": "Financière de l’Odet",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "financiere-de-l-odet-78",
+      "wikidata": {
+        "id": "Q3072532",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Financi%C3%A8re_de_l%27Odet"
+      }
+    },
+    {
+      "id": "77",
+      "nom": "Vincent Bolloré",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "13",
+      "milliardaireForbes": "316",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "vincent-bollore-77",
+      "wikidata": {
+        "id": "Q721491",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Vincent_Bollor%C3%A9",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Festival_automobile_international_2014_-_Photocall_-_103.jpg",
+          "filenameEleventy": "vincent-bollore-77.jpg"
+        }
+      }
+    }
+  ]
+}

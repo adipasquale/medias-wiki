@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 709 709" width="709" height="709">
+	<title>BFMTV_LOGO_flat-ai</title>
+	<style>
+		.s0 { fill: #02399e } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<g id="Calque 1">
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Path&gt;" class="s0" d="m2.8 4.3h702.4v702h-702.4z"/>
+			<g id="&lt;Group&gt;">
+				<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s1" d="m707.8 709h-707.6v-707.3h707.6zm-702.3-5.3h697v-696.8h-697z"/>
+			</g>
+		</g>
+		<path id="&lt;Path&gt;" class="s1" d="m568.5 552.6h81.1v81h-81.1z"/>
+		<g id="&lt;Group&gt;">
+			<path id="&lt;Compound Path&gt;" fill-rule="evenodd" class="s1" d="m690.8 87.4v240.5h-70.1v-154.3h-0.7l-41.8 154.3h-55.3l-41.7-154.3h-0.7v154.3h-70.1v-183.3h-104.3v36.4h67.9v55.3h-67.8v91.6h-74.1v-48.3c-11.7 31.7-45.2 48.3-79.6 48.3h-136.5v-240.5h131.8c63.4 0 76.9 35.6 76.9 60.2 0 24.3-11.8 37.5-29.7 47.2 15.4 5.3 29.9 15.7 37.1 33.9v-141.3h283.8l34.4 141.5h0.6l34.4-141.5zm-600.8 93.6h39.3c15.5 0 25.3-4.4 25.3-19.9 0-12.1-10.2-16.5-25.3-16.5h-39.3zm72.6 66.7c0-14.1-8.4-21.9-25.9-21.9h-46.5v44.8h43.4c15.6 0 29-4.3 29-22.9z"/>
+		</g>
+		<path id="&lt;Path&gt;" class="s1" d="m581.4 355l-87 278.6h-96.1l-61.8-207.2h-63.1v207.2h-85.9v-207.2h-70.2v-71.4h284.5l45.7 169h0.8l44.8-169z"/>
+	</g>
+</svg>

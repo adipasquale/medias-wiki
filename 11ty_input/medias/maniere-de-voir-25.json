@@ -1,0 +1,530 @@
+{
+  "id": "25",
+  "nom": "Manière de voir",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "GPE",
+  "mediaPeriodicite": "Bimestriel",
+  "mediaEchelle": "",
+  "commentaire": "",
+  "ACPMdiffusion": "24740",
+  "graphPosition": "leaf",
+  "slug": "maniere-de-voir-25",
+  "wikidata": {
+    "id": "Q3285985",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mani%C3%A8re_de_voir"
+  },
+  "incomingRelations": [
+    {
+      "id": "9",
+      "origine": "Prisa",
+      "valeur": 7.65,
+      "cible": "Le Monde libre",
+      "cibleId": "14",
+      "cibleSlug": "le-monde-libre-14",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "prisa-9",
+      "indirecte": true,
+      "idsPair": "9-14"
+    },
+    {
+      "id": "10",
+      "origine": "Xavier Niel",
+      "valeur": 9.945,
+      "cible": "Le Monde libre",
+      "source": "https://fr.reuters.com/article/topNews/idFRKCN1BJ24Z-OFRTP",
+      "datePublication": "08/09/2017",
+      "cibleId": "14",
+      "cibleSlug": "le-monde-libre-14",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "xavier-niel-10",
+      "indirecte": true,
+      "idsPair": "10-14"
+    },
+    {
+      "id": "11",
+      "origine": "Matthieu Pigasse",
+      "valeur": 3.956121,
+      "cible": "Combat Solutions",
+      "cibleId": "12",
+      "cibleSlug": "combat-solutions-12",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "matthieu-pigasse-11",
+      "indirecte": true,
+      "idsPair": "11-12"
+    },
+    {
+      "id": "92",
+      "origine": "Daniel Křetínský",
+      "valeur": 2.436525,
+      "cible": "Czech Media Invest",
+      "source": "bfmbusiness.bfmtv.com",
+      "datePublication": "24/04/2018",
+      "dateConsultation": "22/07/2018",
+      "cibleId": "93",
+      "cibleSlug": "czech-media-invest-93",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "daniel-kretinsky-92",
+      "indirecte": true,
+      "idsPair": "92-93"
+    },
+    {
+      "id": "323",
+      "origine": "Madison Cox",
+      "valeur": 10.71,
+      "cible": "Le Monde libre",
+      "source": "https://www.lemonde.fr/economie/article/2019/09/04/le-groupe-le-monde-demande-a-ses-actionnaires-de-tenir-leurs-engagements_5506287_3234.html",
+      "cibleId": "14",
+      "cibleSlug": "le-monde-libre-14",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "madison-cox-323",
+      "indirecte": true,
+      "idsPair": "323-14"
+    },
+    {
+      "id": "33",
+      "origine": "Les Amis du Monde diplomatique",
+      "valeur": 24,
+      "cible": "Manière de voir",
+      "cibleId": "25",
+      "cibleSlug": "maniere-de-voir-25",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "les-amis-du-monde-diplomatique-33",
+      "idsPair": "33-25"
+    },
+    {
+      "id": "34",
+      "origine": "Association Günter-Holzmann",
+      "valeur": 24,
+      "cible": "Manière de voir",
+      "cibleId": "25",
+      "cibleSlug": "maniere-de-voir-25",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "association-guenter-holzmann-34",
+      "idsPair": "34-25"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "15",
+      "origine": "Le Monde SA",
+      "valeur": 51,
+      "cible": "Manière de voir",
+      "source": "sdllemonde.fr, lemonde.fr",
+      "datePublication": "06/10/2017",
+      "dateConsultation": "14/05/2016 , 16/10/2017",
+      "cibleId": "25",
+      "cibleSlug": "maniere-de-voir-25",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "le-monde-sa-15"
+    },
+    {
+      "id": "14",
+      "origine": "Le Monde libre",
+      "valeur": 75,
+      "cible": "Le Monde SA",
+      "source": "lemonde.fr",
+      "datePublication": "17/10/2018",
+      "dateConsultation": "08/12/2018",
+      "cibleId": "15",
+      "cibleSlug": "le-monde-sa-15",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "le-monde-libre-14"
+    },
+    {
+      "id": "9",
+      "origine": "Prisa",
+      "valeur": 20,
+      "cible": "Le Monde libre",
+      "cibleId": "14",
+      "cibleSlug": "le-monde-libre-14",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "prisa-9"
+    },
+    {
+      "id": "10",
+      "origine": "Xavier Niel",
+      "valeur": 26,
+      "cible": "Le Monde libre",
+      "source": "https://fr.reuters.com/article/topNews/idFRKCN1BJ24Z-OFRTP",
+      "datePublication": "08/09/2017",
+      "cibleId": "14",
+      "cibleSlug": "le-monde-libre-14",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "xavier-niel-10"
+    },
+    {
+      "id": "13",
+      "origine": "Le Nouveau Monde",
+      "valeur": 26,
+      "cible": "Le Monde libre",
+      "source": "lemonde.fr",
+      "datePublication": "17/10/2018",
+      "dateConsultation": "08/12/2018",
+      "cibleId": "14",
+      "cibleSlug": "le-monde-libre-14",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "le-nouveau-monde-13"
+    },
+    {
+      "id": "12",
+      "origine": "Combat Solutions",
+      "valeur": 51,
+      "cible": "Le Nouveau Monde",
+      "source": "lemonde.fr",
+      "datePublication": "17/10/2018",
+      "dateConsultation": "08/12/2018",
+      "cibleId": "13",
+      "cibleSlug": "le-nouveau-monde-13",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "combat-solutions-12"
+    },
+    {
+      "id": "11",
+      "origine": "Matthieu Pigasse",
+      "valeur": 78,
+      "cible": "Combat Solutions",
+      "cibleId": "12",
+      "cibleSlug": "combat-solutions-12",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "matthieu-pigasse-11"
+    },
+    {
+      "id": "93",
+      "origine": "Czech Media Invest",
+      "valeur": 49,
+      "cible": "Le Nouveau Monde",
+      "source": "lemonde.fr",
+      "datePublication": "17/10/2018",
+      "dateConsultation": "08/12/2018",
+      "cibleId": "13",
+      "cibleSlug": "le-nouveau-monde-13",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "czech-media-invest-93"
+    },
+    {
+      "id": "92",
+      "origine": "Daniel Křetínský",
+      "valeur": 50,
+      "cible": "Czech Media Invest",
+      "source": "bfmbusiness.bfmtv.com",
+      "datePublication": "24/04/2018",
+      "dateConsultation": "22/07/2018",
+      "cibleId": "93",
+      "cibleSlug": "czech-media-invest-93",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "daniel-kretinsky-92"
+    },
+    {
+      "id": "323",
+      "origine": "Madison Cox",
+      "valeur": 28,
+      "cible": "Le Monde libre",
+      "source": "https://www.lemonde.fr/economie/article/2019/09/04/le-groupe-le-monde-demande-a-ses-actionnaires-de-tenir-leurs-engagements_5506287_3234.html",
+      "cibleId": "14",
+      "cibleSlug": "le-monde-libre-14",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "madison-cox-323"
+    },
+    {
+      "id": "33",
+      "origine": "Les Amis du Monde diplomatique",
+      "valeur": 24,
+      "cible": "Manière de voir",
+      "cibleId": "25",
+      "cibleSlug": "maniere-de-voir-25",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "les-amis-du-monde-diplomatique-33"
+    },
+    {
+      "id": "34",
+      "origine": "Association Günter-Holzmann",
+      "valeur": 24,
+      "cible": "Manière de voir",
+      "cibleId": "25",
+      "cibleSlug": "maniere-de-voir-25",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "association-guenter-holzmann-34"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "15",
+      "nom": "Le Monde SA",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "le-monde-sa-15"
+    },
+    {
+      "id": "25",
+      "nom": "Manière de voir",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Bimestriel",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "24740",
+      "graphPosition": "leaf",
+      "slug": "maniere-de-voir-25",
+      "wikidata": {
+        "id": "Q3285985",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mani%C3%A8re_de_voir"
+      }
+    },
+    {
+      "id": "14",
+      "nom": "Le Monde libre",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "le-monde-libre-14",
+      "wikidata": {
+        "id": "Q55180846",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Monde_libre_(entreprise)"
+      }
+    },
+    {
+      "id": "9",
+      "nom": "Prisa",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "prisa-9",
+      "wikidata": {
+        "id": "Q1466106",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Prisa",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "PRISA.svg",
+          "filenameEleventy": "prisa-9.svg"
+        }
+      }
+    },
+    {
+      "id": "10",
+      "nom": "Xavier Niel",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "12",
+      "milliardaireForbes": "230",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "xavier-niel-10",
+      "wikidata": {
+        "id": "Q1450891",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Xavier_Niel",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Xavier_Niel,_FreeIliad.jpg",
+          "filenameEleventy": "xavier-niel-10.jpg"
+        }
+      }
+    },
+    {
+      "id": "13",
+      "nom": "Le Nouveau Monde",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "le-nouveau-monde-13",
+      "wikidata": {
+        "id": "Q67147074"
+      }
+    },
+    {
+      "id": "12",
+      "nom": "Combat Solutions",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "combat-solutions-12",
+      "wikidata": {
+        "id": "Q24929235",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Les_Nouvelles_%C3%89ditions_ind%C3%A9pendantes"
+      }
+    },
+    {
+      "id": "11",
+      "nom": "Matthieu Pigasse",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "matthieu-pigasse-11",
+      "wikidata": {
+        "id": "Q3299928",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Matthieu_Pigasse",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Matthieu_Pigasse.jpg",
+          "filenameEleventy": "matthieu-pigasse-11.jpg"
+        }
+      }
+    },
+    {
+      "id": "93",
+      "nom": "Czech Media Invest",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "czech-media-invest-93",
+      "wikidata": {
+        "id": "Q27830718",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Czech_Media_Invest"
+      }
+    },
+    {
+      "id": "92",
+      "nom": "Daniel Křetínský",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "504",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "daniel-kretinsky-92",
+      "wikidata": {
+        "id": "Q11774225",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Daniel_K%C5%99et%C3%ADnsk%C3%BD"
+      }
+    },
+    {
+      "id": "323",
+      "nom": "Madison Cox",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "madison-cox-323",
+      "wikidata": {
+        "id": "Q30118169",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Madison_Cox"
+      }
+    },
+    {
+      "id": "33",
+      "nom": "Les Amis du Monde diplomatique",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "les-amis-du-monde-diplomatique-33",
+      "wikidata": {
+        "id": "Q2843543",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Amis_du_Monde_diplomatique"
+      }
+    },
+    {
+      "id": "34",
+      "nom": "Association Günter-Holzmann",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "association-guenter-holzmann-34",
+      "wikidata": {
+        "id": "Q29640269"
+      }
+    }
+  ]
+}

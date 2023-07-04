@@ -1,0 +1,120 @@
+{
+  "id": "117",
+  "nom": "Georges Ghosn",
+  "typeLibelle": "Personne physique",
+  "typeCode": "1",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "",
+  "commentaire": "",
+  "ACPMdiffusion": "",
+  "graphPosition": "root",
+  "slug": "georges-ghosn-117",
+  "wikidata": {
+    "id": "Q3102771",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Georges_Ghosn"
+  },
+  "incomingRelations": [],
+  "outgoingRelations": [
+    {
+      "id": "118",
+      "origine": "Ghosn Capital",
+      "valeur": 100,
+      "cible": "VSD",
+      "source": "strategies.fr, AFP",
+      "datePublication": "06/06/2018",
+      "cibleId": "119",
+      "cibleSlug": "vsd-119",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "ghosn-capital-118",
+      "indirecte": true,
+      "idsPair": "118-119"
+    }
+  ],
+  "allRelations": [
+    {
+      "id": "117",
+      "origine": "Georges Ghosn",
+      "valeur": 100,
+      "cible": "Ghosn Capital",
+      "source": "strategies.fr, AFP",
+      "datePublication": "06/06/2018",
+      "cibleId": "118",
+      "cibleSlug": "ghosn-capital-118",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "georges-ghosn-117"
+    },
+    {
+      "id": "118",
+      "origine": "Ghosn Capital",
+      "valeur": 100,
+      "cible": "VSD",
+      "source": "strategies.fr, AFP",
+      "datePublication": "06/06/2018",
+      "cibleId": "119",
+      "cibleSlug": "vsd-119",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "ghosn-capital-118"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "117",
+      "nom": "Georges Ghosn",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "georges-ghosn-117",
+      "wikidata": {
+        "id": "Q3102771",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Georges_Ghosn"
+      }
+    },
+    {
+      "id": "118",
+      "nom": "Ghosn Capital",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "ghosn-capital-118"
+    },
+    {
+      "id": "119",
+      "nom": "VSD",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Mensuel",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "vsd-119",
+      "wikidata": {
+        "id": "Q3553009",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/VSD_(magazine)"
+      }
+    }
+  ]
+}

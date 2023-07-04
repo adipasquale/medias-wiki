@@ -1,0 +1,136 @@
+{
+  "id": "168",
+  "nom": "Chérie FM",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "Radio",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "National",
+  "commentaire": "",
+  "ACPMdiffusion": "",
+  "graphPosition": "leaf",
+  "slug": "cherie-fm-168",
+  "wikidata": {
+    "id": "Q1090951",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Ch%C3%A9rie_FM",
+    "image": {
+      "typeImage": "logo",
+      "filenameOriginal": "Chérie_webradio.jpg",
+      "filenameEleventy": "cherie-fm-168.jpg"
+    }
+  },
+  "incomingRelations": [
+    {
+      "id": "162",
+      "origine": "Jean-Paul Baudecroux",
+      "valeur": 79,
+      "cible": "NRJ Group",
+      "cibleId": "163",
+      "cibleSlug": "nrj-group-163",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "jean-paul-baudecroux-162",
+      "indirecte": true,
+      "idsPair": "162-163"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "163",
+      "origine": "NRJ Group",
+      "valeur": 100,
+      "cible": "Chérie FM",
+      "source": "nrjgroup.fr",
+      "datePublication": "31/12/2015",
+      "dateConsultation": "16/05/2016",
+      "cibleId": "168",
+      "cibleSlug": "cherie-fm-168",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "nrj-group-163"
+    },
+    {
+      "id": "162",
+      "origine": "Jean-Paul Baudecroux",
+      "valeur": 79,
+      "cible": "NRJ Group",
+      "cibleId": "163",
+      "cibleSlug": "nrj-group-163",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "jean-paul-baudecroux-162"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "163",
+      "nom": "NRJ Group",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "nrj-group-163",
+      "wikidata": {
+        "id": "Q1412968",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/NRJ_Group",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Siège_de_NRJ,_22_rue_Boileau,_Paris_16e.jpg",
+          "filenameEleventy": "nrj-group-163.jpg"
+        }
+      }
+    },
+    {
+      "id": "168",
+      "nom": "Chérie FM",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "Radio",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "National",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "cherie-fm-168",
+      "wikidata": {
+        "id": "Q1090951",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Ch%C3%A9rie_FM",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Chérie_webradio.jpg",
+          "filenameEleventy": "cherie-fm-168.jpg"
+        }
+      }
+    },
+    {
+      "id": "162",
+      "nom": "Jean-Paul Baudecroux",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "314",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "jean-paul-baudecroux-162",
+      "wikidata": {
+        "id": "Q1685120",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Jean-Paul_Baudecroux"
+      }
+    }
+  ]
+}

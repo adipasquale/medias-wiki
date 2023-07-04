@@ -1,0 +1,23 @@
+<section>
+  <b>Vue détaillée des liens de financement de {{ nom }}</b>
+  <pre class="mermaid">
+    flowchart TD
+      {% for entity in allRelationsEntities %}
+        {% if entity.typeLibelle == "Personne physique" %}
+          {{ entity.slug }}(["🧑‍💼 {{ entity.nom }}"])
+        {% elif entity.typeLibelle == "Média" %}
+          {{ entity.slug }}{% raw %}{{{% endraw %}"📰 {{ entity.nom }}"{% raw %}}}{% endraw %}
+          style {{ entity.slug }} fill:#61c5dc
+        {% else %}
+          {{ entity.slug }}["{{ entity.nom }}"]
+        {% endif %}
+        {% if entity.id == id %}
+          style {{ entity.slug }} stroke:#000,stroke-width:4px
+        {% endif %}
+      {% endfor %}
+
+      {% for relation in allRelations %}
+        {{ relation.origineSlug }} -- {{ relation.typeRelation }} {{ relation.valeur | round }}% --> {{ relation.cibleSlug }}
+      {% endfor %}
+  </pre>
+</section>

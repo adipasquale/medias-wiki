@@ -1,0 +1,418 @@
+{
+  "id": "67",
+  "nom": "Arnaud Lagardère",
+  "typeLibelle": "Personne physique",
+  "typeCode": "1",
+  "rangChallenges": "317",
+  "milliardaireForbes": "",
+  "mediaType": "",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "",
+  "commentaire": "",
+  "ACPMdiffusion": "",
+  "graphPosition": "root",
+  "slug": "arnaud-lagardere-67",
+  "wikidata": {
+    "id": "Q691440",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Arnaud_Lagard%C3%A8re",
+    "image": {
+      "typeImage": "image",
+      "filenameOriginal": "20190713_arnaud_lagardere.jpg",
+      "filenameEleventy": "arnaud-lagardere-67.jpg"
+    }
+  },
+  "incomingRelations": [],
+  "outgoingRelations": [
+    {
+      "id": "70",
+      "origine": "Lagardère News",
+      "valeur": 7,
+      "cible": "Europe 1",
+      "source": "lagardere.com",
+      "datePublication": "31/12/2015",
+      "dateConsultation": "14/05/2016",
+      "cibleId": "74",
+      "cibleSlug": "europe-1-74",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "lagardere-news-70",
+      "indirecte": true,
+      "idsPair": "70-74"
+    },
+    {
+      "id": "70",
+      "origine": "Lagardère News",
+      "valeur": 7,
+      "cible": "Le Journal du dimanche",
+      "source": "lagardere.com",
+      "datePublication": "31/12/2015",
+      "dateConsultation": "14/05/2016",
+      "cibleId": "71",
+      "cibleSlug": "le-journal-du-dimanche-71",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "lagardere-news-70",
+      "indirecte": true,
+      "idsPair": "70-71"
+    },
+    {
+      "id": "70",
+      "origine": "Lagardère News",
+      "valeur": 7,
+      "cible": "Paris Match",
+      "source": "lagardere.com",
+      "datePublication": "31/12/2015",
+      "dateConsultation": "14/05/2016",
+      "cibleId": "72",
+      "cibleSlug": "paris-match-72",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "lagardere-news-70",
+      "indirecte": true,
+      "idsPair": "70-72"
+    },
+    {
+      "id": "70",
+      "origine": "Lagardère News",
+      "valeur": 7,
+      "cible": "RFM",
+      "source": "lagardere.com",
+      "datePublication": "31/12/2015",
+      "dateConsultation": "14/05/2016",
+      "cibleId": "75",
+      "cibleSlug": "rfm-75",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "lagardere-news-70",
+      "indirecte": true,
+      "idsPair": "70-75"
+    },
+    {
+      "id": "70",
+      "origine": "Lagardère News",
+      "valeur": 7,
+      "cible": "Virgin Radio",
+      "source": "lagardere.com",
+      "datePublication": "31/12/2015",
+      "dateConsultation": "14/05/2016",
+      "cibleId": "76",
+      "cibleSlug": "virgin-radio-76",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "lagardere-news-70",
+      "indirecte": true,
+      "idsPair": "70-76"
+    },
+    {
+      "id": "67",
+      "origine": "Arnaud Lagardère",
+      "valeur": 73,
+      "cible": "Lagardère Capital & Management",
+      "cibleId": "331",
+      "cibleSlug": "lagardere-capital-and-management-331",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "arnaud-lagardere-67",
+      "idsPair": "67-331"
+    }
+  ],
+  "allRelations": [
+    {
+      "id": "67",
+      "origine": "Arnaud Lagardère",
+      "valeur": 7,
+      "cible": "Lagardère SA",
+      "cibleId": "69",
+      "cibleSlug": "lagardere-sa-69",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "arnaud-lagardere-67"
+    },
+    {
+      "id": "69",
+      "origine": "Lagardère SA",
+      "valeur": 100,
+      "cible": "Lagardère News",
+      "cibleId": "70",
+      "cibleSlug": "lagardere-news-70",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "lagardere-sa-69"
+    },
+    {
+      "id": "70",
+      "origine": "Lagardère News",
+      "valeur": 100,
+      "cible": "Europe 1",
+      "source": "lagardere.com",
+      "datePublication": "31/12/2015",
+      "dateConsultation": "14/05/2016",
+      "cibleId": "74",
+      "cibleSlug": "europe-1-74",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "lagardere-news-70"
+    },
+    {
+      "id": "70",
+      "origine": "Lagardère News",
+      "valeur": 100,
+      "cible": "Le Journal du dimanche",
+      "source": "lagardere.com",
+      "datePublication": "31/12/2015",
+      "dateConsultation": "14/05/2016",
+      "cibleId": "71",
+      "cibleSlug": "le-journal-du-dimanche-71",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "lagardere-news-70"
+    },
+    {
+      "id": "70",
+      "origine": "Lagardère News",
+      "valeur": 100,
+      "cible": "Paris Match",
+      "source": "lagardere.com",
+      "datePublication": "31/12/2015",
+      "dateConsultation": "14/05/2016",
+      "cibleId": "72",
+      "cibleSlug": "paris-match-72",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "lagardere-news-70"
+    },
+    {
+      "id": "70",
+      "origine": "Lagardère News",
+      "valeur": 100,
+      "cible": "RFM",
+      "source": "lagardere.com",
+      "datePublication": "31/12/2015",
+      "dateConsultation": "14/05/2016",
+      "cibleId": "75",
+      "cibleSlug": "rfm-75",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "lagardere-news-70"
+    },
+    {
+      "id": "70",
+      "origine": "Lagardère News",
+      "valeur": 100,
+      "cible": "Virgin Radio",
+      "source": "lagardere.com",
+      "datePublication": "31/12/2015",
+      "dateConsultation": "14/05/2016",
+      "cibleId": "76",
+      "cibleSlug": "virgin-radio-76",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "lagardere-news-70"
+    },
+    {
+      "id": "67",
+      "origine": "Arnaud Lagardère",
+      "valeur": 73,
+      "cible": "Lagardère Capital & Management",
+      "cibleId": "331",
+      "cibleSlug": "lagardere-capital-and-management-331",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "arnaud-lagardere-67"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "67",
+      "nom": "Arnaud Lagardère",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "317",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "arnaud-lagardere-67",
+      "wikidata": {
+        "id": "Q691440",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Arnaud_Lagard%C3%A8re",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "20190713_arnaud_lagardere.jpg",
+          "filenameEleventy": "arnaud-lagardere-67.jpg"
+        }
+      }
+    },
+    {
+      "id": "69",
+      "nom": "Lagardère SA",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "lagardere-sa-69",
+      "wikidata": {
+        "id": "Q1490400",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Lagard%C3%A8re_(entreprise)",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Lagardère.svg",
+          "filenameEleventy": "lagardere-sa-69.svg"
+        }
+      }
+    },
+    {
+      "id": "70",
+      "nom": "Lagardère News",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "lagardere-news-70",
+      "wikidata": {
+        "id": "Q3216152",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Lagard%C3%A8re_News"
+      }
+    },
+    {
+      "id": "74",
+      "nom": "Europe 1",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "Radio",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "National",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "europe-1-74",
+      "wikidata": {
+        "id": "Q314407",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Europe_1",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Europe_1_logo_(2010).svg",
+          "filenameEleventy": "europe-1-74.svg"
+        }
+      }
+    },
+    {
+      "id": "71",
+      "nom": "Le Journal du dimanche",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Hebdomaire",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "le-journal-du-dimanche-71",
+      "wikidata": {
+        "id": "Q501461",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Journal_du_dimanche",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Logo_Journal_du_dimanche.svg",
+          "filenameEleventy": "le-journal-du-dimanche-71.svg"
+        }
+      }
+    },
+    {
+      "id": "72",
+      "nom": "Paris Match",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Hebdomaire",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "502040",
+      "graphPosition": "leaf",
+      "slug": "paris-match-72",
+      "wikidata": {
+        "id": "Q678095",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Paris_Match",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Paris_Match_1981_logo.svg",
+          "filenameEleventy": "paris-match-72.svg"
+        }
+      }
+    },
+    {
+      "id": "75",
+      "nom": "RFM",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "Radio",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "National",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "rfm-75",
+      "wikidata": {
+        "id": "Q3415172",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/RFM"
+      }
+    },
+    {
+      "id": "76",
+      "nom": "Virgin Radio",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "Radio",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "National",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "virgin-radio-76",
+      "wikidata": {
+        "id": "Q3560647",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Europe_2"
+      }
+    },
+    {
+      "id": "331",
+      "nom": "Lagardère Capital & Management",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "lagardere-capital-and-management-331"
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "id": "335",
+  "nom": "Télé-Loisirs",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "GPE",
+  "mediaPeriodicite": "Hebdomadaire",
+  "mediaEchelle": "National",
+  "commentaire": "Payant",
+  "ACPMdiffusion": "510580",
+  "graphPosition": "leaf",
+  "slug": "tele-loisirs-335",
+  "incomingRelations": [
+    {
+      "id": "102",
+      "origine": "Famille Mohn",
+      "valeur": 0,
+      "cible": "Bertelsmann",
+      "cibleId": "103",
+      "cibleSlug": "bertelsmann-103",
+      "typeRelation": "contrôle",
+      "valeurMinimum": false,
+      "origineSlug": "famille-mohn-102",
+      "indirecte": true,
+      "idsPair": "102-103"
+    },
+    {
+      "id": "77",
+      "origine": "Vincent Bolloré",
+      "valeur": 8.4672,
+      "cible": "Financière de l’Odet",
+      "cibleId": "78",
+      "cibleSlug": "financiere-de-l-odet-78",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "vincent-bollore-77",
+      "indirecte": true,
+      "idsPair": "77-78"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "106",
+      "origine": "Prisma Media",
+      "valeur": 100,
+      "cible": "Télé-Loisirs",
+      "cibleId": "335",
+      "cibleSlug": "tele-loisirs-335",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "prisma-media-106"
+    },
+    {
+      "id": "104",
+      "origine": "Gruner + Jahr",
+      "valeur": 0,
+      "cible": "Prisma Media",
+      "cibleId": "106",
+      "cibleSlug": "prisma-media-106",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "gruner-jahr-104"
+    },
+    {
+      "id": "103",
+      "origine": "Bertelsmann",
+      "valeur": 100,
+      "cible": "Gruner + Jahr",
+      "cibleId": "104",
+      "cibleSlug": "gruner-jahr-104",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "bertelsmann-103"
+    },
+    {
+      "id": "102",
+      "origine": "Famille Mohn",
+      "valeur": 100,
+      "cible": "Bertelsmann",
+      "cibleId": "103",
+      "cibleSlug": "bertelsmann-103",
+      "typeRelation": "contrôle",
+      "valeurMinimum": false,
+      "origineSlug": "famille-mohn-102"
+    },
+    {
+      "id": "81",
+      "origine": "Vivendi",
+      "valeur": 100,
+      "cible": "Prisma Media",
+      "cibleId": "106",
+      "cibleSlug": "prisma-media-106",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "vivendi-81"
+    },
+    {
+      "id": "79",
+      "origine": "Bolloré",
+      "valeur": 27,
+      "cible": "Vivendi",
+      "source": "bollore.com, vivendi.com, ozap.com",
+      "datePublication": "31/12/2015, 21/04/2017, 31/12/2015",
+      "dateConsultation": "28/06/2016 , 10/10/2016",
+      "cibleId": "81",
+      "cibleSlug": "vivendi-81",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "bollore-79"
+    },
+    {
+      "id": "78",
+      "origine": "Financière de l’Odet",
+      "valeur": 64,
+      "cible": "Bolloré",
+      "cibleId": "79",
+      "cibleSlug": "bollore-79",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "financiere-de-l-odet-78"
+    },
+    {
+      "id": "77",
+      "origine": "Vincent Bolloré",
+      "valeur": 49,
+      "cible": "Financière de l’Odet",
+      "cibleId": "78",
+      "cibleSlug": "financiere-de-l-odet-78",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "vincent-bollore-77"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "106",
+      "nom": "Prisma Media",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "prisma-media-106",
+      "wikidata": {
+        "id": "Q3403917",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Prisma_Media",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "LOGO_PRISMA_RVB-01.jpg",
+          "filenameEleventy": "prisma-media-106.jpg"
+        }
+      }
+    },
+    {
+      "id": "335",
+      "nom": "Télé-Loisirs",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Hebdomadaire",
+      "mediaEchelle": "National",
+      "commentaire": "Payant",
+      "ACPMdiffusion": "510580",
+      "graphPosition": "leaf",
+      "slug": "tele-loisirs-335"
+    },
+    {
+      "id": "104",
+      "nom": "Gruner + Jahr",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "gruner-jahr-104",
+      "wikidata": {
+        "id": "Q481536",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Gruner_%2B_Jahr",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Gruner+Jahr-Logo.svg",
+          "filenameEleventy": "gruner-jahr-104.svg"
+        }
+      }
+    },
+    {
+      "id": "103",
+      "nom": "Bertelsmann",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "bertelsmann-103",
+      "wikidata": {
+        "id": "Q156913",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Bertelsmann",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Bertelsmann_2011_logo.svg",
+          "filenameEleventy": "bertelsmann-103.svg"
+        }
+      }
+    },
+    {
+      "id": "102",
+      "nom": "Famille Mohn",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "famille-mohn-102",
+      "wikidata": {
+        "id": "Q28497831",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Famille_Mohn"
+      }
+    },
+    {
+      "id": "81",
+      "nom": "Vivendi",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "vivendi-81",
+      "wikidata": {
+        "id": "Q1127887",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Vivendi",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Logo_vivendi.svg",
+          "filenameEleventy": "vivendi-81.svg"
+        }
+      }
+    },
+    {
+      "id": "79",
+      "nom": "Bolloré",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "bollore-79",
+      "wikidata": {
+        "id": "Q444172",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Bollor%C3%A9",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Bolloré_Logo_2021.svg",
+          "filenameEleventy": "bollore-79.svg"
+        }
+      }
+    },
+    {
+      "id": "78",
+      "nom": "Financière de l’Odet",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "financiere-de-l-odet-78",
+      "wikidata": {
+        "id": "Q3072532",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Financi%C3%A8re_de_l%27Odet"
+      }
+    },
+    {
+      "id": "77",
+      "nom": "Vincent Bolloré",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "13",
+      "milliardaireForbes": "316",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "vincent-bollore-77",
+      "wikidata": {
+        "id": "Q721491",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Vincent_Bollor%C3%A9",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Festival_automobile_international_2014_-_Photocall_-_103.jpg",
+          "filenameEleventy": "vincent-bollore-77.jpg"
+        }
+      }
+    }
+  ]
+}

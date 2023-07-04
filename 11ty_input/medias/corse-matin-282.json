@@ -1,0 +1,176 @@
+{
+  "id": "282",
+  "nom": "Corse Matin",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "GPE",
+  "mediaPeriodicite": "Quotidien",
+  "mediaEchelle": "Régional",
+  "commentaire": "",
+  "ACPMdiffusion": "25167",
+  "graphPosition": "leaf",
+  "slug": "corse-matin-282",
+  "wikidata": {
+    "id": "Q1135428",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Corse-Matin"
+  },
+  "incomingRelations": [
+    {
+      "id": "10",
+      "origine": "Xavier Niel",
+      "valeur": 7.15,
+      "cible": "Groupe La Provence",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "06/11/2019",
+      "cibleId": "280",
+      "cibleSlug": "groupe-la-provence-280",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "xavier-niel-10",
+      "indirecte": true,
+      "idsPair": "10-280"
+    },
+    {
+      "id": "276",
+      "origine": "Ayant droit de Bernard Tapie",
+      "valeur": 57.85,
+      "cible": "Groupe La Provence",
+      "cibleId": "280",
+      "cibleSlug": "groupe-la-provence-280",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "ayant-droit-de-bernard-tapie-276",
+      "indirecte": true,
+      "idsPair": "276-280"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "280",
+      "origine": "Groupe La Provence",
+      "valeur": 65,
+      "cible": "Corse Matin",
+      "source": "latribune.fr",
+      "datePublication": "18/3/2018",
+      "dateConsultation": "22/07/2018",
+      "cibleId": "282",
+      "cibleSlug": "corse-matin-282",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-la-provence-280"
+    },
+    {
+      "id": "10",
+      "origine": "Xavier Niel",
+      "valeur": 11,
+      "cible": "Groupe La Provence",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "06/11/2019",
+      "cibleId": "280",
+      "cibleSlug": "groupe-la-provence-280",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "xavier-niel-10"
+    },
+    {
+      "id": "276",
+      "origine": "Ayant droit de Bernard Tapie",
+      "valeur": 89,
+      "cible": "Groupe La Provence",
+      "cibleId": "280",
+      "cibleSlug": "groupe-la-provence-280",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "ayant-droit-de-bernard-tapie-276"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "280",
+      "nom": "Groupe La Provence",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-la-provence-280"
+    },
+    {
+      "id": "282",
+      "nom": "Corse Matin",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Quotidien",
+      "mediaEchelle": "Régional",
+      "commentaire": "",
+      "ACPMdiffusion": "25167",
+      "graphPosition": "leaf",
+      "slug": "corse-matin-282",
+      "wikidata": {
+        "id": "Q1135428",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Corse-Matin"
+      }
+    },
+    {
+      "id": "10",
+      "nom": "Xavier Niel",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "12",
+      "milliardaireForbes": "230",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "xavier-niel-10",
+      "wikidata": {
+        "id": "Q1450891",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Xavier_Niel",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Xavier_Niel,_FreeIliad.jpg",
+          "filenameEleventy": "xavier-niel-10.jpg"
+        }
+      }
+    },
+    {
+      "id": "276",
+      "nom": "Ayant droit de Bernard Tapie",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "ayant-droit-de-bernard-tapie-276",
+      "wikidata": {
+        "id": "Q728645",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Bernard_Tapie",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Tapie_en_2011_en_tournée_en_Belgique_pour_\"OSCAR\"..jpg",
+          "filenameEleventy": "ayant-droit-de-bernard-tapie-276.jpg"
+        }
+      }
+    }
+  ]
+}

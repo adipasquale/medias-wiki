@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "medias-proprietaires"
+version = "0.1.0"
+description = ""
+authors = ["Adrien Di Pasquale <adrien@dipasquale.fr>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "medias_proprietaires"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.0.3"
+jupyter = "^1.0.0"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

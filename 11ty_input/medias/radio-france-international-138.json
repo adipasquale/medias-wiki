@@ -1,0 +1,133 @@
+{
+  "id": "138",
+  "nom": "Radio France International",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "Radio",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "International",
+  "commentaire": "",
+  "ACPMdiffusion": "",
+  "graphPosition": "leaf",
+  "slug": "radio-france-international-138",
+  "wikidata": {
+    "id": "Q19912",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Radio_France_internationale",
+    "image": {
+      "typeImage": "logo",
+      "filenameOriginal": "RFI_logo_2013.svg",
+      "filenameEleventy": "radio-france-international-138.svg"
+    }
+  },
+  "incomingRelations": [
+    {
+      "id": "128",
+      "origine": "République française",
+      "valeur": 100,
+      "cible": "France Médias Monde",
+      "cibleId": "133",
+      "cibleSlug": "france-medias-monde-133",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "republique-francaise-128",
+      "indirecte": true,
+      "idsPair": "128-133"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "133",
+      "origine": "France Médias Monde",
+      "valeur": 100,
+      "cible": "Radio France International",
+      "cibleId": "138",
+      "cibleSlug": "radio-france-international-138",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "france-medias-monde-133"
+    },
+    {
+      "id": "128",
+      "origine": "République française",
+      "valeur": 100,
+      "cible": "France Médias Monde",
+      "cibleId": "133",
+      "cibleSlug": "france-medias-monde-133",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "republique-francaise-128"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "133",
+      "nom": "France Médias Monde",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "france-medias-monde-133",
+      "wikidata": {
+        "id": "Q3487971",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/France_M%C3%A9dias_Monde"
+      }
+    },
+    {
+      "id": "138",
+      "nom": "Radio France International",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "Radio",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "International",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "radio-france-international-138",
+      "wikidata": {
+        "id": "Q19912",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Radio_France_internationale",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "RFI_logo_2013.svg",
+          "filenameEleventy": "radio-france-international-138.svg"
+        }
+      }
+    },
+    {
+      "id": "128",
+      "nom": "République française",
+      "typeLibelle": "État",
+      "typeCode": "4",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "republique-francaise-128",
+      "wikidata": {
+        "id": "Q142",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/France",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Paris_from_the_Arc_de_Triomphe,_17_October_2019.jpg",
+          "filenameEleventy": "republique-francaise-128.jpg"
+        }
+      }
+    }
+  ]
+}

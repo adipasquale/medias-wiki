@@ -1,0 +1,278 @@
+{
+  "id": "221",
+  "nom": "Famille Saint-Cricq",
+  "typeLibelle": "Personne physique",
+  "typeCode": "1",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "",
+  "commentaire": "",
+  "ACPMdiffusion": "",
+  "graphPosition": "root",
+  "slug": "famille-saint-cricq-221",
+  "incomingRelations": [],
+  "outgoingRelations": [
+    {
+      "id": "237",
+      "origine": "Groupe NRCO",
+      "valeur": 15,
+      "cible": "Centre Presse",
+      "source": "wikipedia.org",
+      "datePublication": "",
+      "dateConsultation": "05/05/2016",
+      "cibleId": "239",
+      "cibleSlug": "centre-presse-239",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-nrco-237",
+      "indirecte": true,
+      "idsPair": "237-239"
+    },
+    {
+      "id": "237",
+      "origine": "Groupe NRCO",
+      "valeur": 4.5,
+      "cible": "La République du Centre",
+      "source": "docpresse.esj-lille.fr",
+      "datePublication": "22/03/2012",
+      "dateConsultation": "30/06/2016",
+      "cibleId": "236",
+      "cibleSlug": "la-republique-du-centre-236",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-nrco-237",
+      "indirecte": true,
+      "idsPair": "237-236"
+    },
+    {
+      "id": "237",
+      "origine": "Groupe NRCO",
+      "valeur": 15,
+      "cible": "Nouvelle République du Centre",
+      "source": "lesechos.fr",
+      "datePublication": "04/01/2012",
+      "dateConsultation": "05/05/2016",
+      "cibleId": "238",
+      "cibleSlug": "nouvelle-republique-du-centre-238",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-nrco-237",
+      "indirecte": true,
+      "idsPair": "237-238"
+    },
+    {
+      "id": "237",
+      "origine": "Groupe NRCO",
+      "valeur": 6,
+      "cible": "TV Tours",
+      "source": "wikipedia.org",
+      "datePublication": "",
+      "dateConsultation": "05/05/2016",
+      "cibleId": "240",
+      "cibleSlug": "tv-tours-240",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-nrco-237",
+      "indirecte": true,
+      "idsPair": "237-240"
+    }
+  ],
+  "allRelations": [
+    {
+      "id": "221",
+      "origine": "Famille Saint-Cricq",
+      "valeur": 15,
+      "cible": "Groupe NRCO",
+      "cibleId": "237",
+      "cibleSlug": "groupe-nrco-237",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "famille-saint-cricq-221"
+    },
+    {
+      "id": "237",
+      "origine": "Groupe NRCO",
+      "valeur": 100,
+      "cible": "Centre Presse",
+      "source": "wikipedia.org",
+      "datePublication": "",
+      "dateConsultation": "05/05/2016",
+      "cibleId": "239",
+      "cibleSlug": "centre-presse-239",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-nrco-237"
+    },
+    {
+      "id": "237",
+      "origine": "Groupe NRCO",
+      "valeur": 30,
+      "cible": "La République du Centre",
+      "source": "docpresse.esj-lille.fr",
+      "datePublication": "22/03/2012",
+      "dateConsultation": "30/06/2016",
+      "cibleId": "236",
+      "cibleSlug": "la-republique-du-centre-236",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-nrco-237"
+    },
+    {
+      "id": "237",
+      "origine": "Groupe NRCO",
+      "valeur": 100,
+      "cible": "Nouvelle République du Centre",
+      "source": "lesechos.fr",
+      "datePublication": "04/01/2012",
+      "dateConsultation": "05/05/2016",
+      "cibleId": "238",
+      "cibleSlug": "nouvelle-republique-du-centre-238",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-nrco-237"
+    },
+    {
+      "id": "237",
+      "origine": "Groupe NRCO",
+      "valeur": 40,
+      "cible": "TV Tours",
+      "source": "wikipedia.org",
+      "datePublication": "",
+      "dateConsultation": "05/05/2016",
+      "cibleId": "240",
+      "cibleSlug": "tv-tours-240",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-nrco-237"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "221",
+      "nom": "Famille Saint-Cricq",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "famille-saint-cricq-221"
+    },
+    {
+      "id": "237",
+      "nom": "Groupe NRCO",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-nrco-237",
+      "wikidata": {
+        "id": "Q3345182",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Nouvelle_R%C3%A9publique_du_Centre-Ouest_(groupe)"
+      }
+    },
+    {
+      "id": "239",
+      "nom": "Centre Presse",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Quotidien",
+      "mediaEchelle": "Régional",
+      "commentaire": "",
+      "ACPMdiffusion": "16236",
+      "graphPosition": "leaf",
+      "slug": "centre-presse-239",
+      "wikidata": {
+        "id": "Q2944867",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Centre_Presse_(Vienne)"
+      }
+    },
+    {
+      "id": "236",
+      "nom": "La République du Centre",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Quotidien",
+      "mediaEchelle": "Régional",
+      "commentaire": "",
+      "ACPMdiffusion": "24726",
+      "graphPosition": "leaf",
+      "slug": "la-republique-du-centre-236",
+      "wikidata": {
+        "id": "Q3212596",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/La_R%C3%A9publique_du_Centre",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "La_République_du_Centre_Logo.gif",
+          "filenameEleventy": "la-republique-du-centre-236.gif"
+        }
+      }
+    },
+    {
+      "id": "238",
+      "nom": "Nouvelle République du Centre",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Quotidien",
+      "mediaEchelle": "Régional",
+      "commentaire": "",
+      "ACPMdiffusion": "141424",
+      "graphPosition": "leaf",
+      "slug": "nouvelle-republique-du-centre-238",
+      "wikidata": {
+        "id": "Q3211144",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/La_Nouvelle_R%C3%A9publique_du_Centre-Ouest",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Siège_social_La_Nouvelle_République.jpg",
+          "filenameEleventy": "nouvelle-republique-du-centre-238.jpg"
+        }
+      }
+    },
+    {
+      "id": "240",
+      "nom": "TV Tours",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "Télévision",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "Régional",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "tv-tours-240",
+      "wikidata": {
+        "id": "Q3512629",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/TV_Tours-Val_de_Loire",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Logo_tvt_2016_RVB.png",
+          "filenameEleventy": "tv-tours-240.png"
+        }
+      }
+    }
+  ]
+}

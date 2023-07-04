@@ -1,0 +1,169 @@
+{
+  "id": "284",
+  "nom": "Jean-Louis Louvel",
+  "typeLibelle": "Personne physique",
+  "typeCode": "1",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "",
+  "commentaire": "",
+  "ACPMdiffusion": "",
+  "graphPosition": "root",
+  "slug": "jean-louis-louvel-284",
+  "wikidata": {
+    "id": "Q33137935"
+  },
+  "incomingRelations": [],
+  "outgoingRelations": [
+    {
+      "id": "285",
+      "origine": "Société Normande d’Information et de Communication",
+      "valeur": 90,
+      "cible": "Havre Dimanche",
+      "source": "lesechos.fr, wikipedia.org",
+      "datePublication": "05/04/2016",
+      "dateConsultation": "06/05/2016",
+      "cibleId": "290",
+      "cibleSlug": "havre-dimanche-290",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "societe-normande-d-information-et-de-communication-285",
+      "indirecte": true,
+      "idsPair": "285-290"
+    },
+    {
+      "id": "285",
+      "origine": "Société Normande d’Information et de Communication",
+      "valeur": 90,
+      "cible": "Liberté Dimanche",
+      "source": "lesechos.fr, wikipedia.org",
+      "datePublication": "05/04/2016",
+      "dateConsultation": "06/05/2016",
+      "cibleId": "289",
+      "cibleSlug": "liberte-dimanche-289",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "societe-normande-d-information-et-de-communication-285",
+      "indirecte": true,
+      "idsPair": "285-289"
+    }
+  ],
+  "allRelations": [
+    {
+      "id": "284",
+      "origine": "Jean-Louis Louvel",
+      "valeur": 90,
+      "cible": "Société Normande d’Information et de Communication",
+      "source": "paris-normandie.fr",
+      "datePublication": "07/07/2017",
+      "cibleId": "285",
+      "cibleSlug": "societe-normande-d-information-et-de-communication-285",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "jean-louis-louvel-284"
+    },
+    {
+      "id": "285",
+      "origine": "Société Normande d’Information et de Communication",
+      "valeur": 100,
+      "cible": "Havre Dimanche",
+      "source": "lesechos.fr, wikipedia.org",
+      "datePublication": "05/04/2016",
+      "dateConsultation": "06/05/2016",
+      "cibleId": "290",
+      "cibleSlug": "havre-dimanche-290",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "societe-normande-d-information-et-de-communication-285"
+    },
+    {
+      "id": "285",
+      "origine": "Société Normande d’Information et de Communication",
+      "valeur": 100,
+      "cible": "Liberté Dimanche",
+      "source": "lesechos.fr, wikipedia.org",
+      "datePublication": "05/04/2016",
+      "dateConsultation": "06/05/2016",
+      "cibleId": "289",
+      "cibleSlug": "liberte-dimanche-289",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "societe-normande-d-information-et-de-communication-285"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "284",
+      "nom": "Jean-Louis Louvel",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "jean-louis-louvel-284",
+      "wikidata": {
+        "id": "Q33137935"
+      }
+    },
+    {
+      "id": "285",
+      "nom": "Société Normande d’Information et de Communication",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "societe-normande-d-information-et-de-communication-285",
+      "wikidata": {
+        "id": "Q86685793",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_normande_d%27information_et_de_communication"
+      }
+    },
+    {
+      "id": "290",
+      "nom": "Havre Dimanche",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Hebdomadaire",
+      "mediaEchelle": "Régional",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "havre-dimanche-290"
+    },
+    {
+      "id": "289",
+      "nom": "Liberté Dimanche",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Hebdomadaire",
+      "mediaEchelle": "Régional",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "leaf",
+      "slug": "liberte-dimanche-289",
+      "wikidata": {
+        "id": "Q3237828",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Libert%C3%A9-Dimanche"
+      }
+    }
+  ]
+}

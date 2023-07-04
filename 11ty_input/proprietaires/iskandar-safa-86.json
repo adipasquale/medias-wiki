@@ -1,0 +1,203 @@
+{
+  "id": "86",
+  "nom": "Iskandar Safa",
+  "typeLibelle": "Personne physique",
+  "typeCode": "1",
+  "rangChallenges": "90",
+  "milliardaireForbes": "",
+  "mediaType": "",
+  "mediaPeriodicite": "",
+  "mediaEchelle": "",
+  "commentaire": "",
+  "ACPMdiffusion": "",
+  "graphPosition": "root",
+  "slug": "iskandar-safa-86",
+  "wikidata": {
+    "id": "Q1674003",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Iskandar_Safa"
+  },
+  "incomingRelations": [],
+  "outgoingRelations": [
+    {
+      "id": "88",
+      "origine": "Groupe Valmonde",
+      "valeur": 50,
+      "cible": "Mieux vivre votre argent",
+      "source": "ozap.com",
+      "datePublication": "15/06/2017",
+      "dateConsultation": "16/10/2017",
+      "cibleId": "90",
+      "cibleSlug": "mieux-vivre-votre-argent-90",
+      "typeRelation": "possède",
+      "valeurMinimum": true,
+      "origineSlug": "groupe-valmonde-88",
+      "indirecte": true,
+      "idsPair": "88-90"
+    },
+    {
+      "id": "88",
+      "origine": "Groupe Valmonde",
+      "valeur": 50,
+      "cible": "Valeurs actuelles",
+      "source": "ozap.com",
+      "datePublication": "15/06/2017",
+      "dateConsultation": "16/10/2017",
+      "cibleId": "89",
+      "cibleSlug": "valeurs-actuelles-89",
+      "typeRelation": "possède",
+      "valeurMinimum": true,
+      "origineSlug": "groupe-valmonde-88",
+      "indirecte": true,
+      "idsPair": "88-89"
+    }
+  ],
+  "allRelations": [
+    {
+      "id": "86",
+      "origine": "Iskandar Safa",
+      "valeur": 100,
+      "cible": "Privinvest",
+      "cibleId": "87",
+      "cibleSlug": "privinvest-87",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "iskandar-safa-86"
+    },
+    {
+      "id": "87",
+      "origine": "Privinvest",
+      "valeur": 50,
+      "cible": "Groupe Valmonde",
+      "cibleId": "88",
+      "cibleSlug": "groupe-valmonde-88",
+      "typeRelation": "possède",
+      "valeurMinimum": true,
+      "origineSlug": "privinvest-87"
+    },
+    {
+      "id": "88",
+      "origine": "Groupe Valmonde",
+      "valeur": 100,
+      "cible": "Mieux vivre votre argent",
+      "source": "ozap.com",
+      "datePublication": "15/06/2017",
+      "dateConsultation": "16/10/2017",
+      "cibleId": "90",
+      "cibleSlug": "mieux-vivre-votre-argent-90",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-valmonde-88"
+    },
+    {
+      "id": "88",
+      "origine": "Groupe Valmonde",
+      "valeur": 100,
+      "cible": "Valeurs actuelles",
+      "source": "ozap.com",
+      "datePublication": "15/06/2017",
+      "dateConsultation": "16/10/2017",
+      "cibleId": "89",
+      "cibleSlug": "valeurs-actuelles-89",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-valmonde-88"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "86",
+      "nom": "Iskandar Safa",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "90",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "iskandar-safa-86",
+      "wikidata": {
+        "id": "Q1674003",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Iskandar_Safa"
+      }
+    },
+    {
+      "id": "87",
+      "nom": "Privinvest",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "privinvest-87",
+      "wikidata": {
+        "id": "Q52672870"
+      }
+    },
+    {
+      "id": "88",
+      "nom": "Groupe Valmonde",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-valmonde-88"
+    },
+    {
+      "id": "90",
+      "nom": "Mieux vivre votre argent",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Mensuel",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "131803",
+      "graphPosition": "leaf",
+      "slug": "mieux-vivre-votre-argent-90",
+      "wikidata": {
+        "id": "Q3312817",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Mieux_vivre_votre_argent",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "LOGO_Mieux_Vivre_Votre_Argent_2018.jpg",
+          "filenameEleventy": "mieux-vivre-votre-argent-90.jpg"
+        }
+      }
+    },
+    {
+      "id": "89",
+      "nom": "Valeurs actuelles",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Hebdomadaire",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "111002",
+      "graphPosition": "leaf",
+      "slug": "valeurs-actuelles-89",
+      "wikidata": {
+        "id": "Q3553781",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Valeurs_actuelles"
+      }
+    }
+  ]
+}

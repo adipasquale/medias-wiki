@@ -1,0 +1,48 @@
+---
+layout: default_layout
+---
+
+
+
+<small>
+  <a href="/">Accueil</a>
+  &raquo;
+  <a href="/#medias">Liste des médias</a>
+  &raquo;
+  {{ nom }}
+</small>
+
+{% include "data_warning.njk" %}
+
+<div class="title-with-image">
+  <h1>{{ nom }}</h1>
+
+  {% if wikidata.image %}
+    <img
+      src="/img/wikidata/{{ wikidata.image.filenameEleventy }}"
+      alt="{{wikidata.image.typeImage}} {{ nom }}"
+      class="small-image">
+  {% endif %}
+</div>
+
+<ul>
+  {% for relation in incomingRelations  %}
+    <li>
+      {% if relation.typeRelation == "possède" %}
+        est possédé {% if relation.indirecte %} indirectement {% endif %} à {{ relation | displayRelationValeur }} par
+      {% elif relation.typeRelation == "contrôle" %}
+        est contrôlé {% if relation.indirecte %} indirectement {% endif %} à {{ relation | displayRelationValeur }} par
+      {% elif relation.typeRelation == "participe" %}
+        reçoit une participation {% if relation.indirecte %} indirecte {% endif %} de {{ relation | displayRelationValeur }} de
+      {% endif %}
+
+      <a href="/proprietaires/{{ relation.origine | slugify }}-{{ relation.id }}/">
+        {{ relation.origine }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+{% include "relations_graph.njk" %}
+
+{% include "wikidata.njk" %}

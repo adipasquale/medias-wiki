@@ -1,0 +1,222 @@
+{
+  "id": "193",
+  "nom": "L’Avenir de l’Artois",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "GPE",
+  "mediaPeriodicite": "Hebdomadaire",
+  "mediaEchelle": "Régional",
+  "commentaire": "",
+  "ACPMdiffusion": "6621",
+  "graphPosition": "leaf",
+  "slug": "l-avenir-de-l-artois-193",
+  "incomingRelations": [
+    {
+      "id": "172",
+      "origine": "Crédit Agricole Nord de France",
+      "valeur": 24,
+      "cible": "Groupe Rossel La Voix",
+      "cibleId": "184",
+      "cibleSlug": "groupe-rossel-la-voix-184",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "credit-agricole-nord-de-france-172",
+      "indirecte": true,
+      "idsPair": "172-184"
+    },
+    {
+      "id": "171",
+      "origine": "Famille Hurbain",
+      "valeur": 70.08,
+      "cible": "Groupe Rossel",
+      "cibleId": "183",
+      "cibleSlug": "groupe-rossel-183",
+      "typeRelation": "contrôle",
+      "valeurMinimum": false,
+      "origineSlug": "famille-hurbain-171",
+      "indirecte": true,
+      "idsPair": "171-183"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "185",
+      "origine": "La Voix du Nord SA",
+      "valeur": 100,
+      "cible": "L’Avenir de l’Artois",
+      "source": "latribune.fr, rossel-lavoix.fr",
+      "datePublication": "11/01/2016, 04/09/2013",
+      "dateConsultation": "28/06/2016",
+      "cibleId": "193",
+      "cibleSlug": "l-avenir-de-l-artois-193",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "la-voix-du-nord-sa-185"
+    },
+    {
+      "id": "184",
+      "origine": "Groupe Rossel La Voix",
+      "valeur": 96,
+      "cible": "La Voix du Nord SA",
+      "cibleId": "185",
+      "cibleSlug": "la-voix-du-nord-sa-185",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-rossel-la-voix-184"
+    },
+    {
+      "id": "172",
+      "origine": "Crédit Agricole Nord de France",
+      "valeur": 25,
+      "cible": "Groupe Rossel La Voix",
+      "cibleId": "184",
+      "cibleSlug": "groupe-rossel-la-voix-184",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "credit-agricole-nord-de-france-172"
+    },
+    {
+      "id": "183",
+      "origine": "Groupe Rossel",
+      "valeur": 73,
+      "cible": "Groupe Rossel La Voix",
+      "cibleId": "184",
+      "cibleSlug": "groupe-rossel-la-voix-184",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-rossel-183"
+    },
+    {
+      "id": "171",
+      "origine": "Famille Hurbain",
+      "valeur": 100,
+      "cible": "Groupe Rossel",
+      "cibleId": "183",
+      "cibleSlug": "groupe-rossel-183",
+      "typeRelation": "contrôle",
+      "valeurMinimum": false,
+      "origineSlug": "famille-hurbain-171"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "185",
+      "nom": "La Voix du Nord SA",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "la-voix-du-nord-sa-185",
+      "wikidata": {
+        "id": "Q2567583",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/La_Voix_du_Nord",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "La_Voix_du_Nord_wordmark.svg",
+          "filenameEleventy": "la-voix-du-nord-sa-185.svg"
+        }
+      }
+    },
+    {
+      "id": "193",
+      "nom": "L’Avenir de l’Artois",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Hebdomadaire",
+      "mediaEchelle": "Régional",
+      "commentaire": "",
+      "ACPMdiffusion": "6621",
+      "graphPosition": "leaf",
+      "slug": "l-avenir-de-l-artois-193"
+    },
+    {
+      "id": "184",
+      "nom": "Groupe Rossel La Voix",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-rossel-la-voix-184",
+      "wikidata": {
+        "id": "Q3117466",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Groupe_Rossel_La_Voix"
+      }
+    },
+    {
+      "id": "172",
+      "nom": "Crédit Agricole Nord de France",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "credit-agricole-nord-de-france-172",
+      "wikidata": {
+        "id": "Q17176836",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Cr%C3%A9dit_agricole_de_Nord_de_France"
+      }
+    },
+    {
+      "id": "183",
+      "nom": "Groupe Rossel",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-rossel-183",
+      "wikidata": {
+        "id": "Q3117548",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Groupe_Rossel",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Groupe_Rossel_logo.svg",
+          "filenameEleventy": "groupe-rossel-183.svg"
+        }
+      }
+    },
+    {
+      "id": "171",
+      "nom": "Famille Hurbain",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "famille-hurbain-171"
+    }
+  ]
+}

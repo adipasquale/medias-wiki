@@ -1,0 +1,117 @@
+{
+  "id": "245",
+  "nom": "La Nouvelle République des Pyrénées",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "GPE",
+  "mediaPeriodicite": "Quotidien",
+  "mediaEchelle": "Régional",
+  "commentaire": "",
+  "ACPMdiffusion": "26098",
+  "graphPosition": "leaf",
+  "slug": "la-nouvelle-republique-des-pyrenees-245",
+  "wikidata": {
+    "id": "Q3211143",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/La_Nouvelle_R%C3%A9publique_des_Pyr%C3%A9n%C3%A9es"
+  },
+  "incomingRelations": [
+    {
+      "id": "241",
+      "origine": "Famille Baylet",
+      "valeur": 82,
+      "cible": "Groupe La Dépêche",
+      "cibleId": "242",
+      "cibleSlug": "groupe-la-depeche-242",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "famille-baylet-241",
+      "indirecte": true,
+      "idsPair": "241-242"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "242",
+      "origine": "Groupe La Dépêche",
+      "valeur": 100,
+      "cible": "La Nouvelle République des Pyrénées",
+      "source": "strategies.fr, ladepeche-diffusion.com",
+      "datePublication": "10/12/2010",
+      "dateConsultation": "26/11/2016 , 05/05/2016",
+      "cibleId": "245",
+      "cibleSlug": "la-nouvelle-republique-des-pyrenees-245",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-la-depeche-242"
+    },
+    {
+      "id": "241",
+      "origine": "Famille Baylet",
+      "valeur": 82,
+      "cible": "Groupe La Dépêche",
+      "cibleId": "242",
+      "cibleSlug": "groupe-la-depeche-242",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "famille-baylet-241"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "242",
+      "nom": "Groupe La Dépêche",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-la-depeche-242",
+      "wikidata": {
+        "id": "Q3117468",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Groupe_La_D%C3%A9p%C3%AAche_du_Midi"
+      }
+    },
+    {
+      "id": "245",
+      "nom": "La Nouvelle République des Pyrénées",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Quotidien",
+      "mediaEchelle": "Régional",
+      "commentaire": "",
+      "ACPMdiffusion": "26098",
+      "graphPosition": "leaf",
+      "slug": "la-nouvelle-republique-des-pyrenees-245",
+      "wikidata": {
+        "id": "Q3211143",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/La_Nouvelle_R%C3%A9publique_des_Pyr%C3%A9n%C3%A9es"
+      }
+    },
+    {
+      "id": "241",
+      "nom": "Famille Baylet",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "famille-baylet-241"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "235",
+  "nom": "Journal de Gien",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "GPE",
+  "mediaPeriodicite": "Hebdomadaire",
+  "mediaEchelle": "Régional",
+  "commentaire": "",
+  "ACPMdiffusion": "10158",
+  "graphPosition": "leaf",
+  "slug": "journal-de-gien-235",
+  "wikidata": {
+    "id": "Q3223722",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Journal_de_Gien"
+  },
+  "incomingRelations": [
+    {
+      "id": "220",
+      "origine": "Fondation Varenne",
+      "valeur": 50,
+      "cible": "Groupe La Montagne",
+      "cibleId": "222",
+      "cibleSlug": "groupe-la-montagne-222",
+      "typeRelation": "possède",
+      "valeurMinimum": true,
+      "origineSlug": "fondation-varenne-220",
+      "indirecte": true,
+      "idsPair": "220-222"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "222",
+      "origine": "Groupe La Montagne",
+      "valeur": 100,
+      "cible": "Journal de Gien",
+      "source": "lamontagne.fr",
+      "datePublication": "",
+      "dateConsultation": "04/05/2016",
+      "cibleId": "235",
+      "cibleSlug": "journal-de-gien-235",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-la-montagne-222"
+    },
+    {
+      "id": "220",
+      "origine": "Fondation Varenne",
+      "valeur": 50,
+      "cible": "Groupe La Montagne",
+      "cibleId": "222",
+      "cibleSlug": "groupe-la-montagne-222",
+      "typeRelation": "possède",
+      "valeurMinimum": true,
+      "origineSlug": "fondation-varenne-220"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "222",
+      "nom": "Groupe La Montagne",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-la-montagne-222",
+      "wikidata": {
+        "id": "Q2944761",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Groupe_Centre_France",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Logo_CentreFrance_Off.jpg",
+          "filenameEleventy": "groupe-la-montagne-222.jpg"
+        }
+      }
+    },
+    {
+      "id": "235",
+      "nom": "Journal de Gien",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Hebdomadaire",
+      "mediaEchelle": "Régional",
+      "commentaire": "",
+      "ACPMdiffusion": "10158",
+      "graphPosition": "leaf",
+      "slug": "journal-de-gien-235",
+      "wikidata": {
+        "id": "Q3223722",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Journal_de_Gien"
+      }
+    },
+    {
+      "id": "220",
+      "nom": "Fondation Varenne",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "fondation-varenne-220",
+      "wikidata": {
+        "id": "Q60850619",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Fondation_Varenne"
+      }
+    }
+  ]
+}

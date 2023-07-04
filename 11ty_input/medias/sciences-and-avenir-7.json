@@ -1,0 +1,204 @@
+{
+  "id": "7",
+  "nom": "Sciences & Avenir",
+  "typeLibelle": "Média",
+  "typeCode": "3",
+  "rangChallenges": "",
+  "milliardaireForbes": "",
+  "mediaType": "GPE",
+  "mediaPeriodicite": "Mensuel",
+  "mediaEchelle": "",
+  "commentaire": "",
+  "ACPMdiffusion": "207357",
+  "graphPosition": "leaf",
+  "slug": "sciences-and-avenir-7",
+  "wikidata": {
+    "id": "Q546262",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Sciences_et_Avenir"
+  },
+  "incomingRelations": [
+    {
+      "id": "1",
+      "origine": "Claude Perdriel",
+      "valeur": 100,
+      "cible": "Groupe Perdriel",
+      "cibleId": "3",
+      "cibleSlug": "groupe-perdriel-3",
+      "typeRelation": "contrôle",
+      "valeurMinimum": false,
+      "origineSlug": "claude-perdriel-1",
+      "indirecte": true,
+      "idsPair": "1-3"
+    },
+    {
+      "id": "42",
+      "origine": "Bernard Arnault",
+      "valeur": 18.4,
+      "cible": "LVMH",
+      "cibleId": "43",
+      "cibleSlug": "lvmh-43",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "bernard-arnault-42",
+      "indirecte": true,
+      "idsPair": "42-43"
+    }
+  ],
+  "outgoingRelations": [],
+  "allRelations": [
+    {
+      "id": "3",
+      "origine": "Groupe Perdriel",
+      "valeur": 100,
+      "cible": "Sciences & Avenir",
+      "source": "strategies.fr",
+      "datePublication": "14/11/2014",
+      "dateConsultation": "28/06/2016",
+      "cibleId": "7",
+      "cibleSlug": "sciences-and-avenir-7",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "groupe-perdriel-3"
+    },
+    {
+      "id": "1",
+      "origine": "Claude Perdriel",
+      "valeur": 100,
+      "cible": "Groupe Perdriel",
+      "cibleId": "3",
+      "cibleSlug": "groupe-perdriel-3",
+      "typeRelation": "contrôle",
+      "valeurMinimum": false,
+      "origineSlug": "claude-perdriel-1"
+    },
+    {
+      "id": "43",
+      "origine": "LVMH",
+      "valeur": 40,
+      "cible": "Groupe Perdriel",
+      "cibleId": "3",
+      "cibleSlug": "groupe-perdriel-3",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "lvmh-43"
+    },
+    {
+      "id": "42",
+      "origine": "Bernard Arnault",
+      "valeur": 46,
+      "cible": "LVMH",
+      "cibleId": "43",
+      "cibleSlug": "lvmh-43",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "bernard-arnault-42"
+    }
+  ],
+  "allRelationsEntities": [
+    {
+      "id": "3",
+      "nom": "Groupe Perdriel",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "groupe-perdriel-3",
+      "wikidata": {
+        "id": "Q3117520",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Groupe_Perdriel"
+      }
+    },
+    {
+      "id": "7",
+      "nom": "Sciences & Avenir",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Mensuel",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "207357",
+      "graphPosition": "leaf",
+      "slug": "sciences-and-avenir-7",
+      "wikidata": {
+        "id": "Q546262",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Sciences_et_Avenir"
+      }
+    },
+    {
+      "id": "1",
+      "nom": "Claude Perdriel",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "343",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "claude-perdriel-1",
+      "wikidata": {
+        "id": "Q2977933",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Claude_Perdriel"
+      }
+    },
+    {
+      "id": "43",
+      "nom": "LVMH",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "intermediate",
+      "slug": "lvmh-43",
+      "wikidata": {
+        "id": "Q504998",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/LVMH_-_Mo%C3%ABt_Hennessy_Louis_Vuitton",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "LVMH-black.png",
+          "filenameEleventy": "lvmh-43.png"
+        }
+      }
+    },
+    {
+      "id": "42",
+      "nom": "Bernard Arnault",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "1",
+      "milliardaireForbes": "3",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "graphPosition": "root",
+      "slug": "bernard-arnault-42",
+      "wikidata": {
+        "id": "Q32055",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Bernard_Arnault",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Bernard_Arnault_(3)_-_2017_(cropped).jpg",
+          "filenameEleventy": "bernard-arnault-42.jpg"
+        }
+      }
+    }
+  ]
+}
