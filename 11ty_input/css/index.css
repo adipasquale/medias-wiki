@@ -2,6 +2,23 @@ body {
   grid-template-columns: 1fr min(80rem, 90%) 1fr;
 }
 
+h1 {
+  font-size: 1.2rem;
+  font-family: Georgia, serif;
+}
+h1 a {
+  color: var(--text) !important;
+}
+body > header {
+  padding-bottom: .2rem;
+}
+
+.autocomplete-form {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+}
+
 pre.mermaid, pre.mermaid span{
   font-family: var(--sans-font);
 }
