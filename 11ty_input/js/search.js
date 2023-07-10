@@ -8,22 +8,23 @@ var debounce = (callback, wait) => {
   };
 }
 
-
-// vanilla document onload
 window.onload = () => {
   const inputElt = document.querySelector("#autocomplete")
   const clearButtonElt = document.querySelector("#clear-autocomplete")
   const sectionElts = document.querySelectorAll(".filterable-section")
 
-  const filterableElts =
+  const filterableEltsByNom =
     Array
       .from(document.querySelectorAll("li.filterable"))
       .reduce((result, filterableElt) => {
-        result[filterableElt.dataset.entityNom] = filterableElt
+        const nom = filterableElt.dataset.entityNom
+        if (!result[nom]) result[nom] = []
+
+        result[nom].push(filterableElt)
         return result
       }, {})
 
-  const fuse = new Fuse(Object.keys(filterableElts), { shouldSort: false, threshold: 0.3, distance: 10 })
+  const fuse = new Fuse(Object.keys(filterableEltsByNom), { shouldSort: false, threshold: 0.3, distance: 100 })
 
   const refreshUi = ({ queryPresent }) => {
     for (const sectionElt of sectionElts) {
@@ -33,20 +34,22 @@ window.onload = () => {
     clearButtonElt.toggleAttribute("disabled", !queryPresent)
   }
 
-  const toggleDisplay = (elt, value) => {
+  const toggleDisplayElt = (elt, value) => {
     elt.style.display = (value ? "" : "none")
     elt.setAttribute("data-visible", value ? "true" : "false")
   }
 
+  const toggleDisplayElts = (elts, value) => elts.forEach(elt => toggleDisplayElt(elt, value))
+
   const refreshFilteredResults = (query) => {
     if (query.length === 0) {
-      for (const filterableElt of Object.values(filterableElts)) {
-        toggleDisplay(filterableElt, true)
+      for (const filterableElts of Object.values(filterableEltsByNom)) {
+        toggleDisplayElts(filterableElts, true)
       }
     } else {
       const matches = fuse.search(query).map(({ item }) => item)
-      for (const [nom, filterableElt] of Object.entries(filterableElts)) {
-        toggleDisplay(filterableElt, matches.includes(nom))
+      for (const [nom, filterableElts] of Object.entries(filterableEltsByNom)) {
+        toggleDisplayElts(filterableElts, matches.includes(nom))
       }
     }
     refreshUi({ queryPresent: query.length > 0 })
