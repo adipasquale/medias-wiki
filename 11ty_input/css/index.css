@@ -2,7 +2,7 @@ body {
   grid-template-columns: 1fr min(80rem, 90%) 1fr;
 }
 
-h1 {
+header h1 {
   font-size: 1.2rem;
   font-family: Georgia, serif;
 }
@@ -61,26 +61,88 @@ ul.autocomplete-result-list li {
   padding-bottom: 1rem;
 }
 
-ul.large-list li {
-  page-break-inside: avoid;           /* Theoretically FF 20+ */
-  break-inside: avoid-column;
+/*
+  homepage large lists layout
+  1. SMALL : 1 column
+  |     Médias    |
+  |        -      |
+  |        -      |
+  | Propriétaires |
+  |        -      |
+  |        -      |
+
+  2. MEDIUM : 2 columns
+  |     Médias    | Propriétaires |
+  |        -      |        -      |
+  |        -      |        -      |
+
+  3. LARGE : 3 columns
+  |      Médias      | Propriétaires |
+  |    -    |   -    |        -      |
+  |    -    |   -    |        -      |
+
+
+  3. EXTRA-LARGE : 4 columns
+  |      Médias      |   Propriétaires  |
+  |    -    |   -    |    -    |   -    |
+  |    -    |   -    |    -    |   -    |
+*/
+
+
+.large-lists-wrapper {
+  display: grid;
 }
 
-@media (min-width: 25rem) {
-  ul.large-list {
-    columns: 2
+ul.large-list {
+}
+
+ul.large-list li {
+  page-break-inside: avoid;           /* Theoretically for FF 20+ */
+  break-inside: avoid-column;
+  padding-bottom: .5rem;
+}
+
+/* MEDIUM */
+
+@media (min-width: 30rem) {
+  .large-lists-wrapper {
+    grid-template-columns: 50% 50%;
   }
 }
 
+/* LARGE */
 @media (min-width: 50rem) {
+  .large-lists-wrapper {
+    grid-template-columns: 66% 33%;
+  }
+  .medias ul.large-list {
+    columns: 2
+  }
   ul.large-list {
-    columns: 3
+    columns: 1
   }
 }
 
 
 @media (min-width: 75rem) {
+  .large-lists-wrapper {
+    grid-template-columns: 50% 50%;
+  }
+  ul.large-list {
+    columns: 2
+  }
+}
+
+
+/* @media (min-width: 50rem) {
+  ul.large-list {
+    columns: 3
+  }
+} */
+
+
+/* @media (min-width: 75rem) {
   ul.large-list {
     columns: 4
   }
-}
+} */
