@@ -18,9 +18,10 @@ layout: default_layout
 <div class="title-with-image">
   <h1>{{ nom }}</h1>
 
-  {% if wikidata.image %}
+
+  {% if imagePath %}
     <img
-      src="/img/wikidata/{{ wikidata.image.filenameEleventy }}"
+      src="/{{ imagePath }}"
       alt="Image de {{ nom }}"
       class="small-image">
   {% endif %}

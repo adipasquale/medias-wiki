@@ -1,34 +1,34 @@
 const fs = require('fs')
-const md5 = require("crypto-js/md5")
 
+const { sleep } = require("../lib/utils.js")
 const downloadFile = require("../lib/downloadFile.js")
+const httpsGetJson = require("../lib/httpsGetJson.js")
 const { getAugmentedEntitiesAndRelations } = require('../lib/augmentData.js')
 
 
-
-const downloadWikipediaImage = ({ slug, wikidata }) => {
+const downloadWikipediaImage = async ({ slug, wikidata }) => {
   const { wikipediaUrl } = wikidata
   console.log(wikipediaUrl)
   const title = wikipediaUrl.split('/').pop()
-  const url = `http://fr.wikipedia.org/w/api.php?action=query&titles=${title}&prop=pageimages&format=json&pithumbsize=500`
-  console.log(url)
+  const url = `http://fr.wikipedia.org/w/api.php?action=query&titles=${title}&prop=pageimages&format=json&pithumbsize=300`
+  const data = await httpsGetJson(url)
+  if (!data.query.pages)
+    return console.log("no pages in JSON")
 
-  // const downloadPath = `11ty_input/img/wikipedia/${slug}`
-  // if (!fs.existsSync(downloadPath)) {
-  //   downloadFile(
-  //     `https://upload.wikimedia.org/wikipedia/commons/${hash[0]}/${hash.substring(0, 2)}/${filenameOriginal}`,
-  //     `11ty_input/img/wikidata/${filenameEleventy}`
-  //   )
-  // }
+  const page = Object.values(data.query.pages)[0]
+  const imageUrl = page?.thumbnail?.source
+  if (!imageUrl)
+    return console.log("no thumbnail in JSON")
+
+  const ext = imageUrl.split('.').pop()
+  const downloadPath = `11ty_input/img/wikipedia/${slug}.${ext}`
+  if (!fs.existsSync(downloadPath))
+    downloadFile(imageUrl, downloadPath)
 }
-
-// http://en.wikipedia.org/w/api.php?action=query&titles=Al-Farabi&prop=pageimages&format=json&pithumbsize=100
-
-const sleep = (milliseconds) => { return new Promise(resolve => setTimeout(resolve, milliseconds)) }
 
 (async function () {
   for (const entity of getAugmentedEntitiesAndRelations().entities.filter(e => e.wikidata?.wikipediaUrl)) {
-    downloadWikipediaImage(entity)
-    await sleep(500)
+    await downloadWikipediaImage(entity)
+    await sleep(1000)
   }
 })();
