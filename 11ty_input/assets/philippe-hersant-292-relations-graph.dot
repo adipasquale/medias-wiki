@@ -1,0 +1,76 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "philippe-hersant-292"[label="🧑‍💼Philippe Hersant" shape=box]
+    
+  }
+
+  
+    "editions-suisses-holding-293"[label="Éditions Suisses Holding" shape=house]
+  
+    "groupe-filanosa-295"[label="Groupe Filanosa" shape=house]
+  
+    "rhone-media-296"[label="Rhône Média" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "l-express-neuchatel-298"[label="L’Express (Neuchâtel)"]
+    
+      "l-impartial-la-chaux-de-fonds-299"[label="L’Impartial (La Chaux-de-Fonds)"]
+    
+      "la-cote-nyon-297"[label="La Côte (Nyon)"]
+    
+      "la-gazette-de-martigny-301"[label="La Gazette de Martigny"]
+    
+      "le-journal-de-sierre-302"[label="Le Journal de Sierre"]
+    
+      "le-nouvelliste-300"[label="Le Nouvelliste"]
+    
+      "groupe-hersant-media-294"[label="Groupe Hersant Média"]
+    
+  }
+
+  
+    "philippe-hersant-292" -> "editions-suisses-holding-293" [
+      label="possède 100%"
+    ]
+  
+    "editions-suisses-holding-293" -> "groupe-filanosa-295" [
+      label="possède 50%"
+    ]
+  
+    "groupe-filanosa-295" -> "l-express-neuchatel-298" [
+      label="possède 100%"
+    ]
+  
+    "groupe-filanosa-295" -> "l-impartial-la-chaux-de-fonds-299" [
+      label="possède 100%"
+    ]
+  
+    "groupe-filanosa-295" -> "la-cote-nyon-297" [
+      label="possède 100%"
+    ]
+  
+    "editions-suisses-holding-293" -> "rhone-media-296" [
+      label="possède 50%"
+    ]
+  
+    "rhone-media-296" -> "la-gazette-de-martigny-301" [
+      label="possède 100%"
+    ]
+  
+    "rhone-media-296" -> "le-journal-de-sierre-302" [
+      label="possède 100%"
+    ]
+  
+    "rhone-media-296" -> "le-nouvelliste-300" [
+      label="possède 100%"
+    ]
+  
+    "philippe-hersant-292" -> "groupe-hersant-media-294" [
+      label="possède 100%"
+    ]
+  
+}

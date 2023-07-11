@@ -1,0 +1,46 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "vincent-bollore-77"[label="🧑‍💼Vincent Bolloré" shape=box]
+    
+  }
+
+  
+    "prisma-media-106"[label="Prisma Media" shape=house]
+  
+    "vivendi-81"[label="Vivendi" shape=house]
+  
+    "bollore-79"[label="Bolloré" shape=house]
+  
+    "financiere-de-l-odet-78"[label="Financière de l’Odet" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "neon-347"[label="Néon"]
+    
+  }
+
+  
+    "prisma-media-106" -> "neon-347" [
+      label="possède 100%"
+    ]
+  
+    "vivendi-81" -> "prisma-media-106" [
+      label="possède 100%"
+    ]
+  
+    "bollore-79" -> "vivendi-81" [
+      label="possède 27%"
+    ]
+  
+    "financiere-de-l-odet-78" -> "bollore-79" [
+      label="possède 64%"
+    ]
+  
+    "vincent-bollore-77" -> "financiere-de-l-odet-78" [
+      label="possède 49%"
+    ]
+  
+}

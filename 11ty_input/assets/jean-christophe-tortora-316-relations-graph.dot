@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "jean-christophe-tortora-316"[label="🧑‍💼Jean Christophe Tortora" shape=box]
+    
+  }
+
+  
+    "hima-groupe-318"[label="Hima Groupe" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "la-tribune-319"[label="La Tribune"]
+    
+  }
+
+  
+    "jean-christophe-tortora-316" -> "hima-groupe-318" [
+      label="possède 17%"
+    ]
+  
+    "hima-groupe-318" -> "la-tribune-319" [
+      label="contrôle 100%"
+    ]
+  
+}

@@ -1,0 +1,34 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "famille-dassault-35"[label="🧑‍💼Famille Dassault" shape=box]
+    
+  }
+
+  
+    "groupe-figaro-37"[label="Groupe Figaro" shape=house]
+  
+    "groupe-dassault-36"[label="Groupe Dassault" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "figaro-magazine-39"[label="Figaro Magazine"]
+    
+  }
+
+  
+    "groupe-figaro-37" -> "figaro-magazine-39" [
+      label="possède 100%"
+    ]
+  
+    "groupe-dassault-36" -> "groupe-figaro-37" [
+      label="possède 100%"
+    ]
+  
+    "famille-dassault-35" -> "groupe-dassault-36" [
+      label="possède 100%"
+    ]
+  
+}

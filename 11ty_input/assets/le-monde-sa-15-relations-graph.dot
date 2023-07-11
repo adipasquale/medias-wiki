@@ -1,0 +1,130 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "prisa-9"[label="Prisa" shape=box]
+    
+      "xavier-niel-10"[label="🧑‍💼Xavier Niel" shape=box]
+    
+      "matthieu-pigasse-11"[label="🧑‍💼Matthieu Pigasse" shape=box]
+    
+      "daniel-kretinsky-92"[label="🧑‍💼Daniel Křetínský" shape=box]
+    
+      "madison-cox-323"[label="🧑‍💼Madison Cox" shape=box]
+    
+  }
+
+  
+    "le-monde-libre-14"[label="Le Monde libre" shape=house]
+  
+    "le-monde-sa-15"[label="Le Monde SA" shape=house]
+  
+    "le-nouveau-monde-13"[label="Le Nouveau Monde" shape=house]
+  
+    "combat-solutions-12"[label="Combat Solutions" shape=house]
+  
+    "czech-media-invest-93"[label="Czech Media Invest" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "courrier-international-21"[label="Courrier international"]
+    
+      "huffpost-26"[label="HuffPost"]
+    
+      "la-vie-23"[label="La Vie"]
+    
+      "le-monde-19"[label="Le Monde"]
+    
+      "le-monde-des-religions-22"[label="Le Monde des religions"]
+    
+      "le-monde-diplomatique-24"[label="Le Monde diplomatique"]
+    
+      "m-le-magazine-du-monde-18"[label="M, le magazine du Monde"]
+    
+      "maniere-de-voir-25"[label="Manière de voir"]
+    
+      "prier-17"[label="Prier"]
+    
+      "telerama-20"[label="Télérama"]
+    
+  }
+
+  
+    "le-monde-libre-14" -> "le-monde-sa-15" [
+      label="possède 75%"
+    ]
+  
+    "prisa-9" -> "le-monde-libre-14" [
+      label="possède 20%"
+    ]
+  
+    "xavier-niel-10" -> "le-monde-libre-14" [
+      label="possède 26%"
+    ]
+  
+    "le-nouveau-monde-13" -> "le-monde-libre-14" [
+      label="possède 26%"
+    ]
+  
+    "combat-solutions-12" -> "le-nouveau-monde-13" [
+      label="possède 51%"
+    ]
+  
+    "matthieu-pigasse-11" -> "combat-solutions-12" [
+      label="possède 78%"
+    ]
+  
+    "czech-media-invest-93" -> "le-nouveau-monde-13" [
+      label="possède 49%"
+    ]
+  
+    "daniel-kretinsky-92" -> "czech-media-invest-93" [
+      label="possède 50%"
+    ]
+  
+    "madison-cox-323" -> "le-monde-libre-14" [
+      label="possède 28%"
+    ]
+  
+    "le-monde-sa-15" -> "courrier-international-21" [
+      label="possède 100%"
+    ]
+  
+    "le-monde-sa-15" -> "huffpost-26" [
+      label="possède 34%"
+    ]
+  
+    "le-monde-sa-15" -> "la-vie-23" [
+      label="possède 100%"
+    ]
+  
+    "le-monde-sa-15" -> "le-monde-19" [
+      label="possède 100%"
+    ]
+  
+    "le-monde-sa-15" -> "le-monde-des-religions-22" [
+      label="possède 100%"
+    ]
+  
+    "le-monde-sa-15" -> "le-monde-diplomatique-24" [
+      label="possède 51%"
+    ]
+  
+    "le-monde-sa-15" -> "m-le-magazine-du-monde-18" [
+      label="possède 100%"
+    ]
+  
+    "le-monde-sa-15" -> "maniere-de-voir-25" [
+      label="possède 51%"
+    ]
+  
+    "le-monde-sa-15" -> "prier-17" [
+      label="possède 100%"
+    ]
+  
+    "le-monde-sa-15" -> "telerama-20" [
+      label="possède 100%"
+    ]
+  
+}

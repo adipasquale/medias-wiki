@@ -1,0 +1,166 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "republique-francaise-128"[label="République française" shape=box]
+    
+  }
+
+  
+    "arte-france-136"[label="Arte France" shape=house]
+  
+    "france-medias-monde-133"[label="France Médias Monde" shape=house]
+  
+    "france-television-134"[label="France Télévision" shape=house]
+  
+    "radio-france-135"[label="Radio France" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "arte-154"[label="Arte"]
+    
+      "france-24-139"[label="France 24"]
+    
+      "monte-carlo-doualiya-137"[label="Monte Carlo Doualiya"]
+    
+      "radio-france-international-138"[label="Radio France International"]
+    
+      "tv5-monde-140"[label="TV5 Monde"]
+    
+      "france-2-141"[label="France 2"]
+    
+      "la-premiere-344"[label="La Première"]
+    
+      "france-3-142"[label="France 3"]
+    
+      "france-4-144"[label="France 4"]
+    
+      "france-5-143"[label="France 5"]
+    
+      "france-info-152"[label="France Info"]
+    
+      "la-chaine-parlementaire-131"[label="La Chaîne parlementaire"]
+    
+      "public-senat-132"[label="Public Sénat"]
+    
+      "fip-150"[label="FIP"]
+    
+      "france-bleu-151"[label="France Bleu"]
+    
+      "france-culture-149"[label="France Culture"]
+    
+      "france-inter-147"[label="France Inter"]
+    
+      "france-musique-148"[label="France Musique"]
+    
+      "mouv-153"[label="Mouv’"]
+    
+  }
+
+  
+    "republique-francaise-128" -> "arte-france-136" [
+      label="possède 100%"
+    ]
+  
+    "arte-france-136" -> "arte-154" [
+      label="possède 50%"
+    ]
+  
+    "republique-francaise-128" -> "france-medias-monde-133" [
+      label="possède 100%"
+    ]
+  
+    "france-medias-monde-133" -> "france-24-139" [
+      label="possède 100%"
+    ]
+  
+    "france-medias-monde-133" -> "monte-carlo-doualiya-137" [
+      label="possède 100%"
+    ]
+  
+    "france-medias-monde-133" -> "radio-france-international-138" [
+      label="possède 100%"
+    ]
+  
+    "france-medias-monde-133" -> "tv5-monde-140" [
+      label="possède 13%"
+    ]
+  
+    "republique-francaise-128" -> "france-television-134" [
+      label="possède 100%"
+    ]
+  
+    "france-television-134" -> "france-2-141" [
+      label="possède 100%"
+    ]
+  
+    "france-television-134" -> "la-premiere-344" [
+      label="possède 100%"
+    ]
+  
+    "france-television-134" -> "france-3-142" [
+      label="possède 100%"
+    ]
+  
+    "france-television-134" -> "france-4-144" [
+      label="possède 100%"
+    ]
+  
+    "france-television-134" -> "france-5-143" [
+      label="possède 100%"
+    ]
+  
+    "france-television-134" -> "france-info-152" [
+      label="contrôle 100%"
+    ]
+  
+    "france-television-134" -> "tv5-monde-140" [
+      label="possède 49%"
+    ]
+  
+    "republique-francaise-128" -> "la-chaine-parlementaire-131" [
+      label="possède 100%"
+    ]
+  
+    "republique-francaise-128" -> "public-senat-132" [
+      label="possède 100%"
+    ]
+  
+    "republique-francaise-128" -> "radio-france-135" [
+      label="possède 100%"
+    ]
+  
+    "radio-france-135" -> "fip-150" [
+      label="possède 100%"
+    ]
+  
+    "radio-france-135" -> "france-bleu-151" [
+      label="possède 100%"
+    ]
+  
+    "radio-france-135" -> "france-culture-149" [
+      label="possède 100%"
+    ]
+  
+    "radio-france-135" -> "france-info-152" [
+      label="contrôle 100%"
+    ]
+  
+    "radio-france-135" -> "france-info-152" [
+      label="possède 100%"
+    ]
+  
+    "radio-france-135" -> "france-inter-147" [
+      label="possède 100%"
+    ]
+  
+    "radio-france-135" -> "france-musique-148" [
+      label="possède 100%"
+    ]
+  
+    "radio-france-135" -> "mouv-153" [
+      label="possède 100%"
+    ]
+  
+}

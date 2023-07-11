@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "jean-louis-louvel-284"[label="🧑‍💼Jean-Louis Louvel" shape=box]
+    
+  }
+
+  
+    "societe-normande-d-information-et-de-communication-285"[label="Société Normande d’Information et de Communication" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "liberte-dimanche-289"[label="Liberté Dimanche"]
+    
+  }
+
+  
+    "societe-normande-d-information-et-de-communication-285" -> "liberte-dimanche-289" [
+      label="possède 100%"
+    ]
+  
+    "jean-louis-louvel-284" -> "societe-normande-d-information-et-de-communication-285" [
+      label="possède 90%"
+    ]
+  
+}

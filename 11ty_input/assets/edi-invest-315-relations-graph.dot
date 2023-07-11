@@ -1,0 +1,34 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "franck-julien-314"[label="🧑‍💼Franck Julien" shape=box]
+    
+  }
+
+  
+    "edi-invest-315"[label="Edi Invest" shape=house]
+  
+    "hima-groupe-318"[label="Hima Groupe" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "la-tribune-319"[label="La Tribune"]
+    
+  }
+
+  
+    "franck-julien-314" -> "edi-invest-315" [
+      label="contrôle 100%"
+    ]
+  
+    "edi-invest-315" -> "hima-groupe-318" [
+      label="possède 37%"
+    ]
+  
+    "hima-groupe-318" -> "la-tribune-319" [
+      label="contrôle 100%"
+    ]
+  
+}

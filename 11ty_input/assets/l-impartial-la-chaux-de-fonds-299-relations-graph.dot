@@ -1,0 +1,34 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "philippe-hersant-292"[label="🧑‍💼Philippe Hersant" shape=box]
+    
+  }
+
+  
+    "groupe-filanosa-295"[label="Groupe Filanosa" shape=house]
+  
+    "editions-suisses-holding-293"[label="Éditions Suisses Holding" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "l-impartial-la-chaux-de-fonds-299"[label="L’Impartial (La Chaux-de-Fonds)"]
+    
+  }
+
+  
+    "groupe-filanosa-295" -> "l-impartial-la-chaux-de-fonds-299" [
+      label="possède 100%"
+    ]
+  
+    "editions-suisses-holding-293" -> "groupe-filanosa-295" [
+      label="possède 50%"
+    ]
+  
+    "philippe-hersant-292" -> "editions-suisses-holding-293" [
+      label="possède 100%"
+    ]
+  
+}

@@ -1,0 +1,34 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "francois-pinault-95"[label="🧑‍💼François Pinault" shape=box]
+    
+  }
+
+  
+    "groupe-sebdo-le-point-97"[label="Groupe Sebdo-Le Point" shape=house]
+  
+    "artemis-96"[label="Artémis" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "le-point-100"[label="Le Point"]
+    
+  }
+
+  
+    "groupe-sebdo-le-point-97" -> "le-point-100" [
+      label="possède 100%"
+    ]
+  
+    "artemis-96" -> "groupe-sebdo-le-point-97" [
+      label="possède 100%"
+    ]
+  
+    "francois-pinault-95" -> "artemis-96" [
+      label="possède 57%"
+    ]
+  
+}

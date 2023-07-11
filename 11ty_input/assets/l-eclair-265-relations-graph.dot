@@ -1,0 +1,34 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "famille-lemoine-252"[label="🧑‍💼Famille Lemoine" shape=box]
+    
+  }
+
+  
+    "pyrenees-presse-263"[label="Pyrénées Presse" shape=house]
+  
+    "groupe-sud-ouest-253"[label="Groupe Sud Ouest" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "l-eclair-265"[label="L’Eclair"]
+    
+  }
+
+  
+    "pyrenees-presse-263" -> "l-eclair-265" [
+      label="possède 100%"
+    ]
+  
+    "groupe-sud-ouest-253" -> "pyrenees-presse-263" [
+      label="possède 100%"
+    ]
+  
+    "famille-lemoine-252" -> "groupe-sud-ouest-253" [
+      label="possède 80%"
+    ]
+  
+}

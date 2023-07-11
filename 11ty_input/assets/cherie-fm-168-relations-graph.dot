@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "jean-paul-baudecroux-162"[label="🧑‍💼Jean-Paul Baudecroux" shape=box]
+    
+  }
+
+  
+    "nrj-group-163"[label="NRJ Group" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "cherie-fm-168"[label="Chérie FM"]
+    
+  }
+
+  
+    "nrj-group-163" -> "cherie-fm-168" [
+      label="possède 100%"
+    ]
+  
+    "jean-paul-baudecroux-162" -> "nrj-group-163" [
+      label="possède 79%"
+    ]
+  
+}

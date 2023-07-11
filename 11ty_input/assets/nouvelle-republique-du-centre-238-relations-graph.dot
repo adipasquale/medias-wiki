@@ -1,0 +1,40 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "famille-saint-cricq-221"[label="🧑‍💼Famille Saint-Cricq" shape=box]
+    
+      "fondation-varenne-220"[label="Fondation Varenne" shape=box]
+    
+  }
+
+  
+    "groupe-nrco-237"[label="Groupe NRCO" shape=house]
+  
+    "groupe-la-montagne-222"[label="Groupe La Montagne" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "nouvelle-republique-du-centre-238"[label="Nouvelle République du Centre"]
+    
+  }
+
+  
+    "groupe-nrco-237" -> "nouvelle-republique-du-centre-238" [
+      label="possède 100%"
+    ]
+  
+    "famille-saint-cricq-221" -> "groupe-nrco-237" [
+      label="possède 15%"
+    ]
+  
+    "groupe-la-montagne-222" -> "groupe-nrco-237" [
+      label="possède 16%"
+    ]
+  
+    "fondation-varenne-220" -> "groupe-la-montagne-222" [
+      label="possède 50%"
+    ]
+  
+}

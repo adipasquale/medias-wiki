@@ -1,0 +1,22 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "republique-francaise-128"[label="République française" shape=box]
+    
+  }
+
+  
+
+  subgraph clusterLeaves {
+    
+      "la-chaine-parlementaire-131"[label="La Chaîne parlementaire"]
+    
+  }
+
+  
+    "republique-francaise-128" -> "la-chaine-parlementaire-131" [
+      label="possède 100%"
+    ]
+  
+}

@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "fondation-varenne-220"[label="Fondation Varenne" shape=box]
+    
+  }
+
+  
+    "groupe-la-montagne-222"[label="Groupe La Montagne" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "pays-roannais-233"[label="Pays Roannais"]
+    
+  }
+
+  
+    "groupe-la-montagne-222" -> "pays-roannais-233" [
+      label="possède 100%"
+    ]
+  
+    "fondation-varenne-220" -> "groupe-la-montagne-222" [
+      label="possède 50%"
+    ]
+  
+}

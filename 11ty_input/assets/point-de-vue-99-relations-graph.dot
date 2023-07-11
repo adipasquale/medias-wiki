@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "francois-pinault-95"[label="🧑‍💼François Pinault" shape=box]
+    
+  }
+
+  
+    "artemis-96"[label="Artémis" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "point-de-vue-99"[label="Point de vue"]
+    
+  }
+
+  
+    "artemis-96" -> "point-de-vue-99" [
+      label="possède 100%"
+    ]
+  
+    "francois-pinault-95" -> "artemis-96" [
+      label="possède 57%"
+    ]
+  
+}

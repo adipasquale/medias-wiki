@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "republique-francaise-128"[label="République française" shape=box]
+    
+  }
+
+  
+    "arte-france-136"[label="Arte France" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "arte-154"[label="Arte"]
+    
+  }
+
+  
+    "republique-francaise-128" -> "arte-france-136" [
+      label="possède 100%"
+    ]
+  
+    "arte-france-136" -> "arte-154" [
+      label="possède 50%"
+    ]
+  
+}

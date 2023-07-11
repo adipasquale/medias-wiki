@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "sophia-publications-2"[label="Sophia Publications" shape=box]
+    
+  }
+
+  
+
+  subgraph clusterLeaves {
+    
+      "historia-5"[label="Historia"]
+    
+      "l-histoire-4"[label="L’histoire"]
+    
+  }
+
+  
+    "sophia-publications-2" -> "historia-5" [
+      label="possède 100%"
+    ]
+  
+    "sophia-publications-2" -> "l-histoire-4" [
+      label="possède 100%"
+    ]
+  
+}

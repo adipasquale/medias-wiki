@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "patrick-drahi-56"[label="🧑‍💼Patrick Drahi" shape=box]
+    
+  }
+
+  
+    "altice-57"[label="Altice" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "i24-news-320"[label="i24 News"]
+    
+  }
+
+  
+    "altice-57" -> "i24-news-320" [
+      label="possède 100%"
+    ]
+  
+    "patrick-drahi-56" -> "altice-57" [
+      label="possède 61%"
+    ]
+  
+}

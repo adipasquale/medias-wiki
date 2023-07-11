@@ -1,0 +1,40 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "iskandar-safa-86"[label="🧑‍💼Iskandar Safa" shape=box]
+    
+  }
+
+  
+    "privinvest-87"[label="Privinvest" shape=house]
+  
+    "groupe-valmonde-88"[label="Groupe Valmonde" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "mieux-vivre-votre-argent-90"[label="Mieux vivre votre argent"]
+    
+      "valeurs-actuelles-89"[label="Valeurs actuelles"]
+    
+  }
+
+  
+    "privinvest-87" -> "groupe-valmonde-88" [
+      label="possède 50%"
+    ]
+  
+    "iskandar-safa-86" -> "privinvest-87" [
+      label="possède 100%"
+    ]
+  
+    "groupe-valmonde-88" -> "mieux-vivre-votre-argent-90" [
+      label="possède 100%"
+    ]
+  
+    "groupe-valmonde-88" -> "valeurs-actuelles-89" [
+      label="possède 100%"
+    ]
+  
+}

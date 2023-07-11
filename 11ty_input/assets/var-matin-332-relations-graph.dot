@@ -1,0 +1,22 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "nice-matin-328"[label="Nice-Matin" shape=box]
+    
+  }
+
+  
+
+  subgraph clusterLeaves {
+    
+      "var-matin-332"[label="Var-Matin"]
+    
+  }
+
+  
+    "nice-matin-328" -> "var-matin-332" [
+      label="possède 100%"
+    ]
+  
+}

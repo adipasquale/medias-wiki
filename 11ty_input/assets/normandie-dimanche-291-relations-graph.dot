@@ -1,0 +1,40 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "credit-agricole-nord-de-france-172"[label="Crédit Agricole Nord de France" shape=box]
+    
+      "famille-hurbain-171"[label="🧑‍💼Famille Hurbain" shape=box]
+    
+  }
+
+  
+    "groupe-rossel-la-voix-184"[label="Groupe Rossel La Voix" shape=house]
+  
+    "groupe-rossel-183"[label="Groupe Rossel" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "normandie-dimanche-291"[label="Normandie Dimanche"]
+    
+  }
+
+  
+    "groupe-rossel-la-voix-184" -> "normandie-dimanche-291" [
+      label="possède 100%"
+    ]
+  
+    "credit-agricole-nord-de-france-172" -> "groupe-rossel-la-voix-184" [
+      label="possède 25%"
+    ]
+  
+    "groupe-rossel-183" -> "groupe-rossel-la-voix-184" [
+      label="possède 73%"
+    ]
+  
+    "famille-hurbain-171" -> "groupe-rossel-183" [
+      label="contrôle 100%"
+    ]
+  
+}

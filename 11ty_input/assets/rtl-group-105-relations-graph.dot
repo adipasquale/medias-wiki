@@ -1,0 +1,76 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "famille-mohn-102"[label="🧑‍💼Famille Mohn" shape=box]
+    
+  }
+
+  
+    "bertelsmann-103"[label="Bertelsmann" shape=house]
+  
+    "rtl-group-105"[label="RTL Group" shape=house]
+  
+    "groupe-m6-110"[label="Groupe M6" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "6ter-113"[label="6ter"]
+    
+      "fun-radio-116"[label="Fun Radio"]
+    
+      "gulli-73"[label="Gulli"]
+    
+      "m6-111"[label="M6"]
+    
+      "rtl-114"[label="RTL"]
+    
+      "rtl2-115"[label="RTL2"]
+    
+      "w9-112"[label="W9"]
+    
+  }
+
+  
+    "bertelsmann-103" -> "rtl-group-105" [
+      label="possède 75%"
+    ]
+  
+    "famille-mohn-102" -> "bertelsmann-103" [
+      label="contrôle 100%"
+    ]
+  
+    "rtl-group-105" -> "groupe-m6-110" [
+      label="possède 48%"
+    ]
+  
+    "groupe-m6-110" -> "6ter-113" [
+      label="possède 100%"
+    ]
+  
+    "groupe-m6-110" -> "fun-radio-116" [
+      label="possède 100%"
+    ]
+  
+    "groupe-m6-110" -> "gulli-73" [
+      label="possède 100%"
+    ]
+  
+    "groupe-m6-110" -> "m6-111" [
+      label="possède 100%"
+    ]
+  
+    "groupe-m6-110" -> "rtl-114" [
+      label="possède 100%"
+    ]
+  
+    "groupe-m6-110" -> "rtl2-115" [
+      label="possède 100%"
+    ]
+  
+    "groupe-m6-110" -> "w9-112" [
+      label="possède 100%"
+    ]
+  
+}

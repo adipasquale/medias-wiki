@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "edouard-coudurier-266"[label="🧑‍💼Édouard Coudurier" shape=box]
+    
+  }
+
+  
+    "groupe-telegramme-267"[label="Groupe Télégramme" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "le-telegramme-268"[label="Le Télégramme"]
+    
+  }
+
+  
+    "groupe-telegramme-267" -> "le-telegramme-268" [
+      label="possède 100%"
+    ]
+  
+    "edouard-coudurier-266" -> "groupe-telegramme-267" [
+      label="contrôle 100%"
+    ]
+  
+}

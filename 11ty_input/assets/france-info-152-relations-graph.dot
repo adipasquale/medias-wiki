@@ -1,0 +1,46 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "republique-francaise-128"[label="République française" shape=box]
+    
+  }
+
+  
+    "france-television-134"[label="France Télévision" shape=house]
+  
+    "radio-france-135"[label="Radio France" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "france-info-152"[label="France Info"]
+    
+  }
+
+  
+    "france-television-134" -> "france-info-152" [
+      label="contrôle 100%"
+    ]
+  
+    "republique-francaise-128" -> "france-television-134" [
+      label="possède 100%"
+    ]
+  
+    "radio-france-135" -> "france-info-152" [
+      label="contrôle 100%"
+    ]
+  
+    "republique-francaise-128" -> "radio-france-135" [
+      label="possède 100%"
+    ]
+  
+    "radio-france-135" -> "france-info-152" [
+      label="possède 100%"
+    ]
+  
+    "republique-francaise-128" -> "radio-france-135" [
+      label="possède 100%"
+    ]
+  
+}

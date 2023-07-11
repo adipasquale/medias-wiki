@@ -1,0 +1,34 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "yves-de-chaisemartin-91"[label="🧑‍💼Yves de Chaisemartin" shape=box]
+    
+      "daniel-kretinsky-92"[label="🧑‍💼Daniel Křetínský" shape=box]
+    
+  }
+
+  
+    "czech-media-invest-93"[label="Czech Media Invest" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "marianne-94"[label="Marianne"]
+    
+  }
+
+  
+    "yves-de-chaisemartin-91" -> "marianne-94" [
+      label="possède 9%"
+    ]
+  
+    "czech-media-invest-93" -> "marianne-94" [
+      label="possède 91%"
+    ]
+  
+    "daniel-kretinsky-92" -> "czech-media-invest-93" [
+      label="possède 50%"
+    ]
+  
+}

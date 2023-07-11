@@ -1,0 +1,22 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "abdoul-cadjee-305"[label="🧑‍💼Abdoul Cadjee" shape=box]
+    
+  }
+
+  
+
+  subgraph clusterLeaves {
+    
+      "le-journal-de-l-ile-de-la-reunion-306"[label="Le Journal de l’Île de la Réunion"]
+    
+  }
+
+  
+    "abdoul-cadjee-305" -> "le-journal-de-l-ile-de-la-reunion-306" [
+      label="possède 50%"
+    ]
+  
+}

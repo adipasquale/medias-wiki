@@ -1,0 +1,46 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "franck-julien-314"[label="🧑‍💼Franck Julien" shape=box]
+    
+      "jean-christophe-tortora-316"[label="🧑‍💼Jean Christophe Tortora" shape=box]
+    
+      "laurent-alexandre-317"[label="🧑‍💼Laurent Alexandre" shape=box]
+    
+  }
+
+  
+    "edi-invest-315"[label="Edi Invest" shape=house]
+  
+    "hima-groupe-318"[label="Hima Groupe" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "la-tribune-319"[label="La Tribune"]
+    
+  }
+
+  
+    "edi-invest-315" -> "hima-groupe-318" [
+      label="possède 37%"
+    ]
+  
+    "franck-julien-314" -> "edi-invest-315" [
+      label="contrôle 100%"
+    ]
+  
+    "jean-christophe-tortora-316" -> "hima-groupe-318" [
+      label="possède 17%"
+    ]
+  
+    "laurent-alexandre-317" -> "hima-groupe-318" [
+      label="possède 28%"
+    ]
+  
+    "hima-groupe-318" -> "la-tribune-319" [
+      label="contrôle 100%"
+    ]
+  
+}

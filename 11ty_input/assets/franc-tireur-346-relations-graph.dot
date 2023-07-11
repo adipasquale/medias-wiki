@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "daniel-kretinsky-92"[label="🧑‍💼Daniel Křetínský" shape=box]
+    
+  }
+
+  
+    "czech-media-invest-93"[label="Czech Media Invest" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "franc-tireur-346"[label="Franc-Tireur"]
+    
+  }
+
+  
+    "czech-media-invest-93" -> "franc-tireur-346" [
+      label="possède 100%"
+    ]
+  
+    "daniel-kretinsky-92" -> "czech-media-invest-93" [
+      label="possède 50%"
+    ]
+  
+}

@@ -1,0 +1,130 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "xavier-niel-10"[label="🧑‍💼Xavier Niel" shape=box]
+    
+  }
+
+  
+    "groupe-la-provence-280"[label="Groupe La Provence" shape=house]
+  
+    "le-monde-libre-14"[label="Le Monde libre" shape=house]
+  
+    "le-monde-sa-15"[label="Le Monde SA" shape=house]
+  
+    "fonds-pour-l-independance-de-la-presse-342"[label="Fonds pour l&#39;indépendance de la presse" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "corse-matin-282"[label="Corse Matin"]
+    
+      "la-provence-283"[label="La Provence"]
+    
+      "l-obs-16"[label="L’Obs"]
+    
+      "courrier-international-21"[label="Courrier international"]
+    
+      "huffpost-26"[label="HuffPost"]
+    
+      "la-vie-23"[label="La Vie"]
+    
+      "le-monde-19"[label="Le Monde"]
+    
+      "le-monde-des-religions-22"[label="Le Monde des religions"]
+    
+      "le-monde-diplomatique-24"[label="Le Monde diplomatique"]
+    
+      "m-le-magazine-du-monde-18"[label="M, le magazine du Monde"]
+    
+      "maniere-de-voir-25"[label="Manière de voir"]
+    
+      "prier-17"[label="Prier"]
+    
+      "telerama-20"[label="Télérama"]
+    
+      "le-nouveau-magazine-litteraire-322"[label="Le Nouveau Magazine littéraire"]
+    
+      "njj-334"[label="NJJ"]
+    
+  }
+
+  
+    "xavier-niel-10" -> "groupe-la-provence-280" [
+      label="possède 11%"
+    ]
+  
+    "groupe-la-provence-280" -> "corse-matin-282" [
+      label="possède 65%"
+    ]
+  
+    "groupe-la-provence-280" -> "la-provence-283" [
+      label="possède 100%"
+    ]
+  
+    "xavier-niel-10" -> "le-monde-libre-14" [
+      label="possède 26%"
+    ]
+  
+    "le-monde-libre-14" -> "l-obs-16" [
+      label="possède 99%"
+    ]
+  
+    "le-monde-libre-14" -> "le-monde-sa-15" [
+      label="possède 75%"
+    ]
+  
+    "le-monde-sa-15" -> "courrier-international-21" [
+      label="possède 100%"
+    ]
+  
+    "le-monde-sa-15" -> "huffpost-26" [
+      label="possède 34%"
+    ]
+  
+    "le-monde-sa-15" -> "la-vie-23" [
+      label="possède 100%"
+    ]
+  
+    "le-monde-sa-15" -> "le-monde-19" [
+      label="possède 100%"
+    ]
+  
+    "le-monde-sa-15" -> "le-monde-des-religions-22" [
+      label="possède 100%"
+    ]
+  
+    "le-monde-sa-15" -> "le-monde-diplomatique-24" [
+      label="possède 51%"
+    ]
+  
+    "le-monde-sa-15" -> "m-le-magazine-du-monde-18" [
+      label="possède 100%"
+    ]
+  
+    "le-monde-sa-15" -> "maniere-de-voir-25" [
+      label="possède 51%"
+    ]
+  
+    "le-monde-sa-15" -> "prier-17" [
+      label="possède 100%"
+    ]
+  
+    "le-monde-sa-15" -> "telerama-20" [
+      label="possède 100%"
+    ]
+  
+    "xavier-niel-10" -> "le-nouveau-magazine-litteraire-322" [
+      label="participe 100%"
+    ]
+  
+    "xavier-niel-10" -> "fonds-pour-l-independance-de-la-presse-342" [
+      label="contrôle 100%"
+    ]
+  
+    "fonds-pour-l-independance-de-la-presse-342" -> "njj-334" [
+      label="possède 100%"
+    ]
+  
+}

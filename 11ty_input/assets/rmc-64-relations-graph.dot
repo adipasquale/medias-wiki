@@ -1,0 +1,40 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "patrick-drahi-56"[label="🧑‍💼Patrick Drahi" shape=box]
+    
+  }
+
+  
+    "altice-media-61"[label="Altice Média" shape=house]
+  
+    "altice-france-58"[label="Altice France" shape=house]
+  
+    "altice-57"[label="Altice" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "rmc-64"[label="RMC"]
+    
+  }
+
+  
+    "altice-media-61" -> "rmc-64" [
+      label="possède 100%"
+    ]
+  
+    "altice-france-58" -> "altice-media-61" [
+      label="possède 100%"
+    ]
+  
+    "altice-57" -> "altice-france-58" [
+      label="possède 78%"
+    ]
+  
+    "patrick-drahi-56" -> "altice-57" [
+      label="possède 61%"
+    ]
+  
+}

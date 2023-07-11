@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "republique-francaise-128"[label="République française" shape=box]
+    
+  }
+
+  
+    "france-medias-monde-133"[label="France Médias Monde" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "monte-carlo-doualiya-137"[label="Monte Carlo Doualiya"]
+    
+  }
+
+  
+    "france-medias-monde-133" -> "monte-carlo-doualiya-137" [
+      label="possède 100%"
+    ]
+  
+    "republique-francaise-128" -> "france-medias-monde-133" [
+      label="possède 100%"
+    ]
+  
+}

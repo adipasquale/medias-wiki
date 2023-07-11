@@ -1,0 +1,34 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "philippe-hersant-292"[label="🧑‍💼Philippe Hersant" shape=box]
+    
+  }
+
+  
+    "rhone-media-296"[label="Rhône Média" shape=house]
+  
+    "editions-suisses-holding-293"[label="Éditions Suisses Holding" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "le-journal-de-sierre-302"[label="Le Journal de Sierre"]
+    
+  }
+
+  
+    "rhone-media-296" -> "le-journal-de-sierre-302" [
+      label="possède 100%"
+    ]
+  
+    "editions-suisses-holding-293" -> "rhone-media-296" [
+      label="possède 50%"
+    ]
+  
+    "philippe-hersant-292" -> "editions-suisses-holding-293" [
+      label="possède 100%"
+    ]
+  
+}

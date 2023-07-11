@@ -1,0 +1,58 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "claude-perdriel-1"[label="🧑‍💼Claude Perdriel" shape=box]
+    
+      "bernard-arnault-42"[label="🧑‍💼Bernard Arnault" shape=box]
+    
+      "famille-bettencourt-54"[label="🧑‍💼Famille Bettencourt" shape=box]
+    
+      "nicolas-beytout-55"[label="🧑‍💼Nicolas Beytout" shape=box]
+    
+      "ken-fisher-326"[label="🧑‍💼Ken Fisher" shape=box]
+    
+  }
+
+  
+    "groupe-l-opinion-325"[label="Groupe L’Opinion" shape=house]
+  
+    "lvmh-43"[label="LVMH" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "l-agefi-hebdo-101"[label="L’Agefi hebdo"]
+    
+  }
+
+  
+    "groupe-l-opinion-325" -> "l-agefi-hebdo-101" [
+      label="possède 100%"
+    ]
+  
+    "claude-perdriel-1" -> "groupe-l-opinion-325" [
+      label="participe 100%"
+    ]
+  
+    "lvmh-43" -> "groupe-l-opinion-325" [
+      label="participe 100%"
+    ]
+  
+    "bernard-arnault-42" -> "lvmh-43" [
+      label="possède 46%"
+    ]
+  
+    "famille-bettencourt-54" -> "groupe-l-opinion-325" [
+      label="participe 100%"
+    ]
+  
+    "nicolas-beytout-55" -> "groupe-l-opinion-325" [
+      label="participe 100%"
+    ]
+  
+    "ken-fisher-326" -> "groupe-l-opinion-325" [
+      label="participe 100%"
+    ]
+  
+}

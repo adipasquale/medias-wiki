@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "famille-baylet-241"[label="🧑‍💼Famille Baylet" shape=box]
+    
+  }
+
+  
+    "groupe-la-depeche-242"[label="Groupe La Dépêche" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "le-villefranchois-246"[label="Le Villefranchois"]
+    
+  }
+
+  
+    "groupe-la-depeche-242" -> "le-villefranchois-246" [
+      label="possède 100%"
+    ]
+  
+    "famille-baylet-241" -> "groupe-la-depeche-242" [
+      label="possède 82%"
+    ]
+  
+}

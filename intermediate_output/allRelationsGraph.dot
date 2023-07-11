@@ -1,0 +1,2625 @@
+digraph {
+  
+    20-minutes-182[
+      label="20 Minutes"
+    ]
+  
+    6ter-113[
+      label="6ter"
+    ]
+  
+    abdoul-cadjee-305[
+      label="Abdoul Cadjee"
+    ]
+  
+    alain-weill-324[
+      label="Alain Weill"
+    ]
+  
+    altice-57[
+      label="Altice"
+    ]
+  
+    altice-france-58[
+      label="Altice France"
+    ]
+  
+    altice-media-61[
+      label="Altice Média"
+    ]
+  
+    amber-capital-330[
+      label="Amber Capital"
+    ]
+  
+    aol-27[
+      label="AOL"
+    ]
+  
+    ard-zdf-155[
+      label="ARD / ZDF"
+    ]
+  
+    ariane-de-rothschild-307[
+      label="Ariane de Rothschild"
+    ]
+  
+    arnaud-lagardere-67[
+      label="Arnaud Lagardère"
+    ]
+  
+    arte-154[
+      label="Arte"
+    ]
+  
+    arte-deutschland-tv-gmbh-156[
+      label="Arte Deutschland TV GmbH"
+    ]
+  
+    arte-france-136[
+      label="Arte France"
+    ]
+  
+    artemis-96[
+      label="Artémis"
+    ]
+  
+    association-guenter-holzmann-34[
+      label="Association Günter-Holzmann"
+    ]
+  
+    association-pour-le-soutien-des-principes-de-la-democratie-humaniste-173[
+      label="Association pour le soutien des principes de la démocratie humaniste"
+    ]
+  
+    atlantico-fr-313[
+      label="Atlantico.fr"
+    ]
+  
+    aujourd-hui-en-france-47[
+      label="Aujourd’hui en France"
+    ]
+  
+    ayant-droit-de-bernard-tapie-276[
+      label="Ayant droit de Bernard Tapie"
+    ]
+  
+    bayard-158[
+      label="Bayard"
+    ]
+  
+    bernard-arnault-42[
+      label="Bernard Arnault"
+    ]
+  
+    bertelsmann-103[
+      label="Bertelsmann"
+    ]
+  
+    bfm-business-65[
+      label="BFM Business"
+    ]
+  
+    bfm-tv-62[
+      label="BFM TV"
+    ]
+  
+    bollore-79[
+      label="Bolloré"
+    ]
+  
+    bouygues-121[
+      label="Bouygues"
+    ]
+  
+    bretagne-magazine-275[
+      label="Bretagne magazine"
+    ]
+  
+    c8-83[
+      label="C8"
+    ]
+  
+    canal-82[
+      label="Canal +"
+    ]
+  
+    capital-107[
+      label="Capital"
+    ]
+  
+    centre-presse-239[
+      label="Centre Presse"
+    ]
+  
+    centre-presse-aveyron-251[
+      label="Centre Presse Aveyron"
+    ]
+  
+    challenges-6[
+      label="Challenges"
+    ]
+  
+    charente-libre-255[
+      label="Charente Libre"
+    ]
+  
+    cherie-25-165[
+      label="Chérie 25"
+    ]
+  
+    cherie-fm-168[
+      label="Chérie FM"
+    ]
+  
+    claude-perdriel-1[
+      label="Claude Perdriel"
+    ]
+  
+    cnews-80[
+      label="CNews"
+    ]
+  
+    cnews-84[
+      label="CNews"
+    ]
+  
+    combat-solutions-12[
+      label="Combat Solutions"
+    ]
+  
+    corse-matin-282[
+      label="Corse Matin"
+    ]
+  
+    courrier-du-loiret-229[
+      label="Courrier du Loiret"
+    ]
+  
+    courrier-international-21[
+      label="Courrier international"
+    ]
+  
+    courrier-picard-189[
+      label="Courrier picard"
+    ]
+  
+    credit-agricole-nord-de-france-172[
+      label="Crédit Agricole Nord de France"
+    ]
+  
+    credit-mutuel-207[
+      label="Crédit Mutuel"
+    ]
+  
+    cstar-85[
+      label="CStar"
+    ]
+  
+    czech-media-invest-93[
+      label="Czech Media Invest"
+    ]
+  
+    daniel-kretinsky-92[
+      label="Daniel Křetínský"
+    ]
+  
+    dna-211[
+      label="DNA"
+    ]
+  
+    dordogne-libre-256[
+      label="Dordogne Libre"
+    ]
+  
+    edi-invest-315[
+      label="Edi Invest"
+    ]
+  
+    editions-suisses-holding-293[
+      label="Éditions Suisses Holding"
+    ]
+  
+    edouard-coudurier-266[
+      label="Édouard Coudurier"
+    ]
+  
+    elle-321[
+      label="Elle"
+    ]
+  
+    europe-1-74[
+      label="Europe 1"
+    ]
+  
+    famille-baylet-241[
+      label="Famille Baylet"
+    ]
+  
+    famille-bettencourt-54[
+      label="Famille Bettencourt"
+    ]
+  
+    famille-dassault-35[
+      label="Famille Dassault"
+    ]
+  
+    famille-hurbain-171[
+      label="Famille Hurbain"
+    ]
+  
+    famille-hutin-170[
+      label="Famille Hutin"
+    ]
+  
+    famille-lemoine-252[
+      label="Famille Lemoine"
+    ]
+  
+    famille-mohn-102[
+      label="Famille Mohn"
+    ]
+  
+    famille-saint-cricq-221[
+      label="Famille Saint-Cricq"
+    ]
+  
+    femme-actuelle-338[
+      label="Femme Actuelle"
+    ]
+  
+    figaro-magazine-39[
+      label="Figaro Magazine"
+    ]
+  
+    financiere-de-l-odet-78[
+      label="Financière de l’Odet"
+    ]
+  
+    fip-150[
+      label="FIP"
+    ]
+  
+    fondation-varenne-220[
+      label="Fondation Varenne"
+    ]
+  
+    fonds-de-dotation-pour-une-presse-independante-329[
+      label="Fonds de Dotation pour une Presse Indépendante"
+    ]
+  
+    fonds-pour-l-independance-de-la-presse-342[
+      label="Fonds pour l&#39;indépendance de la presse"
+    ]
+  
+    franc-tireur-346[
+      label="Franc-Tireur"
+    ]
+  
+    france-2-141[
+      label="France 2"
+    ]
+  
+    france-24-139[
+      label="France 24"
+    ]
+  
+    france-3-142[
+      label="France 3"
+    ]
+  
+    france-4-144[
+      label="France 4"
+    ]
+  
+    france-5-143[
+      label="France 5"
+    ]
+  
+    france-antilles-303[
+      label="France Antilles"
+    ]
+  
+    france-bleu-151[
+      label="France Bleu"
+    ]
+  
+    france-catholique-345[
+      label="France Catholique"
+    ]
+  
+    france-culture-149[
+      label="France Culture"
+    ]
+  
+    france-guyane-304[
+      label="France Guyane"
+    ]
+  
+    france-info-152[
+      label="France Info"
+    ]
+  
+    france-inter-147[
+      label="France Inter"
+    ]
+  
+    france-medias-monde-133[
+      label="France Médias Monde"
+    ]
+  
+    france-musique-148[
+      label="France Musique"
+    ]
+  
+    france-television-134[
+      label="France Télévision"
+    ]
+  
+    franck-julien-314[
+      label="Franck Julien"
+    ]
+  
+    francois-pinault-95[
+      label="François Pinault"
+    ]
+  
+    fun-radio-116[
+      label="Fun Radio"
+    ]
+  
+    gala-336[
+      label="Gala"
+    ]
+  
+    geo-340[
+      label="Geo"
+    ]
+  
+    georges-ghosn-117[
+      label="Georges Ghosn"
+    ]
+  
+    ghosn-capital-118[
+      label="Ghosn Capital"
+    ]
+  
+    groupe-dassault-36[
+      label="Groupe Dassault"
+    ]
+  
+    groupe-ebra-208[
+      label="Groupe EBRA"
+    ]
+  
+    groupe-figaro-37[
+      label="Groupe Figaro"
+    ]
+  
+    groupe-filanosa-295[
+      label="Groupe Filanosa"
+    ]
+  
+    groupe-hersant-media-294[
+      label="Groupe Hersant Média"
+    ]
+  
+    groupe-l-agefi-98[
+      label="Groupe L’Agefi"
+    ]
+  
+    groupe-l-opinion-325[
+      label="Groupe L’Opinion"
+    ]
+  
+    groupe-la-depeche-242[
+      label="Groupe La Dépêche"
+    ]
+  
+    groupe-la-montagne-222[
+      label="Groupe La Montagne"
+    ]
+  
+    groupe-la-provence-280[
+      label="Groupe La Provence"
+    ]
+  
+    groupe-les-echos-48[
+      label="Groupe Les Échos"
+    ]
+  
+    groupe-m6-110[
+      label="Groupe M6"
+    ]
+  
+    groupe-nrco-237[
+      label="Groupe NRCO"
+    ]
+  
+    groupe-perdriel-3[
+      label="Groupe Perdriel"
+    ]
+  
+    groupe-rossel-183[
+      label="Groupe Rossel"
+    ]
+  
+    groupe-rossel-la-voix-184[
+      label="Groupe Rossel La Voix"
+    ]
+  
+    groupe-sebdo-le-point-97[
+      label="Groupe Sebdo-Le Point"
+    ]
+  
+    groupe-sipa-ouest-174[
+      label="Groupe SIPA - Ouest"
+    ]
+  
+    groupe-sud-ouest-253[
+      label="Groupe Sud Ouest"
+    ]
+  
+    groupe-telegramme-267[
+      label="Groupe Télégramme"
+    ]
+  
+    groupe-tf1-122[
+      label="Groupe TF1"
+    ]
+  
+    groupe-valmonde-88[
+      label="Groupe Valmonde"
+    ]
+  
+    gulli-73[
+      label="Gulli"
+    ]
+  
+    harvard-business-review-109[
+      label="Harvard Business Review"
+    ]
+  
+    haute-gironde-258[
+      label="Haute Gironde"
+    ]
+  
+    haute-saintonge-257[
+      label="Haute Saintonge"
+    ]
+  
+    havre-dimanche-290[
+      label="Havre Dimanche"
+    ]
+  
+    havre-libre-287[
+      label="Havre Libre"
+    ]
+  
+    hima-groupe-318[
+      label="Hima Groupe"
+    ]
+  
+    historia-5[
+      label="Historia"
+    ]
+  
+    huffington-post-28[
+      label="Huffington Post"
+    ]
+  
+    huffpost-26[
+      label="HuffPost"
+    ]
+  
+    i24-news-320[
+      label="i24 News"
+    ]
+  
+    investir-50[
+      label="Investir"
+    ]
+  
+    investir-magazine-51[
+      label="Investir Magazine"
+    ]
+  
+    iskandar-safa-86[
+      label="Iskandar Safa"
+    ]
+  
+    jean-christophe-tortora-316[
+      label="Jean Christophe Tortora"
+    ]
+  
+    jean-louis-louvel-284[
+      label="Jean-Louis Louvel"
+    ]
+  
+    jean-paul-baudecroux-162[
+      label="Jean-Paul Baudecroux"
+    ]
+  
+    journal-de-gien-235[
+      label="Journal de Gien"
+    ]
+  
+    ken-fisher-326[
+      label="Ken Fisher"
+    ]
+  
+    l-agefi-hebdo-101[
+      label="L’Agefi hebdo"
+    ]
+  
+    l-aisne-nouvelle-190[
+      label="L’aisne Nouvelle"
+    ]
+  
+    l-alsace-213[
+      label="L’Alsace"
+    ]
+  
+    l-avenir-de-l-artois-193[
+      label="L’Avenir de l’Artois"
+    ]
+  
+    l-echo-charitois-232[
+      label="L’Echo Charitois"
+    ]
+  
+    l-echo-de-la-lys-206[
+      label="L’Echo de la Lys"
+    ]
+  
+    l-echo-republicain-228[
+      label="L’Echo Républicain"
+    ]
+  
+    l-eclair-265[
+      label="L’Eclair"
+    ]
+  
+    l-eclaireur-du-gatinais-230[
+      label="L’Eclaireur du Gâtinais"
+    ]
+  
+    l-essor-savoyard-197[
+      label="L’Essor savoyard"
+    ]
+  
+    l-est-republicain-209[
+      label="L’Est républicain"
+    ]
+  
+    l-est-eclair-liberation-champagne-192[
+      label="L’Est-éclair - Libération Champagne"
+    ]
+  
+    l-express-59[
+      label="L’Express"
+    ]
+  
+    l-express-neuchatel-298[
+      label="L’Express (Neuchâtel)"
+    ]
+  
+    l-hebdo-de-charente-maritime-260[
+      label="L’Hebdo de Charente-Maritime"
+    ]
+  
+    l-histoire-4[
+      label="L’histoire"
+    ]
+  
+    l-impartial-la-chaux-de-fonds-299[
+      label="L’Impartial (La Chaux-de-Fonds)"
+    ]
+  
+    l-independant-250[
+      label="L’Indépendant"
+    ]
+  
+    l-indicateur-205[
+      label="L’indicateur"
+    ]
+  
+    l-obs-16[
+      label="L’Obs"
+    ]
+  
+    l-opinion-8[
+      label="L’Opinion"
+    ]
+  
+    l-union-l-ardennais-191[
+      label="L’Union - L’Ardennais"
+    ]
+  
+    l-yonne-republicaine-227[
+      label="L’Yonne Républicaine"
+    ]
+  
+    la-chaine-parlementaire-131[
+      label="La Chaîne parlementaire"
+    ]
+  
+    la-cote-nyon-297[
+      label="La Côte (Nyon)"
+    ]
+  
+    la-croix-159[
+      label="La Croix"
+    ]
+  
+    la-depeche-du-bassin-261[
+      label="La Dépêche du Bassin"
+    ]
+  
+    la-depeche-du-midi-243[
+      label="La Dépêche du midi"
+    ]
+  
+    la-gazette-de-martigny-301[
+      label="La Gazette de Martigny"
+    ]
+  
+    la-gazette-du-comminges-247[
+      label="La Gazette du Comminges"
+    ]
+  
+    la-lettre-de-l-expansion-41[
+      label="La Lettre de l’Expansion"
+    ]
+  
+    la-liberte-234[
+      label="La Liberté"
+    ]
+  
+    la-montagne-223[
+      label="La Montagne"
+    ]
+  
+    la-nouvelle-republique-des-pyrenees-245[
+      label="La Nouvelle République des Pyrénées"
+    ]
+  
+    la-premiere-344[
+      label="La Première"
+    ]
+  
+    la-presse-de-la-manche-179[
+      label="La Presse de la Manche"
+    ]
+  
+    la-provence-283[
+      label="La Provence"
+    ]
+  
+    la-republique-des-pyrenees-264[
+      label="La République des Pyrénées"
+    ]
+  
+    la-republique-du-centre-236[
+      label="La République du Centre"
+    ]
+  
+    la-savoie-200[
+      label="La Savoie"
+    ]
+  
+    la-semaine-dans-le-boulonnais-202[
+      label="La Semaine dans le Boulonnais"
+    ]
+  
+    la-tribune-319[
+      label="La Tribune"
+    ]
+  
+    la-tribune-republicaine-199[
+      label="La Tribune républicaine"
+    ]
+  
+    la-vie-23[
+      label="La Vie"
+    ]
+  
+    la-voix-du-nord-186[
+      label="La Voix du Nord"
+    ]
+  
+    la-voix-du-nord-sa-185[
+      label="La Voix du Nord SA"
+    ]
+  
+    lagardere-capital-and-management-331[
+      label="Lagardère Capital &amp; Management"
+    ]
+  
+    lagardere-news-70[
+      label="Lagardère News"
+    ]
+  
+    lagardere-sa-69[
+      label="Lagardère SA"
+    ]
+  
+    lampsane-investissement-sa-308[
+      label="Lampsane Investissement SA"
+    ]
+  
+    laurent-alexandre-317[
+      label="Laurent Alexandre"
+    ]
+  
+    lci-125[
+      label="LCI"
+    ]
+  
+    le-berry-republicain-226[
+      label="Le Berry républicain"
+    ]
+  
+    le-bien-public-214[
+      label="Le Bien public"
+    ]
+  
+    le-courrier-de-l-ouest-176[
+      label="Le Courrier de l’Ouest"
+    ]
+  
+    le-dauphine-libere-217[
+      label="Le Dauphiné libéré"
+    ]
+  
+    le-figaro-38[
+      label="Le Figaro"
+    ]
+  
+    le-journal-de-l-ile-de-la-reunion-306[
+      label="Le Journal de l’Île de la Réunion"
+    ]
+  
+    le-journal-de-la-haute-marne-219[
+      label="Le Journal de la Haute-Marne"
+    ]
+  
+    le-journal-de-montreuil-204[
+      label="Le Journal de Montreuil"
+    ]
+  
+    le-journal-de-saone-et-loire-215[
+      label="Le Journal de Saône-et-Loire"
+    ]
+  
+    le-journal-de-sierre-302[
+      label="Le Journal de Sierre"
+    ]
+  
+    le-journal-des-entreprises-274[
+      label="Le Journal des entreprises"
+    ]
+  
+    le-journal-des-flandres-195[
+      label="Le Journal des Flandres"
+    ]
+  
+    le-journal-du-centre-225[
+      label="Le Journal du centre"
+    ]
+  
+    le-journal-du-dimanche-71[
+      label="Le Journal du dimanche"
+    ]
+  
+    le-journal-du-medoc-262[
+      label="Le Journal du Médoc"
+    ]
+  
+    le-maine-libre-177[
+      label="Le Maine libre"
+    ]
+  
+    le-mensuel-de-rennes-272[
+      label="Le Mensuel de Rennes"
+    ]
+  
+    le-messager-196[
+      label="Le Messager"
+    ]
+  
+    le-monde-19[
+      label="Le Monde"
+    ]
+  
+    le-monde-des-religions-22[
+      label="Le Monde des religions"
+    ]
+  
+    le-monde-diplomatique-24[
+      label="Le Monde diplomatique"
+    ]
+  
+    le-monde-libre-14[
+      label="Le Monde libre"
+    ]
+  
+    le-monde-sa-15[
+      label="Le Monde SA"
+    ]
+  
+    le-nouveau-magazine-litteraire-322[
+      label="Le Nouveau Magazine littéraire"
+    ]
+  
+    le-nouveau-monde-13[
+      label="Le Nouveau Monde"
+    ]
+  
+    le-nouvelliste-300[
+      label="Le Nouvelliste"
+    ]
+  
+    le-parisien-44[
+      label="Le Parisien"
+    ]
+  
+    le-parisien-economie-46[
+      label="Le Parisien économie"
+    ]
+  
+    le-parisien-week-end-45[
+      label="Le Parisien Week-End"
+    ]
+  
+    le-particulier-40[
+      label="Le Particulier"
+    ]
+  
+    le-pays-gessien-198[
+      label="Le Pays gessien"
+    ]
+  
+    le-petit-bleu-244[
+      label="Le Petit Bleu"
+    ]
+  
+    le-phare-dunkerquois-201[
+      label="Le Phare Dunkerquois"
+    ]
+  
+    le-poher-269[
+      label="Le Poher"
+    ]
+  
+    le-point-100[
+      label="Le Point"
+    ]
+  
+    le-populaire-du-centre-224[
+      label="Le Populaire du centre"
+    ]
+  
+    le-progres-216[
+      label="Le Progrès"
+    ]
+  
+    le-progres-de-fecamp-288[
+      label="Le Progrès de Fécamp"
+    ]
+  
+    le-republicain-lorrain-210[
+      label="Le Républicain lorrain"
+    ]
+  
+    le-resistant-259[
+      label="Le Résistant"
+    ]
+  
+    le-reveil-de-berck-203[
+      label="Le Réveil de Berck"
+    ]
+  
+    le-telegramme-268[
+      label="Le Télégramme"
+    ]
+  
+    le-villefranchois-246[
+      label="Le Villefranchois"
+    ]
+  
+    les-amis-du-monde-diplomatique-33[
+      label="Les Amis du Monde diplomatique"
+    ]
+  
+    les-augustins-de-l-assomption-157[
+      label="Les Augustins de l’Assomption"
+    ]
+  
+    les-echos-49[
+      label="Les Échos"
+    ]
+  
+    les-echos-du-touquet-194[
+      label="Les Echos du Touquet"
+    ]
+  
+    les-echos-week-end-52[
+      label="Les Échos Week-End"
+    ]
+  
+    les-inrockuptibles-31[
+      label="Les Inrockuptibles"
+    ]
+  
+    les-journaux-du-midi-248[
+      label="Les Journaux du midi"
+    ]
+  
+    liberation-60[
+      label="Libération"
+    ]
+  
+    liberte-dimanche-289[
+      label="Liberté Dimanche"
+    ]
+  
+    lvmh-43[
+      label="LVMH"
+    ]
+  
+    m-le-magazine-du-monde-18[
+      label="M, le magazine du Monde"
+    ]
+  
+    m6-111[
+      label="M6"
+    ]
+  
+    madison-cox-323[
+      label="Madison Cox"
+    ]
+  
+    management-108[
+      label="Management"
+    ]
+  
+    maniere-de-voir-25[
+      label="Manière de voir"
+    ]
+  
+    marianne-94[
+      label="Marianne"
+    ]
+  
+    martin-et-olivier-bouygues-120[
+      label="Martin et Olivier Bouygues"
+    ]
+  
+    matthieu-pigasse-11[
+      label="Matthieu Pigasse"
+    ]
+  
+    midi-libre-249[
+      label="Midi libre"
+    ]
+  
+    mieux-vivre-votre-argent-90[
+      label="Mieux vivre votre argent"
+    ]
+  
+    monaco-matin-333[
+      label="Monaco-Matin"
+    ]
+  
+    monte-carlo-doualiya-137[
+      label="Monte Carlo Doualiya"
+    ]
+  
+    mouv-153[
+      label="Mouv’"
+    ]
+  
+    national-geographic-339[
+      label="National Geographic"
+    ]
+  
+    neon-347[
+      label="Néon"
+    ]
+  
+    nethys-277[
+      label="Nethys"
+    ]
+  
+    nice-matin-281[
+      label="Nice-Matin"
+    ]
+  
+    nice-matin-328[
+      label="Nice-Matin"
+    ]
+  
+    nicolas-beytout-55[
+      label="Nicolas Beytout"
+    ]
+  
+    njj-334[
+      label="NJJ"
+    ]
+  
+    nord-eclair-187[
+      label="Nord éclair"
+    ]
+  
+    nord-littoral-188[
+      label="Nord Littoral"
+    ]
+  
+    normandie-dimanche-291[
+      label="Normandie Dimanche"
+    ]
+  
+    nostalgie-169[
+      label="Nostalgie"
+    ]
+  
+    notre-temps-161[
+      label="Notre temps"
+    ]
+  
+    nouvelle-republique-du-centre-238[
+      label="Nouvelle République du Centre"
+    ]
+  
+    nrj-166[
+      label="NRJ"
+    ]
+  
+    nrj-12-164[
+      label="NRJ 12"
+    ]
+  
+    nrj-group-163[
+      label="NRJ Group"
+    ]
+  
+    numero-23-66[
+      label="Numéro 23"
+    ]
+  
+    ouest-france-175[
+      label="Ouest France"
+    ]
+  
+    paris-match-72[
+      label="Paris Match"
+    ]
+  
+    paris-normandie-286[
+      label="Paris-Normandie"
+    ]
+  
+    paris-turf-341[
+      label="Paris-Turf"
+    ]
+  
+    patrick-drahi-56[
+      label="Patrick Drahi"
+    ]
+  
+    pays-roannais-233[
+      label="Pays Roannais"
+    ]
+  
+    pelerin-160[
+      label="Pèlerin"
+    ]
+  
+    philippe-hersant-292[
+      label="Philippe Hersant"
+    ]
+  
+    point-de-vue-99[
+      label="Point de vue"
+    ]
+  
+    presse-ocean-178[
+      label="Presse-Océan"
+    ]
+  
+    prier-17[
+      label="Prier"
+    ]
+  
+    prisa-9[
+      label="Prisa"
+    ]
+  
+    prisma-media-106[
+      label="Prisma Media"
+    ]
+  
+    privinvest-87[
+      label="Privinvest"
+    ]
+  
+    province-de-liege-279[
+      label="Province de Liège"
+    ]
+  
+    publi-hebdos-180[
+      label="Publi Hebdos"
+    ]
+  
+    public-senat-132[
+      label="Public Sénat"
+    ]
+  
+    publifin-278[
+      label="Publifin"
+    ]
+  
+    pyrenees-presse-263[
+      label="Pyrénées Presse"
+    ]
+  
+    qatar-investment-authority-68[
+      label="Qatar Investment Authority"
+    ]
+  
+    radio-classique-53[
+      label="Radio Classique"
+    ]
+  
+    radio-france-135[
+      label="Radio France"
+    ]
+  
+    radio-france-international-138[
+      label="Radio France International"
+    ]
+  
+    radio-nova-30[
+      label="Radio Nova"
+    ]
+  
+    regional-de-cosne-231[
+      label="Régional de Cosne"
+    ]
+  
+    republique-federale-d-allemagne-129[
+      label="République fédérale d’Allemagne"
+    ]
+  
+    republique-francaise-128[
+      label="République française"
+    ]
+  
+    rfm-75[
+      label="RFM"
+    ]
+  
+    rhone-media-296[
+      label="Rhône Média"
+    ]
+  
+    rire-et-chansons-167[
+      label="Rire et Chansons"
+    ]
+  
+    rmc-64[
+      label="RMC"
+    ]
+  
+    rmc-decouverte-63[
+      label="RMC Découverte"
+    ]
+  
+    rmc-story-327[
+      label="RMC Story"
+    ]
+  
+    rtl-114[
+      label="RTL"
+    ]
+  
+    rtl-group-105[
+      label="RTL Group"
+    ]
+  
+    rtl2-115[
+      label="RTL2"
+    ]
+  
+    sciences-and-avenir-7[
+      label="Sciences &amp; Avenir"
+    ]
+  
+    sept-jours-a-brest-273[
+      label="Sept Jours à Brest"
+    ]
+  
+    slate-fr-309[
+      label="Slate.fr"
+    ]
+  
+    societe-normande-d-information-et-de-communication-285[
+      label="Société Normande d’Information et de Communication"
+    ]
+  
+    sofiouest-181[
+      label="Sofiouest"
+    ]
+  
+    sophia-publications-2[
+      label="Sophia Publications"
+    ]
+  
+    sud-ouest-254[
+      label="Sud Ouest"
+    ]
+  
+    tebeo-270[
+      label="Tébéo"
+    ]
+  
+    tebesud-271[
+      label="Tébésud"
+    ]
+  
+    tele-7-jours-343[
+      label="Télé 7 Jours"
+    ]
+  
+    tele-loisirs-335[
+      label="Télé-Loisirs"
+    ]
+  
+    telerama-20[
+      label="Télérama"
+    ]
+  
+    tf1-123[
+      label="TF1"
+    ]
+  
+    tf1-series-films-126[
+      label="TF1 Séries Films"
+    ]
+  
+    tfx-124[
+      label="TFX"
+    ]
+  
+    tmc-127[
+      label="TMC"
+    ]
+  
+    tv-tours-240[
+      label="TV Tours"
+    ]
+  
+    tv5-monde-140[
+      label="TV5 Monde"
+    ]
+  
+    valeurs-actuelles-89[
+      label="Valeurs actuelles"
+    ]
+  
+    var-matin-332[
+      label="Var-Matin"
+    ]
+  
+    vaucluse-matin-218[
+      label="Vaucluse Matin"
+    ]
+  
+    vice-com-32[
+      label="Vice.com"
+    ]
+  
+    vincent-bollore-77[
+      label="Vincent Bolloré"
+    ]
+  
+    virgin-radio-76[
+      label="Virgin Radio"
+    ]
+  
+    vivendi-81[
+      label="Vivendi"
+    ]
+  
+    voici-337[
+      label="Voici"
+    ]
+  
+    vosges-matin-212[
+      label="Vosges Matin"
+    ]
+  
+    vsd-119[
+      label="VSD"
+    ]
+  
+    w9-112[
+      label="W9"
+    ]
+  
+    xavier-niel-10[
+      label="Xavier Niel"
+    ]
+  
+    yves-de-chaisemartin-91[
+      label="Yves de Chaisemartin"
+    ]
+  
+
+  
+    claude-perdriel-1 -> groupe-perdriel-3 [
+      label="contrôle 100%"
+    ]
+  
+    claude-perdriel-1 -> groupe-l-opinion-325 [
+      label="participe 100%"
+    ]
+  
+    sophia-publications-2 -> historia-5 [
+      label="possède 100%"
+    ]
+  
+    sophia-publications-2 -> l-histoire-4 [
+      label="possède 100%"
+    ]
+  
+    groupe-perdriel-3 -> challenges-6 [
+      label="possède 100%"
+    ]
+  
+    groupe-perdriel-3 -> sciences-and-avenir-7 [
+      label="possède 100%"
+    ]
+  
+    prisa-9 -> le-monde-libre-14 [
+      label="possède 20%"
+    ]
+  
+    xavier-niel-10 -> groupe-la-provence-280 [
+      label="possède 11%"
+    ]
+  
+    xavier-niel-10 -> le-monde-libre-14 [
+      label="possède 26%"
+    ]
+  
+    xavier-niel-10 -> le-nouveau-magazine-litteraire-322 [
+      label="participe 100%"
+    ]
+  
+    xavier-niel-10 -> fonds-pour-l-independance-de-la-presse-342 [
+      label="contrôle 100%"
+    ]
+  
+    fonds-pour-l-independance-de-la-presse-342 -> njj-334 [
+      label="possède 100%"
+    ]
+  
+    matthieu-pigasse-11 -> combat-solutions-12 [
+      label="possède 78%"
+    ]
+  
+    combat-solutions-12 -> huffpost-26 [
+      label="possède 11%"
+    ]
+  
+    combat-solutions-12 -> le-nouveau-monde-13 [
+      label="possède 51%"
+    ]
+  
+    combat-solutions-12 -> les-inrockuptibles-31 [
+      label="possède 100%"
+    ]
+  
+    combat-solutions-12 -> radio-nova-30 [
+      label="possède 100%"
+    ]
+  
+    le-nouveau-monde-13 -> le-monde-libre-14 [
+      label="possède 26%"
+    ]
+  
+    le-monde-libre-14 -> l-obs-16 [
+      label="possède 99%"
+    ]
+  
+    le-monde-libre-14 -> le-monde-sa-15 [
+      label="possède 75%"
+    ]
+  
+    le-monde-sa-15 -> courrier-international-21 [
+      label="possède 100%"
+    ]
+  
+    le-monde-sa-15 -> huffpost-26 [
+      label="possède 34%"
+    ]
+  
+    le-monde-sa-15 -> la-vie-23 [
+      label="possède 100%"
+    ]
+  
+    le-monde-sa-15 -> le-monde-19 [
+      label="possède 100%"
+    ]
+  
+    le-monde-sa-15 -> le-monde-des-religions-22 [
+      label="possède 100%"
+    ]
+  
+    le-monde-sa-15 -> le-monde-diplomatique-24 [
+      label="possède 51%"
+    ]
+  
+    le-monde-sa-15 -> m-le-magazine-du-monde-18 [
+      label="possède 100%"
+    ]
+  
+    le-monde-sa-15 -> maniere-de-voir-25 [
+      label="possède 51%"
+    ]
+  
+    le-monde-sa-15 -> prier-17 [
+      label="possède 100%"
+    ]
+  
+    le-monde-sa-15 -> telerama-20 [
+      label="possède 100%"
+    ]
+  
+    aol-27 -> huffington-post-28 [
+      label="possède 100%"
+    ]
+  
+    huffington-post-28 -> huffpost-26 [
+      label="possède 51%"
+    ]
+  
+    les-amis-du-monde-diplomatique-33 -> le-monde-diplomatique-24 [
+      label="possède 24%"
+    ]
+  
+    les-amis-du-monde-diplomatique-33 -> maniere-de-voir-25 [
+      label="possède 24%"
+    ]
+  
+    association-guenter-holzmann-34 -> le-monde-diplomatique-24 [
+      label="possède 24%"
+    ]
+  
+    association-guenter-holzmann-34 -> maniere-de-voir-25 [
+      label="possède 24%"
+    ]
+  
+    famille-dassault-35 -> groupe-dassault-36 [
+      label="possède 100%"
+    ]
+  
+    groupe-dassault-36 -> groupe-figaro-37 [
+      label="possède 100%"
+    ]
+  
+    groupe-figaro-37 -> figaro-magazine-39 [
+      label="possède 100%"
+    ]
+  
+    groupe-figaro-37 -> la-lettre-de-l-expansion-41 [
+      label="possède 100%"
+    ]
+  
+    groupe-figaro-37 -> le-figaro-38 [
+      label="possède 100%"
+    ]
+  
+    groupe-figaro-37 -> le-particulier-40 [
+      label="possède 100%"
+    ]
+  
+    bernard-arnault-42 -> lvmh-43 [
+      label="possède 46%"
+    ]
+  
+    bernard-arnault-42 -> lagardere-capital-and-management-331 [
+      label="possède 27%"
+    ]
+  
+    lvmh-43 -> groupe-perdriel-3 [
+      label="possède 40%"
+    ]
+  
+    lvmh-43 -> aujourd-hui-en-france-47 [
+      label="possède 100%"
+    ]
+  
+    lvmh-43 -> groupe-les-echos-48 [
+      label="possède 100%"
+    ]
+  
+    lvmh-43 -> groupe-l-opinion-325 [
+      label="participe 100%"
+    ]
+  
+    lvmh-43 -> le-parisien-44 [
+      label="possède 100%"
+    ]
+  
+    lvmh-43 -> le-parisien-economie-46 [
+      label="possède 100%"
+    ]
+  
+    lvmh-43 -> le-parisien-week-end-45 [
+      label="possède 100%"
+    ]
+  
+    groupe-les-echos-48 -> investir-50 [
+      label="possède 100%"
+    ]
+  
+    groupe-les-echos-48 -> investir-magazine-51 [
+      label="possède 100%"
+    ]
+  
+    groupe-les-echos-48 -> les-echos-49 [
+      label="possède 100%"
+    ]
+  
+    groupe-les-echos-48 -> les-echos-week-end-52 [
+      label="possède 100%"
+    ]
+  
+    groupe-les-echos-48 -> radio-classique-53 [
+      label="possède 100%"
+    ]
+  
+    famille-bettencourt-54 -> groupe-l-opinion-325 [
+      label="participe 100%"
+    ]
+  
+    nicolas-beytout-55 -> groupe-l-opinion-325 [
+      label="participe 100%"
+    ]
+  
+    patrick-drahi-56 -> altice-57 [
+      label="possède 61%"
+    ]
+  
+    altice-57 -> altice-france-58 [
+      label="possède 78%"
+    ]
+  
+    altice-57 -> i24-news-320 [
+      label="possède 100%"
+    ]
+  
+    altice-france-58 -> l-express-59 [
+      label="possède 49%"
+    ]
+  
+    altice-france-58 -> liberation-60 [
+      label="possède 100%"
+    ]
+  
+    altice-france-58 -> altice-media-61 [
+      label="possède 100%"
+    ]
+  
+    altice-57 -> fonds-de-dotation-pour-une-presse-independante-329 [
+      label="contrôle 100%"
+    ]
+  
+    altice-57 -> fonds-de-dotation-pour-une-presse-independante-329 [
+      label="contrôle 100%"
+    ]
+  
+    fonds-de-dotation-pour-une-presse-independante-329 -> liberation-60 [
+      label="contrôle 100%"
+    ]
+  
+    altice-media-61 -> bfm-business-65 [
+      label="possède 100%"
+    ]
+  
+    altice-media-61 -> bfm-tv-62 [
+      label="possède 100%"
+    ]
+  
+    altice-media-61 -> rmc-story-327 [
+      label="possède 100%"
+    ]
+  
+    altice-media-61 -> rmc-64 [
+      label="possède 100%"
+    ]
+  
+    altice-media-61 -> rmc-decouverte-63 [
+      label="possède 100%"
+    ]
+  
+    arnaud-lagardere-67 -> lagardere-sa-69 [
+      label="possède 7%"
+    ]
+  
+    arnaud-lagardere-67 -> lagardere-capital-and-management-331 [
+      label="possède 73%"
+    ]
+  
+    qatar-investment-authority-68 -> lagardere-sa-69 [
+      label="possède 12%"
+    ]
+  
+    lagardere-sa-69 -> lagardere-news-70 [
+      label="possède 100%"
+    ]
+  
+    vivendi-81 -> lagardere-sa-69 [
+      label="possède 27%"
+    ]
+  
+    lagardere-news-70 -> europe-1-74 [
+      label="possède 100%"
+    ]
+  
+    lagardere-news-70 -> le-journal-du-dimanche-71 [
+      label="possède 100%"
+    ]
+  
+    lagardere-news-70 -> paris-match-72 [
+      label="possède 100%"
+    ]
+  
+    lagardere-news-70 -> rfm-75 [
+      label="possède 100%"
+    ]
+  
+    lagardere-news-70 -> virgin-radio-76 [
+      label="possède 100%"
+    ]
+  
+    vincent-bollore-77 -> financiere-de-l-odet-78 [
+      label="possède 49%"
+    ]
+  
+    financiere-de-l-odet-78 -> bollore-79 [
+      label="possède 64%"
+    ]
+  
+    bollore-79 -> vivendi-81 [
+      label="possède 27%"
+    ]
+  
+    bollore-79 -> france-catholique-345 [
+      label="possède 100%"
+    ]
+  
+    vivendi-81 -> c8-83 [
+      label="possède 100%"
+    ]
+  
+    vivendi-81 -> canal-82 [
+      label="possède 100%"
+    ]
+  
+    vivendi-81 -> cnews-80 [
+      label="possède 100%"
+    ]
+  
+    vivendi-81 -> cstar-85 [
+      label="possède 100%"
+    ]
+  
+    iskandar-safa-86 -> privinvest-87 [
+      label="possède 100%"
+    ]
+  
+    privinvest-87 -> groupe-valmonde-88 [
+      label="possède 50%"
+    ]
+  
+    groupe-valmonde-88 -> mieux-vivre-votre-argent-90 [
+      label="possède 100%"
+    ]
+  
+    groupe-valmonde-88 -> valeurs-actuelles-89 [
+      label="possède 100%"
+    ]
+  
+    yves-de-chaisemartin-91 -> marianne-94 [
+      label="possède 9%"
+    ]
+  
+    daniel-kretinsky-92 -> czech-media-invest-93 [
+      label="possède 50%"
+    ]
+  
+    daniel-kretinsky-92 -> groupe-tf1-122 [
+      label="possède 5%"
+    ]
+  
+    czech-media-invest-93 -> elle-321 [
+      label="possède 100%"
+    ]
+  
+    czech-media-invest-93 -> le-nouveau-monde-13 [
+      label="possède 49%"
+    ]
+  
+    czech-media-invest-93 -> marianne-94 [
+      label="possède 91%"
+    ]
+  
+    francois-pinault-95 -> artemis-96 [
+      label="possède 57%"
+    ]
+  
+    artemis-96 -> groupe-sebdo-le-point-97 [
+      label="possède 100%"
+    ]
+  
+    artemis-96 -> point-de-vue-99 [
+      label="possède 100%"
+    ]
+  
+    groupe-sebdo-le-point-97 -> le-point-100 [
+      label="possède 100%"
+    ]
+  
+    famille-mohn-102 -> bertelsmann-103 [
+      label="contrôle 100%"
+    ]
+  
+    bertelsmann-103 -> rtl-group-105 [
+      label="possède 75%"
+    ]
+  
+    rtl-group-105 -> groupe-m6-110 [
+      label="possède 48%"
+    ]
+  
+    prisma-media-106 -> capital-107 [
+      label="possède 100%"
+    ]
+  
+    prisma-media-106 -> harvard-business-review-109 [
+      label="possède 100%"
+    ]
+  
+    prisma-media-106 -> management-108 [
+      label="possède 100%"
+    ]
+  
+    prisma-media-106 -> tele-loisirs-335 [
+      label="possède 100%"
+    ]
+  
+    prisma-media-106 -> gala-336 [
+      label="possède 100%"
+    ]
+  
+    prisma-media-106 -> voici-337 [
+      label="possède 100%"
+    ]
+  
+    prisma-media-106 -> femme-actuelle-338 [
+      label="possède 100%"
+    ]
+  
+    prisma-media-106 -> national-geographic-339 [
+      label="possède 100%"
+    ]
+  
+    prisma-media-106 -> geo-340 [
+      label="possède 100%"
+    ]
+  
+    prisma-media-106 -> neon-347 [
+      label="possède 100%"
+    ]
+  
+    groupe-m6-110 -> 6ter-113 [
+      label="possède 100%"
+    ]
+  
+    groupe-m6-110 -> fun-radio-116 [
+      label="possède 100%"
+    ]
+  
+    groupe-m6-110 -> gulli-73 [
+      label="possède 100%"
+    ]
+  
+    groupe-m6-110 -> m6-111 [
+      label="possède 100%"
+    ]
+  
+    groupe-m6-110 -> rtl-114 [
+      label="possède 100%"
+    ]
+  
+    groupe-m6-110 -> rtl2-115 [
+      label="possède 100%"
+    ]
+  
+    groupe-m6-110 -> w9-112 [
+      label="possède 100%"
+    ]
+  
+    georges-ghosn-117 -> ghosn-capital-118 [
+      label="possède 100%"
+    ]
+  
+    ghosn-capital-118 -> vsd-119 [
+      label="possède 100%"
+    ]
+  
+    martin-et-olivier-bouygues-120 -> bouygues-121 [
+      label="possède 20%"
+    ]
+  
+    bouygues-121 -> groupe-tf1-122 [
+      label="possède 44%"
+    ]
+  
+    groupe-tf1-122 -> lci-125 [
+      label="possède 100%"
+    ]
+  
+    groupe-tf1-122 -> tf1-123 [
+      label="possède 100%"
+    ]
+  
+    groupe-tf1-122 -> tf1-series-films-126 [
+      label="possède 100%"
+    ]
+  
+    groupe-tf1-122 -> tfx-124 [
+      label="possède 100%"
+    ]
+  
+    groupe-tf1-122 -> tmc-127 [
+      label="possède 100%"
+    ]
+  
+    republique-francaise-128 -> arte-france-136 [
+      label="possède 100%"
+    ]
+  
+    republique-francaise-128 -> france-medias-monde-133 [
+      label="possède 100%"
+    ]
+  
+    republique-francaise-128 -> france-television-134 [
+      label="possède 100%"
+    ]
+  
+    republique-francaise-128 -> la-chaine-parlementaire-131 [
+      label="possède 100%"
+    ]
+  
+    republique-francaise-128 -> public-senat-132 [
+      label="possède 100%"
+    ]
+  
+    republique-francaise-128 -> radio-france-135 [
+      label="possède 100%"
+    ]
+  
+    republique-federale-d-allemagne-129 -> ard-zdf-155 [
+      label="contrôle 100%"
+    ]
+  
+    france-medias-monde-133 -> france-24-139 [
+      label="possède 100%"
+    ]
+  
+    france-medias-monde-133 -> monte-carlo-doualiya-137 [
+      label="possède 100%"
+    ]
+  
+    france-medias-monde-133 -> radio-france-international-138 [
+      label="possède 100%"
+    ]
+  
+    france-medias-monde-133 -> tv5-monde-140 [
+      label="possède 13%"
+    ]
+  
+    france-television-134 -> france-2-141 [
+      label="possède 100%"
+    ]
+  
+    france-television-134 -> la-premiere-344 [
+      label="possède 100%"
+    ]
+  
+    france-television-134 -> france-3-142 [
+      label="possède 100%"
+    ]
+  
+    france-television-134 -> france-4-144 [
+      label="possède 100%"
+    ]
+  
+    france-television-134 -> france-5-143 [
+      label="possède 100%"
+    ]
+  
+    france-television-134 -> france-info-152 [
+      label="contrôle 100%"
+    ]
+  
+    france-television-134 -> tv5-monde-140 [
+      label="possède 49%"
+    ]
+  
+    radio-france-135 -> fip-150 [
+      label="possède 100%"
+    ]
+  
+    radio-france-135 -> france-bleu-151 [
+      label="possède 100%"
+    ]
+  
+    radio-france-135 -> france-culture-149 [
+      label="possède 100%"
+    ]
+  
+    radio-france-135 -> france-info-152 [
+      label="contrôle 100%"
+    ]
+  
+    radio-france-135 -> france-info-152 [
+      label="possède 100%"
+    ]
+  
+    radio-france-135 -> france-inter-147 [
+      label="possède 100%"
+    ]
+  
+    radio-france-135 -> france-musique-148 [
+      label="possède 100%"
+    ]
+  
+    radio-france-135 -> mouv-153 [
+      label="possède 100%"
+    ]
+  
+    arte-france-136 -> arte-154 [
+      label="possède 50%"
+    ]
+  
+    ard-zdf-155 -> arte-deutschland-tv-gmbh-156 [
+      label="possède 100%"
+    ]
+  
+    arte-deutschland-tv-gmbh-156 -> arte-154 [
+      label="possède 50%"
+    ]
+  
+    les-augustins-de-l-assomption-157 -> bayard-158 [
+      label="possède 100%"
+    ]
+  
+    bayard-158 -> la-croix-159 [
+      label="possède 100%"
+    ]
+  
+    bayard-158 -> notre-temps-161 [
+      label="possède 100%"
+    ]
+  
+    bayard-158 -> pelerin-160 [
+      label="possède 100%"
+    ]
+  
+    jean-paul-baudecroux-162 -> nrj-group-163 [
+      label="possède 79%"
+    ]
+  
+    nrj-group-163 -> cherie-25-165 [
+      label="possède 100%"
+    ]
+  
+    nrj-group-163 -> cherie-fm-168 [
+      label="possède 100%"
+    ]
+  
+    nrj-group-163 -> nostalgie-169 [
+      label="possède 100%"
+    ]
+  
+    nrj-group-163 -> nrj-166 [
+      label="possède 100%"
+    ]
+  
+    nrj-group-163 -> nrj-12-164 [
+      label="possède 100%"
+    ]
+  
+    nrj-group-163 -> rire-et-chansons-167 [
+      label="possède 100%"
+    ]
+  
+    famille-hutin-170 -> association-pour-le-soutien-des-principes-de-la-democratie-humaniste-173 [
+      label="contrôle 100%"
+    ]
+  
+    famille-hurbain-171 -> groupe-rossel-183 [
+      label="contrôle 100%"
+    ]
+  
+    credit-agricole-nord-de-france-172 -> groupe-rossel-la-voix-184 [
+      label="possède 25%"
+    ]
+  
+    association-pour-le-soutien-des-principes-de-la-democratie-humaniste-173 -> groupe-sipa-ouest-174 [
+      label="possède 100%"
+    ]
+  
+    groupe-sipa-ouest-174 -> la-presse-de-la-manche-179 [
+      label="possède 100%"
+    ]
+  
+    groupe-sipa-ouest-174 -> le-courrier-de-l-ouest-176 [
+      label="possède 100%"
+    ]
+  
+    groupe-sipa-ouest-174 -> le-maine-libre-177 [
+      label="possède 100%"
+    ]
+  
+    groupe-sipa-ouest-174 -> ouest-france-175 [
+      label="possède 100%"
+    ]
+  
+    groupe-sipa-ouest-174 -> presse-ocean-178 [
+      label="possède 100%"
+    ]
+  
+    groupe-sipa-ouest-174 -> publi-hebdos-180 [
+      label="possède 100%"
+    ]
+  
+    groupe-sipa-ouest-174 -> sofiouest-181 [
+      label="possède 40%"
+    ]
+  
+    sofiouest-181 -> 20-minutes-182 [
+      label="possède 50%"
+    ]
+  
+    groupe-rossel-183 -> groupe-rossel-la-voix-184 [
+      label="possède 73%"
+    ]
+  
+    groupe-rossel-la-voix-184 -> 20-minutes-182 [
+      label="possède 49%"
+    ]
+  
+    groupe-rossel-la-voix-184 -> la-voix-du-nord-sa-185 [
+      label="possède 96%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> courrier-picard-189 [
+      label="possède 100%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> l-aisne-nouvelle-190 [
+      label="possède 100%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> l-avenir-de-l-artois-193 [
+      label="possède 100%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> l-echo-de-la-lys-206 [
+      label="possède 100%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> l-essor-savoyard-197 [
+      label="possède 100%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> l-est-eclair-liberation-champagne-192 [
+      label="possède 100%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> l-indicateur-205 [
+      label="possède 100%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> l-union-l-ardennais-191 [
+      label="possède 100%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> la-savoie-200 [
+      label="possède 100%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> la-semaine-dans-le-boulonnais-202 [
+      label="possède 100%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> la-tribune-republicaine-199 [
+      label="possède 100%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> la-voix-du-nord-186 [
+      label="possède 100%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> le-journal-de-montreuil-204 [
+      label="possède 100%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> le-journal-des-flandres-195 [
+      label="possède 100%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> le-messager-196 [
+      label="possède 100%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> le-pays-gessien-198 [
+      label="possède 100%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> le-phare-dunkerquois-201 [
+      label="possède 100%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> le-reveil-de-berck-203 [
+      label="possède 100%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> les-echos-du-touquet-194 [
+      label="possède 100%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> nord-eclair-187 [
+      label="possède 100%"
+    ]
+  
+    la-voix-du-nord-sa-185 -> nord-littoral-188 [
+      label="possède 100%"
+    ]
+  
+    credit-mutuel-207 -> groupe-ebra-208 [
+      label="possède 100%"
+    ]
+  
+    groupe-ebra-208 -> dna-211 [
+      label="possède 100%"
+    ]
+  
+    groupe-ebra-208 -> l-alsace-213 [
+      label="possède 100%"
+    ]
+  
+    groupe-ebra-208 -> l-est-republicain-209 [
+      label="possède 100%"
+    ]
+  
+    groupe-ebra-208 -> le-bien-public-214 [
+      label="possède 100%"
+    ]
+  
+    groupe-ebra-208 -> le-dauphine-libere-217 [
+      label="possède 100%"
+    ]
+  
+    groupe-ebra-208 -> le-journal-de-la-haute-marne-219 [
+      label="possède 50%"
+    ]
+  
+    groupe-ebra-208 -> le-journal-de-saone-et-loire-215 [
+      label="possède 100%"
+    ]
+  
+    groupe-ebra-208 -> le-progres-216 [
+      label="possède 100%"
+    ]
+  
+    groupe-ebra-208 -> le-republicain-lorrain-210 [
+      label="possède 100%"
+    ]
+  
+    groupe-ebra-208 -> vaucluse-matin-218 [
+      label="possède 100%"
+    ]
+  
+    groupe-ebra-208 -> vosges-matin-212 [
+      label="possède 100%"
+    ]
+  
+    fondation-varenne-220 -> groupe-la-montagne-222 [
+      label="possède 50%"
+    ]
+  
+    famille-saint-cricq-221 -> groupe-nrco-237 [
+      label="possède 15%"
+    ]
+  
+    groupe-la-montagne-222 -> courrier-du-loiret-229 [
+      label="possède 100%"
+    ]
+  
+    groupe-la-montagne-222 -> groupe-nrco-237 [
+      label="possède 16%"
+    ]
+  
+    groupe-la-montagne-222 -> journal-de-gien-235 [
+      label="possède 100%"
+    ]
+  
+    groupe-la-montagne-222 -> l-echo-charitois-232 [
+      label="possède 100%"
+    ]
+  
+    groupe-la-montagne-222 -> l-echo-republicain-228 [
+      label="possède 100%"
+    ]
+  
+    groupe-la-montagne-222 -> l-eclaireur-du-gatinais-230 [
+      label="possède 100%"
+    ]
+  
+    groupe-la-montagne-222 -> l-yonne-republicaine-227 [
+      label="possède 100%"
+    ]
+  
+    groupe-la-montagne-222 -> la-liberte-234 [
+      label="possède 100%"
+    ]
+  
+    groupe-la-montagne-222 -> la-montagne-223 [
+      label="possède 100%"
+    ]
+  
+    groupe-la-montagne-222 -> la-republique-du-centre-236 [
+      label="possède 70%"
+    ]
+  
+    groupe-la-montagne-222 -> le-berry-republicain-226 [
+      label="possède 100%"
+    ]
+  
+    groupe-la-montagne-222 -> le-journal-du-centre-225 [
+      label="possède 100%"
+    ]
+  
+    groupe-la-montagne-222 -> le-populaire-du-centre-224 [
+      label="possède 100%"
+    ]
+  
+    groupe-la-montagne-222 -> pays-roannais-233 [
+      label="possède 100%"
+    ]
+  
+    groupe-la-montagne-222 -> regional-de-cosne-231 [
+      label="possède 100%"
+    ]
+  
+    groupe-nrco-237 -> centre-presse-239 [
+      label="possède 100%"
+    ]
+  
+    groupe-nrco-237 -> la-republique-du-centre-236 [
+      label="possède 30%"
+    ]
+  
+    groupe-nrco-237 -> nouvelle-republique-du-centre-238 [
+      label="possède 100%"
+    ]
+  
+    groupe-nrco-237 -> tv-tours-240 [
+      label="possède 40%"
+    ]
+  
+    famille-baylet-241 -> groupe-la-depeche-242 [
+      label="possède 82%"
+    ]
+  
+    groupe-la-depeche-242 -> la-depeche-du-midi-243 [
+      label="possède 100%"
+    ]
+  
+    groupe-la-depeche-242 -> la-gazette-du-comminges-247 [
+      label="possède 100%"
+    ]
+  
+    groupe-la-depeche-242 -> la-nouvelle-republique-des-pyrenees-245 [
+      label="possède 100%"
+    ]
+  
+    groupe-la-depeche-242 -> le-petit-bleu-244 [
+      label="possède 100%"
+    ]
+  
+    groupe-la-depeche-242 -> le-villefranchois-246 [
+      label="possède 100%"
+    ]
+  
+    groupe-la-depeche-242 -> les-journaux-du-midi-248 [
+      label="possède 100%"
+    ]
+  
+    les-journaux-du-midi-248 -> centre-presse-aveyron-251 [
+      label="possède 100%"
+    ]
+  
+    les-journaux-du-midi-248 -> l-independant-250 [
+      label="possède 100%"
+    ]
+  
+    les-journaux-du-midi-248 -> midi-libre-249 [
+      label="possède 100%"
+    ]
+  
+    famille-lemoine-252 -> groupe-sud-ouest-253 [
+      label="possède 80%"
+    ]
+  
+    groupe-sud-ouest-253 -> charente-libre-255 [
+      label="possède 100%"
+    ]
+  
+    groupe-sud-ouest-253 -> dordogne-libre-256 [
+      label="possède 100%"
+    ]
+  
+    groupe-sud-ouest-253 -> haute-gironde-258 [
+      label="possède 100%"
+    ]
+  
+    groupe-sud-ouest-253 -> haute-saintonge-257 [
+      label="possède 100%"
+    ]
+  
+    groupe-sud-ouest-253 -> l-hebdo-de-charente-maritime-260 [
+      label="possède 100%"
+    ]
+  
+    groupe-sud-ouest-253 -> la-depeche-du-bassin-261 [
+      label="possède 100%"
+    ]
+  
+    groupe-sud-ouest-253 -> le-journal-du-medoc-262 [
+      label="possède 100%"
+    ]
+  
+    groupe-sud-ouest-253 -> le-resistant-259 [
+      label="possède 100%"
+    ]
+  
+    groupe-sud-ouest-253 -> pyrenees-presse-263 [
+      label="possède 100%"
+    ]
+  
+    groupe-sud-ouest-253 -> sud-ouest-254 [
+      label="possède 100%"
+    ]
+  
+    pyrenees-presse-263 -> l-eclair-265 [
+      label="possède 100%"
+    ]
+  
+    pyrenees-presse-263 -> la-republique-des-pyrenees-264 [
+      label="possède 100%"
+    ]
+  
+    edouard-coudurier-266 -> groupe-telegramme-267 [
+      label="contrôle 100%"
+    ]
+  
+    groupe-telegramme-267 -> bretagne-magazine-275 [
+      label="possède 50%"
+    ]
+  
+    groupe-telegramme-267 -> le-journal-des-entreprises-274 [
+      label="possède 100%"
+    ]
+  
+    groupe-telegramme-267 -> le-mensuel-de-rennes-272 [
+      label="possède 100%"
+    ]
+  
+    groupe-telegramme-267 -> le-poher-269 [
+      label="possède 100%"
+    ]
+  
+    groupe-telegramme-267 -> le-telegramme-268 [
+      label="possède 100%"
+    ]
+  
+    groupe-telegramme-267 -> sept-jours-a-brest-273 [
+      label="possède 100%"
+    ]
+  
+    groupe-telegramme-267 -> tebeo-270 [
+      label="possède 100%"
+    ]
+  
+    groupe-telegramme-267 -> tebesud-271 [
+      label="possède 100%"
+    ]
+  
+    ayant-droit-de-bernard-tapie-276 -> groupe-la-provence-280 [
+      label="possède 89%"
+    ]
+  
+    publifin-278 -> nethys-277 [
+      label="possède 100%"
+    ]
+  
+    province-de-liege-279 -> publifin-278 [
+      label="possède 54%"
+    ]
+  
+    groupe-la-provence-280 -> corse-matin-282 [
+      label="possède 65%"
+    ]
+  
+    groupe-la-provence-280 -> la-provence-283 [
+      label="possède 100%"
+    ]
+  
+    jean-louis-louvel-284 -> societe-normande-d-information-et-de-communication-285 [
+      label="possède 90%"
+    ]
+  
+    societe-normande-d-information-et-de-communication-285 -> havre-dimanche-290 [
+      label="possède 100%"
+    ]
+  
+    societe-normande-d-information-et-de-communication-285 -> liberte-dimanche-289 [
+      label="possède 100%"
+    ]
+  
+    groupe-rossel-la-voix-184 -> normandie-dimanche-291 [
+      label="possède 100%"
+    ]
+  
+    groupe-rossel-la-voix-184 -> paris-normandie-286 [
+      label="possède 100%"
+    ]
+  
+    philippe-hersant-292 -> editions-suisses-holding-293 [
+      label="possède 100%"
+    ]
+  
+    philippe-hersant-292 -> groupe-hersant-media-294 [
+      label="possède 100%"
+    ]
+  
+    editions-suisses-holding-293 -> groupe-filanosa-295 [
+      label="possède 50%"
+    ]
+  
+    editions-suisses-holding-293 -> rhone-media-296 [
+      label="possède 50%"
+    ]
+  
+    groupe-filanosa-295 -> l-express-neuchatel-298 [
+      label="possède 100%"
+    ]
+  
+    groupe-filanosa-295 -> l-impartial-la-chaux-de-fonds-299 [
+      label="possède 100%"
+    ]
+  
+    groupe-filanosa-295 -> la-cote-nyon-297 [
+      label="possède 100%"
+    ]
+  
+    rhone-media-296 -> la-gazette-de-martigny-301 [
+      label="possède 100%"
+    ]
+  
+    rhone-media-296 -> le-journal-de-sierre-302 [
+      label="possède 100%"
+    ]
+  
+    rhone-media-296 -> le-nouvelliste-300 [
+      label="possède 100%"
+    ]
+  
+    abdoul-cadjee-305 -> le-journal-de-l-ile-de-la-reunion-306 [
+      label="possède 50%"
+    ]
+  
+    ariane-de-rothschild-307 -> lampsane-investissement-sa-308 [
+      label="contrôle 100%"
+    ]
+  
+    lampsane-investissement-sa-308 -> slate-fr-309 [
+      label="possède 50%"
+    ]
+  
+    franck-julien-314 -> edi-invest-315 [
+      label="contrôle 100%"
+    ]
+  
+    edi-invest-315 -> hima-groupe-318 [
+      label="possède 37%"
+    ]
+  
+    jean-christophe-tortora-316 -> hima-groupe-318 [
+      label="possède 17%"
+    ]
+  
+    laurent-alexandre-317 -> hima-groupe-318 [
+      label="possède 28%"
+    ]
+  
+    hima-groupe-318 -> la-tribune-319 [
+      label="contrôle 100%"
+    ]
+  
+    madison-cox-323 -> le-monde-libre-14 [
+      label="possède 28%"
+    ]
+  
+    alain-weill-324 -> l-express-59 [
+      label="possède 51%"
+    ]
+  
+    groupe-l-opinion-325 -> l-agefi-hebdo-101 [
+      label="possède 100%"
+    ]
+  
+    groupe-l-opinion-325 -> l-opinion-8 [
+      label="possède 100%"
+    ]
+  
+    ken-fisher-326 -> groupe-l-opinion-325 [
+      label="participe 100%"
+    ]
+  
+    rmc-story-327 -> nice-matin-281 [
+      label="possède 100%"
+    ]
+  
+    nice-matin-328 -> nice-matin-281 [
+      label="possède 100%"
+    ]
+  
+    nice-matin-328 -> var-matin-332 [
+      label="possède 100%"
+    ]
+  
+    nice-matin-328 -> monaco-matin-333 [
+      label="possède 100%"
+    ]
+  
+    amber-capital-330 -> lagardere-sa-69 [
+      label="possède 20%"
+    ]
+  
+    vivendi-81 -> prisma-media-106 [
+      label="possède 100%"
+    ]
+  
+    rmc-story-327 -> paris-turf-341 [
+      label="possède 100%"
+    ]
+  
+    czech-media-invest-93 -> tele-7-jours-343 [
+      label="possède 100%"
+    ]
+  
+    czech-media-invest-93 -> franc-tireur-346 [
+      label="possède 100%"
+    ]
+  
+}

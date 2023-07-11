@@ -1,0 +1,24 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    {% for entity in entitiesByGraphPosition.root %}
+      "{{ entity.slug }}"[label="{% if entity.typeLibelle == "Personne physique" %}🧑‍💼{% endif %}{{ entity.nom }}" shape=box]
+    {% endfor %}
+  }
+
+  {% for entity in entitiesByGraphPosition.intermediate %}
+    "{{ entity.slug }}"[label="{{ entity.nom }}" shape=house]
+  {% endfor %}
+
+  subgraph clusterLeaves {
+    {% for entity in entitiesByGraphPosition.leaf %}
+      "{{ entity.slug }}"[label="{{ entity.nom }}"]
+    {% endfor %}
+  }
+
+  {% for relation in relations %}
+    "{{ relation.origineSlug }}" -> "{{ relation.cibleSlug }}" [
+      label="{{ relation.typeRelation }} {{ relation.valeur | round }}%"
+    ]
+  {% endfor %}
+}

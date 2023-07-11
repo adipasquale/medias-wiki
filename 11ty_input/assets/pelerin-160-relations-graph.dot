@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "les-augustins-de-l-assomption-157"[label="Les Augustins de l’Assomption" shape=box]
+    
+  }
+
+  
+    "bayard-158"[label="Bayard" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "pelerin-160"[label="Pèlerin"]
+    
+  }
+
+  
+    "bayard-158" -> "pelerin-160" [
+      label="possède 100%"
+    ]
+  
+    "les-augustins-de-l-assomption-157" -> "bayard-158" [
+      label="possède 100%"
+    ]
+  
+}

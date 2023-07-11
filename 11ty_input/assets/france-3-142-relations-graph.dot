@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "republique-francaise-128"[label="République française" shape=box]
+    
+  }
+
+  
+    "france-television-134"[label="France Télévision" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "france-3-142"[label="France 3"]
+    
+  }
+
+  
+    "france-television-134" -> "france-3-142" [
+      label="possède 100%"
+    ]
+  
+    "republique-francaise-128" -> "france-television-134" [
+      label="possède 100%"
+    ]
+  
+}

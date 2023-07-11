@@ -1,0 +1,52 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "claude-perdriel-1"[label="🧑‍💼Claude Perdriel" shape=box]
+    
+  }
+
+  
+    "groupe-perdriel-3"[label="Groupe Perdriel" shape=house]
+  
+    "groupe-l-opinion-325"[label="Groupe L’Opinion" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "challenges-6"[label="Challenges"]
+    
+      "sciences-and-avenir-7"[label="Sciences &amp; Avenir"]
+    
+      "l-agefi-hebdo-101"[label="L’Agefi hebdo"]
+    
+      "l-opinion-8"[label="L’Opinion"]
+    
+  }
+
+  
+    "claude-perdriel-1" -> "groupe-perdriel-3" [
+      label="contrôle 100%"
+    ]
+  
+    "groupe-perdriel-3" -> "challenges-6" [
+      label="possède 100%"
+    ]
+  
+    "groupe-perdriel-3" -> "sciences-and-avenir-7" [
+      label="possède 100%"
+    ]
+  
+    "claude-perdriel-1" -> "groupe-l-opinion-325" [
+      label="participe 100%"
+    ]
+  
+    "groupe-l-opinion-325" -> "l-agefi-hebdo-101" [
+      label="possède 100%"
+    ]
+  
+    "groupe-l-opinion-325" -> "l-opinion-8" [
+      label="possède 100%"
+    ]
+  
+}

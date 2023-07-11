@@ -1,0 +1,64 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "daniel-kretinsky-92"[label="🧑‍💼Daniel Křetínský" shape=box]
+    
+      "martin-et-olivier-bouygues-120"[label="🧑‍💼Martin et Olivier Bouygues" shape=box]
+    
+  }
+
+  
+    "groupe-tf1-122"[label="Groupe TF1" shape=house]
+  
+    "bouygues-121"[label="Bouygues" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "lci-125"[label="LCI"]
+    
+      "tf1-123"[label="TF1"]
+    
+      "tf1-series-films-126"[label="TF1 Séries Films"]
+    
+      "tfx-124"[label="TFX"]
+    
+      "tmc-127"[label="TMC"]
+    
+  }
+
+  
+    "daniel-kretinsky-92" -> "groupe-tf1-122" [
+      label="possède 5%"
+    ]
+  
+    "bouygues-121" -> "groupe-tf1-122" [
+      label="possède 44%"
+    ]
+  
+    "martin-et-olivier-bouygues-120" -> "bouygues-121" [
+      label="possède 20%"
+    ]
+  
+    "groupe-tf1-122" -> "lci-125" [
+      label="possède 100%"
+    ]
+  
+    "groupe-tf1-122" -> "tf1-123" [
+      label="possède 100%"
+    ]
+  
+    "groupe-tf1-122" -> "tf1-series-films-126" [
+      label="possède 100%"
+    ]
+  
+    "groupe-tf1-122" -> "tfx-124" [
+      label="possède 100%"
+    ]
+  
+    "groupe-tf1-122" -> "tmc-127" [
+      label="possède 100%"
+    ]
+  
+}

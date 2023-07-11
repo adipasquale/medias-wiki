@@ -1,0 +1,96 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "matthieu-pigasse-11"[label="🧑‍💼Matthieu Pigasse" shape=box]
+    
+      "prisa-9"[label="Prisa" shape=box]
+    
+      "xavier-niel-10"[label="🧑‍💼Xavier Niel" shape=box]
+    
+      "daniel-kretinsky-92"[label="🧑‍💼Daniel Křetínský" shape=box]
+    
+      "madison-cox-323"[label="🧑‍💼Madison Cox" shape=box]
+    
+      "aol-27"[label="AOL" shape=box]
+    
+  }
+
+  
+    "combat-solutions-12"[label="Combat Solutions" shape=house]
+  
+    "le-monde-sa-15"[label="Le Monde SA" shape=house]
+  
+    "le-monde-libre-14"[label="Le Monde libre" shape=house]
+  
+    "le-nouveau-monde-13"[label="Le Nouveau Monde" shape=house]
+  
+    "czech-media-invest-93"[label="Czech Media Invest" shape=house]
+  
+    "huffington-post-28"[label="Huffington Post" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "huffpost-26"[label="HuffPost"]
+    
+  }
+
+  
+    "combat-solutions-12" -> "huffpost-26" [
+      label="possède 11%"
+    ]
+  
+    "matthieu-pigasse-11" -> "combat-solutions-12" [
+      label="possède 78%"
+    ]
+  
+    "le-monde-sa-15" -> "huffpost-26" [
+      label="possède 34%"
+    ]
+  
+    "le-monde-libre-14" -> "le-monde-sa-15" [
+      label="possède 75%"
+    ]
+  
+    "prisa-9" -> "le-monde-libre-14" [
+      label="possède 20%"
+    ]
+  
+    "xavier-niel-10" -> "le-monde-libre-14" [
+      label="possède 26%"
+    ]
+  
+    "le-nouveau-monde-13" -> "le-monde-libre-14" [
+      label="possède 26%"
+    ]
+  
+    "combat-solutions-12" -> "le-nouveau-monde-13" [
+      label="possède 51%"
+    ]
+  
+    "matthieu-pigasse-11" -> "combat-solutions-12" [
+      label="possède 78%"
+    ]
+  
+    "czech-media-invest-93" -> "le-nouveau-monde-13" [
+      label="possède 49%"
+    ]
+  
+    "daniel-kretinsky-92" -> "czech-media-invest-93" [
+      label="possède 50%"
+    ]
+  
+    "madison-cox-323" -> "le-monde-libre-14" [
+      label="possède 28%"
+    ]
+  
+    "huffington-post-28" -> "huffpost-26" [
+      label="possède 51%"
+    ]
+  
+    "aol-27" -> "huffington-post-28" [
+      label="possède 100%"
+    ]
+  
+}

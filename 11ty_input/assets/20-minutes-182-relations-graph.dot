@@ -1,0 +1,64 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "famille-hutin-170"[label="🧑‍💼Famille Hutin" shape=box]
+    
+      "credit-agricole-nord-de-france-172"[label="Crédit Agricole Nord de France" shape=box]
+    
+      "famille-hurbain-171"[label="🧑‍💼Famille Hurbain" shape=box]
+    
+  }
+
+  
+    "sofiouest-181"[label="Sofiouest" shape=house]
+  
+    "groupe-sipa-ouest-174"[label="Groupe SIPA - Ouest" shape=house]
+  
+    "association-pour-le-soutien-des-principes-de-la-democratie-humaniste-173"[label="Association pour le soutien des principes de la démocratie humaniste" shape=house]
+  
+    "groupe-rossel-la-voix-184"[label="Groupe Rossel La Voix" shape=house]
+  
+    "groupe-rossel-183"[label="Groupe Rossel" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "20-minutes-182"[label="20 Minutes"]
+    
+  }
+
+  
+    "sofiouest-181" -> "20-minutes-182" [
+      label="possède 50%"
+    ]
+  
+    "groupe-sipa-ouest-174" -> "sofiouest-181" [
+      label="possède 40%"
+    ]
+  
+    "association-pour-le-soutien-des-principes-de-la-democratie-humaniste-173" -> "groupe-sipa-ouest-174" [
+      label="possède 100%"
+    ]
+  
+    "famille-hutin-170" -> "association-pour-le-soutien-des-principes-de-la-democratie-humaniste-173" [
+      label="contrôle 100%"
+    ]
+  
+    "groupe-rossel-la-voix-184" -> "20-minutes-182" [
+      label="possède 49%"
+    ]
+  
+    "credit-agricole-nord-de-france-172" -> "groupe-rossel-la-voix-184" [
+      label="possède 25%"
+    ]
+  
+    "groupe-rossel-183" -> "groupe-rossel-la-voix-184" [
+      label="possède 73%"
+    ]
+  
+    "famille-hurbain-171" -> "groupe-rossel-183" [
+      label="contrôle 100%"
+    ]
+  
+}

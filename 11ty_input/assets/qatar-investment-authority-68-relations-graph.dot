@@ -1,0 +1,58 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "qatar-investment-authority-68"[label="Qatar Investment Authority" shape=box]
+    
+  }
+
+  
+    "lagardere-sa-69"[label="Lagardère SA" shape=house]
+  
+    "lagardere-news-70"[label="Lagardère News" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "europe-1-74"[label="Europe 1"]
+    
+      "le-journal-du-dimanche-71"[label="Le Journal du dimanche"]
+    
+      "paris-match-72"[label="Paris Match"]
+    
+      "rfm-75"[label="RFM"]
+    
+      "virgin-radio-76"[label="Virgin Radio"]
+    
+  }
+
+  
+    "qatar-investment-authority-68" -> "lagardere-sa-69" [
+      label="possède 12%"
+    ]
+  
+    "lagardere-sa-69" -> "lagardere-news-70" [
+      label="possède 100%"
+    ]
+  
+    "lagardere-news-70" -> "europe-1-74" [
+      label="possède 100%"
+    ]
+  
+    "lagardere-news-70" -> "le-journal-du-dimanche-71" [
+      label="possède 100%"
+    ]
+  
+    "lagardere-news-70" -> "paris-match-72" [
+      label="possède 100%"
+    ]
+  
+    "lagardere-news-70" -> "rfm-75" [
+      label="possède 100%"
+    ]
+  
+    "lagardere-news-70" -> "virgin-radio-76" [
+      label="possède 100%"
+    ]
+  
+}

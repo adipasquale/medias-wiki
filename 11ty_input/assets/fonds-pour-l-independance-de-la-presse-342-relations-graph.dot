@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "xavier-niel-10"[label="🧑‍💼Xavier Niel" shape=box]
+    
+  }
+
+  
+    "fonds-pour-l-independance-de-la-presse-342"[label="Fonds pour l&#39;indépendance de la presse" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "njj-334"[label="NJJ"]
+    
+  }
+
+  
+    "xavier-niel-10" -> "fonds-pour-l-independance-de-la-presse-342" [
+      label="contrôle 100%"
+    ]
+  
+    "fonds-pour-l-independance-de-la-presse-342" -> "njj-334" [
+      label="possède 100%"
+    ]
+  
+}

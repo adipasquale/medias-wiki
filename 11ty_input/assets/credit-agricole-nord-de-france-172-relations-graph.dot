@@ -1,0 +1,172 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "credit-agricole-nord-de-france-172"[label="Crédit Agricole Nord de France" shape=box]
+    
+  }
+
+  
+    "groupe-rossel-la-voix-184"[label="Groupe Rossel La Voix" shape=house]
+  
+    "la-voix-du-nord-sa-185"[label="La Voix du Nord SA" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "20-minutes-182"[label="20 Minutes"]
+    
+      "courrier-picard-189"[label="Courrier picard"]
+    
+      "l-aisne-nouvelle-190"[label="L’aisne Nouvelle"]
+    
+      "l-avenir-de-l-artois-193"[label="L’Avenir de l’Artois"]
+    
+      "l-echo-de-la-lys-206"[label="L’Echo de la Lys"]
+    
+      "l-essor-savoyard-197"[label="L’Essor savoyard"]
+    
+      "l-est-eclair-liberation-champagne-192"[label="L’Est-éclair - Libération Champagne"]
+    
+      "l-indicateur-205"[label="L’indicateur"]
+    
+      "l-union-l-ardennais-191"[label="L’Union - L’Ardennais"]
+    
+      "la-savoie-200"[label="La Savoie"]
+    
+      "la-semaine-dans-le-boulonnais-202"[label="La Semaine dans le Boulonnais"]
+    
+      "la-tribune-republicaine-199"[label="La Tribune républicaine"]
+    
+      "la-voix-du-nord-186"[label="La Voix du Nord"]
+    
+      "le-journal-de-montreuil-204"[label="Le Journal de Montreuil"]
+    
+      "le-journal-des-flandres-195"[label="Le Journal des Flandres"]
+    
+      "le-messager-196"[label="Le Messager"]
+    
+      "le-pays-gessien-198"[label="Le Pays gessien"]
+    
+      "le-phare-dunkerquois-201"[label="Le Phare Dunkerquois"]
+    
+      "le-reveil-de-berck-203"[label="Le Réveil de Berck"]
+    
+      "les-echos-du-touquet-194"[label="Les Echos du Touquet"]
+    
+      "nord-eclair-187"[label="Nord éclair"]
+    
+      "nord-littoral-188"[label="Nord Littoral"]
+    
+      "normandie-dimanche-291"[label="Normandie Dimanche"]
+    
+      "paris-normandie-286"[label="Paris-Normandie"]
+    
+  }
+
+  
+    "credit-agricole-nord-de-france-172" -> "groupe-rossel-la-voix-184" [
+      label="possède 25%"
+    ]
+  
+    "groupe-rossel-la-voix-184" -> "20-minutes-182" [
+      label="possède 49%"
+    ]
+  
+    "groupe-rossel-la-voix-184" -> "la-voix-du-nord-sa-185" [
+      label="possède 96%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "courrier-picard-189" [
+      label="possède 100%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "l-aisne-nouvelle-190" [
+      label="possède 100%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "l-avenir-de-l-artois-193" [
+      label="possède 100%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "l-echo-de-la-lys-206" [
+      label="possède 100%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "l-essor-savoyard-197" [
+      label="possède 100%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "l-est-eclair-liberation-champagne-192" [
+      label="possède 100%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "l-indicateur-205" [
+      label="possède 100%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "l-union-l-ardennais-191" [
+      label="possède 100%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "la-savoie-200" [
+      label="possède 100%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "la-semaine-dans-le-boulonnais-202" [
+      label="possède 100%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "la-tribune-republicaine-199" [
+      label="possède 100%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "la-voix-du-nord-186" [
+      label="possède 100%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "le-journal-de-montreuil-204" [
+      label="possède 100%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "le-journal-des-flandres-195" [
+      label="possède 100%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "le-messager-196" [
+      label="possède 100%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "le-pays-gessien-198" [
+      label="possède 100%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "le-phare-dunkerquois-201" [
+      label="possède 100%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "le-reveil-de-berck-203" [
+      label="possède 100%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "les-echos-du-touquet-194" [
+      label="possède 100%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "nord-eclair-187" [
+      label="possède 100%"
+    ]
+  
+    "la-voix-du-nord-sa-185" -> "nord-littoral-188" [
+      label="possède 100%"
+    ]
+  
+    "groupe-rossel-la-voix-184" -> "normandie-dimanche-291" [
+      label="possède 100%"
+    ]
+  
+    "groupe-rossel-la-voix-184" -> "paris-normandie-286" [
+      label="possède 100%"
+    ]
+  
+}

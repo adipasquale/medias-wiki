@@ -1,0 +1,34 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "famille-hutin-170"[label="🧑‍💼Famille Hutin" shape=box]
+    
+  }
+
+  
+    "groupe-sipa-ouest-174"[label="Groupe SIPA - Ouest" shape=house]
+  
+    "association-pour-le-soutien-des-principes-de-la-democratie-humaniste-173"[label="Association pour le soutien des principes de la démocratie humaniste" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "le-maine-libre-177"[label="Le Maine libre"]
+    
+  }
+
+  
+    "groupe-sipa-ouest-174" -> "le-maine-libre-177" [
+      label="possède 100%"
+    ]
+  
+    "association-pour-le-soutien-des-principes-de-la-democratie-humaniste-173" -> "groupe-sipa-ouest-174" [
+      label="possède 100%"
+    ]
+  
+    "famille-hutin-170" -> "association-pour-le-soutien-des-principes-de-la-democratie-humaniste-173" [
+      label="contrôle 100%"
+    ]
+  
+}

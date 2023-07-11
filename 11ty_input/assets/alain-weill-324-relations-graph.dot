@@ -1,0 +1,22 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "alain-weill-324"[label="🧑‍💼Alain Weill" shape=box]
+    
+  }
+
+  
+
+  subgraph clusterLeaves {
+    
+      "l-express-59"[label="L’Express"]
+    
+  }
+
+  
+    "alain-weill-324" -> "l-express-59" [
+      label="possède 51%"
+    ]
+  
+}

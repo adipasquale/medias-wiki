@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "credit-mutuel-207"[label="Crédit Mutuel" shape=box]
+    
+  }
+
+  
+    "groupe-ebra-208"[label="Groupe EBRA" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "dna-211"[label="DNA"]
+    
+  }
+
+  
+    "groupe-ebra-208" -> "dna-211" [
+      label="possède 100%"
+    ]
+  
+    "credit-mutuel-207" -> "groupe-ebra-208" [
+      label="possède 100%"
+    ]
+  
+}

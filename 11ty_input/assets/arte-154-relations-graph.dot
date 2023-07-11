@@ -1,0 +1,46 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "republique-francaise-128"[label="République française" shape=box]
+    
+      "republique-federale-d-allemagne-129"[label="République fédérale d’Allemagne" shape=box]
+    
+  }
+
+  
+    "arte-france-136"[label="Arte France" shape=house]
+  
+    "arte-deutschland-tv-gmbh-156"[label="Arte Deutschland TV GmbH" shape=house]
+  
+    "ard-zdf-155"[label="ARD / ZDF" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "arte-154"[label="Arte"]
+    
+  }
+
+  
+    "arte-france-136" -> "arte-154" [
+      label="possède 50%"
+    ]
+  
+    "republique-francaise-128" -> "arte-france-136" [
+      label="possède 100%"
+    ]
+  
+    "arte-deutschland-tv-gmbh-156" -> "arte-154" [
+      label="possède 50%"
+    ]
+  
+    "ard-zdf-155" -> "arte-deutschland-tv-gmbh-156" [
+      label="possède 100%"
+    ]
+  
+    "republique-federale-d-allemagne-129" -> "ard-zdf-155" [
+      label="contrôle 100%"
+    ]
+  
+}

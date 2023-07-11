@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "bernard-arnault-42"[label="🧑‍💼Bernard Arnault" shape=box]
+    
+  }
+
+  
+    "lvmh-43"[label="LVMH" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "le-parisien-44"[label="Le Parisien"]
+    
+  }
+
+  
+    "lvmh-43" -> "le-parisien-44" [
+      label="possède 100%"
+    ]
+  
+    "bernard-arnault-42" -> "lvmh-43" [
+      label="possède 46%"
+    ]
+  
+}

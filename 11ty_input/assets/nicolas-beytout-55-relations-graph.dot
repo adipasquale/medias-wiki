@@ -1,0 +1,34 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "nicolas-beytout-55"[label="🧑‍💼Nicolas Beytout" shape=box]
+    
+  }
+
+  
+    "groupe-l-opinion-325"[label="Groupe L’Opinion" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "l-agefi-hebdo-101"[label="L’Agefi hebdo"]
+    
+      "l-opinion-8"[label="L’Opinion"]
+    
+  }
+
+  
+    "nicolas-beytout-55" -> "groupe-l-opinion-325" [
+      label="participe 100%"
+    ]
+  
+    "groupe-l-opinion-325" -> "l-agefi-hebdo-101" [
+      label="possède 100%"
+    ]
+  
+    "groupe-l-opinion-325" -> "l-opinion-8" [
+      label="possède 100%"
+    ]
+  
+}

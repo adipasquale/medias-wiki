@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "province-de-liege-279"[label="Province de Liège" shape=box]
+    
+  }
+
+  
+    "publifin-278"[label="Publifin" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "nethys-277"[label="Nethys"]
+    
+  }
+
+  
+    "province-de-liege-279" -> "publifin-278" [
+      label="possède 54%"
+    ]
+  
+    "publifin-278" -> "nethys-277" [
+      label="possède 100%"
+    ]
+  
+}

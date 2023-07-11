@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "laurent-alexandre-317"[label="🧑‍💼Laurent Alexandre" shape=box]
+    
+  }
+
+  
+    "hima-groupe-318"[label="Hima Groupe" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "la-tribune-319"[label="La Tribune"]
+    
+  }
+
+  
+    "laurent-alexandre-317" -> "hima-groupe-318" [
+      label="possède 28%"
+    ]
+  
+    "hima-groupe-318" -> "la-tribune-319" [
+      label="contrôle 100%"
+    ]
+  
+}

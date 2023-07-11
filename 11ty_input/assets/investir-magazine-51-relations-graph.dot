@@ -1,0 +1,34 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "bernard-arnault-42"[label="🧑‍💼Bernard Arnault" shape=box]
+    
+  }
+
+  
+    "groupe-les-echos-48"[label="Groupe Les Échos" shape=house]
+  
+    "lvmh-43"[label="LVMH" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "investir-magazine-51"[label="Investir Magazine"]
+    
+  }
+
+  
+    "groupe-les-echos-48" -> "investir-magazine-51" [
+      label="possède 100%"
+    ]
+  
+    "lvmh-43" -> "groupe-les-echos-48" [
+      label="possède 100%"
+    ]
+  
+    "bernard-arnault-42" -> "lvmh-43" [
+      label="possède 46%"
+    ]
+  
+}

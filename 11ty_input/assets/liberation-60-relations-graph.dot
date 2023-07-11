@@ -1,0 +1,56 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "patrick-drahi-56"[label="🧑‍💼Patrick Drahi" shape=box]
+    
+  }
+
+  
+    "altice-france-58"[label="Altice France" shape=house]
+  
+    "altice-57"[label="Altice" shape=house]
+  
+    "fonds-de-dotation-pour-une-presse-independante-329"[label="Fonds de Dotation pour une Presse Indépendante" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "liberation-60"[label="Libération"]
+    
+  }
+
+  
+    "altice-france-58" -> "liberation-60" [
+      label="possède 100%"
+    ]
+  
+    "altice-57" -> "altice-france-58" [
+      label="possède 78%"
+    ]
+  
+    "patrick-drahi-56" -> "altice-57" [
+      label="possède 61%"
+    ]
+  
+    "fonds-de-dotation-pour-une-presse-independante-329" -> "liberation-60" [
+      label="contrôle 100%"
+    ]
+  
+    "altice-57" -> "fonds-de-dotation-pour-une-presse-independante-329" [
+      label="contrôle 100%"
+    ]
+  
+    "patrick-drahi-56" -> "altice-57" [
+      label="possède 61%"
+    ]
+  
+    "altice-57" -> "fonds-de-dotation-pour-une-presse-independante-329" [
+      label="contrôle 100%"
+    ]
+  
+    "patrick-drahi-56" -> "altice-57" [
+      label="possède 61%"
+    ]
+  
+}

@@ -6,6 +6,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("11ty_input/css/*.css")
   eleventyConfig.addPassthroughCopy("11ty_input/js/*.js")
   eleventyConfig.addPassthroughCopy("11ty_input/img/**/*")
+  eleventyConfig.addPassthroughCopy("11ty_input/assets/**/*")
   eleventyConfig.addPassthroughCopy({ "node_modules/fuse.js/dist/fuse.min.js": "js/fuse.min.js" })
 
   eleventyConfig.addFilter(

@@ -1,0 +1,52 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "patrick-drahi-56"[label="🧑‍💼Patrick Drahi" shape=box]
+    
+  }
+
+  
+    "altice-media-61"[label="Altice Média" shape=house]
+  
+    "rmc-story-327"[label="RMC Story" shape=house]
+  
+    "altice-france-58"[label="Altice France" shape=house]
+  
+    "altice-57"[label="Altice" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "nice-matin-281"[label="Nice-Matin"]
+    
+      "paris-turf-341"[label="Paris-Turf"]
+    
+  }
+
+  
+    "altice-media-61" -> "rmc-story-327" [
+      label="possède 100%"
+    ]
+  
+    "altice-france-58" -> "altice-media-61" [
+      label="possède 100%"
+    ]
+  
+    "altice-57" -> "altice-france-58" [
+      label="possède 78%"
+    ]
+  
+    "patrick-drahi-56" -> "altice-57" [
+      label="possède 61%"
+    ]
+  
+    "rmc-story-327" -> "nice-matin-281" [
+      label="possède 100%"
+    ]
+  
+    "rmc-story-327" -> "paris-turf-341" [
+      label="possède 100%"
+    ]
+  
+}

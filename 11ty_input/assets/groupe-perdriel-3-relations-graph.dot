@@ -1,0 +1,46 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "claude-perdriel-1"[label="🧑‍💼Claude Perdriel" shape=box]
+    
+      "bernard-arnault-42"[label="🧑‍💼Bernard Arnault" shape=box]
+    
+  }
+
+  
+    "groupe-perdriel-3"[label="Groupe Perdriel" shape=house]
+  
+    "lvmh-43"[label="LVMH" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "challenges-6"[label="Challenges"]
+    
+      "sciences-and-avenir-7"[label="Sciences &amp; Avenir"]
+    
+  }
+
+  
+    "claude-perdriel-1" -> "groupe-perdriel-3" [
+      label="contrôle 100%"
+    ]
+  
+    "lvmh-43" -> "groupe-perdriel-3" [
+      label="possède 40%"
+    ]
+  
+    "bernard-arnault-42" -> "lvmh-43" [
+      label="possède 46%"
+    ]
+  
+    "groupe-perdriel-3" -> "challenges-6" [
+      label="possède 100%"
+    ]
+  
+    "groupe-perdriel-3" -> "sciences-and-avenir-7" [
+      label="possède 100%"
+    ]
+  
+}

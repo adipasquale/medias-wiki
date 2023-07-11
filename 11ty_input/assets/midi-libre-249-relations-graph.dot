@@ -1,0 +1,34 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "famille-baylet-241"[label="🧑‍💼Famille Baylet" shape=box]
+    
+  }
+
+  
+    "les-journaux-du-midi-248"[label="Les Journaux du midi" shape=house]
+  
+    "groupe-la-depeche-242"[label="Groupe La Dépêche" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "midi-libre-249"[label="Midi libre"]
+    
+  }
+
+  
+    "les-journaux-du-midi-248" -> "midi-libre-249" [
+      label="possède 100%"
+    ]
+  
+    "groupe-la-depeche-242" -> "les-journaux-du-midi-248" [
+      label="possède 100%"
+    ]
+  
+    "famille-baylet-241" -> "groupe-la-depeche-242" [
+      label="possède 82%"
+    ]
+  
+}

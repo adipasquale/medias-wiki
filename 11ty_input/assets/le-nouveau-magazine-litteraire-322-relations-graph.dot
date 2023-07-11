@@ -1,0 +1,22 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "xavier-niel-10"[label="🧑‍💼Xavier Niel" shape=box]
+    
+  }
+
+  
+
+  subgraph clusterLeaves {
+    
+      "le-nouveau-magazine-litteraire-322"[label="Le Nouveau Magazine littéraire"]
+    
+  }
+
+  
+    "xavier-niel-10" -> "le-nouveau-magazine-litteraire-322" [
+      label="participe 100%"
+    ]
+  
+}

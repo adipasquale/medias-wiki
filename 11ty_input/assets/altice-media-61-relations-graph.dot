@@ -1,0 +1,76 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "patrick-drahi-56"[label="🧑‍💼Patrick Drahi" shape=box]
+    
+  }
+
+  
+    "altice-france-58"[label="Altice France" shape=house]
+  
+    "altice-media-61"[label="Altice Média" shape=house]
+  
+    "altice-57"[label="Altice" shape=house]
+  
+    "rmc-story-327"[label="RMC Story" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "bfm-business-65"[label="BFM Business"]
+    
+      "bfm-tv-62"[label="BFM TV"]
+    
+      "nice-matin-281"[label="Nice-Matin"]
+    
+      "paris-turf-341"[label="Paris-Turf"]
+    
+      "rmc-64"[label="RMC"]
+    
+      "rmc-decouverte-63"[label="RMC Découverte"]
+    
+  }
+
+  
+    "altice-france-58" -> "altice-media-61" [
+      label="possède 100%"
+    ]
+  
+    "altice-57" -> "altice-france-58" [
+      label="possède 78%"
+    ]
+  
+    "patrick-drahi-56" -> "altice-57" [
+      label="possède 61%"
+    ]
+  
+    "altice-media-61" -> "bfm-business-65" [
+      label="possède 100%"
+    ]
+  
+    "altice-media-61" -> "bfm-tv-62" [
+      label="possède 100%"
+    ]
+  
+    "altice-media-61" -> "rmc-story-327" [
+      label="possède 100%"
+    ]
+  
+    "rmc-story-327" -> "nice-matin-281" [
+      label="possède 100%"
+    ]
+  
+    "rmc-story-327" -> "paris-turf-341" [
+      label="possède 100%"
+    ]
+  
+    "altice-media-61" -> "rmc-64" [
+      label="possède 100%"
+    ]
+  
+    "altice-media-61" -> "rmc-decouverte-63" [
+      label="possède 100%"
+    ]
+  
+}

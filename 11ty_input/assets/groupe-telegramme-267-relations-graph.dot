@@ -1,0 +1,70 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "edouard-coudurier-266"[label="🧑‍💼Édouard Coudurier" shape=box]
+    
+  }
+
+  
+    "groupe-telegramme-267"[label="Groupe Télégramme" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "bretagne-magazine-275"[label="Bretagne magazine"]
+    
+      "le-journal-des-entreprises-274"[label="Le Journal des entreprises"]
+    
+      "le-mensuel-de-rennes-272"[label="Le Mensuel de Rennes"]
+    
+      "le-poher-269"[label="Le Poher"]
+    
+      "le-telegramme-268"[label="Le Télégramme"]
+    
+      "sept-jours-a-brest-273"[label="Sept Jours à Brest"]
+    
+      "tebeo-270"[label="Tébéo"]
+    
+      "tebesud-271"[label="Tébésud"]
+    
+  }
+
+  
+    "edouard-coudurier-266" -> "groupe-telegramme-267" [
+      label="contrôle 100%"
+    ]
+  
+    "groupe-telegramme-267" -> "bretagne-magazine-275" [
+      label="possède 50%"
+    ]
+  
+    "groupe-telegramme-267" -> "le-journal-des-entreprises-274" [
+      label="possède 100%"
+    ]
+  
+    "groupe-telegramme-267" -> "le-mensuel-de-rennes-272" [
+      label="possède 100%"
+    ]
+  
+    "groupe-telegramme-267" -> "le-poher-269" [
+      label="possède 100%"
+    ]
+  
+    "groupe-telegramme-267" -> "le-telegramme-268" [
+      label="possède 100%"
+    ]
+  
+    "groupe-telegramme-267" -> "sept-jours-a-brest-273" [
+      label="possède 100%"
+    ]
+  
+    "groupe-telegramme-267" -> "tebeo-270" [
+      label="possède 100%"
+    ]
+  
+    "groupe-telegramme-267" -> "tebesud-271" [
+      label="possède 100%"
+    ]
+  
+}

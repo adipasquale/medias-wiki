@@ -1,0 +1,94 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "famille-lemoine-252"[label="🧑‍💼Famille Lemoine" shape=box]
+    
+  }
+
+  
+    "groupe-sud-ouest-253"[label="Groupe Sud Ouest" shape=house]
+  
+    "pyrenees-presse-263"[label="Pyrénées Presse" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "charente-libre-255"[label="Charente Libre"]
+    
+      "dordogne-libre-256"[label="Dordogne Libre"]
+    
+      "haute-gironde-258"[label="Haute Gironde"]
+    
+      "haute-saintonge-257"[label="Haute Saintonge"]
+    
+      "l-hebdo-de-charente-maritime-260"[label="L’Hebdo de Charente-Maritime"]
+    
+      "la-depeche-du-bassin-261"[label="La Dépêche du Bassin"]
+    
+      "le-journal-du-medoc-262"[label="Le Journal du Médoc"]
+    
+      "le-resistant-259"[label="Le Résistant"]
+    
+      "l-eclair-265"[label="L’Eclair"]
+    
+      "la-republique-des-pyrenees-264"[label="La République des Pyrénées"]
+    
+      "sud-ouest-254"[label="Sud Ouest"]
+    
+  }
+
+  
+    "famille-lemoine-252" -> "groupe-sud-ouest-253" [
+      label="possède 80%"
+    ]
+  
+    "groupe-sud-ouest-253" -> "charente-libre-255" [
+      label="possède 100%"
+    ]
+  
+    "groupe-sud-ouest-253" -> "dordogne-libre-256" [
+      label="possède 100%"
+    ]
+  
+    "groupe-sud-ouest-253" -> "haute-gironde-258" [
+      label="possède 100%"
+    ]
+  
+    "groupe-sud-ouest-253" -> "haute-saintonge-257" [
+      label="possède 100%"
+    ]
+  
+    "groupe-sud-ouest-253" -> "l-hebdo-de-charente-maritime-260" [
+      label="possède 100%"
+    ]
+  
+    "groupe-sud-ouest-253" -> "la-depeche-du-bassin-261" [
+      label="possède 100%"
+    ]
+  
+    "groupe-sud-ouest-253" -> "le-journal-du-medoc-262" [
+      label="possède 100%"
+    ]
+  
+    "groupe-sud-ouest-253" -> "le-resistant-259" [
+      label="possède 100%"
+    ]
+  
+    "groupe-sud-ouest-253" -> "pyrenees-presse-263" [
+      label="possède 100%"
+    ]
+  
+    "pyrenees-presse-263" -> "l-eclair-265" [
+      label="possède 100%"
+    ]
+  
+    "pyrenees-presse-263" -> "la-republique-des-pyrenees-264" [
+      label="possède 100%"
+    ]
+  
+    "groupe-sud-ouest-253" -> "sud-ouest-254" [
+      label="possède 100%"
+    ]
+  
+}

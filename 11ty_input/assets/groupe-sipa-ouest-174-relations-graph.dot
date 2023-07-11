@@ -1,0 +1,76 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "famille-hutin-170"[label="🧑‍💼Famille Hutin" shape=box]
+    
+  }
+
+  
+    "association-pour-le-soutien-des-principes-de-la-democratie-humaniste-173"[label="Association pour le soutien des principes de la démocratie humaniste" shape=house]
+  
+    "groupe-sipa-ouest-174"[label="Groupe SIPA - Ouest" shape=house]
+  
+    "sofiouest-181"[label="Sofiouest" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "la-presse-de-la-manche-179"[label="La Presse de la Manche"]
+    
+      "le-courrier-de-l-ouest-176"[label="Le Courrier de l’Ouest"]
+    
+      "le-maine-libre-177"[label="Le Maine libre"]
+    
+      "ouest-france-175"[label="Ouest France"]
+    
+      "presse-ocean-178"[label="Presse-Océan"]
+    
+      "publi-hebdos-180"[label="Publi Hebdos"]
+    
+      "20-minutes-182"[label="20 Minutes"]
+    
+  }
+
+  
+    "association-pour-le-soutien-des-principes-de-la-democratie-humaniste-173" -> "groupe-sipa-ouest-174" [
+      label="possède 100%"
+    ]
+  
+    "famille-hutin-170" -> "association-pour-le-soutien-des-principes-de-la-democratie-humaniste-173" [
+      label="contrôle 100%"
+    ]
+  
+    "groupe-sipa-ouest-174" -> "la-presse-de-la-manche-179" [
+      label="possède 100%"
+    ]
+  
+    "groupe-sipa-ouest-174" -> "le-courrier-de-l-ouest-176" [
+      label="possède 100%"
+    ]
+  
+    "groupe-sipa-ouest-174" -> "le-maine-libre-177" [
+      label="possède 100%"
+    ]
+  
+    "groupe-sipa-ouest-174" -> "ouest-france-175" [
+      label="possède 100%"
+    ]
+  
+    "groupe-sipa-ouest-174" -> "presse-ocean-178" [
+      label="possède 100%"
+    ]
+  
+    "groupe-sipa-ouest-174" -> "publi-hebdos-180" [
+      label="possède 100%"
+    ]
+  
+    "groupe-sipa-ouest-174" -> "sofiouest-181" [
+      label="possède 40%"
+    ]
+  
+    "sofiouest-181" -> "20-minutes-182" [
+      label="possède 50%"
+    ]
+  
+}

@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "association-guenter-holzmann-34"[label="Association Günter-Holzmann" shape=box]
+    
+  }
+
+  
+
+  subgraph clusterLeaves {
+    
+      "le-monde-diplomatique-24"[label="Le Monde diplomatique"]
+    
+      "maniere-de-voir-25"[label="Manière de voir"]
+    
+  }
+
+  
+    "association-guenter-holzmann-34" -> "le-monde-diplomatique-24" [
+      label="possède 24%"
+    ]
+  
+    "association-guenter-holzmann-34" -> "maniere-de-voir-25" [
+      label="possède 24%"
+    ]
+  
+}

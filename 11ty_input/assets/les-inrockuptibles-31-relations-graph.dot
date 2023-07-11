@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "matthieu-pigasse-11"[label="🧑‍💼Matthieu Pigasse" shape=box]
+    
+  }
+
+  
+    "combat-solutions-12"[label="Combat Solutions" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "les-inrockuptibles-31"[label="Les Inrockuptibles"]
+    
+  }
+
+  
+    "combat-solutions-12" -> "les-inrockuptibles-31" [
+      label="possède 100%"
+    ]
+  
+    "matthieu-pigasse-11" -> "combat-solutions-12" [
+      label="possède 78%"
+    ]
+  
+}

@@ -1,0 +1,100 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "vincent-bollore-77"[label="🧑‍💼Vincent Bolloré" shape=box]
+    
+  }
+
+  
+    "vivendi-81"[label="Vivendi" shape=house]
+  
+    "prisma-media-106"[label="Prisma Media" shape=house]
+  
+    "bollore-79"[label="Bolloré" shape=house]
+  
+    "financiere-de-l-odet-78"[label="Financière de l’Odet" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "capital-107"[label="Capital"]
+    
+      "harvard-business-review-109"[label="Harvard Business Review"]
+    
+      "management-108"[label="Management"]
+    
+      "tele-loisirs-335"[label="Télé-Loisirs"]
+    
+      "gala-336"[label="Gala"]
+    
+      "voici-337"[label="Voici"]
+    
+      "femme-actuelle-338"[label="Femme Actuelle"]
+    
+      "national-geographic-339"[label="National Geographic"]
+    
+      "geo-340"[label="Geo"]
+    
+      "neon-347"[label="Néon"]
+    
+  }
+
+  
+    "vivendi-81" -> "prisma-media-106" [
+      label="possède 100%"
+    ]
+  
+    "bollore-79" -> "vivendi-81" [
+      label="possède 27%"
+    ]
+  
+    "financiere-de-l-odet-78" -> "bollore-79" [
+      label="possède 64%"
+    ]
+  
+    "vincent-bollore-77" -> "financiere-de-l-odet-78" [
+      label="possède 49%"
+    ]
+  
+    "prisma-media-106" -> "capital-107" [
+      label="possède 100%"
+    ]
+  
+    "prisma-media-106" -> "harvard-business-review-109" [
+      label="possède 100%"
+    ]
+  
+    "prisma-media-106" -> "management-108" [
+      label="possède 100%"
+    ]
+  
+    "prisma-media-106" -> "tele-loisirs-335" [
+      label="possède 100%"
+    ]
+  
+    "prisma-media-106" -> "gala-336" [
+      label="possède 100%"
+    ]
+  
+    "prisma-media-106" -> "voici-337" [
+      label="possède 100%"
+    ]
+  
+    "prisma-media-106" -> "femme-actuelle-338" [
+      label="possède 100%"
+    ]
+  
+    "prisma-media-106" -> "national-geographic-339" [
+      label="possède 100%"
+    ]
+  
+    "prisma-media-106" -> "geo-340" [
+      label="possède 100%"
+    ]
+  
+    "prisma-media-106" -> "neon-347" [
+      label="possède 100%"
+    ]
+  
+}

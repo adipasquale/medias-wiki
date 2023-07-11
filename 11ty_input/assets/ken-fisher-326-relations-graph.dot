@@ -1,0 +1,34 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "ken-fisher-326"[label="🧑‍💼Ken Fisher" shape=box]
+    
+  }
+
+  
+    "groupe-l-opinion-325"[label="Groupe L’Opinion" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "l-agefi-hebdo-101"[label="L’Agefi hebdo"]
+    
+      "l-opinion-8"[label="L’Opinion"]
+    
+  }
+
+  
+    "ken-fisher-326" -> "groupe-l-opinion-325" [
+      label="participe 100%"
+    ]
+  
+    "groupe-l-opinion-325" -> "l-agefi-hebdo-101" [
+      label="possède 100%"
+    ]
+  
+    "groupe-l-opinion-325" -> "l-opinion-8" [
+      label="possède 100%"
+    ]
+  
+}

@@ -1,0 +1,58 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "bernard-arnault-42"[label="🧑‍💼Bernard Arnault" shape=box]
+    
+  }
+
+  
+    "lvmh-43"[label="LVMH" shape=house]
+  
+    "groupe-les-echos-48"[label="Groupe Les Échos" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "investir-50"[label="Investir"]
+    
+      "investir-magazine-51"[label="Investir Magazine"]
+    
+      "les-echos-49"[label="Les Échos"]
+    
+      "les-echos-week-end-52"[label="Les Échos Week-End"]
+    
+      "radio-classique-53"[label="Radio Classique"]
+    
+  }
+
+  
+    "lvmh-43" -> "groupe-les-echos-48" [
+      label="possède 100%"
+    ]
+  
+    "bernard-arnault-42" -> "lvmh-43" [
+      label="possède 46%"
+    ]
+  
+    "groupe-les-echos-48" -> "investir-50" [
+      label="possède 100%"
+    ]
+  
+    "groupe-les-echos-48" -> "investir-magazine-51" [
+      label="possède 100%"
+    ]
+  
+    "groupe-les-echos-48" -> "les-echos-49" [
+      label="possède 100%"
+    ]
+  
+    "groupe-les-echos-48" -> "les-echos-week-end-52" [
+      label="possède 100%"
+    ]
+  
+    "groupe-les-echos-48" -> "radio-classique-53" [
+      label="possède 100%"
+    ]
+  
+}

@@ -1,0 +1,46 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "famille-baylet-241"[label="🧑‍💼Famille Baylet" shape=box]
+    
+  }
+
+  
+    "groupe-la-depeche-242"[label="Groupe La Dépêche" shape=house]
+  
+    "les-journaux-du-midi-248"[label="Les Journaux du midi" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "centre-presse-aveyron-251"[label="Centre Presse Aveyron"]
+    
+      "l-independant-250"[label="L’Indépendant"]
+    
+      "midi-libre-249"[label="Midi libre"]
+    
+  }
+
+  
+    "groupe-la-depeche-242" -> "les-journaux-du-midi-248" [
+      label="possède 100%"
+    ]
+  
+    "famille-baylet-241" -> "groupe-la-depeche-242" [
+      label="possède 82%"
+    ]
+  
+    "les-journaux-du-midi-248" -> "centre-presse-aveyron-251" [
+      label="possède 100%"
+    ]
+  
+    "les-journaux-du-midi-248" -> "l-independant-250" [
+      label="possède 100%"
+    ]
+  
+    "les-journaux-du-midi-248" -> "midi-libre-249" [
+      label="possède 100%"
+    ]
+  
+}

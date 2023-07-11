@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "les-amis-du-monde-diplomatique-33"[label="Les Amis du Monde diplomatique" shape=box]
+    
+  }
+
+  
+
+  subgraph clusterLeaves {
+    
+      "le-monde-diplomatique-24"[label="Le Monde diplomatique"]
+    
+      "maniere-de-voir-25"[label="Manière de voir"]
+    
+  }
+
+  
+    "les-amis-du-monde-diplomatique-33" -> "le-monde-diplomatique-24" [
+      label="possède 24%"
+    ]
+  
+    "les-amis-du-monde-diplomatique-33" -> "maniere-de-voir-25" [
+      label="possède 24%"
+    ]
+  
+}

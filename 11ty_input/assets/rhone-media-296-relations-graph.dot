@@ -1,0 +1,46 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "philippe-hersant-292"[label="🧑‍💼Philippe Hersant" shape=box]
+    
+  }
+
+  
+    "editions-suisses-holding-293"[label="Éditions Suisses Holding" shape=house]
+  
+    "rhone-media-296"[label="Rhône Média" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "la-gazette-de-martigny-301"[label="La Gazette de Martigny"]
+    
+      "le-journal-de-sierre-302"[label="Le Journal de Sierre"]
+    
+      "le-nouvelliste-300"[label="Le Nouvelliste"]
+    
+  }
+
+  
+    "editions-suisses-holding-293" -> "rhone-media-296" [
+      label="possède 50%"
+    ]
+  
+    "philippe-hersant-292" -> "editions-suisses-holding-293" [
+      label="possède 100%"
+    ]
+  
+    "rhone-media-296" -> "la-gazette-de-martigny-301" [
+      label="possède 100%"
+    ]
+  
+    "rhone-media-296" -> "le-journal-de-sierre-302" [
+      label="possède 100%"
+    ]
+  
+    "rhone-media-296" -> "le-nouvelliste-300" [
+      label="possède 100%"
+    ]
+  
+}

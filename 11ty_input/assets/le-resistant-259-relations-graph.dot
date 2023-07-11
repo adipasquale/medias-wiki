@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "famille-lemoine-252"[label="🧑‍💼Famille Lemoine" shape=box]
+    
+  }
+
+  
+    "groupe-sud-ouest-253"[label="Groupe Sud Ouest" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "le-resistant-259"[label="Le Résistant"]
+    
+  }
+
+  
+    "groupe-sud-ouest-253" -> "le-resistant-259" [
+      label="possède 100%"
+    ]
+  
+    "famille-lemoine-252" -> "groupe-sud-ouest-253" [
+      label="possède 80%"
+    ]
+  
+}

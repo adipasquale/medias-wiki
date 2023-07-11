@@ -19,10 +19,6 @@ body > header {
   gap: 1rem;
 }
 
-pre.mermaid, pre.mermaid span{
-  font-family: var(--sans-font);
-}
-
 .small-image {
   max-width: 200px;
   max-height: 100px;
@@ -134,15 +130,22 @@ ul.large-list li {
 }
 
 
-/* @media (min-width: 50rem) {
-  ul.large-list {
-    columns: 3
+svg {
+  max-width: 100%;
+  height: auto;
+}
+@media (prefers-color-scheme: dark) {
+  .graphviz text {
+      fill: white;
   }
-} */
-
-
-/* @media (min-width: 75rem) {
-  ul.large-list {
-    columns: 4
+  .graphviz path,
+  .graphviz ellipse {
+      stroke: white;
   }
-} */
+  .graphviz polygon[fill="white"] {
+    fill: none;
+  }
+  .graphviz polygon[stroke="black"] {
+      stroke: white;
+  }
+}

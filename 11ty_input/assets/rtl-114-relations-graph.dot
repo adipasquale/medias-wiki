@@ -1,0 +1,40 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "famille-mohn-102"[label="🧑‍💼Famille Mohn" shape=box]
+    
+  }
+
+  
+    "groupe-m6-110"[label="Groupe M6" shape=house]
+  
+    "rtl-group-105"[label="RTL Group" shape=house]
+  
+    "bertelsmann-103"[label="Bertelsmann" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "rtl-114"[label="RTL"]
+    
+  }
+
+  
+    "groupe-m6-110" -> "rtl-114" [
+      label="possède 100%"
+    ]
+  
+    "rtl-group-105" -> "groupe-m6-110" [
+      label="possède 48%"
+    ]
+  
+    "bertelsmann-103" -> "rtl-group-105" [
+      label="possède 75%"
+    ]
+  
+    "famille-mohn-102" -> "bertelsmann-103" [
+      label="contrôle 100%"
+    ]
+  
+}

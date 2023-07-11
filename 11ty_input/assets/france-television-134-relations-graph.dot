@@ -1,0 +1,64 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "republique-francaise-128"[label="République française" shape=box]
+    
+  }
+
+  
+    "france-television-134"[label="France Télévision" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "france-2-141"[label="France 2"]
+    
+      "la-premiere-344"[label="La Première"]
+    
+      "france-3-142"[label="France 3"]
+    
+      "france-4-144"[label="France 4"]
+    
+      "france-5-143"[label="France 5"]
+    
+      "france-info-152"[label="France Info"]
+    
+      "tv5-monde-140"[label="TV5 Monde"]
+    
+  }
+
+  
+    "republique-francaise-128" -> "france-television-134" [
+      label="possède 100%"
+    ]
+  
+    "france-television-134" -> "france-2-141" [
+      label="possède 100%"
+    ]
+  
+    "france-television-134" -> "la-premiere-344" [
+      label="possède 100%"
+    ]
+  
+    "france-television-134" -> "france-3-142" [
+      label="possède 100%"
+    ]
+  
+    "france-television-134" -> "france-4-144" [
+      label="possède 100%"
+    ]
+  
+    "france-television-134" -> "france-5-143" [
+      label="possède 100%"
+    ]
+  
+    "france-television-134" -> "france-info-152" [
+      label="contrôle 100%"
+    ]
+  
+    "france-television-134" -> "tv5-monde-140" [
+      label="possède 49%"
+    ]
+  
+}

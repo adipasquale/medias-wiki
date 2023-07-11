@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "aol-27"[label="AOL" shape=box]
+    
+  }
+
+  
+    "huffington-post-28"[label="Huffington Post" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "huffpost-26"[label="HuffPost"]
+    
+  }
+
+  
+    "aol-27" -> "huffington-post-28" [
+      label="possède 100%"
+    ]
+  
+    "huffington-post-28" -> "huffpost-26" [
+      label="possède 51%"
+    ]
+  
+}

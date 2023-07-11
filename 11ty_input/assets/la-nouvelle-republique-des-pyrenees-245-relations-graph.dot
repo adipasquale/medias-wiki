@@ -1,0 +1,28 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "famille-baylet-241"[label="🧑‍💼Famille Baylet" shape=box]
+    
+  }
+
+  
+    "groupe-la-depeche-242"[label="Groupe La Dépêche" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "la-nouvelle-republique-des-pyrenees-245"[label="La Nouvelle République des Pyrénées"]
+    
+  }
+
+  
+    "groupe-la-depeche-242" -> "la-nouvelle-republique-des-pyrenees-245" [
+      label="possède 100%"
+    ]
+  
+    "famille-baylet-241" -> "groupe-la-depeche-242" [
+      label="possède 82%"
+    ]
+  
+}

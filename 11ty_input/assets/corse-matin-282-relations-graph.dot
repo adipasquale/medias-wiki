@@ -1,0 +1,34 @@
+digraph {
+  rankdir=LR;
+  subgraph roots {
+    
+      "xavier-niel-10"[label="🧑‍💼Xavier Niel" shape=box]
+    
+      "ayant-droit-de-bernard-tapie-276"[label="🧑‍💼Ayant droit de Bernard Tapie" shape=box]
+    
+  }
+
+  
+    "groupe-la-provence-280"[label="Groupe La Provence" shape=house]
+  
+
+  subgraph clusterLeaves {
+    
+      "corse-matin-282"[label="Corse Matin"]
+    
+  }
+
+  
+    "groupe-la-provence-280" -> "corse-matin-282" [
+      label="possède 65%"
+    ]
+  
+    "xavier-niel-10" -> "groupe-la-provence-280" [
+      label="possède 11%"
+    ]
+  
+    "ayant-droit-de-bernard-tapie-276" -> "groupe-la-provence-280" [
+      label="possède 89%"
+    ]
+  
+}
