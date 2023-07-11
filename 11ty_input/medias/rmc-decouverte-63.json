@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "Gratuit",
   "ACPMdiffusion": "",
+  "wikidataId": "Q3415244",
   "graphPosition": "leaf",
   "slug": "rmc-decouverte-63",
   "wikidata": {
@@ -27,6 +28,9 @@
       "origine": "Patrick Drahi",
       "valeur": 47.58,
       "cible": "Altice",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "57",
       "cibleSlug": "altice-57",
       "typeRelation": "possède",
@@ -71,6 +75,9 @@
       "origine": "Altice",
       "valeur": 78,
       "cible": "Altice France",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "58",
       "cibleSlug": "altice-france-58",
       "typeRelation": "possède",
@@ -82,6 +89,9 @@
       "origine": "Patrick Drahi",
       "valeur": 61,
       "cible": "Altice",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "57",
       "cibleSlug": "altice-57",
       "typeRelation": "possède",
@@ -102,6 +112,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3339193",
       "graphPosition": "intermediate",
       "slug": "altice-media-61",
       "wikidata": {
@@ -126,6 +137,7 @@
       "mediaEchelle": "",
       "commentaire": "Gratuit",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3415244",
       "graphPosition": "leaf",
       "slug": "rmc-decouverte-63",
       "wikidata": {
@@ -150,6 +162,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q218765",
       "graphPosition": "intermediate",
       "slug": "altice-france-58",
       "wikidata": {
@@ -174,6 +187,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q15944611",
       "graphPosition": "intermediate",
       "slug": "altice-57",
       "wikidata": {
@@ -198,6 +212,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q15714038",
       "graphPosition": "root",
       "slug": "patrick-drahi-56",
       "wikidata": {

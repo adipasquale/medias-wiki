@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "170673",
+  "wikidataId": "Q770596",
   "graphPosition": "leaf",
   "slug": "l-express-59",
   "wikidata": {
@@ -27,6 +28,9 @@
       "origine": "Patrick Drahi",
       "valeur": 23.3142,
       "cible": "Altice",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "57",
       "cibleSlug": "altice-57",
       "typeRelation": "possède",
@@ -72,6 +76,9 @@
       "origine": "Altice",
       "valeur": 78,
       "cible": "Altice France",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "58",
       "cibleSlug": "altice-france-58",
       "typeRelation": "possède",
@@ -83,6 +90,9 @@
       "origine": "Patrick Drahi",
       "valeur": 61,
       "cible": "Altice",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "57",
       "cibleSlug": "altice-57",
       "typeRelation": "possède",
@@ -117,6 +127,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q218765",
       "graphPosition": "intermediate",
       "slug": "altice-france-58",
       "wikidata": {
@@ -141,6 +152,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "170673",
+      "wikidataId": "Q770596",
       "graphPosition": "leaf",
       "slug": "l-express-59",
       "wikidata": {
@@ -165,6 +177,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q15944611",
       "graphPosition": "intermediate",
       "slug": "altice-57",
       "wikidata": {
@@ -189,6 +202,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q15714038",
       "graphPosition": "root",
       "slug": "patrick-drahi-56",
       "wikidata": {
@@ -213,6 +227,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q2830367",
       "graphPosition": "root",
       "slug": "alain-weill-324",
       "wikidata": {

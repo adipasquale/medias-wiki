@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "",
   "graphPosition": "root",
   "slug": "famille-baylet-241",
   "incomingRelations": [],
@@ -149,6 +150,9 @@
       "origine": "Famille Baylet",
       "valeur": 82,
       "cible": "Groupe La Dépêche",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "242",
       "cibleSlug": "groupe-la-depeche-242",
       "typeRelation": "possède",
@@ -230,6 +234,9 @@
       "origine": "Groupe La Dépêche",
       "valeur": 100,
       "cible": "Les Journaux du midi",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "248",
       "cibleSlug": "les-journaux-du-midi-248",
       "typeRelation": "possède",
@@ -292,6 +299,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "famille-baylet-241"
     },
@@ -307,6 +315,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3117468",
       "graphPosition": "intermediate",
       "slug": "groupe-la-depeche-242",
       "wikidata": {
@@ -326,6 +335,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "120579",
+      "wikidataId": "Q742587",
       "graphPosition": "leaf",
       "slug": "la-depeche-du-midi-243",
       "wikidata": {
@@ -350,6 +360,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q21197930",
       "graphPosition": "leaf",
       "slug": "la-gazette-du-comminges-247",
       "wikidata": {
@@ -369,6 +380,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "26098",
+      "wikidataId": "Q3211143",
       "graphPosition": "leaf",
       "slug": "la-nouvelle-republique-des-pyrenees-245",
       "wikidata": {
@@ -388,6 +400,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "6355",
+      "wikidataId": "Q18750711",
       "graphPosition": "leaf",
       "slug": "le-petit-bleu-244",
       "wikidata": {
@@ -412,6 +425,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "5270",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "le-villefranchois-246"
     },
@@ -427,6 +441,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3233440",
       "graphPosition": "intermediate",
       "slug": "les-journaux-du-midi-248",
       "wikidata": {
@@ -446,6 +461,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "16236",
+      "wikidataId": "Q2944865",
       "graphPosition": "leaf",
       "slug": "centre-presse-aveyron-251",
       "wikidata": {
@@ -465,6 +481,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "39500",
+      "wikidataId": "Q2269524",
       "graphPosition": "leaf",
       "slug": "l-independant-250",
       "wikidata": {
@@ -489,6 +506,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "80675",
+      "wikidataId": "Q1465340",
       "graphPosition": "leaf",
       "slug": "midi-libre-249",
       "wikidata": {

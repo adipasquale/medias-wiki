@@ -10,6 +10,7 @@
   "mediaEchelle": "Régional",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "",
   "graphPosition": "leaf",
   "slug": "sept-jours-a-brest-273",
   "incomingRelations": [
@@ -18,6 +19,9 @@
       "origine": "Édouard Coudurier",
       "valeur": 100,
       "cible": "Groupe Télégramme",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "267",
       "cibleSlug": "groupe-telegramme-267",
       "typeRelation": "contrôle",
@@ -48,6 +52,9 @@
       "origine": "Édouard Coudurier",
       "valeur": 100,
       "cible": "Groupe Télégramme",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "267",
       "cibleSlug": "groupe-telegramme-267",
       "typeRelation": "contrôle",
@@ -68,6 +75,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3117586",
       "graphPosition": "intermediate",
       "slug": "groupe-telegramme-267",
       "wikidata": {
@@ -87,6 +95,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "sept-jours-a-brest-273"
     },
@@ -102,6 +111,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "edouard-coudurier-266"
     }

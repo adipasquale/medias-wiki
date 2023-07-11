@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q64003230",
   "graphPosition": "leaf",
   "slug": "slate-fr-309",
   "wikidata": {
@@ -21,6 +22,9 @@
       "origine": "Ariane de Rothschild",
       "valeur": 50,
       "cible": "Lampsane Investissement SA",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "308",
       "cibleSlug": "lampsane-investissement-sa-308",
       "typeRelation": "contrôle",
@@ -51,6 +55,9 @@
       "origine": "Ariane de Rothschild",
       "valeur": 100,
       "cible": "Lampsane Investissement SA",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "308",
       "cibleSlug": "lampsane-investissement-sa-308",
       "typeRelation": "contrôle",
@@ -71,6 +78,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "intermediate",
       "slug": "lampsane-investissement-sa-308"
     },
@@ -86,6 +94,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q64003230",
       "graphPosition": "leaf",
       "slug": "slate-fr-309",
       "wikidata": {
@@ -104,6 +113,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "ariane-de-rothschild-307"
     }

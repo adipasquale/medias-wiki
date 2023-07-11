@@ -10,6 +10,7 @@
   "mediaEchelle": "Régional",
   "commentaire": "",
   "ACPMdiffusion": "211419",
+  "wikidataId": "Q2608774",
   "graphPosition": "leaf",
   "slug": "sud-ouest-254",
   "wikidata": {
@@ -22,6 +23,9 @@
       "origine": "Famille Lemoine",
       "valeur": 80,
       "cible": "Groupe Sud Ouest",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "253",
       "cibleSlug": "groupe-sud-ouest-253",
       "typeRelation": "possède",
@@ -52,6 +56,9 @@
       "origine": "Famille Lemoine",
       "valeur": 80,
       "cible": "Groupe Sud Ouest",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "253",
       "cibleSlug": "groupe-sud-ouest-253",
       "typeRelation": "possède",
@@ -72,6 +79,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3117568",
       "graphPosition": "intermediate",
       "slug": "groupe-sud-ouest-253",
       "wikidata": {
@@ -91,6 +99,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "211419",
+      "wikidataId": "Q2608774",
       "graphPosition": "leaf",
       "slug": "sud-ouest-254",
       "wikidata": {
@@ -110,6 +119,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "famille-lemoine-252"
     }

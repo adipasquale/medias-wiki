@@ -10,6 +10,7 @@
   "mediaEchelle": "Régional",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q3237828",
   "graphPosition": "leaf",
   "slug": "liberte-dimanche-289",
   "wikidata": {
@@ -24,6 +25,7 @@
       "cible": "Société Normande d’Information et de Communication",
       "source": "paris-normandie.fr",
       "datePublication": "07/07/2017",
+      "dateConsultation": "",
       "cibleId": "285",
       "cibleSlug": "societe-normande-d-information-et-de-communication-285",
       "typeRelation": "possède",
@@ -56,6 +58,7 @@
       "cible": "Société Normande d’Information et de Communication",
       "source": "paris-normandie.fr",
       "datePublication": "07/07/2017",
+      "dateConsultation": "",
       "cibleId": "285",
       "cibleSlug": "societe-normande-d-information-et-de-communication-285",
       "typeRelation": "possède",
@@ -76,6 +79,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q86685793",
       "graphPosition": "intermediate",
       "slug": "societe-normande-d-information-et-de-communication-285",
       "wikidata": {
@@ -95,6 +99,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3237828",
       "graphPosition": "leaf",
       "slug": "liberte-dimanche-289",
       "wikidata": {
@@ -114,6 +119,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q33137935",
       "graphPosition": "root",
       "slug": "jean-louis-louvel-284",
       "wikidata": {

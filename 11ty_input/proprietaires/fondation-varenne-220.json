@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q60850619",
   "graphPosition": "root",
   "slug": "fondation-varenne-220",
   "wikidata": {
@@ -313,6 +314,9 @@
       "origine": "Fondation Varenne",
       "valeur": 50,
       "cible": "Groupe La Montagne",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "222",
       "cibleSlug": "groupe-la-montagne-222",
       "typeRelation": "possède",
@@ -338,6 +342,9 @@
       "origine": "Groupe La Montagne",
       "valeur": 16,
       "cible": "Groupe NRCO",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "237",
       "cibleSlug": "groupe-nrco-237",
       "typeRelation": "possède",
@@ -596,6 +603,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q60850619",
       "graphPosition": "root",
       "slug": "fondation-varenne-220",
       "wikidata": {
@@ -615,6 +623,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q2944761",
       "graphPosition": "intermediate",
       "slug": "groupe-la-montagne-222",
       "wikidata": {
@@ -639,6 +648,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "4134",
+      "wikidataId": "Q16653605",
       "graphPosition": "leaf",
       "slug": "courrier-du-loiret-229",
       "wikidata": {
@@ -658,6 +668,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3345182",
       "graphPosition": "intermediate",
       "slug": "groupe-nrco-237",
       "wikidata": {
@@ -677,6 +688,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "16236",
+      "wikidataId": "Q2944867",
       "graphPosition": "leaf",
       "slug": "centre-presse-239",
       "wikidata": {
@@ -696,6 +708,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "24726",
+      "wikidataId": "Q3212596",
       "graphPosition": "leaf",
       "slug": "la-republique-du-centre-236",
       "wikidata": {
@@ -720,6 +733,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "141424",
+      "wikidataId": "Q3211144",
       "graphPosition": "leaf",
       "slug": "nouvelle-republique-du-centre-238",
       "wikidata": {
@@ -744,6 +758,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3512629",
       "graphPosition": "leaf",
       "slug": "tv-tours-240",
       "wikidata": {
@@ -768,6 +783,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "10158",
+      "wikidataId": "Q3223722",
       "graphPosition": "leaf",
       "slug": "journal-de-gien-235",
       "wikidata": {
@@ -787,6 +803,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "l-echo-charitois-232"
     },
@@ -802,6 +819,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "21064",
+      "wikidataId": "Q3205163",
       "graphPosition": "leaf",
       "slug": "l-echo-republicain-228",
       "wikidata": {
@@ -821,6 +839,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "12450",
+      "wikidataId": "Q16651426",
       "graphPosition": "leaf",
       "slug": "l-eclaireur-du-gatinais-230",
       "wikidata": {
@@ -840,6 +859,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "21677",
+      "wikidataId": "Q3204855",
       "graphPosition": "leaf",
       "slug": "l-yonne-republicaine-227",
       "wikidata": {
@@ -864,6 +884,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "la-liberte-234"
     },
@@ -879,6 +900,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "134640",
+      "wikidataId": "Q3210777",
       "graphPosition": "leaf",
       "slug": "la-montagne-223",
       "wikidata": {
@@ -903,6 +925,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "24462",
+      "wikidataId": "Q3220419",
       "graphPosition": "leaf",
       "slug": "le-berry-republicain-226",
       "wikidata": {
@@ -922,6 +945,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "19513",
+      "wikidataId": "Q3223762",
       "graphPosition": "leaf",
       "slug": "le-journal-du-centre-225",
       "wikidata": {
@@ -941,6 +965,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "26395",
+      "wikidataId": "Q3225791",
       "graphPosition": "leaf",
       "slug": "le-populaire-du-centre-224",
       "wikidata": {
@@ -960,6 +985,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "12700",
+      "wikidataId": "Q21027410",
       "graphPosition": "leaf",
       "slug": "pays-roannais-233",
       "wikidata": {
@@ -979,6 +1005,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "4417",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "regional-de-cosne-231"
     }

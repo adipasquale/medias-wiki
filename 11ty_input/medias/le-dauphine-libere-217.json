@@ -10,6 +10,7 @@
   "mediaEchelle": "Régional",
   "commentaire": "",
   "ACPMdiffusion": "169494",
+  "wikidataId": "Q2642655",
   "graphPosition": "leaf",
   "slug": "le-dauphine-libere-217",
   "wikidata": {
@@ -27,6 +28,9 @@
       "origine": "Crédit Mutuel",
       "valeur": 100,
       "cible": "Groupe EBRA",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "208",
       "cibleSlug": "groupe-ebra-208",
       "typeRelation": "possède",
@@ -57,6 +61,9 @@
       "origine": "Crédit Mutuel",
       "valeur": 100,
       "cible": "Groupe EBRA",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "208",
       "cibleSlug": "groupe-ebra-208",
       "typeRelation": "possède",
@@ -77,6 +84,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3117389",
       "graphPosition": "intermediate",
       "slug": "groupe-ebra-208",
       "wikidata": {
@@ -96,6 +104,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "169494",
+      "wikidataId": "Q2642655",
       "graphPosition": "leaf",
       "slug": "le-dauphine-libere-217",
       "wikidata": {
@@ -120,6 +129,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q642627",
       "graphPosition": "root",
       "slug": "credit-mutuel-207",
       "wikidata": {

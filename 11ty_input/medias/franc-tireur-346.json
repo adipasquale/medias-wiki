@@ -10,51 +10,78 @@
   "mediaEchelle": "National",
   "commentaire": "Payant",
   "ACPMdiffusion": "",
+  "wikidataId": "",
   "graphPosition": "leaf",
   "slug": "franc-tireur-346",
   "incomingRelations": [
     {
-      "id": "343",
-      "origine": "Télé 7 Jours",
-      "valeur": 100,
-      "cible": "Franc-Tireur",
-      "cibleId": "346",
-      "cibleSlug": "franc-tireur-346",
+      "id": "92",
+      "origine": "Daniel Křetínský",
+      "valeur": 50,
+      "cible": "Czech Media Invest",
+      "source": "bfmbusiness.bfmtv.com",
+      "datePublication": "24/04/2018",
+      "dateConsultation": "22/07/2018",
+      "cibleId": "93",
+      "cibleSlug": "czech-media-invest-93",
       "typeRelation": "possède",
       "valeurMinimum": false,
-      "origineSlug": "tele-7-jours-343",
-      "idsPair": "343-346"
+      "origineSlug": "daniel-kretinsky-92",
+      "indirecte": true,
+      "idsPair": "92-93"
     }
   ],
   "outgoingRelations": [],
   "allRelations": [
     {
-      "id": "343",
-      "origine": "Télé 7 Jours",
+      "id": "93",
+      "origine": "Czech Media Invest",
       "valeur": 100,
       "cible": "Franc-Tireur",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "346",
       "cibleSlug": "franc-tireur-346",
       "typeRelation": "possède",
       "valeurMinimum": false,
-      "origineSlug": "tele-7-jours-343"
+      "origineSlug": "czech-media-invest-93"
+    },
+    {
+      "id": "92",
+      "origine": "Daniel Křetínský",
+      "valeur": 50,
+      "cible": "Czech Media Invest",
+      "source": "bfmbusiness.bfmtv.com",
+      "datePublication": "24/04/2018",
+      "dateConsultation": "22/07/2018",
+      "cibleId": "93",
+      "cibleSlug": "czech-media-invest-93",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "daniel-kretinsky-92"
     }
   ],
   "allRelationsEntities": [
     {
-      "id": "343",
-      "nom": "Télé 7 Jours",
-      "typeLibelle": "Média",
-      "typeCode": "3",
+      "id": "93",
+      "nom": "Czech Media Invest",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
       "rangChallenges": "",
       "milliardaireForbes": "",
-      "mediaType": "GPE",
-      "mediaPeriodicite": "Hebdomadaire",
-      "mediaEchelle": "National",
-      "commentaire": "Payant",
-      "ACPMdiffusion": "908618",
-      "graphPosition": "root",
-      "slug": "tele-7-jours-343"
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "wikidataId": "Q27830718",
+      "graphPosition": "intermediate",
+      "slug": "czech-media-invest-93",
+      "wikidata": {
+        "id": "Q27830718",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Czech_Media_Invest"
+      }
     },
     {
       "id": "346",
@@ -68,8 +95,29 @@
       "mediaEchelle": "National",
       "commentaire": "Payant",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "franc-tireur-346"
+    },
+    {
+      "id": "92",
+      "nom": "Daniel Křetínský",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "",
+      "milliardaireForbes": "504",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "wikidataId": "Q11774225",
+      "graphPosition": "root",
+      "slug": "daniel-kretinsky-92",
+      "wikidata": {
+        "id": "Q11774225",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Daniel_K%C5%99et%C3%ADnsk%C3%BD"
+      }
     }
   ]
 }

@@ -10,6 +10,7 @@
   "mediaEchelle": "Régional",
   "commentaire": "",
   "ACPMdiffusion": "120579",
+  "wikidataId": "Q742587",
   "graphPosition": "leaf",
   "slug": "la-depeche-du-midi-243",
   "wikidata": {
@@ -27,6 +28,9 @@
       "origine": "Famille Baylet",
       "valeur": 82,
       "cible": "Groupe La Dépêche",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "242",
       "cibleSlug": "groupe-la-depeche-242",
       "typeRelation": "possède",
@@ -57,6 +61,9 @@
       "origine": "Famille Baylet",
       "valeur": 82,
       "cible": "Groupe La Dépêche",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "242",
       "cibleSlug": "groupe-la-depeche-242",
       "typeRelation": "possède",
@@ -77,6 +84,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3117468",
       "graphPosition": "intermediate",
       "slug": "groupe-la-depeche-242",
       "wikidata": {
@@ -96,6 +104,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "120579",
+      "wikidataId": "Q742587",
       "graphPosition": "leaf",
       "slug": "la-depeche-du-midi-243",
       "wikidata": {
@@ -120,6 +129,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "famille-baylet-241"
     }

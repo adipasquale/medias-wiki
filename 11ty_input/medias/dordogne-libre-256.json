@@ -10,6 +10,7 @@
   "mediaEchelle": "Régional",
   "commentaire": "",
   "ACPMdiffusion": "5266",
+  "wikidataId": "Q16629779",
   "graphPosition": "leaf",
   "slug": "dordogne-libre-256",
   "wikidata": {
@@ -27,6 +28,9 @@
       "origine": "Famille Lemoine",
       "valeur": 80,
       "cible": "Groupe Sud Ouest",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "253",
       "cibleSlug": "groupe-sud-ouest-253",
       "typeRelation": "possède",
@@ -57,6 +61,9 @@
       "origine": "Famille Lemoine",
       "valeur": 80,
       "cible": "Groupe Sud Ouest",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "253",
       "cibleSlug": "groupe-sud-ouest-253",
       "typeRelation": "possède",
@@ -77,6 +84,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3117568",
       "graphPosition": "intermediate",
       "slug": "groupe-sud-ouest-253",
       "wikidata": {
@@ -96,6 +104,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "5266",
+      "wikidataId": "Q16629779",
       "graphPosition": "leaf",
       "slug": "dordogne-libre-256",
       "wikidata": {
@@ -120,6 +129,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "famille-lemoine-252"
     }

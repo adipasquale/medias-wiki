@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "126283",
+  "wikidataId": "Q3393434",
   "graphPosition": "leaf",
   "slug": "point-de-vue-99",
   "wikidata": {
@@ -22,6 +23,9 @@
       "origine": "François Pinault",
       "valeur": 57,
       "cible": "Artémis",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "96",
       "cibleSlug": "artemis-96",
       "typeRelation": "possède",
@@ -52,6 +56,9 @@
       "origine": "François Pinault",
       "valeur": 57,
       "cible": "Artémis",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "96",
       "cibleSlug": "artemis-96",
       "typeRelation": "possède",
@@ -72,6 +79,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q2866000",
       "graphPosition": "intermediate",
       "slug": "artemis-96",
       "wikidata": {
@@ -96,6 +104,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "126283",
+      "wikidataId": "Q3393434",
       "graphPosition": "leaf",
       "slug": "point-de-vue-99",
       "wikidata": {
@@ -115,6 +124,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q1451167",
       "graphPosition": "root",
       "slug": "francois-pinault-95",
       "wikidata": {

@@ -10,6 +10,7 @@
   "mediaEchelle": "Régional",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q3212590",
   "graphPosition": "leaf",
   "slug": "la-republique-des-pyrenees-264",
   "wikidata": {
@@ -27,6 +28,9 @@
       "origine": "Famille Lemoine",
       "valeur": 80,
       "cible": "Groupe Sud Ouest",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "253",
       "cibleSlug": "groupe-sud-ouest-253",
       "typeRelation": "possède",
@@ -71,6 +75,9 @@
       "origine": "Famille Lemoine",
       "valeur": 80,
       "cible": "Groupe Sud Ouest",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "253",
       "cibleSlug": "groupe-sud-ouest-253",
       "typeRelation": "possède",
@@ -91,6 +98,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q56317615",
       "graphPosition": "intermediate",
       "slug": "pyrenees-presse-263",
       "wikidata": {
@@ -110,6 +118,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3212590",
       "graphPosition": "leaf",
       "slug": "la-republique-des-pyrenees-264",
       "wikidata": {
@@ -134,6 +143,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3117568",
       "graphPosition": "intermediate",
       "slug": "groupe-sud-ouest-253",
       "wikidata": {
@@ -153,6 +163,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "famille-lemoine-252"
     }

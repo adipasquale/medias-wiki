@@ -10,6 +10,7 @@
   "mediaEchelle": "Régional",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "",
   "graphPosition": "leaf",
   "slug": "la-liberte-234",
   "incomingRelations": [
@@ -18,6 +19,9 @@
       "origine": "Fondation Varenne",
       "valeur": 50,
       "cible": "Groupe La Montagne",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "222",
       "cibleSlug": "groupe-la-montagne-222",
       "typeRelation": "possède",
@@ -48,6 +52,9 @@
       "origine": "Fondation Varenne",
       "valeur": 50,
       "cible": "Groupe La Montagne",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "222",
       "cibleSlug": "groupe-la-montagne-222",
       "typeRelation": "possède",
@@ -68,6 +75,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q2944761",
       "graphPosition": "intermediate",
       "slug": "groupe-la-montagne-222",
       "wikidata": {
@@ -92,6 +100,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "la-liberte-234"
     },
@@ -107,6 +116,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q60850619",
       "graphPosition": "root",
       "slug": "fondation-varenne-220",
       "wikidata": {

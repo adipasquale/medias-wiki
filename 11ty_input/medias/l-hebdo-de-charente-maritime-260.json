@@ -10,6 +10,7 @@
   "mediaEchelle": "Régional",
   "commentaire": "",
   "ACPMdiffusion": "4567",
+  "wikidataId": "",
   "graphPosition": "leaf",
   "slug": "l-hebdo-de-charente-maritime-260",
   "incomingRelations": [
@@ -18,6 +19,9 @@
       "origine": "Famille Lemoine",
       "valeur": 80,
       "cible": "Groupe Sud Ouest",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "253",
       "cibleSlug": "groupe-sud-ouest-253",
       "typeRelation": "possède",
@@ -48,6 +52,9 @@
       "origine": "Famille Lemoine",
       "valeur": 80,
       "cible": "Groupe Sud Ouest",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "253",
       "cibleSlug": "groupe-sud-ouest-253",
       "typeRelation": "possède",
@@ -68,6 +75,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3117568",
       "graphPosition": "intermediate",
       "slug": "groupe-sud-ouest-253",
       "wikidata": {
@@ -87,6 +95,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "4567",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "l-hebdo-de-charente-maritime-260"
     },
@@ -102,6 +111,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "famille-lemoine-252"
     }

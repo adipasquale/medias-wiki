@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q30118169",
   "graphPosition": "root",
   "slug": "madison-cox-323",
   "wikidata": {
@@ -202,6 +203,8 @@
       "valeur": 28,
       "cible": "Le Monde libre",
       "source": "https://www.lemonde.fr/economie/article/2019/09/04/le-groupe-le-monde-demande-a-ses-actionnaires-de-tenir-leurs-engagements_5506287_3234.html",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "14",
       "cibleSlug": "le-monde-libre-14",
       "typeRelation": "possède",
@@ -390,6 +393,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q30118169",
       "graphPosition": "root",
       "slug": "madison-cox-323",
       "wikidata": {
@@ -409,6 +413,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q55180846",
       "graphPosition": "intermediate",
       "slug": "le-monde-libre-14",
       "wikidata": {
@@ -428,6 +433,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "199982",
+      "wikidataId": "Q1044328",
       "graphPosition": "leaf",
       "slug": "l-obs-16",
       "wikidata": {
@@ -452,6 +458,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "intermediate",
       "slug": "le-monde-sa-15"
     },
@@ -467,6 +474,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "160864",
+      "wikidataId": "Q1137712",
       "graphPosition": "leaf",
       "slug": "courrier-international-21",
       "wikidata": {
@@ -486,6 +494,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3223501",
       "graphPosition": "leaf",
       "slug": "huffpost-26",
       "wikidata": {
@@ -505,6 +514,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "69026",
+      "wikidataId": "Q3213561",
       "graphPosition": "leaf",
       "slug": "la-vie-23",
       "wikidata": {
@@ -524,6 +534,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "424085",
+      "wikidataId": "Q12461",
       "graphPosition": "leaf",
       "slug": "le-monde-19",
       "wikidata": {
@@ -548,6 +559,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3224686",
       "graphPosition": "leaf",
       "slug": "le-monde-des-religions-22",
       "wikidata": {
@@ -567,6 +579,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "154719",
+      "wikidataId": "Q858121",
       "graphPosition": "leaf",
       "slug": "le-monde-diplomatique-24",
       "wikidata": {
@@ -591,6 +604,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "434011",
+      "wikidataId": "Q21120245",
       "graphPosition": "leaf",
       "slug": "m-le-magazine-du-monde-18",
       "wikidata": {
@@ -610,6 +624,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "24740",
+      "wikidataId": "Q3285985",
       "graphPosition": "leaf",
       "slug": "maniere-de-voir-25",
       "wikidata": {
@@ -629,6 +644,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q16671000",
       "graphPosition": "leaf",
       "slug": "prier-17",
       "wikidata": {
@@ -648,6 +664,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "469323",
+      "wikidataId": "Q377629",
       "graphPosition": "leaf",
       "slug": "telerama-20",
       "wikidata": {

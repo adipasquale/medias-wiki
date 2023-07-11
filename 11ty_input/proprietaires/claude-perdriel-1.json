@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q2977933",
   "graphPosition": "root",
   "slug": "claude-perdriel-1",
   "wikidata": {
@@ -89,6 +90,9 @@
       "origine": "Claude Perdriel",
       "valeur": 100,
       "cible": "Groupe Perdriel",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "3",
       "cibleSlug": "groupe-perdriel-3",
       "typeRelation": "contrôle",
@@ -179,6 +183,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q2977933",
       "graphPosition": "root",
       "slug": "claude-perdriel-1",
       "wikidata": {
@@ -198,6 +203,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3117520",
       "graphPosition": "intermediate",
       "slug": "groupe-perdriel-3",
       "wikidata": {
@@ -217,6 +223,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "179776",
+      "wikidataId": "Q2947983",
       "graphPosition": "leaf",
       "slug": "challenges-6",
       "wikidata": {
@@ -241,6 +248,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "207357",
+      "wikidataId": "Q546262",
       "graphPosition": "leaf",
       "slug": "sciences-and-avenir-7",
       "wikidata": {
@@ -260,6 +268,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "intermediate",
       "slug": "groupe-l-opinion-325"
     },
@@ -275,6 +284,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "l-agefi-hebdo-101"
     },
@@ -290,6 +300,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q14940658",
       "graphPosition": "leaf",
       "slug": "l-opinion-8",
       "wikidata": {

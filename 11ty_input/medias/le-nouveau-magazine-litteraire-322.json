@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q3224169",
   "graphPosition": "leaf",
   "slug": "le-nouveau-magazine-litteraire-322",
   "wikidata": {
@@ -22,6 +23,9 @@
       "origine": "Xavier Niel",
       "valeur": 100,
       "cible": "Le Nouveau Magazine littéraire",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "322",
       "cibleSlug": "le-nouveau-magazine-litteraire-322",
       "typeRelation": "participe",
@@ -37,6 +41,9 @@
       "origine": "Xavier Niel",
       "valeur": 100,
       "cible": "Le Nouveau Magazine littéraire",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "322",
       "cibleSlug": "le-nouveau-magazine-litteraire-322",
       "typeRelation": "participe",
@@ -57,6 +64,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q1450891",
       "graphPosition": "root",
       "slug": "xavier-niel-10",
       "wikidata": {
@@ -81,6 +89,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3224169",
       "graphPosition": "leaf",
       "slug": "le-nouveau-magazine-litteraire-322",
       "wikidata": {

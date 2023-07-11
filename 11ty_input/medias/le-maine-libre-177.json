@@ -10,6 +10,7 @@
   "mediaEchelle": "Régional",
   "commentaire": "",
   "ACPMdiffusion": "34378",
+  "wikidataId": "Q3224185",
   "graphPosition": "leaf",
   "slug": "le-maine-libre-177",
   "wikidata": {
@@ -27,6 +28,9 @@
       "origine": "Famille Hutin",
       "valeur": 100,
       "cible": "Association pour le soutien des principes de la démocratie humaniste",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "173",
       "cibleSlug": "association-pour-le-soutien-des-principes-de-la-democratie-humaniste-173",
       "typeRelation": "contrôle",
@@ -57,6 +61,9 @@
       "origine": "Association pour le soutien des principes de la démocratie humaniste",
       "valeur": 100,
       "cible": "Groupe SIPA - Ouest",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "174",
       "cibleSlug": "groupe-sipa-ouest-174",
       "typeRelation": "possède",
@@ -68,6 +75,9 @@
       "origine": "Famille Hutin",
       "valeur": 100,
       "cible": "Association pour le soutien des principes de la démocratie humaniste",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "173",
       "cibleSlug": "association-pour-le-soutien-des-principes-de-la-democratie-humaniste-173",
       "typeRelation": "contrôle",
@@ -88,6 +98,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3117551",
       "graphPosition": "intermediate",
       "slug": "groupe-sipa-ouest-174",
       "wikidata": {
@@ -112,6 +123,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "34378",
+      "wikidataId": "Q3224185",
       "graphPosition": "leaf",
       "slug": "le-maine-libre-177",
       "wikidata": {
@@ -136,6 +148,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q2867998",
       "graphPosition": "intermediate",
       "slug": "association-pour-le-soutien-des-principes-de-la-democratie-humaniste-173",
       "wikidata": {
@@ -155,6 +168,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "famille-hutin-170"
     }

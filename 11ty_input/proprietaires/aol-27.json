@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q27585",
   "graphPosition": "root",
   "slug": "aol-27",
   "wikidata": {
@@ -46,6 +47,9 @@
       "origine": "AOL",
       "valeur": 100,
       "cible": "Huffington Post",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "28",
       "cibleSlug": "huffington-post-28",
       "typeRelation": "possède",
@@ -80,6 +84,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q27585",
       "graphPosition": "root",
       "slug": "aol-27",
       "wikidata": {
@@ -104,6 +109,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q18049522",
       "graphPosition": "intermediate",
       "slug": "huffington-post-28",
       "wikidata": {
@@ -128,6 +134,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3223501",
       "graphPosition": "leaf",
       "slug": "huffpost-26",
       "wikidata": {

@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q1674003",
   "graphPosition": "root",
   "slug": "iskandar-safa-86",
   "wikidata": {
@@ -57,6 +58,9 @@
       "origine": "Iskandar Safa",
       "valeur": 100,
       "cible": "Privinvest",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "87",
       "cibleSlug": "privinvest-87",
       "typeRelation": "possède",
@@ -68,6 +72,9 @@
       "origine": "Privinvest",
       "valeur": 50,
       "cible": "Groupe Valmonde",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "88",
       "cibleSlug": "groupe-valmonde-88",
       "typeRelation": "possède",
@@ -116,6 +123,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q1674003",
       "graphPosition": "root",
       "slug": "iskandar-safa-86",
       "wikidata": {
@@ -135,6 +143,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q52672870",
       "graphPosition": "intermediate",
       "slug": "privinvest-87",
       "wikidata": {
@@ -153,6 +162,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "intermediate",
       "slug": "groupe-valmonde-88"
     },
@@ -168,6 +178,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "131803",
+      "wikidataId": "Q3312817",
       "graphPosition": "leaf",
       "slug": "mieux-vivre-votre-argent-90",
       "wikidata": {
@@ -192,6 +203,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "111002",
+      "wikidataId": "Q3553781",
       "graphPosition": "leaf",
       "slug": "valeurs-actuelles-89",
       "wikidata": {

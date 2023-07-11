@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q13612085",
   "graphPosition": "leaf",
   "slug": "i24-news-320",
   "wikidata": {
@@ -27,6 +28,9 @@
       "origine": "Patrick Drahi",
       "valeur": 61,
       "cible": "Altice",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "57",
       "cibleSlug": "altice-57",
       "typeRelation": "possède",
@@ -57,6 +61,9 @@
       "origine": "Patrick Drahi",
       "valeur": 61,
       "cible": "Altice",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "57",
       "cibleSlug": "altice-57",
       "typeRelation": "possède",
@@ -77,6 +84,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q15944611",
       "graphPosition": "intermediate",
       "slug": "altice-57",
       "wikidata": {
@@ -101,6 +109,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q13612085",
       "graphPosition": "leaf",
       "slug": "i24-news-320",
       "wikidata": {
@@ -125,6 +134,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q15714038",
       "graphPosition": "root",
       "slug": "patrick-drahi-56",
       "wikidata": {

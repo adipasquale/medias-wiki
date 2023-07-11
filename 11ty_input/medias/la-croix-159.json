@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "85014",
+  "wikidataId": "Q1230298",
   "graphPosition": "leaf",
   "slug": "la-croix-159",
   "wikidata": {
@@ -27,6 +28,9 @@
       "origine": "Les Augustins de l’Assomption",
       "valeur": 100,
       "cible": "Bayard",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "158",
       "cibleSlug": "bayard-158",
       "typeRelation": "possède",
@@ -43,6 +47,9 @@
       "origine": "Bayard",
       "valeur": 100,
       "cible": "La Croix",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "159",
       "cibleSlug": "la-croix-159",
       "typeRelation": "possède",
@@ -54,6 +61,9 @@
       "origine": "Les Augustins de l’Assomption",
       "valeur": 100,
       "cible": "Bayard",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "158",
       "cibleSlug": "bayard-158",
       "typeRelation": "possède",
@@ -74,6 +84,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q929887",
       "graphPosition": "intermediate",
       "slug": "bayard-158",
       "wikidata": {
@@ -93,6 +104,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "85014",
+      "wikidataId": "Q1230298",
       "graphPosition": "leaf",
       "slug": "la-croix-159",
       "wikidata": {
@@ -117,6 +129,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "les-augustins-de-l-assomption-157"
     }

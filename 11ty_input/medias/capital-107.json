@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "128438",
+  "wikidataId": "Q2937369",
   "graphPosition": "leaf",
   "slug": "capital-107",
   "wikidata": {
@@ -18,23 +19,13 @@
   },
   "incomingRelations": [
     {
-      "id": "102",
-      "origine": "Famille Mohn",
-      "valeur": 0,
-      "cible": "Bertelsmann",
-      "cibleId": "103",
-      "cibleSlug": "bertelsmann-103",
-      "typeRelation": "contrôle",
-      "valeurMinimum": false,
-      "origineSlug": "famille-mohn-102",
-      "indirecte": true,
-      "idsPair": "102-103"
-    },
-    {
       "id": "77",
       "origine": "Vincent Bolloré",
       "valeur": 8.4672,
       "cible": "Financière de l’Odet",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "78",
       "cibleSlug": "financiere-de-l-odet-78",
       "typeRelation": "possède",
@@ -61,43 +52,13 @@
       "origineSlug": "prisma-media-106"
     },
     {
-      "id": "104",
-      "origine": "Gruner + Jahr",
-      "valeur": 0,
-      "cible": "Prisma Media",
-      "cibleId": "106",
-      "cibleSlug": "prisma-media-106",
-      "typeRelation": "possède",
-      "valeurMinimum": false,
-      "origineSlug": "gruner-jahr-104"
-    },
-    {
-      "id": "103",
-      "origine": "Bertelsmann",
-      "valeur": 100,
-      "cible": "Gruner + Jahr",
-      "cibleId": "104",
-      "cibleSlug": "gruner-jahr-104",
-      "typeRelation": "possède",
-      "valeurMinimum": false,
-      "origineSlug": "bertelsmann-103"
-    },
-    {
-      "id": "102",
-      "origine": "Famille Mohn",
-      "valeur": 100,
-      "cible": "Bertelsmann",
-      "cibleId": "103",
-      "cibleSlug": "bertelsmann-103",
-      "typeRelation": "contrôle",
-      "valeurMinimum": false,
-      "origineSlug": "famille-mohn-102"
-    },
-    {
       "id": "81",
       "origine": "Vivendi",
       "valeur": 100,
       "cible": "Prisma Media",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "106",
       "cibleSlug": "prisma-media-106",
       "typeRelation": "possède",
@@ -123,6 +84,9 @@
       "origine": "Financière de l’Odet",
       "valeur": 64,
       "cible": "Bolloré",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "79",
       "cibleSlug": "bollore-79",
       "typeRelation": "possède",
@@ -134,6 +98,9 @@
       "origine": "Vincent Bolloré",
       "valeur": 49,
       "cible": "Financière de l’Odet",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "78",
       "cibleSlug": "financiere-de-l-odet-78",
       "typeRelation": "possède",
@@ -154,6 +121,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3403917",
       "graphPosition": "intermediate",
       "slug": "prisma-media-106",
       "wikidata": {
@@ -178,78 +146,12 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "128438",
+      "wikidataId": "Q2937369",
       "graphPosition": "leaf",
       "slug": "capital-107",
       "wikidata": {
         "id": "Q2937369",
         "wikipediaUrl": "https://fr.wikipedia.org/wiki/Capital_(magazine)"
-      }
-    },
-    {
-      "id": "104",
-      "nom": "Gruner + Jahr",
-      "typeLibelle": "Personne morale",
-      "typeCode": "2",
-      "rangChallenges": "",
-      "milliardaireForbes": "",
-      "mediaType": "",
-      "mediaPeriodicite": "",
-      "mediaEchelle": "",
-      "commentaire": "",
-      "ACPMdiffusion": "",
-      "graphPosition": "intermediate",
-      "slug": "gruner-jahr-104",
-      "wikidata": {
-        "id": "Q481536",
-        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Gruner_%2B_Jahr",
-        "image": {
-          "typeImage": "logo",
-          "filenameOriginal": "Gruner+Jahr-Logo.svg",
-          "filenameEleventy": "gruner-jahr-104.svg"
-        }
-      }
-    },
-    {
-      "id": "103",
-      "nom": "Bertelsmann",
-      "typeLibelle": "Personne morale",
-      "typeCode": "2",
-      "rangChallenges": "",
-      "milliardaireForbes": "",
-      "mediaType": "",
-      "mediaPeriodicite": "",
-      "mediaEchelle": "",
-      "commentaire": "",
-      "ACPMdiffusion": "",
-      "graphPosition": "intermediate",
-      "slug": "bertelsmann-103",
-      "wikidata": {
-        "id": "Q156913",
-        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Bertelsmann",
-        "image": {
-          "typeImage": "logo",
-          "filenameOriginal": "Bertelsmann_2011_logo.svg",
-          "filenameEleventy": "bertelsmann-103.svg"
-        }
-      }
-    },
-    {
-      "id": "102",
-      "nom": "Famille Mohn",
-      "typeLibelle": "Personne physique",
-      "typeCode": "1",
-      "rangChallenges": "",
-      "milliardaireForbes": "",
-      "mediaType": "",
-      "mediaPeriodicite": "",
-      "mediaEchelle": "",
-      "commentaire": "",
-      "ACPMdiffusion": "",
-      "graphPosition": "root",
-      "slug": "famille-mohn-102",
-      "wikidata": {
-        "id": "Q28497831",
-        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Famille_Mohn"
       }
     },
     {
@@ -264,6 +166,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q1127887",
       "graphPosition": "intermediate",
       "slug": "vivendi-81",
       "wikidata": {
@@ -288,6 +191,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q444172",
       "graphPosition": "intermediate",
       "slug": "bollore-79",
       "wikidata": {
@@ -312,6 +216,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3072532",
       "graphPosition": "intermediate",
       "slug": "financiere-de-l-odet-78",
       "wikidata": {
@@ -331,6 +236,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q721491",
       "graphPosition": "root",
       "slug": "vincent-bollore-77",
       "wikidata": {

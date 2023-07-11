@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "",
   "graphPosition": "root",
   "slug": "famille-hutin-170",
   "incomingRelations": [],
@@ -133,6 +134,9 @@
       "origine": "Famille Hutin",
       "valeur": 100,
       "cible": "Association pour le soutien des principes de la démocratie humaniste",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "173",
       "cibleSlug": "association-pour-le-soutien-des-principes-de-la-democratie-humaniste-173",
       "typeRelation": "contrôle",
@@ -144,6 +148,9 @@
       "origine": "Association pour le soutien des principes de la démocratie humaniste",
       "valeur": 100,
       "cible": "Groupe SIPA - Ouest",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "174",
       "cibleSlug": "groupe-sipa-ouest-174",
       "typeRelation": "possède",
@@ -239,6 +246,9 @@
       "origine": "Groupe SIPA - Ouest",
       "valeur": 40,
       "cible": "Sofiouest",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "181",
       "cibleSlug": "sofiouest-181",
       "typeRelation": "possède",
@@ -273,6 +283,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "famille-hutin-170"
     },
@@ -288,6 +299,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q2867998",
       "graphPosition": "intermediate",
       "slug": "association-pour-le-soutien-des-principes-de-la-democratie-humaniste-173",
       "wikidata": {
@@ -307,6 +319,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3117551",
       "graphPosition": "intermediate",
       "slug": "groupe-sipa-ouest-174",
       "wikidata": {
@@ -331,6 +344,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "18719",
+      "wikidataId": "Q3211916",
       "graphPosition": "leaf",
       "slug": "la-presse-de-la-manche-179",
       "wikidata": {
@@ -350,6 +364,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "76255",
+      "wikidataId": "Q3221872",
       "graphPosition": "leaf",
       "slug": "le-courrier-de-l-ouest-176",
       "wikidata": {
@@ -369,6 +384,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "34378",
+      "wikidataId": "Q3224185",
       "graphPosition": "leaf",
       "slug": "le-maine-libre-177",
       "wikidata": {
@@ -393,6 +409,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "626643",
+      "wikidataId": "Q660769",
       "graphPosition": "leaf",
       "slug": "ouest-france-175",
       "wikidata": {
@@ -417,6 +434,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "22202",
+      "wikidataId": "Q3402479",
       "graphPosition": "leaf",
       "slug": "presse-ocean-178",
       "wikidata": {
@@ -436,6 +454,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3410475",
       "graphPosition": "leaf",
       "slug": "publi-hebdos-180",
       "wikidata": {
@@ -455,6 +474,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q48746345",
       "graphPosition": "intermediate",
       "slug": "sofiouest-181",
       "wikidata": {
@@ -474,6 +494,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "670101",
+      "wikidataId": "Q7245532",
       "graphPosition": "leaf",
       "slug": "20-minutes-182",
       "wikidata": {

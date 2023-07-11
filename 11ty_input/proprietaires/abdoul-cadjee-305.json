@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "",
   "graphPosition": "root",
   "slug": "abdoul-cadjee-305",
   "incomingRelations": [],
@@ -59,6 +60,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "abdoul-cadjee-305"
     },
@@ -74,6 +76,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3186848",
       "graphPosition": "leaf",
       "slug": "le-journal-de-l-ile-de-la-reunion-306",
       "wikidata": {

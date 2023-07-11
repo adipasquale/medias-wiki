@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q1340362",
   "graphPosition": "leaf",
   "slug": "radio-classique-53",
   "wikidata": {
@@ -27,6 +28,9 @@
       "origine": "Bernard Arnault",
       "valeur": 46,
       "cible": "LVMH",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "43",
       "cibleSlug": "lvmh-43",
       "typeRelation": "possède",
@@ -71,6 +75,9 @@
       "origine": "Bernard Arnault",
       "valeur": 46,
       "cible": "LVMH",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "43",
       "cibleSlug": "lvmh-43",
       "typeRelation": "possède",
@@ -91,6 +98,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3117475",
       "graphPosition": "intermediate",
       "slug": "groupe-les-echos-48",
       "wikidata": {
@@ -110,6 +118,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q1340362",
       "graphPosition": "leaf",
       "slug": "radio-classique-53",
       "wikidata": {
@@ -134,6 +143,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q504998",
       "graphPosition": "intermediate",
       "slug": "lvmh-43",
       "wikidata": {
@@ -158,6 +168,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q32055",
       "graphPosition": "root",
       "slug": "bernard-arnault-42",
       "wikidata": {

@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q3553009",
   "graphPosition": "leaf",
   "slug": "vsd-119",
   "wikidata": {
@@ -24,6 +25,7 @@
       "cible": "Ghosn Capital",
       "source": "strategies.fr, AFP",
       "datePublication": "06/06/2018",
+      "dateConsultation": "",
       "cibleId": "118",
       "cibleSlug": "ghosn-capital-118",
       "typeRelation": "possède",
@@ -42,6 +44,7 @@
       "cible": "VSD",
       "source": "strategies.fr, AFP",
       "datePublication": "06/06/2018",
+      "dateConsultation": "",
       "cibleId": "119",
       "cibleSlug": "vsd-119",
       "typeRelation": "possède",
@@ -55,6 +58,7 @@
       "cible": "Ghosn Capital",
       "source": "strategies.fr, AFP",
       "datePublication": "06/06/2018",
+      "dateConsultation": "",
       "cibleId": "118",
       "cibleSlug": "ghosn-capital-118",
       "typeRelation": "possède",
@@ -75,6 +79,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "intermediate",
       "slug": "ghosn-capital-118"
     },
@@ -90,6 +95,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3553009",
       "graphPosition": "leaf",
       "slug": "vsd-119",
       "wikidata": {
@@ -109,6 +115,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3102771",
       "graphPosition": "root",
       "slug": "georges-ghosn-117",
       "wikidata": {

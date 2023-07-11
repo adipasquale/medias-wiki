@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "",
   "graphPosition": "root",
   "slug": "martin-et-olivier-bouygues-120",
   "incomingRelations": [],
@@ -101,6 +102,9 @@
       "origine": "Martin et Olivier Bouygues",
       "valeur": 20,
       "cible": "Bouygues",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "121",
       "cibleSlug": "bouygues-121",
       "typeRelation": "possède",
@@ -112,6 +116,9 @@
       "origine": "Bouygues",
       "valeur": 44,
       "cible": "Groupe TF1",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "122",
       "cibleSlug": "groupe-tf1-122",
       "typeRelation": "possède",
@@ -202,6 +209,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "martin-et-olivier-bouygues-120"
     },
@@ -217,6 +225,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q895325",
       "graphPosition": "intermediate",
       "slug": "bouygues-121",
       "wikidata": {
@@ -241,6 +250,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q2412906",
       "graphPosition": "intermediate",
       "slug": "groupe-tf1-122",
       "wikidata": {
@@ -265,6 +275,7 @@
       "mediaEchelle": "",
       "commentaire": "Gratuit",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3207314",
       "graphPosition": "leaf",
       "slug": "lci-125",
       "wikidata": {
@@ -284,6 +295,7 @@
       "mediaEchelle": "",
       "commentaire": "Gratuit",
       "ACPMdiffusion": "",
+      "wikidataId": "Q214683",
       "graphPosition": "leaf",
       "slug": "tf1-123",
       "wikidata": {
@@ -308,6 +320,7 @@
       "mediaEchelle": "",
       "commentaire": "Gratuit",
       "ACPMdiffusion": "",
+      "wikidataId": "Q59312334",
       "graphPosition": "leaf",
       "slug": "tf1-series-films-126",
       "wikidata": {
@@ -332,6 +345,7 @@
       "mediaEchelle": "",
       "commentaire": "Gratuit",
       "ACPMdiffusion": "",
+      "wikidataId": "Q155096",
       "graphPosition": "leaf",
       "slug": "tfx-124",
       "wikidata": {
@@ -356,6 +370,7 @@
       "mediaEchelle": "",
       "commentaire": "Gratuit",
       "ACPMdiffusion": "",
+      "wikidataId": "Q971163",
       "graphPosition": "leaf",
       "slug": "tmc-127",
       "wikidata": {

@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q14940658",
   "graphPosition": "leaf",
   "slug": "l-opinion-8",
   "wikidata": {
@@ -38,6 +39,9 @@
       "origine": "Bernard Arnault",
       "valeur": 46,
       "cible": "LVMH",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "43",
       "cibleSlug": "lvmh-43",
       "typeRelation": "participe",
@@ -144,6 +148,9 @@
       "origine": "Bernard Arnault",
       "valeur": 46,
       "cible": "LVMH",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "43",
       "cibleSlug": "lvmh-43",
       "typeRelation": "possède",
@@ -206,6 +213,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "intermediate",
       "slug": "groupe-l-opinion-325"
     },
@@ -221,6 +229,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q14940658",
       "graphPosition": "leaf",
       "slug": "l-opinion-8",
       "wikidata": {
@@ -240,6 +249,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q2977933",
       "graphPosition": "root",
       "slug": "claude-perdriel-1",
       "wikidata": {
@@ -259,6 +269,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q504998",
       "graphPosition": "intermediate",
       "slug": "lvmh-43",
       "wikidata": {
@@ -283,6 +294,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q32055",
       "graphPosition": "root",
       "slug": "bernard-arnault-42",
       "wikidata": {
@@ -307,6 +319,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q30727360",
       "graphPosition": "root",
       "slug": "famille-bettencourt-54",
       "wikidata": {
@@ -326,6 +339,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3340099",
       "graphPosition": "root",
       "slug": "nicolas-beytout-55",
       "wikidata": {
@@ -350,6 +364,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q6390103",
       "graphPosition": "root",
       "slug": "ken-fisher-326",
       "wikidata": {

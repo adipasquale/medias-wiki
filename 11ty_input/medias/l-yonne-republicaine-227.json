@@ -10,6 +10,7 @@
   "mediaEchelle": "Régional",
   "commentaire": "",
   "ACPMdiffusion": "21677",
+  "wikidataId": "Q3204855",
   "graphPosition": "leaf",
   "slug": "l-yonne-republicaine-227",
   "wikidata": {
@@ -27,6 +28,9 @@
       "origine": "Fondation Varenne",
       "valeur": 50,
       "cible": "Groupe La Montagne",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "222",
       "cibleSlug": "groupe-la-montagne-222",
       "typeRelation": "possède",
@@ -57,6 +61,9 @@
       "origine": "Fondation Varenne",
       "valeur": 50,
       "cible": "Groupe La Montagne",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "222",
       "cibleSlug": "groupe-la-montagne-222",
       "typeRelation": "possède",
@@ -77,6 +84,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q2944761",
       "graphPosition": "intermediate",
       "slug": "groupe-la-montagne-222",
       "wikidata": {
@@ -101,6 +109,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "21677",
+      "wikidataId": "Q3204855",
       "graphPosition": "leaf",
       "slug": "l-yonne-republicaine-227",
       "wikidata": {
@@ -125,6 +134,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q60850619",
       "graphPosition": "root",
       "slug": "fondation-varenne-220",
       "wikidata": {

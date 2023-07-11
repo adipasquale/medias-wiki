@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "675128",
+  "wikidataId": "Q3344777",
   "graphPosition": "leaf",
   "slug": "notre-temps-161",
   "wikidata": {
@@ -22,6 +23,9 @@
       "origine": "Les Augustins de l’Assomption",
       "valeur": 100,
       "cible": "Bayard",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "158",
       "cibleSlug": "bayard-158",
       "typeRelation": "possède",
@@ -38,6 +42,9 @@
       "origine": "Bayard",
       "valeur": 100,
       "cible": "Notre temps",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "161",
       "cibleSlug": "notre-temps-161",
       "typeRelation": "possède",
@@ -49,6 +56,9 @@
       "origine": "Les Augustins de l’Assomption",
       "valeur": 100,
       "cible": "Bayard",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "158",
       "cibleSlug": "bayard-158",
       "typeRelation": "possède",
@@ -69,6 +79,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q929887",
       "graphPosition": "intermediate",
       "slug": "bayard-158",
       "wikidata": {
@@ -88,6 +99,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "675128",
+      "wikidataId": "Q3344777",
       "graphPosition": "leaf",
       "slug": "notre-temps-161",
       "wikidata": {
@@ -107,6 +119,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "les-augustins-de-l-assomption-157"
     }

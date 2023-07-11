@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "",
   "graphPosition": "root",
   "slug": "famille-hurbain-171",
   "incomingRelations": [],
@@ -371,6 +372,9 @@
       "origine": "Groupe Rossel La Voix",
       "valeur": 73,
       "cible": "Normandie Dimanche",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "291",
       "cibleSlug": "normandie-dimanche-291",
       "typeRelation": "contrôle",
@@ -384,6 +388,9 @@
       "origine": "Groupe Rossel La Voix",
       "valeur": 73,
       "cible": "Paris-Normandie",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "286",
       "cibleSlug": "paris-normandie-286",
       "typeRelation": "contrôle",
@@ -399,6 +406,9 @@
       "origine": "Famille Hurbain",
       "valeur": 100,
       "cible": "Groupe Rossel",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "183",
       "cibleSlug": "groupe-rossel-183",
       "typeRelation": "contrôle",
@@ -410,6 +420,9 @@
       "origine": "Groupe Rossel",
       "valeur": 73,
       "cible": "Groupe Rossel La Voix",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "184",
       "cibleSlug": "groupe-rossel-la-voix-184",
       "typeRelation": "possède",
@@ -435,6 +448,9 @@
       "origine": "Groupe Rossel La Voix",
       "valeur": 96,
       "cible": "La Voix du Nord SA",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "185",
       "cibleSlug": "la-voix-du-nord-sa-185",
       "typeRelation": "possède",
@@ -740,6 +756,9 @@
       "origine": "Groupe Rossel La Voix",
       "valeur": 100,
       "cible": "Normandie Dimanche",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "291",
       "cibleSlug": "normandie-dimanche-291",
       "typeRelation": "possède",
@@ -751,6 +770,9 @@
       "origine": "Groupe Rossel La Voix",
       "valeur": 100,
       "cible": "Paris-Normandie",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "286",
       "cibleSlug": "paris-normandie-286",
       "typeRelation": "possède",
@@ -771,6 +793,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "famille-hurbain-171"
     },
@@ -786,6 +809,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3117548",
       "graphPosition": "intermediate",
       "slug": "groupe-rossel-183",
       "wikidata": {
@@ -810,6 +834,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3117466",
       "graphPosition": "intermediate",
       "slug": "groupe-rossel-la-voix-184",
       "wikidata": {
@@ -829,6 +854,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "670101",
+      "wikidataId": "Q7245532",
       "graphPosition": "leaf",
       "slug": "20-minutes-182",
       "wikidata": {
@@ -853,6 +879,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q2567583",
       "graphPosition": "intermediate",
       "slug": "la-voix-du-nord-sa-185",
       "wikidata": {
@@ -877,6 +904,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "45347",
+      "wikidataId": "Q729749",
       "graphPosition": "leaf",
       "slug": "courrier-picard-189",
       "wikidata": {
@@ -896,6 +924,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "14081",
+      "wikidataId": "Q3201678",
       "graphPosition": "leaf",
       "slug": "l-aisne-nouvelle-190",
       "wikidata": {
@@ -915,6 +944,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "6621",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "l-avenir-de-l-artois-193"
     },
@@ -930,6 +960,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "4684",
+      "wikidataId": "Q3205142",
       "graphPosition": "leaf",
       "slug": "l-echo-de-la-lys-206",
       "wikidata": {
@@ -949,6 +980,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "4379",
+      "wikidataId": "Q3203325",
       "graphPosition": "leaf",
       "slug": "l-essor-savoyard-197",
       "wikidata": {
@@ -973,6 +1005,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "21968",
+      "wikidataId": "Q3203326",
       "graphPosition": "leaf",
       "slug": "l-est-eclair-liberation-champagne-192",
       "wikidata": {
@@ -997,6 +1030,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3204140",
       "graphPosition": "leaf",
       "slug": "l-indicateur-205",
       "wikidata": {
@@ -1016,6 +1050,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "71793",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "l-union-l-ardennais-191"
     },
@@ -1031,6 +1066,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "2706",
+      "wikidataId": "Q3212735",
       "graphPosition": "leaf",
       "slug": "la-savoie-200",
       "wikidata": {
@@ -1050,6 +1086,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3212774",
       "graphPosition": "leaf",
       "slug": "la-semaine-dans-le-boulonnais-202",
       "wikidata": {
@@ -1069,6 +1106,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "2045",
+      "wikidataId": "Q3213306",
       "graphPosition": "leaf",
       "slug": "la-tribune-republicaine-199",
       "wikidata": {
@@ -1093,6 +1131,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "195545",
+      "wikidataId": "Q2567583",
       "graphPosition": "leaf",
       "slug": "la-voix-du-nord-186",
       "wikidata": {
@@ -1117,6 +1156,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "3533",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "le-journal-de-montreuil-204"
     },
@@ -1132,6 +1172,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3223750",
       "graphPosition": "leaf",
       "slug": "le-journal-des-flandres-195",
       "wikidata": {
@@ -1151,6 +1192,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3224515",
       "graphPosition": "leaf",
       "slug": "le-messager-196",
       "wikidata": {
@@ -1170,6 +1212,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "3068",
+      "wikidataId": "Q3225335",
       "graphPosition": "leaf",
       "slug": "le-pays-gessien-198",
       "wikidata": {
@@ -1189,6 +1232,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "3765",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "le-phare-dunkerquois-201"
     },
@@ -1204,6 +1248,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "2332",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "le-reveil-de-berck-203"
     },
@@ -1219,6 +1264,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "2428",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "les-echos-du-touquet-194"
     },
@@ -1234,6 +1280,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q2375812",
       "graphPosition": "leaf",
       "slug": "nord-eclair-187",
       "wikidata": {
@@ -1258,6 +1305,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "6935",
+      "wikidataId": "Q18750714",
       "graphPosition": "leaf",
       "slug": "nord-littoral-188",
       "wikidata": {
@@ -1282,6 +1330,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "normandie-dimanche-291"
     },
@@ -1297,6 +1346,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "36994",
+      "wikidataId": "Q3365285",
       "graphPosition": "leaf",
       "slug": "paris-normandie-286",
       "wikidata": {

@@ -10,6 +10,7 @@
   "mediaEchelle": "Régional",
   "commentaire": "",
   "ACPMdiffusion": "80675",
+  "wikidataId": "Q1465340",
   "graphPosition": "leaf",
   "slug": "midi-libre-249",
   "wikidata": {
@@ -27,6 +28,9 @@
       "origine": "Famille Baylet",
       "valeur": 82,
       "cible": "Groupe La Dépêche",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "242",
       "cibleSlug": "groupe-la-depeche-242",
       "typeRelation": "possède",
@@ -57,6 +61,9 @@
       "origine": "Groupe La Dépêche",
       "valeur": 100,
       "cible": "Les Journaux du midi",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "248",
       "cibleSlug": "les-journaux-du-midi-248",
       "typeRelation": "possède",
@@ -68,6 +75,9 @@
       "origine": "Famille Baylet",
       "valeur": 82,
       "cible": "Groupe La Dépêche",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "242",
       "cibleSlug": "groupe-la-depeche-242",
       "typeRelation": "possède",
@@ -88,6 +98,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3233440",
       "graphPosition": "intermediate",
       "slug": "les-journaux-du-midi-248",
       "wikidata": {
@@ -107,6 +118,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "80675",
+      "wikidataId": "Q1465340",
       "graphPosition": "leaf",
       "slug": "midi-libre-249",
       "wikidata": {
@@ -131,6 +143,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3117468",
       "graphPosition": "intermediate",
       "slug": "groupe-la-depeche-242",
       "wikidata": {
@@ -150,6 +163,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "famille-baylet-241"
     }

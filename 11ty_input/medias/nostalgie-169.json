@@ -10,6 +10,7 @@
   "mediaEchelle": "National",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q735936",
   "graphPosition": "leaf",
   "slug": "nostalgie-169",
   "wikidata": {
@@ -27,6 +28,9 @@
       "origine": "Jean-Paul Baudecroux",
       "valeur": 79,
       "cible": "NRJ Group",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "163",
       "cibleSlug": "nrj-group-163",
       "typeRelation": "possède",
@@ -57,6 +61,9 @@
       "origine": "Jean-Paul Baudecroux",
       "valeur": 79,
       "cible": "NRJ Group",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "163",
       "cibleSlug": "nrj-group-163",
       "typeRelation": "possède",
@@ -77,6 +84,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q1412968",
       "graphPosition": "intermediate",
       "slug": "nrj-group-163",
       "wikidata": {
@@ -101,6 +109,7 @@
       "mediaEchelle": "National",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q735936",
       "graphPosition": "leaf",
       "slug": "nostalgie-169",
       "wikidata": {
@@ -125,6 +134,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q1685120",
       "graphPosition": "root",
       "slug": "jean-paul-baudecroux-162",
       "wikidata": {

@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q15973233",
   "graphPosition": "root",
   "slug": "laurent-alexandre-317",
   "wikidata": {
@@ -46,6 +47,9 @@
       "origine": "Laurent Alexandre",
       "valeur": 28,
       "cible": "Hima Groupe",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "318",
       "cibleSlug": "hima-groupe-318",
       "typeRelation": "possède",
@@ -80,6 +84,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q15973233",
       "graphPosition": "root",
       "slug": "laurent-alexandre-317",
       "wikidata": {
@@ -104,6 +109,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "intermediate",
       "slug": "hima-groupe-318"
     },
@@ -119,6 +125,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q1799197",
       "graphPosition": "leaf",
       "slug": "la-tribune-319",
       "wikidata": {

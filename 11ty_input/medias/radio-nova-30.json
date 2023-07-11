@@ -10,6 +10,7 @@
   "mediaEchelle": "National",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q2292969",
   "graphPosition": "leaf",
   "slug": "radio-nova-30",
   "wikidata": {
@@ -27,6 +28,9 @@
       "origine": "Matthieu Pigasse",
       "valeur": 78,
       "cible": "Combat Solutions",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "12",
       "cibleSlug": "combat-solutions-12",
       "typeRelation": "possède",
@@ -57,6 +61,9 @@
       "origine": "Matthieu Pigasse",
       "valeur": 78,
       "cible": "Combat Solutions",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "12",
       "cibleSlug": "combat-solutions-12",
       "typeRelation": "possède",
@@ -77,6 +84,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q24929235",
       "graphPosition": "intermediate",
       "slug": "combat-solutions-12",
       "wikidata": {
@@ -96,6 +104,7 @@
       "mediaEchelle": "National",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q2292969",
       "graphPosition": "leaf",
       "slug": "radio-nova-30",
       "wikidata": {
@@ -120,6 +129,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3299928",
       "graphPosition": "root",
       "slug": "matthieu-pigasse-11",
       "wikidata": {

@@ -10,6 +10,7 @@
   "mediaEchelle": "Régional",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q3225712",
   "graphPosition": "leaf",
   "slug": "le-poher-269",
   "wikidata": {
@@ -27,6 +28,9 @@
       "origine": "Édouard Coudurier",
       "valeur": 100,
       "cible": "Groupe Télégramme",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "267",
       "cibleSlug": "groupe-telegramme-267",
       "typeRelation": "contrôle",
@@ -57,6 +61,9 @@
       "origine": "Édouard Coudurier",
       "valeur": 100,
       "cible": "Groupe Télégramme",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "267",
       "cibleSlug": "groupe-telegramme-267",
       "typeRelation": "contrôle",
@@ -77,6 +84,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3117586",
       "graphPosition": "intermediate",
       "slug": "groupe-telegramme-267",
       "wikidata": {
@@ -96,6 +104,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3225712",
       "graphPosition": "leaf",
       "slug": "le-poher-269",
       "wikidata": {
@@ -120,6 +129,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "edouard-coudurier-266"
     }

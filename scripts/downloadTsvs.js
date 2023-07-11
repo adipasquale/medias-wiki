@@ -1,6 +1,12 @@
 const downloadFile = require("../lib/downloadFile.js")
 
 downloadFile(
-  "https://raw.githubusercontent.com/adipasquale/Medias_francais/wikidata-2023-07/medias_francais.tsv",
-  "11ty_input/_data/entitiesWikidataIds.tsv"
+  "https://raw.githubusercontent.com/adipasquale/Medias_francais/all-patches/medias_francais.tsv",
+  "data/entitiesRaw.tsv"
 )
+
+downloadFile(
+  "https://raw.githubusercontent.com/adipasquale/Medias_francais/all-patches/relations_medias_francais.tsv",
+  "data/relationsRaw.tsv"
+)
+

@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "180801",
+  "wikidataId": "Q142348",
   "graphPosition": "leaf",
   "slug": "le-parisien-44",
   "wikidata": {
@@ -27,6 +28,9 @@
       "origine": "Bernard Arnault",
       "valeur": 46,
       "cible": "LVMH",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "43",
       "cibleSlug": "lvmh-43",
       "typeRelation": "possède",
@@ -57,6 +61,9 @@
       "origine": "Bernard Arnault",
       "valeur": 46,
       "cible": "LVMH",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "43",
       "cibleSlug": "lvmh-43",
       "typeRelation": "possède",
@@ -77,6 +84,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q504998",
       "graphPosition": "intermediate",
       "slug": "lvmh-43",
       "wikidata": {
@@ -101,6 +109,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "180801",
+      "wikidataId": "Q142348",
       "graphPosition": "leaf",
       "slug": "le-parisien-44",
       "wikidata": {
@@ -125,6 +134,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q32055",
       "graphPosition": "root",
       "slug": "bernard-arnault-42",
       "wikidata": {

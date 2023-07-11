@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q3380014",
   "graphPosition": "root",
   "slug": "philippe-hersant-292",
   "wikidata": {
@@ -119,6 +120,9 @@
       "origine": "Philippe Hersant",
       "valeur": 100,
       "cible": "Groupe Hersant Média",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "294",
       "cibleSlug": "groupe-hersant-media-294",
       "typeRelation": "possède",
@@ -133,6 +137,9 @@
       "origine": "Philippe Hersant",
       "valeur": 100,
       "cible": "Éditions Suisses Holding",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "293",
       "cibleSlug": "editions-suisses-holding-293",
       "typeRelation": "possède",
@@ -144,6 +151,9 @@
       "origine": "Éditions Suisses Holding",
       "valeur": 50,
       "cible": "Groupe Filanosa",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "295",
       "cibleSlug": "groupe-filanosa-295",
       "typeRelation": "possède",
@@ -197,6 +207,9 @@
       "origine": "Éditions Suisses Holding",
       "valeur": 50,
       "cible": "Rhône Média",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "296",
       "cibleSlug": "rhone-media-296",
       "typeRelation": "possède",
@@ -250,6 +263,9 @@
       "origine": "Philippe Hersant",
       "valeur": 100,
       "cible": "Groupe Hersant Média",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "294",
       "cibleSlug": "groupe-hersant-media-294",
       "typeRelation": "possède",
@@ -270,6 +286,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3380014",
       "graphPosition": "root",
       "slug": "philippe-hersant-292",
       "wikidata": {
@@ -289,6 +306,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "intermediate",
       "slug": "editions-suisses-holding-293"
     },
@@ -304,6 +322,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "intermediate",
       "slug": "groupe-filanosa-295"
     },
@@ -319,6 +338,7 @@
       "mediaEchelle": "Suisse",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q646229",
       "graphPosition": "leaf",
       "slug": "l-express-neuchatel-298",
       "wikidata": {
@@ -343,6 +363,7 @@
       "mediaEchelle": "Suisse",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3204036",
       "graphPosition": "leaf",
       "slug": "l-impartial-la-chaux-de-fonds-299",
       "wikidata": {
@@ -367,6 +388,7 @@
       "mediaEchelle": "Suisse",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q592085",
       "graphPosition": "leaf",
       "slug": "la-cote-nyon-297",
       "wikidata": {
@@ -391,6 +413,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "intermediate",
       "slug": "rhone-media-296"
     },
@@ -406,6 +429,7 @@
       "mediaEchelle": "Suisse",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "la-gazette-de-martigny-301"
     },
@@ -421,6 +445,7 @@
       "mediaEchelle": "Suisse",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3186844",
       "graphPosition": "leaf",
       "slug": "le-journal-de-sierre-302",
       "wikidata": {
@@ -440,6 +465,7 @@
       "mediaEchelle": "Suisse",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q6507379",
       "graphPosition": "leaf",
       "slug": "le-nouvelliste-300",
       "wikidata": {
@@ -464,6 +490,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q1547743",
       "graphPosition": "leaf",
       "slug": "groupe-hersant-media-294",
       "wikidata": {

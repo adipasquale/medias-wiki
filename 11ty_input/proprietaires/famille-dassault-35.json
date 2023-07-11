@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "",
   "graphPosition": "root",
   "slug": "famille-dassault-35",
   "incomingRelations": [],
@@ -85,6 +86,9 @@
       "origine": "Famille Dassault",
       "valeur": 100,
       "cible": "Groupe Dassault",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "36",
       "cibleSlug": "groupe-dassault-36",
       "typeRelation": "possède",
@@ -96,6 +100,9 @@
       "origine": "Groupe Dassault",
       "valeur": 100,
       "cible": "Groupe Figaro",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "37",
       "cibleSlug": "groupe-figaro-37",
       "typeRelation": "possède",
@@ -172,6 +179,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "famille-dassault-35"
     },
@@ -187,6 +195,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q1434948",
       "graphPosition": "intermediate",
       "slug": "groupe-dassault-36",
       "wikidata": {
@@ -211,6 +220,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q70442343",
       "graphPosition": "intermediate",
       "slug": "groupe-figaro-37",
       "wikidata": {
@@ -235,6 +245,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "370195",
+      "wikidataId": "Q3222760",
       "graphPosition": "leaf",
       "slug": "figaro-magazine-39",
       "wikidata": {
@@ -254,6 +265,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3209997",
       "graphPosition": "leaf",
       "slug": "la-lettre-de-l-expansion-41",
       "wikidata": {
@@ -278,6 +290,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q216047",
       "graphPosition": "leaf",
       "slug": "le-figaro-38",
       "wikidata": {
@@ -302,6 +315,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "301334",
+      "wikidataId": "Q3225267",
       "graphPosition": "leaf",
       "slug": "le-particulier-40",
       "wikidata": {

@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q32055",
   "graphPosition": "root",
   "slug": "bernard-arnault-42",
   "wikidata": {
@@ -236,6 +237,9 @@
       "origine": "Bernard Arnault",
       "valeur": 27,
       "cible": "Lagardère Capital & Management",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "331",
       "cibleSlug": "lagardere-capital-and-management-331",
       "typeRelation": "possède",
@@ -250,6 +254,9 @@
       "origine": "Bernard Arnault",
       "valeur": 46,
       "cible": "LVMH",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "43",
       "cibleSlug": "lvmh-43",
       "typeRelation": "possède",
@@ -261,6 +268,9 @@
       "origine": "LVMH",
       "valeur": 40,
       "cible": "Groupe Perdriel",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "3",
       "cibleSlug": "groupe-perdriel-3",
       "typeRelation": "possède",
@@ -482,6 +492,9 @@
       "origine": "Bernard Arnault",
       "valeur": 27,
       "cible": "Lagardère Capital & Management",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "331",
       "cibleSlug": "lagardere-capital-and-management-331",
       "typeRelation": "possède",
@@ -502,6 +515,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q32055",
       "graphPosition": "root",
       "slug": "bernard-arnault-42",
       "wikidata": {
@@ -526,6 +540,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q504998",
       "graphPosition": "intermediate",
       "slug": "lvmh-43",
       "wikidata": {
@@ -550,6 +565,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3117520",
       "graphPosition": "intermediate",
       "slug": "groupe-perdriel-3",
       "wikidata": {
@@ -569,6 +585,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "179776",
+      "wikidataId": "Q2947983",
       "graphPosition": "leaf",
       "slug": "challenges-6",
       "wikidata": {
@@ -593,6 +610,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "207357",
+      "wikidataId": "Q546262",
       "graphPosition": "leaf",
       "slug": "sciences-and-avenir-7",
       "wikidata": {
@@ -612,6 +630,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q81942284",
       "graphPosition": "leaf",
       "slug": "aujourd-hui-en-france-47",
       "wikidata": {
@@ -635,6 +654,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3117475",
       "graphPosition": "intermediate",
       "slug": "groupe-les-echos-48",
       "wikidata": {
@@ -654,6 +674,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "61937",
+      "wikidataId": "Q3153914",
       "graphPosition": "leaf",
       "slug": "investir-50",
       "wikidata": {
@@ -673,6 +694,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3153914",
       "graphPosition": "leaf",
       "slug": "investir-magazine-51",
       "wikidata": {
@@ -692,6 +714,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q923193",
       "graphPosition": "leaf",
       "slug": "les-echos-49",
       "wikidata": {
@@ -716,6 +739,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "les-echos-week-end-52"
     },
@@ -731,6 +755,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q1340362",
       "graphPosition": "leaf",
       "slug": "radio-classique-53",
       "wikidata": {
@@ -755,6 +780,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "intermediate",
       "slug": "groupe-l-opinion-325"
     },
@@ -770,6 +796,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "l-agefi-hebdo-101"
     },
@@ -785,6 +812,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q14940658",
       "graphPosition": "leaf",
       "slug": "l-opinion-8",
       "wikidata": {
@@ -804,6 +832,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "180801",
+      "wikidataId": "Q142348",
       "graphPosition": "leaf",
       "slug": "le-parisien-44",
       "wikidata": {
@@ -828,6 +857,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "le-parisien-economie-46"
     },
@@ -843,6 +873,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "231323",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "le-parisien-week-end-45"
     },
@@ -858,6 +889,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "lagardere-capital-and-management-331"
     }

@@ -5,13 +5,13 @@ const upsertJsonFile = require("../lib/upsertJsonFile.js")
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms))
 
 async function main() {
-  const wikidataIds = readTsv("11ty_input/_data/entitiesWikidataIds.tsv")
-    .map(r => r.wikidata_id)
+  const wikidataIds = readTsv("data/entitiesRaw.tsv")
+    .map(r => r.wikidataId)
     .filter(id => id)
   for (const wikidataId of wikidataIds) {
     const data = await httpsGetJson(`https://www.wikidata.org/wiki/Special:EntityData/${wikidataId}.json`)
-    upsertJsonFile("11ty_input/_data/wikidata.json", data.entities)
-    console.log(`wrote ${wikidataId} to 11ty_input/_data/wikidata.json`)
+    upsertJsonFile("data/wikidata.json", data.entities)
+    console.log(`wrote ${wikidataId} to data/wikidata.json`)
     await delay(1000)
   }
 }

@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q1685120",
   "graphPosition": "root",
   "slug": "jean-paul-baudecroux-162",
   "wikidata": {
@@ -121,6 +122,9 @@
       "origine": "Jean-Paul Baudecroux",
       "valeur": 79,
       "cible": "NRJ Group",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "163",
       "cibleSlug": "nrj-group-163",
       "typeRelation": "possède",
@@ -225,6 +229,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q1685120",
       "graphPosition": "root",
       "slug": "jean-paul-baudecroux-162",
       "wikidata": {
@@ -244,6 +249,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q1412968",
       "graphPosition": "intermediate",
       "slug": "nrj-group-163",
       "wikidata": {
@@ -268,6 +274,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q2972055",
       "graphPosition": "leaf",
       "slug": "cherie-25-165",
       "wikidata": {
@@ -292,6 +299,7 @@
       "mediaEchelle": "National",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q1090951",
       "graphPosition": "leaf",
       "slug": "cherie-fm-168",
       "wikidata": {
@@ -316,6 +324,7 @@
       "mediaEchelle": "National",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q735936",
       "graphPosition": "leaf",
       "slug": "nostalgie-169",
       "wikidata": {
@@ -340,6 +349,7 @@
       "mediaEchelle": "National",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q1961361",
       "graphPosition": "leaf",
       "slug": "nrj-166",
       "wikidata": {
@@ -359,6 +369,7 @@
       "mediaEchelle": "",
       "commentaire": "Gratuit",
       "ACPMdiffusion": "",
+      "wikidataId": "Q38611",
       "graphPosition": "leaf",
       "slug": "nrj-12-164",
       "wikidata": {
@@ -383,6 +394,7 @@
       "mediaEchelle": "National",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3433078",
       "graphPosition": "leaf",
       "slug": "rire-et-chansons-167",
       "wikidata": {

@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q1451167",
   "graphPosition": "root",
   "slug": "francois-pinault-95",
   "wikidata": {
@@ -62,6 +63,9 @@
       "origine": "François Pinault",
       "valeur": 57,
       "cible": "Artémis",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "96",
       "cibleSlug": "artemis-96",
       "typeRelation": "possède",
@@ -73,6 +77,9 @@
       "origine": "Artémis",
       "valeur": 100,
       "cible": "Groupe Sebdo-Le Point",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "97",
       "cibleSlug": "groupe-sebdo-le-point-97",
       "typeRelation": "possède",
@@ -121,6 +128,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q1451167",
       "graphPosition": "root",
       "slug": "francois-pinault-95",
       "wikidata": {
@@ -145,6 +153,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q2866000",
       "graphPosition": "intermediate",
       "slug": "artemis-96",
       "wikidata": {
@@ -169,6 +178,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "intermediate",
       "slug": "groupe-sebdo-le-point-97"
     },
@@ -184,6 +194,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "272665",
+      "wikidataId": "Q1810082",
       "graphPosition": "leaf",
       "slug": "le-point-100",
       "wikidata": {
@@ -203,6 +214,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "126283",
+      "wikidataId": "Q3393434",
       "graphPosition": "leaf",
       "slug": "point-de-vue-99",
       "wikidata": {

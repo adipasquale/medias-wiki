@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "",
   "graphPosition": "root",
   "slug": "amber-capital-330",
   "incomingRelations": [],
@@ -101,6 +102,9 @@
       "origine": "Amber Capital",
       "valeur": 20,
       "cible": "Lagardère SA",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "69",
       "cibleSlug": "lagardere-sa-69",
       "typeRelation": "possède",
@@ -112,6 +116,9 @@
       "origine": "Lagardère SA",
       "valeur": 100,
       "cible": "Lagardère News",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "70",
       "cibleSlug": "lagardere-news-70",
       "typeRelation": "possède",
@@ -202,6 +209,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "amber-capital-330"
     },
@@ -217,6 +225,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q1490400",
       "graphPosition": "intermediate",
       "slug": "lagardere-sa-69",
       "wikidata": {
@@ -241,6 +250,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3216152",
       "graphPosition": "intermediate",
       "slug": "lagardere-news-70",
       "wikidata": {
@@ -260,6 +270,7 @@
       "mediaEchelle": "National",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q314407",
       "graphPosition": "leaf",
       "slug": "europe-1-74",
       "wikidata": {
@@ -284,6 +295,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q501461",
       "graphPosition": "leaf",
       "slug": "le-journal-du-dimanche-71",
       "wikidata": {
@@ -308,6 +320,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "502040",
+      "wikidataId": "Q678095",
       "graphPosition": "leaf",
       "slug": "paris-match-72",
       "wikidata": {
@@ -332,6 +345,7 @@
       "mediaEchelle": "National",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3415172",
       "graphPosition": "leaf",
       "slug": "rfm-75",
       "wikidata": {
@@ -351,6 +365,7 @@
       "mediaEchelle": "National",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3560647",
       "graphPosition": "leaf",
       "slug": "virgin-radio-76",
       "wikidata": {

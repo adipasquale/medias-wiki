@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "Gratuit",
   "ACPMdiffusion": "",
+  "wikidataId": "Q3410428",
   "graphPosition": "leaf",
   "slug": "public-senat-132",
   "wikidata": {
@@ -22,6 +23,9 @@
       "origine": "République française",
       "valeur": 100,
       "cible": "Public Sénat",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "132",
       "cibleSlug": "public-senat-132",
       "typeRelation": "possède",
@@ -37,6 +41,9 @@
       "origine": "République française",
       "valeur": 100,
       "cible": "Public Sénat",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "132",
       "cibleSlug": "public-senat-132",
       "typeRelation": "possède",
@@ -57,6 +64,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q142",
       "graphPosition": "root",
       "slug": "republique-francaise-128",
       "wikidata": {
@@ -81,6 +89,7 @@
       "mediaEchelle": "",
       "commentaire": "Gratuit",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3410428",
       "graphPosition": "leaf",
       "slug": "public-senat-132",
       "wikidata": {

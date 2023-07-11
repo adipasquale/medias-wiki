@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "Gratuit",
   "ACPMdiffusion": "",
+  "wikidataId": "Q3011095",
   "graphPosition": "leaf",
   "slug": "c8-83",
   "wikidata": {
@@ -27,6 +28,9 @@
       "origine": "Vincent Bolloré",
       "valeur": 8.4672,
       "cible": "Financière de l’Odet",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "78",
       "cibleSlug": "financiere-de-l-odet-78",
       "typeRelation": "possède",
@@ -71,6 +75,9 @@
       "origine": "Financière de l’Odet",
       "valeur": 64,
       "cible": "Bolloré",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "79",
       "cibleSlug": "bollore-79",
       "typeRelation": "possède",
@@ -82,6 +89,9 @@
       "origine": "Vincent Bolloré",
       "valeur": 49,
       "cible": "Financière de l’Odet",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "78",
       "cibleSlug": "financiere-de-l-odet-78",
       "typeRelation": "possède",
@@ -102,6 +112,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q1127887",
       "graphPosition": "intermediate",
       "slug": "vivendi-81",
       "wikidata": {
@@ -126,6 +137,7 @@
       "mediaEchelle": "",
       "commentaire": "Gratuit",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3011095",
       "graphPosition": "leaf",
       "slug": "c8-83",
       "wikidata": {
@@ -150,6 +162,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q444172",
       "graphPosition": "intermediate",
       "slug": "bollore-79",
       "wikidata": {
@@ -174,6 +187,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3072532",
       "graphPosition": "intermediate",
       "slug": "financiere-de-l-odet-78",
       "wikidata": {
@@ -193,6 +207,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q721491",
       "graphPosition": "root",
       "slug": "vincent-bollore-77",
       "wikidata": {

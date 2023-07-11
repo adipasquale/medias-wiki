@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "",
   "graphPosition": "root",
   "slug": "edouard-coudurier-266",
   "incomingRelations": [],
@@ -149,6 +150,9 @@
       "origine": "Édouard Coudurier",
       "valeur": 100,
       "cible": "Groupe Télégramme",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "267",
       "cibleSlug": "groupe-telegramme-267",
       "typeRelation": "contrôle",
@@ -281,6 +285,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "edouard-coudurier-266"
     },
@@ -296,6 +301,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3117586",
       "graphPosition": "intermediate",
       "slug": "groupe-telegramme-267",
       "wikidata": {
@@ -315,6 +321,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q2924549",
       "graphPosition": "leaf",
       "slug": "bretagne-magazine-275",
       "wikidata": {
@@ -334,6 +341,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3223759",
       "graphPosition": "leaf",
       "slug": "le-journal-des-entreprises-274",
       "wikidata": {
@@ -358,6 +366,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3224489",
       "graphPosition": "leaf",
       "slug": "le-mensuel-de-rennes-272",
       "wikidata": {
@@ -377,6 +386,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3225712",
       "graphPosition": "leaf",
       "slug": "le-poher-269",
       "wikidata": {
@@ -401,6 +411,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "176327",
+      "wikidataId": "Q3088647",
       "graphPosition": "leaf",
       "slug": "le-telegramme-268",
       "wikidata": {
@@ -425,6 +436,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "sept-jours-a-brest-273"
     },
@@ -440,6 +452,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3546461",
       "graphPosition": "leaf",
       "slug": "tebeo-270",
       "wikidata": {
@@ -459,6 +472,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3542644",
       "graphPosition": "leaf",
       "slug": "tebesud-271",
       "wikidata": {

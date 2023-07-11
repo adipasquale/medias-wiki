@@ -1,27 +1,18 @@
 {
-  "id": "321",
-  "nom": "Elle",
+  "id": "343",
+  "nom": "Télé 7 Jours",
   "typeLibelle": "Média",
   "typeCode": "3",
   "rangChallenges": "",
   "milliardaireForbes": "",
   "mediaType": "GPE",
   "mediaPeriodicite": "Hebdomadaire",
-  "mediaEchelle": "",
-  "commentaire": "",
-  "ACPMdiffusion": "39769",
-  "wikidataId": "Q154020",
+  "mediaEchelle": "National",
+  "commentaire": "Payant",
+  "ACPMdiffusion": "908618",
+  "wikidataId": "",
   "graphPosition": "leaf",
-  "slug": "elle-321",
-  "wikidata": {
-    "id": "Q154020",
-    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Elle_(magazine)",
-    "image": {
-      "typeImage": "logo",
-      "filenameOriginal": "Elle_logo.svg",
-      "filenameEleventy": "elle-321.svg"
-    }
-  },
+  "slug": "tele-7-jours-343",
   "incomingRelations": [
     {
       "id": "92",
@@ -46,12 +37,12 @@
       "id": "93",
       "origine": "Czech Media Invest",
       "valeur": 100,
-      "cible": "Elle",
-      "source": "lemonde.fr",
-      "datePublication": "18/10/2018",
-      "dateConsultation": "08/12/2018",
-      "cibleId": "321",
-      "cibleSlug": "elle-321",
+      "cible": "Télé 7 Jours",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
+      "cibleId": "343",
+      "cibleSlug": "tele-7-jours-343",
       "typeRelation": "possède",
       "valeurMinimum": false,
       "origineSlug": "czech-media-invest-93"
@@ -93,29 +84,20 @@
       }
     },
     {
-      "id": "321",
-      "nom": "Elle",
+      "id": "343",
+      "nom": "Télé 7 Jours",
       "typeLibelle": "Média",
       "typeCode": "3",
       "rangChallenges": "",
       "milliardaireForbes": "",
       "mediaType": "GPE",
       "mediaPeriodicite": "Hebdomadaire",
-      "mediaEchelle": "",
-      "commentaire": "",
-      "ACPMdiffusion": "39769",
-      "wikidataId": "Q154020",
+      "mediaEchelle": "National",
+      "commentaire": "Payant",
+      "ACPMdiffusion": "908618",
+      "wikidataId": "",
       "graphPosition": "leaf",
-      "slug": "elle-321",
-      "wikidata": {
-        "id": "Q154020",
-        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Elle_(magazine)",
-        "image": {
-          "typeImage": "logo",
-          "filenameOriginal": "Elle_logo.svg",
-          "filenameEleventy": "elle-321.svg"
-        }
-      }
+      "slug": "tele-7-jours-343"
     },
     {
       "id": "92",

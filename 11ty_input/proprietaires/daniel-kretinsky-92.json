@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q11774225",
   "graphPosition": "root",
   "slug": "daniel-kretinsky-92",
   "wikidata": {
@@ -225,6 +226,38 @@
       "origineSlug": "czech-media-invest-93",
       "indirecte": true,
       "idsPair": "93-94"
+    },
+    {
+      "id": "93",
+      "origine": "Czech Media Invest",
+      "valeur": 50,
+      "cible": "Télé 7 Jours",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
+      "cibleId": "343",
+      "cibleSlug": "tele-7-jours-343",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "czech-media-invest-93",
+      "indirecte": true,
+      "idsPair": "93-343"
+    },
+    {
+      "id": "93",
+      "origine": "Czech Media Invest",
+      "valeur": 50,
+      "cible": "Franc-Tireur",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
+      "cibleId": "346",
+      "cibleSlug": "franc-tireur-346",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "czech-media-invest-93",
+      "indirecte": true,
+      "idsPair": "93-346"
     },
     {
       "id": "122",
@@ -547,10 +580,41 @@
       "origineSlug": "czech-media-invest-93"
     },
     {
+      "id": "93",
+      "origine": "Czech Media Invest",
+      "valeur": 100,
+      "cible": "Télé 7 Jours",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
+      "cibleId": "343",
+      "cibleSlug": "tele-7-jours-343",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "czech-media-invest-93"
+    },
+    {
+      "id": "93",
+      "origine": "Czech Media Invest",
+      "valeur": 100,
+      "cible": "Franc-Tireur",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
+      "cibleId": "346",
+      "cibleSlug": "franc-tireur-346",
+      "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "czech-media-invest-93"
+    },
+    {
       "id": "92",
       "origine": "Daniel Křetínský",
       "valeur": 5,
       "cible": "Groupe TF1",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "122",
       "cibleSlug": "groupe-tf1-122",
       "typeRelation": "possède",
@@ -641,6 +705,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q11774225",
       "graphPosition": "root",
       "slug": "daniel-kretinsky-92",
       "wikidata": {
@@ -660,6 +725,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q27830718",
       "graphPosition": "intermediate",
       "slug": "czech-media-invest-93",
       "wikidata": {
@@ -679,6 +745,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "39769",
+      "wikidataId": "Q154020",
       "graphPosition": "leaf",
       "slug": "elle-321",
       "wikidata": {
@@ -703,6 +770,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q67147074",
       "graphPosition": "intermediate",
       "slug": "le-nouveau-monde-13",
       "wikidata": {
@@ -721,6 +789,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q55180846",
       "graphPosition": "intermediate",
       "slug": "le-monde-libre-14",
       "wikidata": {
@@ -740,6 +809,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "199982",
+      "wikidataId": "Q1044328",
       "graphPosition": "leaf",
       "slug": "l-obs-16",
       "wikidata": {
@@ -764,6 +834,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "intermediate",
       "slug": "le-monde-sa-15"
     },
@@ -779,6 +850,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "160864",
+      "wikidataId": "Q1137712",
       "graphPosition": "leaf",
       "slug": "courrier-international-21",
       "wikidata": {
@@ -798,6 +870,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3223501",
       "graphPosition": "leaf",
       "slug": "huffpost-26",
       "wikidata": {
@@ -817,6 +890,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "69026",
+      "wikidataId": "Q3213561",
       "graphPosition": "leaf",
       "slug": "la-vie-23",
       "wikidata": {
@@ -836,6 +910,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "424085",
+      "wikidataId": "Q12461",
       "graphPosition": "leaf",
       "slug": "le-monde-19",
       "wikidata": {
@@ -860,6 +935,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3224686",
       "graphPosition": "leaf",
       "slug": "le-monde-des-religions-22",
       "wikidata": {
@@ -879,6 +955,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "154719",
+      "wikidataId": "Q858121",
       "graphPosition": "leaf",
       "slug": "le-monde-diplomatique-24",
       "wikidata": {
@@ -903,6 +980,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "434011",
+      "wikidataId": "Q21120245",
       "graphPosition": "leaf",
       "slug": "m-le-magazine-du-monde-18",
       "wikidata": {
@@ -922,6 +1000,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "24740",
+      "wikidataId": "Q3285985",
       "graphPosition": "leaf",
       "slug": "maniere-de-voir-25",
       "wikidata": {
@@ -941,6 +1020,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q16671000",
       "graphPosition": "leaf",
       "slug": "prier-17",
       "wikidata": {
@@ -960,6 +1040,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "469323",
+      "wikidataId": "Q377629",
       "graphPosition": "leaf",
       "slug": "telerama-20",
       "wikidata": {
@@ -984,12 +1065,45 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "132027",
+      "wikidataId": "Q3291285",
       "graphPosition": "leaf",
       "slug": "marianne-94",
       "wikidata": {
         "id": "Q3291285",
         "wikipediaUrl": "https://fr.wikipedia.org/wiki/Marianne_(magazine)"
       }
+    },
+    {
+      "id": "343",
+      "nom": "Télé 7 Jours",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "Hebdomadaire",
+      "mediaEchelle": "National",
+      "commentaire": "Payant",
+      "ACPMdiffusion": "908618",
+      "wikidataId": "",
+      "graphPosition": "leaf",
+      "slug": "tele-7-jours-343"
+    },
+    {
+      "id": "346",
+      "nom": "Franc-Tireur",
+      "typeLibelle": "Média",
+      "typeCode": "3",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "GPE",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "National",
+      "commentaire": "Payant",
+      "ACPMdiffusion": "",
+      "wikidataId": "",
+      "graphPosition": "leaf",
+      "slug": "franc-tireur-346"
     },
     {
       "id": "122",
@@ -1003,6 +1117,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q2412906",
       "graphPosition": "intermediate",
       "slug": "groupe-tf1-122",
       "wikidata": {
@@ -1027,6 +1142,7 @@
       "mediaEchelle": "",
       "commentaire": "Gratuit",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3207314",
       "graphPosition": "leaf",
       "slug": "lci-125",
       "wikidata": {
@@ -1046,6 +1162,7 @@
       "mediaEchelle": "",
       "commentaire": "Gratuit",
       "ACPMdiffusion": "",
+      "wikidataId": "Q214683",
       "graphPosition": "leaf",
       "slug": "tf1-123",
       "wikidata": {
@@ -1070,6 +1187,7 @@
       "mediaEchelle": "",
       "commentaire": "Gratuit",
       "ACPMdiffusion": "",
+      "wikidataId": "Q59312334",
       "graphPosition": "leaf",
       "slug": "tf1-series-films-126",
       "wikidata": {
@@ -1094,6 +1212,7 @@
       "mediaEchelle": "",
       "commentaire": "Gratuit",
       "ACPMdiffusion": "",
+      "wikidataId": "Q155096",
       "graphPosition": "leaf",
       "slug": "tfx-124",
       "wikidata": {
@@ -1118,6 +1237,7 @@
       "mediaEchelle": "",
       "commentaire": "Gratuit",
       "ACPMdiffusion": "",
+      "wikidataId": "Q971163",
       "graphPosition": "leaf",
       "slug": "tmc-127",
       "wikidata": {

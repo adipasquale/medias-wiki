@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "",
   "graphPosition": "root",
   "slug": "famille-lemoine-252",
   "incomingRelations": [],
@@ -197,6 +198,9 @@
       "origine": "Famille Lemoine",
       "valeur": 80,
       "cible": "Groupe Sud Ouest",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "253",
       "cibleSlug": "groupe-sud-ouest-253",
       "typeRelation": "possède",
@@ -385,6 +389,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "root",
       "slug": "famille-lemoine-252"
     },
@@ -400,6 +405,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3117568",
       "graphPosition": "intermediate",
       "slug": "groupe-sud-ouest-253",
       "wikidata": {
@@ -419,6 +425,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "28052",
+      "wikidataId": "Q2957712",
       "graphPosition": "leaf",
       "slug": "charente-libre-255",
       "wikidata": {
@@ -438,6 +445,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "5266",
+      "wikidataId": "Q16629779",
       "graphPosition": "leaf",
       "slug": "dordogne-libre-256",
       "wikidata": {
@@ -462,6 +470,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "4839",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "haute-gironde-258"
     },
@@ -477,6 +486,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3128548",
       "graphPosition": "leaf",
       "slug": "haute-saintonge-257",
       "wikidata": {
@@ -496,6 +506,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "4567",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "l-hebdo-de-charente-maritime-260"
     },
@@ -511,6 +522,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "4251",
+      "wikidataId": "Q3208484",
       "graphPosition": "leaf",
       "slug": "la-depeche-du-bassin-261",
       "wikidata": {
@@ -530,6 +542,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3223765",
       "graphPosition": "leaf",
       "slug": "le-journal-du-medoc-262",
       "wikidata": {
@@ -549,6 +562,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "6504",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "le-resistant-259"
     },
@@ -564,6 +578,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q56317615",
       "graphPosition": "intermediate",
       "slug": "pyrenees-presse-263",
       "wikidata": {
@@ -583,6 +598,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "l-eclair-265"
     },
@@ -598,6 +614,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3212590",
       "graphPosition": "leaf",
       "slug": "la-republique-des-pyrenees-264",
       "wikidata": {
@@ -622,6 +639,7 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "211419",
+      "wikidataId": "Q2608774",
       "graphPosition": "leaf",
       "slug": "sud-ouest-254",
       "wikidata": {

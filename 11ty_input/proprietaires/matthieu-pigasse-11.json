@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q3299928",
   "graphPosition": "root",
   "slug": "matthieu-pigasse-11",
   "wikidata": {
@@ -254,6 +255,9 @@
       "origine": "Matthieu Pigasse",
       "valeur": 78,
       "cible": "Combat Solutions",
+      "source": "",
+      "datePublication": "",
+      "dateConsultation": "",
       "cibleId": "12",
       "cibleSlug": "combat-solutions-12",
       "typeRelation": "possède",
@@ -512,6 +516,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3299928",
       "graphPosition": "root",
       "slug": "matthieu-pigasse-11",
       "wikidata": {
@@ -536,6 +541,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q24929235",
       "graphPosition": "intermediate",
       "slug": "combat-solutions-12",
       "wikidata": {
@@ -555,6 +561,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3223501",
       "graphPosition": "leaf",
       "slug": "huffpost-26",
       "wikidata": {
@@ -574,6 +581,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q67147074",
       "graphPosition": "intermediate",
       "slug": "le-nouveau-monde-13",
       "wikidata": {
@@ -592,6 +600,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q55180846",
       "graphPosition": "intermediate",
       "slug": "le-monde-libre-14",
       "wikidata": {
@@ -611,6 +620,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "199982",
+      "wikidataId": "Q1044328",
       "graphPosition": "leaf",
       "slug": "l-obs-16",
       "wikidata": {
@@ -635,6 +645,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "intermediate",
       "slug": "le-monde-sa-15"
     },
@@ -650,6 +661,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "160864",
+      "wikidataId": "Q1137712",
       "graphPosition": "leaf",
       "slug": "courrier-international-21",
       "wikidata": {
@@ -669,6 +681,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "69026",
+      "wikidataId": "Q3213561",
       "graphPosition": "leaf",
       "slug": "la-vie-23",
       "wikidata": {
@@ -688,6 +701,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "424085",
+      "wikidataId": "Q12461",
       "graphPosition": "leaf",
       "slug": "le-monde-19",
       "wikidata": {
@@ -712,6 +726,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3224686",
       "graphPosition": "leaf",
       "slug": "le-monde-des-religions-22",
       "wikidata": {
@@ -731,6 +746,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "154719",
+      "wikidataId": "Q858121",
       "graphPosition": "leaf",
       "slug": "le-monde-diplomatique-24",
       "wikidata": {
@@ -755,6 +771,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "434011",
+      "wikidataId": "Q21120245",
       "graphPosition": "leaf",
       "slug": "m-le-magazine-du-monde-18",
       "wikidata": {
@@ -774,6 +791,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "24740",
+      "wikidataId": "Q3285985",
       "graphPosition": "leaf",
       "slug": "maniere-de-voir-25",
       "wikidata": {
@@ -793,6 +811,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q16671000",
       "graphPosition": "leaf",
       "slug": "prier-17",
       "wikidata": {
@@ -812,6 +831,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "469323",
+      "wikidataId": "Q377629",
       "graphPosition": "leaf",
       "slug": "telerama-20",
       "wikidata": {
@@ -836,6 +856,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "31052",
+      "wikidataId": "Q2758142",
       "graphPosition": "leaf",
       "slug": "les-inrockuptibles-31",
       "wikidata": {
@@ -860,6 +881,7 @@
       "mediaEchelle": "National",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q2292969",
       "graphPosition": "leaf",
       "slug": "radio-nova-30",
       "wikidata": {

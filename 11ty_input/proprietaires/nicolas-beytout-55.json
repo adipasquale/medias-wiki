@@ -10,6 +10,7 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
+  "wikidataId": "Q3340099",
   "graphPosition": "root",
   "slug": "nicolas-beytout-55",
   "wikidata": {
@@ -113,6 +114,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q3340099",
       "graphPosition": "root",
       "slug": "nicolas-beytout-55",
       "wikidata": {
@@ -137,6 +139,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "intermediate",
       "slug": "groupe-l-opinion-325"
     },
@@ -152,6 +155,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "l-agefi-hebdo-101"
     },
@@ -167,6 +171,7 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
+      "wikidataId": "Q14940658",
       "graphPosition": "leaf",
       "slug": "l-opinion-8",
       "wikidata": {
