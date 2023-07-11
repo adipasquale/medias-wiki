@@ -18,7 +18,6 @@ layout: default_layout
 <div class="title-with-image">
   <h1>{{ nom }}</h1>
 
-
   {% if imagePath %}
     <img
       src="/{{ imagePath }}"
@@ -29,15 +28,22 @@ layout: default_layout
 
 {% include "data_warning.njk" %}
 
+{%- set relationsCount = outgoingRelations | length %}
+
+<h3>
+  {{ nom | nomDansPhrase }} est lié{% if pronom == "Elle" %}e{% endif %}
+  à {{ relationsCount }}
+  média{% if relationsCount > 1 %}s{% endif %}
+</h3>
 <ul>
   {% for relation in outgoingRelations %}
     <li>
       {% if relation.typeRelation == "possède" %}
-        possède à {{ relation | displayRelationValeur }}
+        {{ pronom or "Il" }} possède à {{ relation | displayRelationValeur }}
       {% elif relation.typeRelation == "contrôle" %}
-        contrôle à {{ relation | displayRelationValeur }}
+        {{ pronom or "Il" }} contrôle à {{ relation | displayRelationValeur }}
       {% elif relation.typeRelation == "participe" %}
-        participe à hauteur de {{ relation | displayRelationValeur }} à
+        {{ pronom or "Il" }} participe à hauteur de {{ relation | displayRelationValeur }} à
       {% endif %}
 
       <a href="/medias/{{ relation.cible | slugify }}-{{ relation.cibleId }}/">

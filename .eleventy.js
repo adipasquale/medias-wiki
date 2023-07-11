@@ -18,6 +18,11 @@ module.exports = function (eleventyConfig) {
   )
 
   eleventyConfig.addFilter("uniqueBy", uniqueBy)
+  eleventyConfig.addFilter("nomDansPhrase", nom => {
+    if (nom.startsWith("Famille") || nom.startsWith("Fondation"))
+      return `La ${nom}`
+    else return nom
+  })
 
   eleventyConfig.addCollection(
     "proprietaire",
