@@ -162,3 +162,7 @@ svg {
       stroke: white;
   }
 }
+
+.readable {
+  max-width: 40rem;
+}

@@ -32,8 +32,12 @@ breadcrumbs:
 {% endif %}
 
 {% if ACPMdiffusion %}
-  · Diffusion plus de {{ ACPMdiffusion / 1000 | round(0) }} exemplaires
+  · Diffusé à plus de {{ (ACPMdiffusion / 1000) | round(0) }} 000 exemplaires
 {% endif %}
+
+<div class="readable">
+  {{ content | safe }}
+</div>
 
 <h3>Qui possède {{ nom }} ?</h3>
 

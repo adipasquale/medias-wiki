@@ -16,7 +16,17 @@ breadcrumbs:
   {% endif %}
 </div>
 
-{% include "data_warning.njk" %}
+{% if rangChallenges %}
+  {{ rangChallenges }}<sup>ème</sup> fortune française selon Challenges
+{% endif %}
+{% if rangChallenges and milliardaireForbes %}·{% endif %}
+{% if milliardaireForbes %}
+  {{ milliardaireForbes }}<sup>ème</sup> fortune mondiale selon Forbes
+{% endif %}
+
+<div class="readable">
+  {{ content | safe }}
+</div>
 
 {%- set relationsCount = outgoingRelations | length %}
 
@@ -42,6 +52,8 @@ breadcrumbs:
     </li>
   {% endfor %}
 </ul>
+
+{% include "data_warning.njk" %}
 
 {% include "relations_graph.njk" %}
 

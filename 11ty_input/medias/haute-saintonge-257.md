@@ -1,0 +1,3 @@
+
+La Haute Saintonge est une région naturelle et historique à cheval sur les actuels départements de la Charente-Maritime et de la Charente, dans le sud-ouest de la France et la région Nouvelle-Aquitaine. De manière anecdotique, elle intègre également la commune de Parcoul, aujourd'hui située dans le département de la Dordogne. 
+Issue de la partition de l'ancienne province de Saintonge au moment du traité de Paris, elle s'oppose à la Basse Saintonge et constitue l'une des trois sénéchaussées de la province sous l'ancien régime. Perdant tout caractère officiel au moment de la réorganisation territoriale de 1790, l'appellation Haute-Saintonge (avec un tiret) est ressuscitée en 1976, mais ne désigne plus désormais qu'une partie de la région d'origine.

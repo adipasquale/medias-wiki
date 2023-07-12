@@ -1,0 +1,2 @@
+
+Midi libre est un journal quotidien régional français, fondé en 1944 dont le siège se trouve à Saint-Jean-de-Védas, près de Montpellier. Il est diffusé dans la moitié est de la région  Occitanie. Après avoir été racheté par le groupe Le Monde à ses actionnaires historiques en 2001, puis en 2007 par le Groupe Sud Ouest, basé à Bordeaux, il appartient depuis 2015 au Groupe La Dépêche basé à Toulouse.

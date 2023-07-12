@@ -1,0 +1,2 @@
+
+La Semaine dans le Boulonnais est un hebdomadaire régional français, dont le siège se trouve à Boulogne-sur-Mer dans le Pas-de-Calais. Paraissant chaque mercredi, ce journal traite l'information de l'ensemble du bassin boulonnais, soit 74 communes, ainsi que celle du canton de Licques. Trois journalistes, un rédacteur en chef adjoint et un journaliste multimédia composent l'équipe rédactionnelle.
