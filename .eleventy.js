@@ -12,7 +12,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter(
     "displayRelationValeur",
     ({ valeur, valeurMinimum }) => {
-      const valeurStr = Math.round((valeur + Number.EPSILON) * 100) / 100
+      const valeurStr = Math.round(valeur)
       return valeurMinimum ? `${valeurStr}% ou plus` : `${valeurStr}%`
     }
   )

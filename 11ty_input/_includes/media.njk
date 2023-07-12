@@ -1,16 +1,9 @@
 ---
 layout: default_layout
+breadcrumbs:
+  - name: Liste des médias
+    url: /#medias
 ---
-
-<small>
-  <a href="/">Accueil</a>
-  &raquo;
-  <a href="/#medias">Liste des médias</a>
-  &raquo;
-  {{ nom }}
-</small>
-
-{% include "data_warning.njk" %}
 
 <div class="title-with-image">
   <h1>{{ nom }}</h1>
@@ -23,9 +16,33 @@ layout: default_layout
   {% endif %}
 </div>
 
+{% if mediaType == "GPE" %}
+  Presse écrite ·
+  {{ mediaPeriodicite }}
+{% elif mediaType == "Site" %}
+  Site internet d’information
+{% elif mediaType == "Télévision" %}
+  Chaîne de télévision
+{% else %}
+  {{ mediaType }}
+{% endif %}
+
+{% if mediaEchelle %}
+  · {{ mediaEchelle }}
+{% endif %}
+
+{% if ACPMdiffusion %}
+  · Diffusion plus de {{ ACPMdiffusion / 1000 | round(0) }} exemplaires
+{% endif %}
+
+<h3>Qui possède {{ nom }} ?</h3>
+
+{% include "data_warning.njk" %}
+
 <ul>
   {% for relation in incomingRelations  %}
     <li>
+      {{ nom }}
       {% if relation.typeRelation == "possède" %}
         est possédé {% if relation.indirecte %} indirectement {% endif %} à {{ relation | displayRelationValeur }} par
       {% elif relation.typeRelation == "contrôle" %}

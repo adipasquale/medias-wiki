@@ -23,6 +23,9 @@ bodyClass: large
         <li class="filterable" data-entity-nom="{{ media.data.nom }}">
           <a href="/medias/{{ media.data.slug }}/">
             {{ media.data.nom }}
+            {% if media.data.ACPMdiffusion > 200000 %}
+              ⭐️
+            {% endif %}
           </a>
         </li>
       {% endfor %}

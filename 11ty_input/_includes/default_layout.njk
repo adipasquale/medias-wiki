@@ -20,11 +20,27 @@ title: Propriétaires des médias
       <p>
         Qui possède les médias ?
       </p>
+      {% if breadcrumbs %}
+        <div class="breadcrumbs">
+          <a href="/">Accueil</a>
+          &raquo;
+          {% for breadcrumb in breadcrumbs %}
+            {% if breadcrumb.url %}
+              <a href="{{ breadcrumb.url }}">{{ breadcrumb.name }}</a>
+            {% endif %}
+            &raquo;
+          {% endfor %}
+          {{ nom }}
+        </div>
+      {% endif %}
     </header>
     <main>
       {{ content | safe }}
     </main>
     <footer>
+      medias.wiki
+      <br/><br/>
+
       Plan du site:
       <a href="/#medias">Liste des médias</a> ·
       <a href="/#proprietaires">Liste des propriétaires</a> ·

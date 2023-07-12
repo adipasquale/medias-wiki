@@ -1,14 +1,21 @@
-{% if wikidata %}
-  <div class="wikidata-links">
-    {% if wikidata.wikipediaUrl %}
-      <a href="{{ wikidata.wikipediaUrl }}" target="_blank">
-        {{ nom }} sur Wikipedia ↗︎
-      </a>
-    {% endif %}
+<section>
+  <h3>Liens externes</h3>
 
-    <br>
-    <a href="https://www.wikidata.org/wiki/{{ wikidata.id }}" target="_blank">
-      {{ nom }} sur Wikidata ↗︎
-    </a>
-  </div>
-{% endif %}
+  {% if wikidata %}
+    <ul>
+      {% if wikidata.wikipediaUrl %}
+        <li>
+          <a href="{{ wikidata.wikipediaUrl }}" target="_blank">
+            {{ nom }} sur Wikipedia ↗︎
+          </a>
+        </li>
+      {% endif %}
+
+      <li>
+        <a href="https://www.wikidata.org/wiki/{{ wikidata.id }}" target="_blank">
+          {{ nom }} sur Wikidata ↗︎
+        </a>
+      </li>
+    </ul>
+  {% endif %}
+</section>
