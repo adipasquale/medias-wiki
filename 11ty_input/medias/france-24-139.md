@@ -2,6 +2,6 @@
 imagePath: img/wikidata/france-24-139.png
 ---
 
-France 24 est une chaîne de télévision française d'information internationale en continu, lancée le 6 décembre 2006. Elle est, depuis 2012, une chaîne de la société nationale de programme France Médias Monde, qui supervise l'audiovisuel extérieur de la France.
-La chaîne naît de la volonté du président de la République Jacques Chirac en 2002 de donner à la France une voix à l'étranger, face aux concurrentes américaine (CNN International), britannique (BBC World News) et qatarie (Al Jazeera). Après plusieurs années et de nombreux rapports, le projet CFII donne naissance en 2005 à une chaîne détenue à parts égales par le groupe public France Télévisions et celui privé TF1. En 2008, selon la volonté de Nicolas Sarkozy, elle intègre la nouvelle holding Audiovisuel extérieur de la France (future France Médias Monde) aux côtés des radios RFI et MCD.
-Elle diffuse en français, anglais, arabe et en espagnol sur la TNT, le satellite, le câble, la télévision IP et le web. Elle est également disponible dans les hôtels, les compagnies aériennes, les aéroports, et ses programmes sont partiellement repris par les chaînes de télévision étrangères. Disponible dans plus de 355 millions de foyers à travers plus de 180 pays, France 24 est regardée chaque semaine par 55 millions de téléspectateurs en 2018, tandis que son site web est visité par plus de 18 millions d'internautes en moyenne chaque mois. La chaîne d'information France Info reprend ses programmes de minuit à 6 h 30 en semaine et de minuit à 6 h le week-end.
+France 24 est une chaîne de télévision française d'information internationale en continu lancée en 2006.
+
+Elle diffuse en français, anglais, arabe et en espagnol. Elle est également disponible dans les hôtels, les compagnies aériennes, les aéroports, et ses programmes sont partiellement repris par les chaînes de télévision étrangères.

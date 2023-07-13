@@ -2,7 +2,7 @@
 imagePath: img/wikidata/paris-normandie-286.jpg
 ---
 
-Paris-Normandie est un journal quotidien régional de la presse écrite française  fondé à Rouen (Seine-Maritime) en 1944. Il est diffusé principalement dans l'ancienne Haute-Normandie. Il appartient depuis juin 2020 au groupe Rossel, qui l'a acquis au groupe de presse SNIC, dont l'actionnaire majoritaire était depuis 2017 Jean-Louis Louvel.
+Paris-Normandie est un journal quotidien régional  fondé à Rouen (Seine-Maritime) en 1944. Il est diffusé principalement dans l'ancienne Haute-Normandie. Il appartient depuis juin 2020 au groupe Rossel, qui l'a acquis au groupe de presse SNIC, dont l'actionnaire majoritaire était depuis 2017 Jean-Louis Louvel.
 Déjà présent dans la presse quotidienne régionale en France avec la Voix du Nord, l'Union de Reims, l'Est Éclair, l'Aisne Nouvelle et le Courrier Picard, le Groupe Rossel poursuit son déploiement dans le quart Nord-Ouest de la France.
 Le groupe Rossel crée un pôle picardo-normand qui regroupe l'Aisne Nouvelle, le Courrier Picard et Paris-Normandie.
 Jusqu'en 1983, Paris-Normandie édite une édition dans le Calvados, se concentrant sur la capitale, Caen, et la zone de Lisieux, la plus proche de l'Eure. En 1983, Robert Hersant préfère stopper cette aventure initiée par Pierre-René Wolf et se reconcentrer sur les hebdomadaires locaux qu'il possède dans la région.
