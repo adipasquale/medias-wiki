@@ -103,21 +103,6 @@
       "origineSlug": "lagardere-news-70",
       "indirecte": true,
       "idsPair": "70-76"
-    },
-    {
-      "id": "67",
-      "origine": "Arnaud Lagardère",
-      "valeur": 73,
-      "cible": "Lagardère Capital & Management",
-      "source": "",
-      "datePublication": "",
-      "dateConsultation": "",
-      "cibleId": "331",
-      "cibleSlug": "lagardere-capital-and-management-331",
-      "typeRelation": "possède",
-      "valeurMinimum": false,
-      "origineSlug": "arnaud-lagardere-67",
-      "idsPair": "67-331"
     }
   ],
   "allRelations": [
@@ -218,20 +203,6 @@
       "typeRelation": "possède",
       "valeurMinimum": false,
       "origineSlug": "lagardere-news-70"
-    },
-    {
-      "id": "67",
-      "origine": "Arnaud Lagardère",
-      "valeur": 73,
-      "cible": "Lagardère Capital & Management",
-      "source": "",
-      "datePublication": "",
-      "dateConsultation": "",
-      "cibleId": "331",
-      "cibleSlug": "lagardere-capital-and-management-331",
-      "typeRelation": "possède",
-      "valeurMinimum": false,
-      "origineSlug": "arnaud-lagardere-67"
     }
   ],
   "allRelationsEntities": [
@@ -419,22 +390,6 @@
         "id": "Q3560647",
         "wikipediaUrl": "https://fr.wikipedia.org/wiki/Europe_2"
       }
-    },
-    {
-      "id": "331",
-      "nom": "Lagardère Capital & Management",
-      "typeLibelle": "Personne morale",
-      "typeCode": "2",
-      "rangChallenges": "",
-      "milliardaireForbes": "",
-      "mediaType": "",
-      "mediaPeriodicite": "",
-      "mediaEchelle": "",
-      "commentaire": "",
-      "ACPMdiffusion": "",
-      "wikidataId": "",
-      "graphPosition": "leaf",
-      "slug": "lagardere-capital-and-management-331"
     }
   ]
 }

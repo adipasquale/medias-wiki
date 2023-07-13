@@ -231,21 +231,6 @@
       "origineSlug": "lvmh-43",
       "indirecte": true,
       "idsPair": "43-45"
-    },
-    {
-      "id": "42",
-      "origine": "Bernard Arnault",
-      "valeur": 27,
-      "cible": "Lagardère Capital & Management",
-      "source": "",
-      "datePublication": "",
-      "dateConsultation": "",
-      "cibleId": "331",
-      "cibleSlug": "lagardere-capital-and-management-331",
-      "typeRelation": "possède",
-      "valeurMinimum": false,
-      "origineSlug": "bernard-arnault-42",
-      "idsPair": "42-331"
     }
   ],
   "allRelations": [
@@ -486,20 +471,6 @@
       "typeRelation": "possède",
       "valeurMinimum": false,
       "origineSlug": "lvmh-43"
-    },
-    {
-      "id": "42",
-      "origine": "Bernard Arnault",
-      "valeur": 27,
-      "cible": "Lagardère Capital & Management",
-      "source": "",
-      "datePublication": "",
-      "dateConsultation": "",
-      "cibleId": "331",
-      "cibleSlug": "lagardere-capital-and-management-331",
-      "typeRelation": "possède",
-      "valeurMinimum": false,
-      "origineSlug": "bernard-arnault-42"
     }
   ],
   "allRelationsEntities": [
@@ -876,22 +847,6 @@
       "wikidataId": "",
       "graphPosition": "leaf",
       "slug": "le-parisien-week-end-45"
-    },
-    {
-      "id": "331",
-      "nom": "Lagardère Capital & Management",
-      "typeLibelle": "Personne morale",
-      "typeCode": "2",
-      "rangChallenges": "",
-      "milliardaireForbes": "",
-      "mediaType": "",
-      "mediaPeriodicite": "",
-      "mediaEchelle": "",
-      "commentaire": "",
-      "ACPMdiffusion": "",
-      "wikidataId": "",
-      "graphPosition": "leaf",
-      "slug": "lagardere-capital-and-management-331"
     }
   ]
 }
