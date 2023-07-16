@@ -270,7 +270,7 @@ digraph {
     
       "cherie-fm-168"[label="Chérie FM"]
     
-      "cnews-80"[label="CNews"]
+      "cnews-84"[label="CNews"]
     
       "corse-matin-282"[label="Corse Matin"]
     
@@ -439,8 +439,6 @@ digraph {
       "la-vie-23"[label="La Vie"]
     
       "la-voix-du-nord-186"[label="La Voix du Nord"]
-    
-      "lagardere-capital-and-management-331"[label="Lagardère Capital &amp; Management"]
     
       "lci-125"[label="LCI"]
     
@@ -672,7 +670,7 @@ digraph {
 
   
     "claude-perdriel-1" -> "groupe-perdriel-3" [
-      label="contrôle 100%"
+      label="possède 60%"
     ]
   
     "claude-perdriel-1" -> "groupe-l-opinion-325" [
@@ -843,10 +841,6 @@ digraph {
       label="possède 46%"
     ]
   
-    "bernard-arnault-42" -> "lagardere-capital-and-management-331" [
-      label="possède 27%"
-    ]
-  
     "lvmh-43" -> "groupe-perdriel-3" [
       label="possède 40%"
     ]
@@ -963,10 +957,6 @@ digraph {
       label="possède 7%"
     ]
   
-    "arnaud-lagardere-67" -> "lagardere-capital-and-management-331" [
-      label="possède 73%"
-    ]
-  
     "qatar-investment-authority-68" -> "lagardere-sa-69" [
       label="possède 12%"
     ]
@@ -1023,7 +1013,7 @@ digraph {
       label="possède 100%"
     ]
   
-    "vivendi-81" -> "cnews-80" [
+    "vivendi-81" -> "cnews-84" [
       label="possède 100%"
     ]
   

@@ -2,7 +2,7 @@ const nunjucks = require('nunjucks')
 const fs = require('fs')
 const path = require('path')
 
-const { groupBy } = require("../lib/utils.js")
+const { groupBy, getEntityDirectory } = require("../lib/utils.js")
 const { getAugmentedEntitiesAndRelations } = require('../lib/augmentData.js')
 
 const env = nunjucks.configure(path.join(__dirname))
@@ -27,11 +27,21 @@ buildDotAndSvgFiles({
   svgPath: "11ty_input/img/graphs/allRelationsGraph.svg",
 })
 
-allEntities.forEach(({ allRelationsEntities, allRelations, slug }) => {
+allEntities.forEach(entity => {
+  const { allRelationsEntities, allRelations, slug } = entity
+
+  const dotPath = `11ty_input/assets/${slug}-relations-graph.dot`
+  const svgPath = `11ty_input/img/graphs/${slug}-relations-graph.svg`
+
+  if (!getEntityDirectory(entity)) {
+    if (fs.existsSync(dotPath)) fs.unlinkSync(dotPath)
+    if (fs.existsSync(svgPath)) fs.unlinkSync(svgPath)
+    return
+  }
+
   buildDotAndSvgFiles({
     entities: allRelationsEntities,
     relations: allRelations,
-    dotPath: `11ty_input/assets/${slug}-relations-graph.dot`,
-    svgPath: `11ty_input/img/graphs/${slug}-relations-graph.svg`,
+    dotPath, svgPath
   })
 })

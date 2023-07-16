@@ -26,7 +26,7 @@ digraph {
     ]
   
     "claude-perdriel-1" -> "groupe-perdriel-3" [
-      label="contrôle 100%"
+      label="possède 60%"
     ]
   
     "lvmh-43" -> "groupe-perdriel-3" [

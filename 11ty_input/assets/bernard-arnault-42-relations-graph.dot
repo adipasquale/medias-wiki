@@ -44,8 +44,6 @@ digraph {
     
       "le-parisien-week-end-45"[label="Le Parisien Week-End"]
     
-      "lagardere-capital-and-management-331"[label="Lagardère Capital &amp; Management"]
-    
   }
 
   
@@ -115,10 +113,6 @@ digraph {
   
     "lvmh-43" -> "le-parisien-week-end-45" [
       label="possède 100%"
-    ]
-  
-    "bernard-arnault-42" -> "lagardere-capital-and-management-331" [
-      label="possède 27%"
     ]
   
 }

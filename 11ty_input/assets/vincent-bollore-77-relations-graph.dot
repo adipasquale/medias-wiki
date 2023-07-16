@@ -36,7 +36,7 @@ digraph {
     
       "canal-82"[label="Canal +"]
     
-      "cnews-80"[label="CNews"]
+      "cnews-84"[label="CNews"]
     
       "cstar-85"[label="CStar"]
     
@@ -113,7 +113,7 @@ digraph {
       label="possède 100%"
     ]
   
-    "vivendi-81" -> "cnews-80" [
+    "vivendi-81" -> "cnews-84" [
       label="possède 100%"
     ]
   

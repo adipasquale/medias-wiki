@@ -24,8 +24,6 @@ digraph {
     
       "virgin-radio-76"[label="Virgin Radio"]
     
-      "lagardere-capital-and-management-331"[label="Lagardère Capital &amp; Management"]
-    
   }
 
   
@@ -55,10 +53,6 @@ digraph {
   
     "lagardere-news-70" -> "virgin-radio-76" [
       label="possède 100%"
-    ]
-  
-    "arnaud-lagardere-67" -> "lagardere-capital-and-management-331" [
-      label="possède 73%"
     ]
   
 }
