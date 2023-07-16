@@ -1,5 +1,4 @@
 const fs = require('fs')
-const path = require('node:path')
 const matter = require('gray-matter')
 
 const { getAugmentedEntitiesAndRelations } = require('../lib/augmentData.js')
@@ -12,11 +11,11 @@ const overwrite = process.argv.slice(2).includes('--overwrite')
 const { entities } = getAugmentedEntitiesAndRelations()
 
 async function run() {
-  for (const { slug, graphPosition, wikidata, typeCode } of entities) {
-    let dir;
-    if (graphPosition == "root" && ["1", "2"].includes(typeCode)) dir = "proprietaires"
-    else if (graphPosition == "leaf" && typeCode == "3") dir = "medias"
+  for (const entity of entities) {
+    const dir = getEntityDirectory(entity)
     if (!dir) continue
+
+    const { slug, wikidata } = entity
 
     const markdownPath = `11ty_input/${dir}/${slug}.md`
     const parsed = matter.read(markdownPath)

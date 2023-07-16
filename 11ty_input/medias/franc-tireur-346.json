@@ -10,9 +10,13 @@
   "mediaEchelle": "National",
   "commentaire": "Payant",
   "ACPMdiffusion": "",
-  "wikidataId": "",
+  "wikidataId": "Q111759466",
   "graphPosition": "leaf",
   "slug": "franc-tireur-346",
+  "wikidata": {
+    "id": "Q111759466",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Franc-Tireur_(hebdomadaire)"
+  },
   "incomingRelations": [
     {
       "id": "92",
@@ -95,9 +99,13 @@
       "mediaEchelle": "National",
       "commentaire": "Payant",
       "ACPMdiffusion": "",
-      "wikidataId": "",
+      "wikidataId": "Q111759466",
       "graphPosition": "leaf",
-      "slug": "franc-tireur-346"
+      "slug": "franc-tireur-346",
+      "wikidata": {
+        "id": "Q111759466",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Franc-Tireur_(hebdomadaire)"
+      }
     },
     {
       "id": "92",

@@ -10,9 +10,13 @@
   "mediaEchelle": "National",
   "commentaire": "Payant",
   "ACPMdiffusion": "",
-  "wikidataId": "",
+  "wikidataId": "Q3080786",
   "graphPosition": "leaf",
   "slug": "france-catholique-345",
+  "wikidata": {
+    "id": "Q3080786",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/France_catholique"
+  },
   "incomingRelations": [
     {
       "id": "77",
@@ -114,9 +118,13 @@
       "mediaEchelle": "National",
       "commentaire": "Payant",
       "ACPMdiffusion": "",
-      "wikidataId": "",
+      "wikidataId": "Q3080786",
       "graphPosition": "leaf",
-      "slug": "france-catholique-345"
+      "slug": "france-catholique-345",
+      "wikidata": {
+        "id": "Q3080786",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/France_catholique"
+      }
     },
     {
       "id": "78",

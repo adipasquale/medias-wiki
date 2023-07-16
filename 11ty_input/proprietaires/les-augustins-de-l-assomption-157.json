@@ -10,9 +10,13 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
-  "wikidataId": "",
+  "wikidataId": "Q745449",
   "graphPosition": "root",
   "slug": "les-augustins-de-l-assomption-157",
+  "wikidata": {
+    "id": "Q745449",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Augustins_de_l%27Assomption"
+  },
   "incomingRelations": [],
   "outgoingRelations": [
     {
@@ -135,9 +139,13 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
-      "wikidataId": "",
+      "wikidataId": "Q745449",
       "graphPosition": "root",
-      "slug": "les-augustins-de-l-assomption-157"
+      "slug": "les-augustins-de-l-assomption-157",
+      "wikidata": {
+        "id": "Q745449",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Augustins_de_l%27Assomption"
+      }
     },
     {
       "id": "158",

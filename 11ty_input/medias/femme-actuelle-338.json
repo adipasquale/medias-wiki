@@ -10,9 +10,13 @@
   "mediaEchelle": "National",
   "commentaire": "Payant",
   "ACPMdiffusion": "460531",
-  "wikidataId": "",
+  "wikidataId": "Q3068228",
   "graphPosition": "leaf",
   "slug": "femme-actuelle-338",
+  "wikidata": {
+    "id": "Q3068228",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Femme_actuelle"
+  },
   "incomingRelations": [
     {
       "id": "77",
@@ -142,9 +146,13 @@
       "mediaEchelle": "National",
       "commentaire": "Payant",
       "ACPMdiffusion": "460531",
-      "wikidataId": "",
+      "wikidataId": "Q3068228",
       "graphPosition": "leaf",
-      "slug": "femme-actuelle-338"
+      "slug": "femme-actuelle-338",
+      "wikidata": {
+        "id": "Q3068228",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Femme_actuelle"
+      }
     },
     {
       "id": "81",

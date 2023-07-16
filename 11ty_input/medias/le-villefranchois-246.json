@@ -10,9 +10,13 @@
   "mediaEchelle": "Régional",
   "commentaire": "",
   "ACPMdiffusion": "5270",
-  "wikidataId": "",
+  "wikidataId": "Q113541512",
   "graphPosition": "leaf",
   "slug": "le-villefranchois-246",
+  "wikidata": {
+    "id": "Q113541512",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Villefranchois"
+  },
   "incomingRelations": [
     {
       "id": "241",
@@ -95,9 +99,13 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "5270",
-      "wikidataId": "",
+      "wikidataId": "Q113541512",
       "graphPosition": "leaf",
-      "slug": "le-villefranchois-246"
+      "slug": "le-villefranchois-246",
+      "wikidata": {
+        "id": "Q113541512",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Villefranchois"
+      }
     },
     {
       "id": "241",
@@ -111,9 +119,13 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
-      "wikidataId": "",
+      "wikidataId": "Q109024455",
       "graphPosition": "root",
-      "slug": "famille-baylet-241"
+      "slug": "famille-baylet-241",
+      "wikidata": {
+        "id": "Q109024455",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Famille_Baylet"
+      }
     }
   ]
 }

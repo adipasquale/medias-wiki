@@ -683,9 +683,13 @@
       "mediaEchelle": "National",
       "commentaire": "Payant",
       "ACPMdiffusion": "",
-      "wikidataId": "",
+      "wikidataId": "Q3365300",
       "graphPosition": "leaf",
-      "slug": "paris-turf-341"
+      "slug": "paris-turf-341",
+      "wikidata": {
+        "id": "Q3365300",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Paris-Turf"
+      }
     },
     {
       "id": "64",

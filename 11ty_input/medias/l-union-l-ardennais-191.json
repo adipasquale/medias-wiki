@@ -10,9 +10,18 @@
   "mediaEchelle": "Régional",
   "commentaire": "",
   "ACPMdiffusion": "71793",
-  "wikidataId": "",
+  "wikidataId": "Q3204802",
   "graphPosition": "leaf",
   "slug": "l-union-l-ardennais-191",
+  "wikidata": {
+    "id": "Q3204802",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/L%27Union_(journal_fran%C3%A7ais)",
+    "image": {
+      "typeImage": "logo",
+      "filenameOriginal": "L'Union_logo.svg",
+      "filenameEleventy": "l-union-l-ardennais-191.svg"
+    }
+  },
   "incomingRelations": [
     {
       "id": "172",
@@ -158,9 +167,18 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "71793",
-      "wikidataId": "",
+      "wikidataId": "Q3204802",
       "graphPosition": "leaf",
-      "slug": "l-union-l-ardennais-191"
+      "slug": "l-union-l-ardennais-191",
+      "wikidata": {
+        "id": "Q3204802",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/L%27Union_(journal_fran%C3%A7ais)",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "L'Union_logo.svg",
+          "filenameEleventy": "l-union-l-ardennais-191.svg"
+        }
+      }
     },
     {
       "id": "184",

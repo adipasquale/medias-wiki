@@ -10,9 +10,18 @@
   "mediaEchelle": "Régional",
   "commentaire": "",
   "ACPMdiffusion": "42070",
-  "wikidataId": "",
+  "wikidataId": "Q3554661",
   "graphPosition": "leaf",
   "slug": "var-matin-332",
+  "wikidata": {
+    "id": "Q3554661",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Var-Matin",
+    "image": {
+      "typeImage": "logo",
+      "filenameOriginal": "Logo_Var-Matin.png",
+      "filenameEleventy": "var-matin-332.png"
+    }
+  },
   "incomingRelations": [
     {
       "id": "328",
@@ -76,9 +85,18 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "42070",
-      "wikidataId": "",
+      "wikidataId": "Q3554661",
       "graphPosition": "leaf",
-      "slug": "var-matin-332"
+      "slug": "var-matin-332",
+      "wikidata": {
+        "id": "Q3554661",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Var-Matin",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Logo_Var-Matin.png",
+          "filenameEleventy": "var-matin-332.png"
+        }
+      }
     }
   ]
 }

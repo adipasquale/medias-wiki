@@ -913,9 +913,12 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "6621",
-      "wikidataId": "",
+      "wikidataId": "Q99691838",
       "graphPosition": "leaf",
-      "slug": "l-avenir-de-l-artois-193"
+      "slug": "l-avenir-de-l-artois-193",
+      "wikidata": {
+        "id": "Q99691838"
+      }
     },
     {
       "id": "206",
@@ -1019,9 +1022,18 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "71793",
-      "wikidataId": "",
+      "wikidataId": "Q3204802",
       "graphPosition": "leaf",
-      "slug": "l-union-l-ardennais-191"
+      "slug": "l-union-l-ardennais-191",
+      "wikidata": {
+        "id": "Q3204802",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/L%27Union_(journal_fran%C3%A7ais)",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "L'Union_logo.svg",
+          "filenameEleventy": "l-union-l-ardennais-191.svg"
+        }
+      }
     },
     {
       "id": "200",
@@ -1233,9 +1245,12 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "2428",
-      "wikidataId": "",
+      "wikidataId": "Q99641229",
       "graphPosition": "leaf",
-      "slug": "les-echos-du-touquet-194"
+      "slug": "les-echos-du-touquet-194",
+      "wikidata": {
+        "id": "Q99641229"
+      }
     },
     {
       "id": "187",

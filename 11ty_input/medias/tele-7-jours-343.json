@@ -10,9 +10,13 @@
   "mediaEchelle": "National",
   "commentaire": "Payant",
   "ACPMdiffusion": "908618",
-  "wikidataId": "",
+  "wikidataId": "Q3546531",
   "graphPosition": "leaf",
   "slug": "tele-7-jours-343",
+  "wikidata": {
+    "id": "Q3546531",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9_7_jours"
+  },
   "incomingRelations": [
     {
       "id": "92",
@@ -95,9 +99,13 @@
       "mediaEchelle": "National",
       "commentaire": "Payant",
       "ACPMdiffusion": "908618",
-      "wikidataId": "",
+      "wikidataId": "Q3546531",
       "graphPosition": "leaf",
-      "slug": "tele-7-jours-343"
+      "slug": "tele-7-jours-343",
+      "wikidata": {
+        "id": "Q3546531",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9_7_jours"
+      }
     },
     {
       "id": "92",

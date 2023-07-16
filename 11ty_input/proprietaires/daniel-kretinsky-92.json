@@ -1085,9 +1085,13 @@
       "mediaEchelle": "National",
       "commentaire": "Payant",
       "ACPMdiffusion": "908618",
-      "wikidataId": "",
+      "wikidataId": "Q3546531",
       "graphPosition": "leaf",
-      "slug": "tele-7-jours-343"
+      "slug": "tele-7-jours-343",
+      "wikidata": {
+        "id": "Q3546531",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9_7_jours"
+      }
     },
     {
       "id": "346",
@@ -1101,9 +1105,13 @@
       "mediaEchelle": "National",
       "commentaire": "Payant",
       "ACPMdiffusion": "",
-      "wikidataId": "",
+      "wikidataId": "Q111759466",
       "graphPosition": "leaf",
-      "slug": "franc-tireur-346"
+      "slug": "franc-tireur-346",
+      "wikidata": {
+        "id": "Q111759466",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Franc-Tireur_(hebdomadaire)"
+      }
     },
     {
       "id": "122",

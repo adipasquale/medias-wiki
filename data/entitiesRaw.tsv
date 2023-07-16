@@ -42,7 +42,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 42	Bernard Arnault	Personne physique	1	1	3						Q32055
 43	LVMH	Personne morale	2								Q504998
 44	Le Parisien	Média	3			GPE	Quotidien			180801	Q142348
-45	Le Parisien Week-End	Média	3			GPE	Hebdomadaire			231323	
+45	Le Parisien Week-End	Média	3			GPE	Hebdomadaire			231323	Q16654102
 46	Le Parisien économie	Média	3			GPE	Hebdomadaire				
 47	Aujourd’hui en France	Média	3			GPE	Quotidien				Q81942284
 48	Groupe Les Échos	Personne morale	2								Q3117475
@@ -105,7 +105,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 106	Prisma Media	Personne morale	2								Q3403917
 107	Capital	Média	3			GPE	Mensuel			128438	Q2937369
 108	Management	Média	3			GPE	Mensuel			28005	Q3285158
-109	Harvard Business Review	Média	3			GPE	Bimestriel				
+109	Harvard Business Review	Média	3			GPE	Bimestriel				Q277351
 110	Groupe M6	Personne morale	2								Q3117481
 111	M6	Média	3			Télévision			Gratuit		Q1881062
 112	W9	Média	3			Télévision			Gratuit		Q117649
@@ -150,7 +150,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 154	Arte	Média	3			Télévision		Europe	Gratuit		Q8073
 155	ARD / ZDF	Personne morale	2								
 156	Arte Deutschland TV GmbH	Personne morale	2								Q23017388
-157	Les Augustins de l’Assomption	Personne morale	2								
+157	Les Augustins de l’Assomption	Personne morale	2								Q745449
 158	Bayard	Personne morale	2								Q929887
 159	La Croix	Média	3			GPE	Quotidien			85014	Q1230298
 160	Pèlerin	Média	3			GPE	Hebdomadaire			111938	Q3226097
@@ -184,10 +184,10 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 188	Nord Littoral	Média	3			GPE	Quotidien	Régional		6935	Q18750714
 189	Courrier picard	Média	3			GPE	Quotidien	Régional		45347	Q729749
 190	L’aisne Nouvelle	Média	3			GPE	Quotidien	Régional		14081	Q3201678
-191	L’Union - L’Ardennais	Média	3			GPE	Quotidien	Régional		71793	
+191	L’Union - L’Ardennais	Média	3			GPE	Quotidien	Régional		71793	Q3204802
 192	L’Est-éclair - Libération Champagne	Média	3			GPE	Quotidien	Régional		21968	Q3203326
-193	L’Avenir de l’Artois	Média	3			GPE	Hebdomadaire	Régional		6621	
-194	Les Echos du Touquet	Média	3			GPE	Hebdomadaire	Régional		2428	
+193	L’Avenir de l’Artois	Média	3			GPE	Hebdomadaire	Régional		6621	Q99691838
+194	Les Echos du Touquet	Média	3			GPE	Hebdomadaire	Régional		2428	Q99641229
 195	Le Journal des Flandres	Média	3			GPE	Hebdomadaire	Régional			Q3223750
 196	Le Messager	Média	3			GPE	Hebdomadaire	Régional			Q3224515
 197	L’Essor savoyard	Média	3			GPE	Hebdomadaire	Régional		4379	Q3203325
@@ -234,12 +234,12 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 238	Nouvelle République du Centre	Média	3			GPE	Quotidien	Régional		141424	Q3211144
 239	Centre Presse	Média	3			GPE	Quotidien	Régional		16236	Q2944867
 240	TV Tours	Média	3			Télévision		Régional			Q3512629
-241	Famille Baylet	Personne physique	1								
+241	Famille Baylet	Personne physique	1								Q109024455
 242	Groupe La Dépêche	Personne morale	2								Q3117468
 243	La Dépêche du midi	Média	3			GPE	Quotidien	Régional		120579	Q742587
 244	Le Petit Bleu	Média	3			GPE	Quotidien	Régional		6355	Q18750711
 245	La Nouvelle République des Pyrénées	Média	3			GPE	Quotidien	Régional		26098	Q3211143
-246	Le Villefranchois	Média	3			GPE	Hebdomadaire	Régional		5270	
+246	Le Villefranchois	Média	3			GPE	Hebdomadaire	Régional		5270	Q113541512
 247	La Gazette du Comminges	Média	3			GPE	Hebdomadaire	Régional			Q21197930
 248	Les Journaux du midi	Personne morale	2								Q3233440
 249	Midi libre	Média	3			GPE	Quotidien	Régional		80675	Q1465340
@@ -258,7 +258,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 262	Le Journal du Médoc	Média	3			GPE	Hebdomadaire	Régional			Q3223765
 263	Pyrénées Presse	Personne morale	2								Q56317615
 264	La République des Pyrénées	Média	3			GPE	Quotidien	Régional			Q3212590
-265	L’Eclair	Média	3			GPE	Quotidien	Régional			
+265	L’Eclair	Média	3			GPE	Quotidien	Régional			Q51926334
 266	Édouard Coudurier	Personne physique	1								
 267	Groupe Télégramme	Personne morale	2								Q3117586
 268	Le Télégramme	Média	3			GPE	Quotidien	Régional		176327	Q3088647
@@ -300,7 +300,7 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 304	France Guyane	Média	3			GPE	Quotidien	Régional			Q3080539
 305	Abdoul Cadjee	Personne physique	1								
 306	Le Journal de l’Île de la Réunion	Média	3			GPE	Quotidien	Régional			Q3186848
-307	Ariane de Rothschild	Personne physique	1	26							
+307	Ariane de Rothschild	Personne physique	1	26							Q2861214
 308	Lampsane Investissement SA	Personne morale	2								
 309	Slate.fr	Média	3			Site					Q64003230
 313	Atlantico.fr	Média	3			Site					Q2869404
@@ -321,19 +321,19 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 328	Nice-Matin	Personne morale	2								
 329	Fonds de Dotation pour une Presse Indépendante	Personne morale	2								
 330	Amber Capital	Personne morale	2								
-332	Var-Matin	Média	3			GPE	Quotidien	Régional		42070	
-333	Monaco-Matin	Média	3			GPE	Quotidien	Régional			
+332	Var-Matin	Média	3			GPE	Quotidien	Régional		42070	Q3554661
+333	Monaco-Matin	Média	3			GPE	Quotidien	Régional			Q3320078
 334	NJJ	Personne morale	2								
-335	Télé-Loisirs	Média	3			GPE	Hebdomadaire	National	Payant	510580	
+335	Télé-Loisirs	Média	3			GPE	Hebdomadaire	National	Payant	510580	Q3546543
 336	Gala	Média	3			GPE	Hebdomadaire	National	Payant	141293	
-337	Voici	Média	3			GPE	Hebdomadaire	National	Payant	209605	
-338	Femme Actuelle	Média	3			GPE	Hebdomadaire	National	Payant	460531	
+337	Voici	Média	3			GPE	Hebdomadaire	National	Payant	209605	Q3562152
+338	Femme Actuelle	Média	3			GPE	Hebdomadaire	National	Payant	460531	Q3068228
 339	National Geographic	Média	3			GPE	Mensuel	National	Payant	39769	
 340	Geo	Média	3			GPE	Mensuel	National	Payant	129247	
-341	Paris-Turf	Média	3			GPE		National	Payant		
+341	Paris-Turf	Média	3			GPE		National	Payant		Q3365300
 342	Fonds pour l'indépendance de la presse	Personne morale	2								
-343	Télé 7 Jours	Média	3			GPE	Hebdomadaire	National	Payant	908618	
+343	Télé 7 Jours	Média	3			GPE	Hebdomadaire	National	Payant	908618	Q3546531
 344	La Première	Média	3			Télévision		National	Gratuit		
-345	France Catholique	Média	3			GPE		National	Payant		
-346	Franc-Tireur	Média	3			GPE		National	Payant		
+345	France Catholique	Média	3			GPE		National	Payant		Q3080786
+346	Franc-Tireur	Média	3			GPE		National	Payant		Q111759466
 347	Néon	Média	3			GPE		National	Payant		

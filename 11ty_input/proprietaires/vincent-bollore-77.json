@@ -1119,9 +1119,13 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
-      "wikidataId": "",
+      "wikidataId": "Q277351",
       "graphPosition": "leaf",
-      "slug": "harvard-business-review-109"
+      "slug": "harvard-business-review-109",
+      "wikidata": {
+        "id": "Q277351",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Harvard_Business_Review"
+      }
     },
     {
       "id": "108",
@@ -1155,9 +1159,13 @@
       "mediaEchelle": "National",
       "commentaire": "Payant",
       "ACPMdiffusion": "510580",
-      "wikidataId": "",
+      "wikidataId": "Q3546543",
       "graphPosition": "leaf",
-      "slug": "tele-loisirs-335"
+      "slug": "tele-loisirs-335",
+      "wikidata": {
+        "id": "Q3546543",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9-Loisirs"
+      }
     },
     {
       "id": "336",
@@ -1187,9 +1195,18 @@
       "mediaEchelle": "National",
       "commentaire": "Payant",
       "ACPMdiffusion": "209605",
-      "wikidataId": "",
+      "wikidataId": "Q3562152",
       "graphPosition": "leaf",
-      "slug": "voici-337"
+      "slug": "voici-337",
+      "wikidata": {
+        "id": "Q3562152",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Voici",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Logo_Voici.svg",
+          "filenameEleventy": "voici-337.svg"
+        }
+      }
     },
     {
       "id": "338",
@@ -1203,9 +1220,13 @@
       "mediaEchelle": "National",
       "commentaire": "Payant",
       "ACPMdiffusion": "460531",
-      "wikidataId": "",
+      "wikidataId": "Q3068228",
       "graphPosition": "leaf",
-      "slug": "femme-actuelle-338"
+      "slug": "femme-actuelle-338",
+      "wikidata": {
+        "id": "Q3068228",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Femme_actuelle"
+      }
     },
     {
       "id": "339",
@@ -1267,9 +1288,13 @@
       "mediaEchelle": "National",
       "commentaire": "Payant",
       "ACPMdiffusion": "",
-      "wikidataId": "",
+      "wikidataId": "Q3080786",
       "graphPosition": "leaf",
-      "slug": "france-catholique-345"
+      "slug": "france-catholique-345",
+      "wikidata": {
+        "id": "Q3080786",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/France_catholique"
+      }
     }
   ]
 }

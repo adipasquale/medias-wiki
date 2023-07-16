@@ -10,9 +10,18 @@
   "mediaEchelle": "National",
   "commentaire": "Payant",
   "ACPMdiffusion": "209605",
-  "wikidataId": "",
+  "wikidataId": "Q3562152",
   "graphPosition": "leaf",
   "slug": "voici-337",
+  "wikidata": {
+    "id": "Q3562152",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Voici",
+    "image": {
+      "typeImage": "logo",
+      "filenameOriginal": "Logo_Voici.svg",
+      "filenameEleventy": "voici-337.svg"
+    }
+  },
   "incomingRelations": [
     {
       "id": "77",
@@ -142,9 +151,18 @@
       "mediaEchelle": "National",
       "commentaire": "Payant",
       "ACPMdiffusion": "209605",
-      "wikidataId": "",
+      "wikidataId": "Q3562152",
       "graphPosition": "leaf",
-      "slug": "voici-337"
+      "slug": "voici-337",
+      "wikidata": {
+        "id": "Q3562152",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Voici",
+        "image": {
+          "typeImage": "logo",
+          "filenameOriginal": "Logo_Voici.svg",
+          "filenameEleventy": "voici-337.svg"
+        }
+      }
     },
     {
       "id": "81",

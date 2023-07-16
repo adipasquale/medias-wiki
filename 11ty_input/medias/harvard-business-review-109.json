@@ -10,9 +10,13 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
-  "wikidataId": "",
+  "wikidataId": "Q277351",
   "graphPosition": "leaf",
   "slug": "harvard-business-review-109",
+  "wikidata": {
+    "id": "Q277351",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Harvard_Business_Review"
+  },
   "incomingRelations": [
     {
       "id": "77",
@@ -142,9 +146,13 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
-      "wikidataId": "",
+      "wikidataId": "Q277351",
       "graphPosition": "leaf",
-      "slug": "harvard-business-review-109"
+      "slug": "harvard-business-review-109",
+      "wikidata": {
+        "id": "Q277351",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Harvard_Business_Review"
+      }
     },
     {
       "id": "81",

@@ -129,9 +129,13 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
-      "wikidataId": "",
+      "wikidataId": "Q109024455",
       "graphPosition": "root",
-      "slug": "famille-baylet-241"
+      "slug": "famille-baylet-241",
+      "wikidata": {
+        "id": "Q109024455",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Famille_Baylet"
+      }
     }
   ]
 }

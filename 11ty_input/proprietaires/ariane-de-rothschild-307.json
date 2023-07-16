@@ -10,9 +10,18 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
-  "wikidataId": "",
+  "wikidataId": "Q2861214",
   "graphPosition": "root",
   "slug": "ariane-de-rothschild-307",
+  "wikidata": {
+    "id": "Q2861214",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Ariane_de_Rothschild",
+    "image": {
+      "typeImage": "image",
+      "filenameOriginal": "Ariane_de_Rothschild.jpg",
+      "filenameEleventy": "ariane-de-rothschild-307.jpg"
+    }
+  },
   "incomingRelations": [],
   "outgoingRelations": [
     {
@@ -75,9 +84,18 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
-      "wikidataId": "",
+      "wikidataId": "Q2861214",
       "graphPosition": "root",
-      "slug": "ariane-de-rothschild-307"
+      "slug": "ariane-de-rothschild-307",
+      "wikidata": {
+        "id": "Q2861214",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Ariane_de_Rothschild",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Ariane_de_Rothschild.jpg",
+          "filenameEleventy": "ariane-de-rothschild-307.jpg"
+        }
+      }
     },
     {
       "id": "308",

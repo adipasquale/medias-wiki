@@ -10,9 +10,12 @@
   "mediaEchelle": "Régional",
   "commentaire": "",
   "ACPMdiffusion": "2428",
-  "wikidataId": "",
+  "wikidataId": "Q99641229",
   "graphPosition": "leaf",
   "slug": "les-echos-du-touquet-194",
+  "wikidata": {
+    "id": "Q99641229"
+  },
   "incomingRelations": [
     {
       "id": "172",
@@ -158,9 +161,12 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "2428",
-      "wikidataId": "",
+      "wikidataId": "Q99641229",
       "graphPosition": "leaf",
-      "slug": "les-echos-du-touquet-194"
+      "slug": "les-echos-du-touquet-194",
+      "wikidata": {
+        "id": "Q99641229"
+      }
     },
     {
       "id": "184",

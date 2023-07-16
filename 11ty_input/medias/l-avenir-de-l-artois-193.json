@@ -10,9 +10,12 @@
   "mediaEchelle": "Régional",
   "commentaire": "",
   "ACPMdiffusion": "6621",
-  "wikidataId": "",
+  "wikidataId": "Q99691838",
   "graphPosition": "leaf",
   "slug": "l-avenir-de-l-artois-193",
+  "wikidata": {
+    "id": "Q99691838"
+  },
   "incomingRelations": [
     {
       "id": "172",
@@ -158,9 +161,12 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "6621",
-      "wikidataId": "",
+      "wikidataId": "Q99691838",
       "graphPosition": "leaf",
-      "slug": "l-avenir-de-l-artois-193"
+      "slug": "l-avenir-de-l-artois-193",
+      "wikidata": {
+        "id": "Q99691838"
+      }
     },
     {
       "id": "184",

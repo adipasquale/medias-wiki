@@ -10,9 +10,13 @@
   "mediaEchelle": "National",
   "commentaire": "Payant",
   "ACPMdiffusion": "510580",
-  "wikidataId": "",
+  "wikidataId": "Q3546543",
   "graphPosition": "leaf",
   "slug": "tele-loisirs-335",
+  "wikidata": {
+    "id": "Q3546543",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9-Loisirs"
+  },
   "incomingRelations": [
     {
       "id": "77",
@@ -142,9 +146,13 @@
       "mediaEchelle": "National",
       "commentaire": "Payant",
       "ACPMdiffusion": "510580",
-      "wikidataId": "",
+      "wikidataId": "Q3546543",
       "graphPosition": "leaf",
-      "slug": "tele-loisirs-335"
+      "slug": "tele-loisirs-335",
+      "wikidata": {
+        "id": "Q3546543",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9-Loisirs"
+      }
     },
     {
       "id": "81",

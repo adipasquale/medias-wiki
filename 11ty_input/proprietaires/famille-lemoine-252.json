@@ -598,9 +598,18 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
-      "wikidataId": "",
+      "wikidataId": "Q51926334",
       "graphPosition": "leaf",
-      "slug": "l-eclair-265"
+      "slug": "l-eclair-265",
+      "wikidata": {
+        "id": "Q51926334",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/L%27%C3%89clair_(journal)",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Maîtres_de_l'affiche_vol_5_-_Pl_222_-_Henry_Atwell_Thomas.jpg",
+          "filenameEleventy": "l-eclair-265.jpg"
+        }
+      }
     },
     {
       "id": "264",

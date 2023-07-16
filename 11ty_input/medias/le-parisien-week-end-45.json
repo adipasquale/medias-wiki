@@ -10,9 +10,13 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "231323",
-  "wikidataId": "",
+  "wikidataId": "Q16654102",
   "graphPosition": "leaf",
   "slug": "le-parisien-week-end-45",
+  "wikidata": {
+    "id": "Q16654102",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Parisien_Week-end"
+  },
   "incomingRelations": [
     {
       "id": "42",
@@ -100,9 +104,13 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "231323",
-      "wikidataId": "",
+      "wikidataId": "Q16654102",
       "graphPosition": "leaf",
-      "slug": "le-parisien-week-end-45"
+      "slug": "le-parisien-week-end-45",
+      "wikidata": {
+        "id": "Q16654102",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Le_Parisien_Week-end"
+      }
     },
     {
       "id": "42",

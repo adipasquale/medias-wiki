@@ -10,9 +10,13 @@
   "mediaEchelle": "Régional",
   "commentaire": "",
   "ACPMdiffusion": "",
-  "wikidataId": "",
+  "wikidataId": "Q3320078",
   "graphPosition": "leaf",
   "slug": "monaco-matin-333",
+  "wikidata": {
+    "id": "Q3320078",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Monaco-Matin"
+  },
   "incomingRelations": [
     {
       "id": "328",
@@ -76,9 +80,13 @@
       "mediaEchelle": "Régional",
       "commentaire": "",
       "ACPMdiffusion": "",
-      "wikidataId": "",
+      "wikidataId": "Q3320078",
       "graphPosition": "leaf",
-      "slug": "monaco-matin-333"
+      "slug": "monaco-matin-333",
+      "wikidata": {
+        "id": "Q3320078",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Monaco-Matin"
+      }
     }
   ]
 }
