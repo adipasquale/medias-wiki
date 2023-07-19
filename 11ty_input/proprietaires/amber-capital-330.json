@@ -10,9 +10,13 @@
   "mediaEchelle": "",
   "commentaire": "",
   "ACPMdiffusion": "",
-  "wikidataId": "",
+  "wikidataId": "Q89345695",
   "graphPosition": "root",
   "slug": "amber-capital-330",
+  "wikidata": {
+    "id": "Q89345695",
+    "wikipediaUrl": "https://fr.wikipedia.org/wiki/Amber_Capital"
+  },
   "incomingRelations": [],
   "outgoingRelations": [
     {
@@ -209,9 +213,13 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
-      "wikidataId": "",
+      "wikidataId": "Q89345695",
       "graphPosition": "root",
-      "slug": "amber-capital-330"
+      "slug": "amber-capital-330",
+      "wikidata": {
+        "id": "Q89345695",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Amber_Capital"
+      }
     },
     {
       "id": "69",
