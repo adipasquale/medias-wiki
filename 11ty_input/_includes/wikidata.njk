@@ -1,7 +1,6 @@
-<section>
-  <h3>Liens externes</h3>
-
-  {% if wikidata %}
+{% if wikidata %}
+  <div style="margin-top: 3rem;">
+    <b>Liens externes</b>
     <ul>
       {% if wikidata.wikipediaUrl %}
         <li>
@@ -17,5 +16,5 @@
         </a>
       </li>
     </ul>
-  {% endif %}
-</section>
+  </div>
+{% endif %}

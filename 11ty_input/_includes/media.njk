@@ -1,8 +1,6 @@
 ---
 layout: default_layout
-breadcrumbs:
-  - name: Liste des médias
-    url: /#medias
+breadcrumbs: true
 ---
 
 <div class="title-with-image">
@@ -39,11 +37,7 @@ breadcrumbs:
   {{ content | safe }}
 </div>
 
-<h3>Qui possède {{ nom }} ?</h3>
-
-{% include "data_warning.njk" %}
-
-<ul>
+<ul style="margin-top: 3rem;">
   {% for relation in incomingRelations  %}
     <li>
       {{ nom }}
@@ -61,6 +55,8 @@ breadcrumbs:
     </li>
   {% endfor %}
 </ul>
+
+{% include "data_warning.njk" %}
 
 {% include "relations_graph.njk" %}
 

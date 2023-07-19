@@ -1,5 +1,8 @@
 ---
 layout: default_layout
+mainClass: readable
+nom: À propos
+breadcrumbs: true
 ---
 
 Les données utilisées par ce site sont publiées par [Le Monde Diplomatique](https://www.monde-diplomatique.fr/cartes/PPA). Je vous encourage à soutenir leur travail de qualité en [vous abonnant](https://boutique.monde-diplomatique.fr/) !

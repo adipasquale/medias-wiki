@@ -1,3 +1,4 @@
 {
-  "layout": "proprietaire"
+  "layout": "proprietaire",
+  "bodyClass": "large"
 }
