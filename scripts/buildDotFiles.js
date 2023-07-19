@@ -27,21 +27,21 @@ buildDotAndSvgFiles({
   svgPath: "11ty_input/img/graphs/allRelationsGraph.svg",
 })
 
-allEntities.forEach(entity => {
-  const { allRelationsEntities, allRelations, slug } = entity
+// allEntities.forEach(entity => {
+//   const { allRelationsEntities, allRelations, slug } = entity
 
-  const dotPath = `11ty_input/assets/${slug}-relations-graph.dot`
-  const svgPath = `11ty_input/img/graphs/${slug}-relations-graph.svg`
+//   const dotPath = `11ty_input/assets/${slug}-relations-graph.dot`
+//   const svgPath = `11ty_input/img/graphs/${slug}-relations-graph.svg`
 
-  if (!getEntityDirectory(entity)) {
-    if (fs.existsSync(dotPath)) fs.unlinkSync(dotPath)
-    if (fs.existsSync(svgPath)) fs.unlinkSync(svgPath)
-    return
-  }
+//   if (!getEntityDirectory(entity)) {
+//     if (fs.existsSync(dotPath)) fs.unlinkSync(dotPath)
+//     if (fs.existsSync(svgPath)) fs.unlinkSync(svgPath)
+//     return
+//   }
 
-  buildDotAndSvgFiles({
-    entities: allRelationsEntities,
-    relations: allRelations,
-    dotPath, svgPath
-  })
-})
+//   buildDotAndSvgFiles({
+//     entities: allRelationsEntities,
+//     relations: allRelations,
+//     dotPath, svgPath
+//   })
+// })
