@@ -21,11 +21,11 @@
     {
       "id": "67",
       "origine": "Arnaud Lagardère",
-      "valeur": 7,
+      "valeur": 11,
       "cible": "Lagardère SA",
-      "source": "",
-      "datePublication": "",
-      "dateConsultation": "",
+      "source": "lagardere.com",
+      "datePublication": "31/12/2022",
+      "dateConsultation": "19/07/2023",
       "cibleId": "69",
       "cibleSlug": "lagardere-sa-69",
       "typeRelation": "possède",
@@ -37,11 +37,11 @@
     {
       "id": "68",
       "origine": "Qatar Investment Authority",
-      "valeur": 12,
+      "valeur": 11,
       "cible": "Lagardère SA",
-      "source": "",
-      "datePublication": "",
-      "dateConsultation": "",
+      "source": "lagardere.com",
+      "datePublication": "31/12/2022",
+      "dateConsultation": "19/07/2023",
       "cibleId": "69",
       "cibleSlug": "lagardere-sa-69",
       "typeRelation": "possède",
@@ -53,7 +53,7 @@
     {
       "id": "77",
       "origine": "Vincent Bolloré",
-      "valeur": 2.286144,
+      "valeur": 4.826304,
       "cible": "Financière de l’Odet",
       "source": "",
       "datePublication": "",
@@ -67,20 +67,20 @@
       "idsPair": "77-78"
     },
     {
-      "id": "330",
-      "origine": "Amber Capital",
-      "valeur": 20,
-      "cible": "Lagardère SA",
-      "source": "",
+      "id": "42",
+      "origine": "Bernard Arnault",
+      "valeur": 7,
+      "cible": "Agache SCA",
+      "source": "wikipedia.org",
       "datePublication": "",
-      "dateConsultation": "",
-      "cibleId": "69",
-      "cibleSlug": "lagardere-sa-69",
-      "typeRelation": "possède",
+      "dateConsultation": "19/07/2023",
+      "cibleId": "348",
+      "cibleSlug": "agache-sca-348",
+      "typeRelation": "contrôle",
       "valeurMinimum": false,
-      "origineSlug": "amber-capital-330",
+      "origineSlug": "bernard-arnault-42",
       "indirecte": true,
-      "idsPair": "330-69"
+      "idsPair": "42-348"
     }
   ],
   "outgoingRelations": [],
@@ -116,11 +116,11 @@
     {
       "id": "67",
       "origine": "Arnaud Lagardère",
-      "valeur": 7,
+      "valeur": 11,
       "cible": "Lagardère SA",
-      "source": "",
-      "datePublication": "",
-      "dateConsultation": "",
+      "source": "lagardere.com",
+      "datePublication": "31/12/2022",
+      "dateConsultation": "19/07/2023",
       "cibleId": "69",
       "cibleSlug": "lagardere-sa-69",
       "typeRelation": "possède",
@@ -130,11 +130,11 @@
     {
       "id": "68",
       "origine": "Qatar Investment Authority",
-      "valeur": 12,
+      "valeur": 11,
       "cible": "Lagardère SA",
-      "source": "",
-      "datePublication": "",
-      "dateConsultation": "",
+      "source": "lagardere.com",
+      "datePublication": "31/12/2022",
+      "dateConsultation": "19/07/2023",
       "cibleId": "69",
       "cibleSlug": "lagardere-sa-69",
       "typeRelation": "possède",
@@ -144,11 +144,11 @@
     {
       "id": "81",
       "origine": "Vivendi",
-      "valeur": 27,
+      "valeur": 57,
       "cible": "Lagardère SA",
-      "source": "",
-      "datePublication": "",
-      "dateConsultation": "",
+      "source": "lagardere.com",
+      "datePublication": "31/12/2022",
+      "dateConsultation": "19/07/2023",
       "cibleId": "69",
       "cibleSlug": "lagardere-sa-69",
       "typeRelation": "possède",
@@ -198,18 +198,32 @@
       "origineSlug": "vincent-bollore-77"
     },
     {
-      "id": "330",
-      "origine": "Amber Capital",
-      "valeur": 20,
+      "id": "348",
+      "origine": "Agache SCA",
+      "valeur": 7,
       "cible": "Lagardère SA",
-      "source": "",
-      "datePublication": "",
-      "dateConsultation": "",
+      "source": "lagardere.com",
+      "datePublication": "31/12/2022",
+      "dateConsultation": "19/07/2023",
       "cibleId": "69",
       "cibleSlug": "lagardere-sa-69",
       "typeRelation": "possède",
       "valeurMinimum": false,
-      "origineSlug": "amber-capital-330"
+      "origineSlug": "agache-sca-348"
+    },
+    {
+      "id": "42",
+      "origine": "Bernard Arnault",
+      "valeur": 100,
+      "cible": "Agache SCA",
+      "source": "wikipedia.org",
+      "datePublication": "",
+      "dateConsultation": "19/07/2023",
+      "cibleId": "348",
+      "cibleSlug": "agache-sca-348",
+      "typeRelation": "contrôle",
+      "valeurMinimum": false,
+      "origineSlug": "bernard-arnault-42"
     }
   ],
   "allRelationsEntities": [
@@ -424,8 +438,8 @@
       }
     },
     {
-      "id": "330",
-      "nom": "Amber Capital",
+      "id": "348",
+      "nom": "Agache SCA",
       "typeLibelle": "Personne morale",
       "typeCode": "2",
       "rangChallenges": "",
@@ -435,12 +449,37 @@
       "mediaEchelle": "",
       "commentaire": "",
       "ACPMdiffusion": "",
-      "wikidataId": "Q89345695",
-      "graphPosition": "root",
-      "slug": "amber-capital-330",
+      "wikidataId": "Q3117322",
+      "graphPosition": "intermediate",
+      "slug": "agache-sca-348",
       "wikidata": {
-        "id": "Q89345695",
-        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Amber_Capital"
+        "id": "Q3117322",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Agache_SCA"
+      }
+    },
+    {
+      "id": "42",
+      "nom": "Bernard Arnault",
+      "typeLibelle": "Personne physique",
+      "typeCode": "1",
+      "rangChallenges": "1",
+      "milliardaireForbes": "3",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "wikidataId": "Q32055",
+      "graphPosition": "root",
+      "slug": "bernard-arnault-42",
+      "wikidata": {
+        "id": "Q32055",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Bernard_Arnault",
+        "image": {
+          "typeImage": "image",
+          "filenameOriginal": "Bernard_Arnault_(3)_-_2017_(cropped).jpg",
+          "filenameEleventy": "bernard-arnault-42.jpg"
+        }
       }
     }
   ]

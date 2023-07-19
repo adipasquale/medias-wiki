@@ -13,6 +13,8 @@ digraph {
   
     "lvmh-43"[label="LVMH" shape=house]
   
+    "agache-sca-348"[label="Agache SCA" shape=house]
+  
 
   subgraph clusterLeaves {
     
@@ -33,8 +35,12 @@ digraph {
       label="possède 40%"
     ]
   
-    "bernard-arnault-42" -> "lvmh-43" [
-      label="possède 46%"
+    "agache-sca-348" -> "lvmh-43" [
+      label="possède 48%"
+    ]
+  
+    "bernard-arnault-42" -> "agache-sca-348" [
+      label="contrôle 100%"
     ]
   
 }

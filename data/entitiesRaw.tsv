@@ -319,7 +319,6 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 327	RMC Story	Média	3			Télévision			Gratuit		Q3346328
 328	Nice-Matin	Personne morale	2								
 329	Fonds de Dotation pour une Presse Indépendante	Personne morale	2								
-330	Amber Capital	Personne morale	2								Q89345695
 332	Var-Matin	Média	3			GPE	Quotidien	Régional		42070	Q3554661
 333	Monaco-Matin	Média	3			GPE	Quotidien	Régional			Q3320078
 334	NJJ	Personne morale	2								
@@ -336,3 +335,4 @@ id	nom	typeLibelle	typeCode	rangChallenges	milliardaireForbes	mediaType	mediaPer
 345	France Catholique	Média	3			GPE		National	Payant		Q3080786
 346	Franc-Tireur	Média	3			GPE		National	Payant		Q111759466
 347	Néon	Média	3			GPE		National	Payant		
+348	Agache SCA	Personne morale	2								Q3117322

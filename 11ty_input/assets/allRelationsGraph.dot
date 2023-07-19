@@ -6,8 +6,6 @@ digraph {
     
       "alain-weill-324"[label="🧑‍💼Alain Weill" shape=box]
     
-      "amber-capital-330"[label="Amber Capital" shape=box]
-    
       "aol-27"[label="AOL" shape=box]
     
       "ariane-de-rothschild-307"[label="🧑‍💼Ariane de Rothschild" shape=box]
@@ -104,6 +102,8 @@ digraph {
     
   }
 
+  
+    "agache-sca-348"[label="Agache SCA" shape=house]
   
     "altice-57"[label="Altice" shape=house]
   
@@ -837,8 +837,12 @@ digraph {
       label="possède 100%"
     ]
   
-    "bernard-arnault-42" -> "lvmh-43" [
-      label="possède 46%"
+    "bernard-arnault-42" -> "agache-sca-348" [
+      label="contrôle 100%"
+    ]
+  
+    "agache-sca-348" -> "lvmh-43" [
+      label="possède 48%"
     ]
   
     "lvmh-43" -> "groupe-perdriel-3" [
@@ -954,11 +958,11 @@ digraph {
     ]
   
     "arnaud-lagardere-67" -> "lagardere-sa-69" [
-      label="possède 7%"
+      label="possède 11%"
     ]
   
     "qatar-investment-authority-68" -> "lagardere-sa-69" [
-      label="possède 12%"
+      label="possède 11%"
     ]
   
     "lagardere-sa-69" -> "lagardere-news-70" [
@@ -966,7 +970,11 @@ digraph {
     ]
   
     "vivendi-81" -> "lagardere-sa-69" [
-      label="possède 27%"
+      label="possède 57%"
+    ]
+  
+    "agache-sca-348" -> "lagardere-sa-69" [
+      label="possède 7%"
     ]
   
     "lagardere-news-70" -> "europe-1-74" [
@@ -1903,10 +1911,6 @@ digraph {
   
     "nice-matin-328" -> "monaco-matin-333" [
       label="possède 100%"
-    ]
-  
-    "amber-capital-330" -> "lagardere-sa-69" [
-      label="possède 20%"
     ]
   
     "vivendi-81" -> "prisma-media-106" [

@@ -28,7 +28,7 @@ digraph {
 
   
     "arnaud-lagardere-67" -> "lagardere-sa-69" [
-      label="possède 7%"
+      label="possède 11%"
     ]
   
     "lagardere-sa-69" -> "lagardere-news-70" [

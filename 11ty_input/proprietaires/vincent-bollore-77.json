@@ -27,7 +27,7 @@
     {
       "id": "70",
       "origine": "Lagardère News",
-      "valeur": 2.2861439999999997,
+      "valeur": 4.826304,
       "cible": "Europe 1",
       "source": "lagardere.com",
       "datePublication": "31/12/2015",
@@ -43,7 +43,7 @@
     {
       "id": "70",
       "origine": "Lagardère News",
-      "valeur": 2.2861439999999997,
+      "valeur": 4.826304,
       "cible": "Le Journal du dimanche",
       "source": "lagardere.com",
       "datePublication": "31/12/2015",
@@ -59,7 +59,7 @@
     {
       "id": "70",
       "origine": "Lagardère News",
-      "valeur": 2.2861439999999997,
+      "valeur": 4.826304,
       "cible": "Paris Match",
       "source": "lagardere.com",
       "datePublication": "31/12/2015",
@@ -75,7 +75,7 @@
     {
       "id": "70",
       "origine": "Lagardère News",
-      "valeur": 2.2861439999999997,
+      "valeur": 4.826304,
       "cible": "RFM",
       "source": "lagardere.com",
       "datePublication": "31/12/2015",
@@ -91,7 +91,7 @@
     {
       "id": "70",
       "origine": "Lagardère News",
-      "valeur": 2.2861439999999997,
+      "valeur": 4.826304,
       "cible": "Virgin Radio",
       "source": "lagardere.com",
       "datePublication": "31/12/2015",
@@ -391,11 +391,11 @@
     {
       "id": "81",
       "origine": "Vivendi",
-      "valeur": 27,
+      "valeur": 57,
       "cible": "Lagardère SA",
-      "source": "",
-      "datePublication": "",
-      "dateConsultation": "",
+      "source": "lagardere.com",
+      "datePublication": "31/12/2022",
+      "dateConsultation": "19/07/2023",
       "cibleId": "69",
       "cibleSlug": "lagardere-sa-69",
       "typeRelation": "possède",

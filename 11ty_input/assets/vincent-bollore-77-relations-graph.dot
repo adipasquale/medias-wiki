@@ -78,7 +78,7 @@ digraph {
     ]
   
     "vivendi-81" -> "lagardere-sa-69" [
-      label="possède 27%"
+      label="possède 57%"
     ]
   
     "lagardere-sa-69" -> "lagardere-news-70" [

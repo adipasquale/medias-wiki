@@ -42,18 +42,18 @@
     {
       "id": "42",
       "origine": "Bernard Arnault",
-      "valeur": 18.4,
-      "cible": "LVMH",
-      "source": "",
+      "valeur": 19.2,
+      "cible": "Agache SCA",
+      "source": "wikipedia.org",
       "datePublication": "",
-      "dateConsultation": "",
-      "cibleId": "43",
-      "cibleSlug": "lvmh-43",
-      "typeRelation": "possède",
+      "dateConsultation": "19/07/2023",
+      "cibleId": "348",
+      "cibleSlug": "agache-sca-348",
+      "typeRelation": "contrôle",
       "valeurMinimum": false,
       "origineSlug": "bernard-arnault-42",
       "indirecte": true,
-      "idsPair": "42-43"
+      "idsPair": "42-348"
     }
   ],
   "outgoingRelations": [],
@@ -101,16 +101,30 @@
       "origineSlug": "lvmh-43"
     },
     {
-      "id": "42",
-      "origine": "Bernard Arnault",
-      "valeur": 46,
+      "id": "348",
+      "origine": "Agache SCA",
+      "valeur": 48,
       "cible": "LVMH",
-      "source": "",
+      "source": "wikipedia.org",
       "datePublication": "",
-      "dateConsultation": "",
+      "dateConsultation": "19/07/2023",
       "cibleId": "43",
       "cibleSlug": "lvmh-43",
       "typeRelation": "possède",
+      "valeurMinimum": false,
+      "origineSlug": "agache-sca-348"
+    },
+    {
+      "id": "42",
+      "origine": "Bernard Arnault",
+      "valeur": 100,
+      "cible": "Agache SCA",
+      "source": "wikipedia.org",
+      "datePublication": "",
+      "dateConsultation": "19/07/2023",
+      "cibleId": "348",
+      "cibleSlug": "agache-sca-348",
+      "typeRelation": "contrôle",
       "valeurMinimum": false,
       "origineSlug": "bernard-arnault-42"
     }
@@ -204,6 +218,26 @@
           "filenameOriginal": "LVMH-black.png",
           "filenameEleventy": "lvmh-43.png"
         }
+      }
+    },
+    {
+      "id": "348",
+      "nom": "Agache SCA",
+      "typeLibelle": "Personne morale",
+      "typeCode": "2",
+      "rangChallenges": "",
+      "milliardaireForbes": "",
+      "mediaType": "",
+      "mediaPeriodicite": "",
+      "mediaEchelle": "",
+      "commentaire": "",
+      "ACPMdiffusion": "",
+      "wikidataId": "Q3117322",
+      "graphPosition": "intermediate",
+      "slug": "agache-sca-348",
+      "wikidata": {
+        "id": "Q3117322",
+        "wikipediaUrl": "https://fr.wikipedia.org/wiki/Agache_SCA"
       }
     },
     {

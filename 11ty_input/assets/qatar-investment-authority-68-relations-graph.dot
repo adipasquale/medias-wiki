@@ -28,7 +28,7 @@ digraph {
 
   
     "qatar-investment-authority-68" -> "lagardere-sa-69" [
-      label="possède 12%"
+      label="possède 11%"
     ]
   
     "lagardere-sa-69" -> "lagardere-news-70" [
